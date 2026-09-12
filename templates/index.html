@@ -1,0 +1,25 @@
+<head>
+  <title>PSP Homebrew Database</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav>
+    <a id="title" href="">PSP <span>Homebrew</span> Database</a>
+  </nav>
+  <div id="top">
+    Here come the navigation things
+  </div>
+  <div id="filter">
+
+  </div>
+  <div id="tiles">
+    {% for homebrew in homebrew_list %}
+    <div class="application">
+      <div class="inner">
+        <h3><a href="{{ homebrew.slug }}.html">{{ homebrew.name }}</a></h3>
+        {{ homebrew.summary }}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</body>

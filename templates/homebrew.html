@@ -1,0 +1,23 @@
+<head>
+  <title>PSP Homebrew Database - {{ homebrew.name }}</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav>
+    <a id="title" href="index.html">PSP <span>Homebrew</span> Database</a>
+  </nav>
+  <div id="top">
+    Here come the navigation things
+  </div>
+  <div id="filter">
+
+  </div>
+  <div id="content">
+      <h1>{{ homebrew.name }}</h1>
+      <p>{{ homebrew.summary }}</p>
+      <p>Download <a href="{{ homebrew.releases[0].download_link}}">here</a></p>
+      {% for screenshot in homebrew.screenshots %}
+        <img src="{{ screenshot }}" alt="screenshot" width="480" height="272">
+      {% endfor %}
+  </div>
+</body>

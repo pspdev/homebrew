@@ -7,6 +7,11 @@ import os
 import json
 import logging
 import shutil
+import hashlib
+import urllib.request
+import urllib.parse
+import zipfile
+import tarfile
 
 import jinja2
 
@@ -15,6 +20,7 @@ DATA_DIR = "data"
 DIST_DIR = "dist"
 RESOURCE_DIR = "resources"
 TEMPLATE_DIR = "templates"
+TEMP_DIR = "temp"
 
 
 class HomebrewProcessingException(Exception):
@@ -60,6 +66,7 @@ class Homebrew:
     license_link: str | None = None
     releases: list[Release] = field(default_factory=list)
     tags: list[str] = field(default_factory=list)
+    icon: str = None
 
     def __gt__(self, other: 'Homebrew') -> bool:
         self_last_release = self.get_last_release()
@@ -217,12 +224,91 @@ def copy_resources() -> None:
         shutil.copy2(os.path.join(RESOURCE_DIR, file_name), DIST_DIR)
 
 
+def get_sha256_hash(file_path: str) -> str:
+    with open(file_path, "rb") as f:
+        digest = hashlib.file_digest(f, "sha256")
+        return digest.hexdigest()
+
+
+def get_eboot_data_from_zip_archive(file_path: str):
+    with zipfile.ZipFile(file_path) as fd:
+        eboot_path_in_zip = None
+        for file_name in fd.namelist():
+            if file_name.lower().endswith("eboot.pbp"):
+                eboot_path_in_zip = file_name
+                break;
+        if eboot_path_in_zip is None:
+            raise HomebrewProcessingException(f"No EBOOT.PBP found in file {file_path}")
+        return fd.read(eboot_path_in_zip)
+
+
+def get_eboot_data_from_tar_archive(file_path: str):
+    with tarfile.TarFile(file_path) as fd:
+        eboot_path_in_tar = None
+        for file_name in fd.namelist():
+            if file_name.lower().endswith("eboot.pbp"):
+                eboot_path_in_tar = file_name
+                break;
+        if eboot_path_in_tar is None:
+            raise HomebrewProcessingException(f"No EBOOT.PBP found in file {file_path}")
+        return fd.read(eboot_path_in_tar)
+
+
+def extract_icon(file_path: str, target_path: str) -> str:
+    file_extension = os.path.splitext(file_path)[-1].lower()
+    if file_extension not in [".zip", ".tar", ".tar.gz", ".tar.xz"]:
+        raise HomebrewProcessingException(f"File format {file_extension} is not supported")
+    if file_extension == ".zip":
+        eboot_data = get_eboot_data_from_zip_archive(file_path=file_path)
+    else:
+        eboot_data = get_eboot_data_from_tar_archive(file_path=file_path)
+    if not eboot_data:
+        raise HomebrewProcessingException(f"Data in EBOOT.PBP in {file_path} could not be read")
+    if eboot_data[0:4] != b'\x00PBP':
+        raise HomebrewProcessingException(f"No valid EBOOT.PBP found in {file_path}, header doesn't match")
+    icon0_offset = int.from_bytes(eboot_data[12:16], byteorder='little')
+    if icon0_offset == 0:
+        raise HomebrewProcessingException(f"{file_path} has no icon0.png")
+    icon1_offset = int.from_bytes(eboot_data[16:20], byteorder='little')
+    if icon0_offset == icon1_offset:
+        raise HomebrewProcessingException(f"{file_path} has no icon0.png")
+    with open(target_path, "wb") as fd:
+        fd.write(eboot_data[icon0_offset:icon1_offset])
+
+
+def download_icons(homebrew_list: list[Homebrew]) -> None:
+    if not os.path.isdir(TEMP_DIR):
+        os.mkdir(TEMP_DIR)
+    for homebrew in homebrew_list:
+        release = homebrew.releases[0]
+        url = release.download_link
+        parsed_url = urllib.parse.urlparse(url)
+        file_path = os.path.join(TEMP_DIR, os.path.basename(parsed_url.path))
+        if os.path.exists(file_path) and release.checksum == get_sha256_hash(file_path=file_path):
+            logging.info("Skipping downloading %s, file already exists and matches the checksum", homebrew.name)
+        else:
+            logging.info("Downloading latest %s release archive %s", homebrew.name, file_path)
+            urllib.request.urlretrieve(url=url, filename=file_path)
+            file_checksum = get_sha256_hash(file_path=file_path)
+            if release.checksum != file_checksum:
+                raise HomebrewProcessingException(f"Checksum for {homebrew.name} doesn't match ({release.checksum} != {file_checksum})")
+        extract_icon(file_path=file_path, target_path=os.path.join(DIST_DIR, f"{homebrew.slug}.png"))
+        homebrew.icon = f"{homebrew.slug}.png"
+
+def configure_logger():
+    logger = logging.getLogger()
+    logger.setLevel(logging.INFO)
+
+
 def main() -> None:
+    configure_logger()
+
     create_dist_dir()
 
     homebrew_list = get_homebrew_list()
-    create_homebrew_list_json_file(homebrew_list=homebrew_list)
     create_index_page(homebrew_list=homebrew_list)
+    download_icons(homebrew_list=homebrew_list)
+    create_homebrew_list_json_file(homebrew_list=homebrew_list)
     copy_resources()
 
 if __name__ == "__main__":

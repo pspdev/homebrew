@@ -41,7 +41,7 @@ New entries go in the `data` directory using the following json format:
   "category": "game",
   "releases": [
     {
-      "version": "v1.0",
+      "tag": "v1.0",
       "download_link": "https://example.com/",
       "published_at": "2026-07-23",
       "changelog": "Added something new"
@@ -78,16 +78,16 @@ Here a description of each field:
 | license | The name of the license the homebrew was released under | No |
 | license_link | A link to the license the homebrew was released under | No |
 | website | The website for the homebrew | No |
-| releases | Contains download information per version. See the table below | Yes |
+| releases | Contains download information per tag. See the table below | Yes |
 
 Here is a description for each field in a release:
 
 | Field | Description | Required |
 |------|-------------|----------|
 | name | Name of the homebrew | Yes |
-| version | Name of the release version, for example `1.0` | Yes |
+| tag | Name of the release tag, for example `1.0` | Yes |
 | download_link | Link to the `.zip` archive or `EBOOT.PBP` file | Yes |
-| published_at | Release data of this version | Yes |
+| published_at | Release data of this tag | Yes |
 | changelog | What was change with the new release. This can be longer and contain newline characters | No |
 
 After creating the file, run the `add-resources-and-info.py` script once. This will add the icon and information like the md5 checksum of the `EBOOT.PBP` and the sha256 checksum of the archive for each release. Make sure to add the new and changed files to git as well when making a pull request (PR). PRs for homebrew for which the `add-resources-and-info.py` was not executed will not be accepted.

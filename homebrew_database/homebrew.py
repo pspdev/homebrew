@@ -12,21 +12,23 @@ class HomebrewProcessingException(Exception):
 
 @dataclass
 class Release:
-    version: str
+    tag: str
     download_link: str
     published_at: datetime.date
     sha256: str | None = None
     eboot_md5: str | None = None
     changelog: str | None = None
+    size: int | None = None
 
     def __gt__(self, other: 'Release') -> bool:
         return self.published_at > other.published_at
 
     def to_dict(self) -> dict:
         return_dict = {
-            "version": self.version,
+            "tag": self.tag,
             "download_link": self.download_link,
             "published_at": self.published_at.isoformat(),
+            "size": self.size,
         }
         if self.sha256 is not None:
             return_dict["sha256"] = self.sha256
@@ -34,6 +36,8 @@ class Release:
             return_dict["eboot_md5"] = self.eboot_md5
         if self.changelog is not None:
             return_dict["changelog"] = self.changelog
+        if self.size is not None:
+            return_dict["size"] = self.size
         return return_dict
 
 
@@ -116,12 +120,13 @@ def get_homebrew_from_json_data(id: str, data: dict) -> Homebrew:
         for release_data in data["releases"]:
             releases.append(
                 Release(
-                    version=release_data["version"],
+                    tag=release_data["tag"],
                     download_link=release_data["download_link"],
                     changelog=release_data.get("changelog", None),
                     published_at=datetime.date.fromisoformat(release_data["published_at"]),
                     sha256=release_data.get("sha256", None),
                     eboot_md5=release_data.get("eboot_md5", None),
+                    size=release_data.get("size", None),
                 )
             )
 

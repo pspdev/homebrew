@@ -80,20 +80,22 @@ def main():
         homebrew_json_path = os.path.join(DATA_DIR, f"{homebrew.id}.json")
         icon_path = os.path.join(ICON_DIR, f"{homebrew.id}.png")            
         for i, release in enumerate(homebrew.releases):
-          if release.sha256 is not None and release.eboot_md5 is not None and homebrew.icon is not None and os.path.exists(icon_path):
-              logging.info(f"No actions required for {homebrew.name} {release.version}")
+          if release.sha256 is not None and release.eboot_md5 is not None and release.size is not None and homebrew.icon is not None and os.path.exists(icon_path):
+              logging.info(f"No actions required for {homebrew.name} {release.tag}")
               continue
           with tempfile.TemporaryDirectory() as target_dir:
-              logging.info(f"Downloading {homebrew.name} {release.version} archive")
+              logging.info(f"Downloading {homebrew.name} {release.tag} archive")
               archive_path = download_archive(url=release.download_link, target_dir=target_dir)
-              logging.info(f"Adding sha256 to {homebrew.name} {release.version} archive")
+              logging.info(f"Adding sha256 to {homebrew.name} {release.tag}")
               release.sha256 = get_sha256_hash(file_path=archive_path)
+              logging.info(f"Adding size to {homebrew.name} {release.tag}")
+              release.size = os.path.getsize(archive_path)
               eboot_data = get_eboot_data(archive_path)
           if i == 0 and (not os.path.exists(icon_path) or homebrew.icon is None):
-              logging.info(f"Extracting icon for {homebrew.name} {release.version}")
+              logging.info(f"Extracting icon for {homebrew.name} {release.tag}")
               extract_icon(eboot_data=eboot_data, target_path=icon_path)
               homebrew.icon = os.path.join("icons", os.path.basename(icon_path))
-          logging.info(f"Adding md5 for eboot of {homebrew.name} {release.version}")
+          logging.info(f"Adding md5 for eboot of {homebrew.name} {release.tag}")
           release.eboot_md5 = hashlib.md5(data=eboot_data, usedforsecurity=False).hexdigest()
 
         logging.info(f"Writing {homebrew_json_path}")

@@ -47,7 +47,7 @@
     <table>
         <tr><th>Release</th><th>Changelog</th></tr>
         {% for release in homebrew.releases %}
-        <tr><td><a href="{{ release.download_link }}">{{ release.version }}</a></td><td>{% if release.changelog %}{{ release.changelog.split('\n')|join('<br/>'|safe) }}{% endif %}</td></tr>
+        <tr><td><a href="{{ release.download_link }}">{{ release.tag }}</a></td><td>{% if release.changelog %}{{ release.changelog.split('\n')|join('<br/>'|safe) }}{% endif %}</td></tr>
         {% endfor %}
     </table>
   </div>

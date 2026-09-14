@@ -77,8 +77,8 @@ def main():
 
     homebrew_list = get_homebrew_list(data_dir=DATA_DIR)
     for homebrew in homebrew_list:
-        homebrew_json_path = os.path.join(DATA_DIR, f"{homebrew.slug}.json")
-        icon_path = os.path.join(ICON_DIR, f"{homebrew.slug}.png")            
+        homebrew_json_path = os.path.join(DATA_DIR, f"{homebrew.id}.json")
+        icon_path = os.path.join(ICON_DIR, f"{homebrew.id}.png")            
         for i, release in enumerate(homebrew.releases):
           if release.sha256 is not None and release.eboot_md5 is not None and homebrew.icon is not None and os.path.exists(icon_path):
               logging.info(f"No actions required for {homebrew.name} {release.version}")

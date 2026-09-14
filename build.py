@@ -53,7 +53,7 @@ def create_index_page(homebrew_list: list[Homebrew]) -> None:
 
     homebrew_template = env.get_template("homebrew.html")
     for homebrew in homebrew_list:
-        with open(os.path.join(DIST_DIR, f"{homebrew.slug}.html"), "w") as fd:
+        with open(os.path.join(DIST_DIR, f"{homebrew.id}.html"), "w") as fd:
             fd.write(
                 homebrew_template.render(
                     homebrew=homebrew

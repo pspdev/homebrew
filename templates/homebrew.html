@@ -31,8 +31,8 @@
       {% if homebrew.website %}
       <tr><td>Website</td><td><a href="{{ homebrew.website }}">{{ homebrew.website }}</a></td></tr>
       {% endif %}
-      {% if homebrew.source_link %}
-      <tr><td>Source</td><td><a href="{{ homebrew.source_link }}">{{ homebrew.source_link }}</a></td></tr>
+      {% if homebrew.source %}
+      <tr><td>Source</td><td><a href="{{ homebrew.source }}">{{ homebrew.source }}</a></td></tr>
       {% endif %}
       {% if homebrew.license %}
       <tr><td>License</td><td>{% if homebrew.license_link %}<a href="{{ homebrew.license_link }}">{% endif %}{{ homebrew.license }}{% if homebrew.license_link %}</a>{% endif %}</td></tr>

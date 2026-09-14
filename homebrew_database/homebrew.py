@@ -14,19 +14,19 @@ class HomebrewProcessingException(Exception):
 class Release:
     version: str
     download_link: str
-    date: datetime.date
+    published_at: datetime.date
     sha256: str | None = None
     eboot_md5: str | None = None
     changelog: str | None = None
 
     def __gt__(self, other: 'Release') -> bool:
-        return self.date > other.date
+        return self.published_at > other.published_at
 
     def to_dict(self) -> dict:
         return_dict = {
             "version": self.version,
             "download_link": self.download_link,
-            "date": self.date.isoformat(),
+            "published_at": self.published_at.isoformat(),
         }
         if self.sha256 is not None:
             return_dict["sha256"] = self.sha256
@@ -40,7 +40,7 @@ class Release:
 @dataclass
 class Homebrew:
     name: str
-    slug: str
+    id: str
     summary: str
     creator: str
     screenshots: list[str]
@@ -50,7 +50,7 @@ class Homebrew:
     description: str | None = None
     website: str | None = None
     creator_link: str | None = None
-    source_link: str | None = None
+    source: str | None = None
     license: str | None = None
     license_link: str | None = None
     releases: list[Release] = field(default_factory=list)
@@ -74,7 +74,7 @@ class Homebrew:
     def to_dict(self) -> dict:
         return_dict = {
             "name": self.name,
-            "slug": self.slug,
+            "id": self.id,
             "summary": self.summary,
             "creator": self.creator,
             "screenshots": self.screenshots,
@@ -91,8 +91,8 @@ class Homebrew:
             return_dict["website"] = self.website
         if self.creator_link is not None:
             return_dict["creator_link"] = self.creator_link
-        if self.source_link is not None:
-            return_dict["source_link"] = self.source_link
+        if self.source is not None:
+            return_dict["source"] = self.source
         if self.license is not None:
             return_dict["license"] = self.license
         if self.license_link is not None:
@@ -107,9 +107,9 @@ class Homebrew:
         return return_dict
 
 
-def get_homebrew_from_json_data(slug: str, data: dict) -> Homebrew:
+def get_homebrew_from_json_data(id: str, data: dict) -> Homebrew:
     if not data:
-        raise HomebrewProcessingException(f"No data to read found in {slug}")
+        raise HomebrewProcessingException(f"No data to read found in {id}")
 
     try:
         releases = []
@@ -119,7 +119,7 @@ def get_homebrew_from_json_data(slug: str, data: dict) -> Homebrew:
                     version=release_data["version"],
                     download_link=release_data["download_link"],
                     changelog=release_data.get("changelog", None),
-                    date=datetime.date.fromisoformat(release_data["date"]),
+                    published_at=datetime.date.fromisoformat(release_data["published_at"]),
                     sha256=release_data.get("sha256", None),
                     eboot_md5=release_data.get("eboot_md5", None),
                 )
@@ -127,7 +127,7 @@ def get_homebrew_from_json_data(slug: str, data: dict) -> Homebrew:
 
         homebrew = Homebrew(
           name=data["name"],
-          slug=slug,
+          id=id,
           summary=data["summary"],
           creator=data["creator"],
           screenshots=data["screenshots"],
@@ -137,7 +137,7 @@ def get_homebrew_from_json_data(slug: str, data: dict) -> Homebrew:
           description=data.get("description", None),
           website=data.get("website", None),
           creator_link=data.get("creator_link", None),
-          source_link=data.get("source_link", None),
+          source=data.get("source", None),
           license=data.get("license", None),
           license_link=data.get("license_link", None),
           releases=releases,
@@ -145,7 +145,7 @@ def get_homebrew_from_json_data(slug: str, data: dict) -> Homebrew:
           icon=data.get("icon", None)
         )
     except (KeyError, ValueError) as e:
-        raise HomebrewProcessingException(f"Could not process json data for {slug}") from e
+        raise HomebrewProcessingException(f"Could not process json data for {id}") from e
 
     return homebrew
 
@@ -161,8 +161,8 @@ def get_homebrew_list(data_dir: str) -> list[Homebrew]:
         with open(file_name, "r") as fd:
             try:
                 data = json.loads(fd.read())
-                slug = os.path.splitext(os.path.basename(file_name))[0]
-                homebrew = get_homebrew_from_json_data(slug=slug, data=data)
+                id = os.path.splitext(os.path.basename(file_name))[0]
+                homebrew = get_homebrew_from_json_data(id=id, data=data)
                 homebrew_list.append(homebrew)
             except (json.JSONDecodeError, TypeError, HomebrewProcessingException):
                 logging.error("Could no load the content of %s as json", file_name, exc_info=True)

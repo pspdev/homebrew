@@ -43,7 +43,7 @@ New entries go in the `data` directory using the following json format:
     {
       "version": "v1.0",
       "download_link": "https://example.com/",
-      "date": "2026-07-23",
+      "published_at": "2026-07-23",
       "changelog": "Added something new"
     }
   ],
@@ -51,7 +51,7 @@ New entries go in the `data` directory using the following json format:
     ""
   ],
   "creator_link": "https://example.com/",
-  "source_link": "https://example.com/",
+  "source": "https://example.com/",
   "license": "GPLv3",
   "license_link": "https://example.com/",
   "website": "https://example.com"
@@ -74,7 +74,7 @@ Here a description of each field:
 | category | Category the homebrew belongs to. Should be set to `game`, `application` or `emulator` | Yes |
 | tags | Tags that fit the homebrew, should always be lower case. Try to match with other existing tags if possible | Yes |
 | creator_link | Link to the website, GitHub or social media of the creator | No |
-| source_link | A link to the location where the source code of the hombrew can be found | No |
+| source | A link to the location where the source code of the hombrew can be found | No |
 | license | The name of the license the homebrew was released under | No |
 | license_link | A link to the license the homebrew was released under | No |
 | website | The website for the homebrew | No |
@@ -87,7 +87,7 @@ Here is a description for each field in a release:
 | name | Name of the homebrew | Yes |
 | version | Name of the release version, for example `1.0` | Yes |
 | download_link | Link to the `.zip` archive or `EBOOT.PBP` file | Yes |
-| date | Release data of this version | Yes |
+| published_at | Release data of this version | Yes |
 | changelog | What was change with the new release. This can be longer and contain newline characters | No |
 
 After creating the file, run the `add-resources-and-info.py` script once. This will add the icon and information like the md5 checksum of the `EBOOT.PBP` and the sha256 checksum of the archive for each release. Make sure to add the new and changed files to git as well when making a pull request (PR). PRs for homebrew for which the `add-resources-and-info.py` was not executed will not be accepted.

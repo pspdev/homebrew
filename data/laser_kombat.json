@@ -1,6 +1,6 @@
 {
   "name": "Laser Kombat",
-  "slug": "laser_kombat",
+  "id": "laser_kombat",
   "summary": "Shoot all the tanks in a classic puzzle game.",
   "creator": "sharkwouter",
   "screenshots": [
@@ -13,7 +13,7 @@
     {
       "version": "v1.1",
       "download_link": "https://github.com/sharkwouter/laserkombat/releases/download/1.1/laserkombat-psp.zip",
-      "date": "2026-07-23",
+      "published_at": "2026-07-23",
       "sha256": "bdbde0e13094733ce421ba726174b99818077d07e7e80fb31ba173313619b0a6",
       "eboot_md5": "79b7a8d87c7de274e5d3bca3fb8d61d0"
     }
@@ -22,7 +22,7 @@
     "puzzle"
   ],
   "creator_link": "https://wijsman.de/",
-  "source_link": "https://github.com/sharkwouter/laserkombat/",
+  "source": "https://github.com/sharkwouter/laserkombat/",
   "license": "GPLv3",
   "license_link": "https://github.com/sharkwouter/laserkombat/blob/master/COPYING?raw=true",
   "icon": "icons/laser_kombat.png"

@@ -1,25 +1,29 @@
 {
   "name": "PanelPop",
+  "slug": "panelpop",
   "summary": "Panel de Pon / Tetris Attack / Puzzle League clone.",
   "creator": "sharkwouter",
-  "creator_link": "https://wijsman.de/",
-  "source_link": "https://github.com/sharkwouter/panel-pop",
-  "license": "MIT",
-  "license_link": "https://github.com/sharkwouter/panel-pop/blob/master/LICENSE?raw=true",
-  "screenshots":[
+  "screenshots": [
     "https://github.com/sharkwouter/panel-pop/raw/master/screenshot.png?raw=true"
   ],
   "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
   "releases": [
     {
       "version": "0.0.3",
       "download_link": "https://github.com/sharkwouter/panel-pop/releases/download/0.0.3-psp/panel-pop-psp.zip",
-      "checksum": "d38fe54ead684dd6650732d56f24b91fd9af56d75096af5f9ffa4ee7c3173de6",
-      "date": "2021-12-27"
+      "date": "2021-12-27",
+      "sha256": "d38fe54ead684dd6650732d56f24b91fd9af56d75096af5f9ffa4ee7c3173de6",
+      "eboot_md5": "ab534aa2ed29b07c2dda829f7d78a9ae"
     }
   ],
   "tags": [
-    "game",
     "puzzle"
-  ]
+  ],
+  "creator_link": "https://wijsman.de/",
+  "source_link": "https://github.com/sharkwouter/panel-pop",
+  "license": "MIT",
+  "license_link": "https://github.com/sharkwouter/panel-pop/blob/master/LICENSE?raw=true",
+  "icon": "resources/panelpop.png"
 }

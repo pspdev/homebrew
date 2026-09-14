@@ -1,25 +1,29 @@
 {
   "name": "Laser Kombat",
+  "slug": "laser_kombat",
   "summary": "Shoot all the tanks in a classic puzzle game.",
   "creator": "sharkwouter",
-  "creator_link": "https://wijsman.de/",
-  "source_link": "https://github.com/sharkwouter/laserkombat/",
-  "license": "GPLv3",
-  "license_link": "https://github.com/sharkwouter/laserkombat/blob/master/COPYING?raw=true",
-  "screenshots":[
+  "screenshots": [
     "https://github.com/sharkwouter/laserkombat/raw/master/laserkombat.jpg?raw=true"
   ],
   "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
   "releases": [
     {
       "version": "v1.1",
       "download_link": "https://github.com/sharkwouter/laserkombat/releases/download/1.1/laserkombat-psp.zip",
-      "checksum": "bdbde0e13094733ce421ba726174b99818077d07e7e80fb31ba173313619b0a6",
-      "date": "2026-07-23"
+      "date": "2026-07-23",
+      "sha256": "bdbde0e13094733ce421ba726174b99818077d07e7e80fb31ba173313619b0a6",
+      "eboot_md5": "79b7a8d87c7de274e5d3bca3fb8d61d0"
     }
   ],
   "tags": [
-    "game",
     "puzzle"
-  ]
+  ],
+  "creator_link": "https://wijsman.de/",
+  "source_link": "https://github.com/sharkwouter/laserkombat/",
+  "license": "GPLv3",
+  "license_link": "https://github.com/sharkwouter/laserkombat/blob/master/COPYING?raw=true",
+  "icon": "resources/laser_kombat.png"
 }

@@ -11,6 +11,9 @@
     {% if homebrew.requires_additional_files %}
     <p><b>Note:</b> This homebrew requires additional files to work!</p>
     {% endif %}
+    {% if homebrew.ai_used %}
+    <p><b>Note:</b> This homebrew was made using AI</p>
+    {% endif %}
     {% if homebrew.description %}
     <p>{{ homebrew.description.split('\n')|join('<br/>'|safe) }}</p>
     {% else %}
@@ -34,12 +37,13 @@
       {% if homebrew.license %}
       <tr><td>License</td><td>{% if homebrew.license_link %}<a href="{{ homebrew.license_link }}">{% endif %}{{ homebrew.license }}{% if homebrew.license_link %}</a>{% endif %}</td></tr>
       {% endif %}
+      <tr><td>Category</td><td>{{ homebrew.category }}</td></tr>
       <tr>
         <td>Tags</td>
         <td>{% for tag in homebrew.tags %}{{ tag }} {% endfor %}</td>
       </tr>
     </table>
-    <h2><a href={{ homebrew.releases[0].download_link}}>Download</a></h2>
+    <h2><a href="{{ homebrew.releases[0].download_link }}">Download</a></h2>
     <table>
         <tr><th>Release</th><th>Changelog</th></tr>
         {% for release in homebrew.releases %}

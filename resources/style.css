@@ -45,7 +45,7 @@ nav {
 }
 
 .homebrew {
-  width: 545px;
+  width: 350px;
   background-color: #2E4057;
   margin-left: 15px;
   margin-right: 15px;
@@ -67,6 +67,8 @@ nav {
 
 .homebrew .summary {
   text-align: center;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 
 .homebrew .tags {

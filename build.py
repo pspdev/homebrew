@@ -38,7 +38,7 @@ def create_homebrew_list_json_file(homebrew_list: list[Homebrew]) -> None:
         fd.write(json.dumps(homebrew_dicts))
     
 
-def create_index_page(homebrew_list: list[Homebrew]) -> None:
+def create_pages(homebrew_list: list[Homebrew]) -> None:
     env = jinja2.Environment(loader=jinja2.FileSystemLoader(TEMPLATE_DIR))
 
     index_file_name = "index.html"
@@ -81,7 +81,7 @@ def main() -> None:
     create_dist_dir()
 
     homebrew_list = get_homebrew_list(data_dir=DATA_DIR)
-    create_index_page(homebrew_list=homebrew_list)
+    create_pages(homebrew_list=homebrew_list)
     create_homebrew_list_json_file(homebrew_list=homebrew_list)
     copy_resources()
 

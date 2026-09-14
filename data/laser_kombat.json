@@ -25,5 +25,5 @@
   "source_link": "https://github.com/sharkwouter/laserkombat/",
   "license": "GPLv3",
   "license_link": "https://github.com/sharkwouter/laserkombat/blob/master/COPYING?raw=true",
-  "icon": "resources/laser_kombat.png"
+  "icon": "icons/laser_kombat.png"
 }

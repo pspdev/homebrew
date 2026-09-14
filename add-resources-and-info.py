@@ -92,7 +92,7 @@ def main():
           if i == 0 and (not os.path.exists(icon_path) or homebrew.icon is None):
               logging.info(f"Extracting icon for {homebrew.name} {release.version}")
               extract_icon(eboot_data=eboot_data, target_path=icon_path)
-              homebrew.icon = os.path.join(RESOURCE_DIR, os.path.basename(icon_path))
+              homebrew.icon = os.path.join("icons", os.path.basename(icon_path))
           logging.info(f"Adding md5 for eboot of {homebrew.name} {release.version}")
           release.eboot_md5 = hashlib.md5(data=eboot_data, usedforsecurity=False).hexdigest()
 

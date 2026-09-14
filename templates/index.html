@@ -6,20 +6,26 @@
   <nav>
     <a id="title" href="">PSP <span>Homebrew</span> Database</a>
   </nav>
-  <div id="top">
-    Here come the navigation things
-  </div>
-  <div id="filter">
-
-  </div>
-  <div id="tiles">
+  <div id="homebrew_list">
     {% for homebrew in homebrew_list %}
-    <div class="application">
-      <div class="inner">
-        <h3><a href="{{ homebrew.slug }}.html">{{ homebrew.name }}</a></h3>
+    <a href="{{ homebrew.slug }}.html"><div class="homebrew">
+      <div class="name">
+        {{ homebrew.name }}
+      </div>
+      <div class="icon">
+        <img src="{{ homebrew.icon }}" alt="icon"/>
+      </div>
+      <div class="summary">
         {{ homebrew.summary }}
       </div>
-    </div>
+      <div class="tags">
+        {% for tag in homebrew.tags %}
+        <div class="tag">
+          {{ tag }}
+        </div>
+        {% endfor %}
+      </div>
+    </div></a>
     {% endfor %}
   </div>
 </body>

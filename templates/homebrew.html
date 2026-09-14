@@ -6,18 +6,45 @@
   <nav>
     <a id="title" href="index.html">PSP <span>Homebrew</span> Database</a>
   </nav>
-  <div id="top">
-    Here come the navigation things
-  </div>
-  <div id="filter">
-
-  </div>
   <div id="content">
-      <h1>{{ homebrew.name }}</h1>
-      <p>{{ homebrew.summary }}</p>
-      <p>Download <a href="{{ homebrew.releases[0].download_link}}">here</a></p>
+    <p><h1>{{ homebrew.name }}</h1></p>
+    {% if homebrew.requires_additional_files %}
+    <p><b>Note:</b> This homebrew requires additional files to work!</p>
+    {% endif %}
+    {% if homebrew.description %}
+    <p>{{ homebrew.description.split('\n')|join('<br/>'|safe) }}</p>
+    {% else %}
+    <p>{{ homebrew.summary }}</p>
+    {% endif %}
+    <div id="screenshots">
       {% for screenshot in homebrew.screenshots %}
-        <img src="{{ screenshot }}" alt="screenshot" width="480" height="272">
+      <img src="{{ screenshot }}" alt="screenshot" width="480" height="272">
       {% endfor %}
+    </div>
+    <table>
+      {% if homebrew.creator %}
+      <tr><td>Creator</td><td>{% if homebrew.creator_link %}<a href="{{ homebrew.creator_link }}">{% endif %}{{ homebrew.creator }}{% if homebrew.creator_link %}</a>{% endif %}</td></tr>
+      {% endif %}
+      {% if homebrew.website %}
+      <tr><td>Website</td><td><a href="{{ homebrew.website }}">{{ homebrew.website }}</a></td></tr>
+      {% endif %}
+      {% if homebrew.source_link %}
+      <tr><td>Source</td><td><a href="{{ homebrew.source_link }}">{{ homebrew.source_link }}</a></td></tr>
+      {% endif %}
+      {% if homebrew.license %}
+      <tr><td>License</td><td>{% if homebrew.license_link %}<a href="{{ homebrew.license_link }}">{% endif %}{{ homebrew.license }}{% if homebrew.license_link %}</a>{% endif %}</td></tr>
+      {% endif %}
+      <tr>
+        <td>Tags</td>
+        <td>{% for tag in homebrew.tags %}{{ tag }} {% endfor %}</td>
+      </tr>
+    </table>
+    <h2><a href={{ homebrew.releases[0].download_link}}>Download</a></h2>
+    <table>
+        <tr><th>Release</th><th>Changelog</th></tr>
+        {% for release in homebrew.releases %}
+        <tr><td><a href="{{ release.download_link }}">{{ release.version }}</a></td><td>{% if release.changelog %}{{ release.changelog.split('\n')|join('<br/>'|safe) }}{% endif %}</td></tr>
+        {% endfor %}
+    </table>
   </div>
 </body>

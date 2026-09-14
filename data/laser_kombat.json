@@ -4,7 +4,7 @@
   "summary": "Shoot all the tanks in a classic puzzle game.",
   "creator": "sharkwouter",
   "screenshots": [
-    "https://github.com/sharkwouter/laserkombat/raw/master/laserkombat.jpg?raw=true"
+    "screenshots/laser_kombat.png"
   ],
   "ai_used": false,
   "requires_additional_files": false,

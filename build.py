@@ -63,10 +63,11 @@ def create_index_page(homebrew_list: list[Homebrew]) -> None:
 
 def copy_resources() -> None:
     for file_name in os.listdir(RESOURCE_DIR):
-        if os.path.isdir(file_name):
-            shutil.copytree(os.path.join(RESOURCE_DIR, file_name), os.path.join(DIST_DIR, file_name))
-        elif os.path.isfile(file_name):
-            shutil.copy2(os.path.join(RESOURCE_DIR, file_name), DIST_DIR)
+        file_path = os.path.join(RESOURCE_DIR, file_name)
+        if os.path.isdir(file_path):
+            shutil.copytree(file_path, os.path.join(DIST_DIR, file_name))
+        elif os.path.isfile(file_path):
+            shutil.copy2(file_path, DIST_DIR)
 
 
 def configure_logger():

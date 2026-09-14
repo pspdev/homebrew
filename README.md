@@ -32,7 +32,7 @@ New entries go in the `data` directory using the following json format:
   "name": "Name of Homebrew",
   "summary": "1 or 2 sentences about what the homebrew is",
   "description": "Full description, optional. Can be many sentences long.",
-  "creator": "name of the creator",
+  "author": "name of the author",
   "screenshots": [
     "https://example.com/"
   ],
@@ -50,7 +50,7 @@ New entries go in the `data` directory using the following json format:
   "tags": [
     ""
   ],
-  "creator_link": "https://example.com/",
+  "author_link": "https://example.com/",
   "source": "https://example.com/",
   "license": "GPLv3",
   "license_link": "https://example.com/",
@@ -67,13 +67,13 @@ Here a description of each field:
 | name | Name of the homebrew | Yes |
 | summary | Short 1 to 2 sentences description | Yes |
 | description | Full description | No |
-| creator | Name of the creator of the homebrew | Yes |
+| author | Name of the author of the homebrew | Yes |
 | screenshots | A list of links to screenshots | Yes, but can be empty |
 | ai_used | Was the homebrew made with AI | Yes |
 | requires_additional_files | Set to true if the homebrew requires the user to add additional files for it to work | Yes |
 | category | Category the homebrew belongs to. Should be set to `game`, `application` or `emulator` | Yes |
 | tags | Tags that fit the homebrew, should always be lower case. Try to match with other existing tags if possible | Yes |
-| creator_link | Link to the website, GitHub or social media of the creator | No |
+| author_link | Link to the website, GitHub or social media of the author | No |
 | source | A link to the location where the source code of the hombrew can be found | No |
 | license | The name of the license the homebrew was released under | No |
 | license_link | A link to the license the homebrew was released under | No |

@@ -2,7 +2,7 @@
   "name": "Laser Kombat",
   "id": "laser_kombat",
   "summary": "Shoot all the tanks in a classic puzzle game.",
-  "creator": "sharkwouter",
+  "author": "sharkwouter",
   "screenshots": [
     "screenshots/laser_kombat.png"
   ],
@@ -21,7 +21,7 @@
   "tags": [
     "puzzle"
   ],
-  "creator_link": "https://wijsman.de/",
+  "author_link": "https://wijsman.de/",
   "source": "https://github.com/sharkwouter/laserkombat/",
   "license": "GPLv3",
   "license_link": "https://github.com/sharkwouter/laserkombat/blob/master/COPYING?raw=true",

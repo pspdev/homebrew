@@ -25,8 +25,8 @@
       {% endfor %}
     </div>
     <table>
-      {% if homebrew.creator %}
-      <tr><td>Creator</td><td>{% if homebrew.creator_link %}<a href="{{ homebrew.creator_link }}">{% endif %}{{ homebrew.creator }}{% if homebrew.creator_link %}</a>{% endif %}</td></tr>
+      {% if homebrew.author %}
+      <tr><td>author</td><td>{% if homebrew.author_link %}<a href="{{ homebrew.author_link }}">{% endif %}{{ homebrew.author }}{% if homebrew.author_link %}</a>{% endif %}</td></tr>
       {% endif %}
       {% if homebrew.website %}
       <tr><td>Website</td><td><a href="{{ homebrew.website }}">{{ homebrew.website }}</a></td></tr>

@@ -42,14 +42,14 @@ class Homebrew:
     name: str
     id: str
     summary: str
-    creator: str
+    author: str
     screenshots: list[str]
     ai_used: bool
     requires_additional_files: bool
     category: str
     description: str | None = None
     website: str | None = None
-    creator_link: str | None = None
+    author_link: str | None = None
     source: str | None = None
     license: str | None = None
     license_link: str | None = None
@@ -76,7 +76,7 @@ class Homebrew:
             "name": self.name,
             "id": self.id,
             "summary": self.summary,
-            "creator": self.creator,
+            "author": self.author,
             "screenshots": self.screenshots,
             "ai_used": self.ai_used,
             "requires_additional_files": self.requires_additional_files,
@@ -89,8 +89,8 @@ class Homebrew:
             return_dict["description"] = self.description
         if self.website is not None:
             return_dict["website"] = self.website
-        if self.creator_link is not None:
-            return_dict["creator_link"] = self.creator_link
+        if self.author_link is not None:
+            return_dict["author_link"] = self.author_link
         if self.source is not None:
             return_dict["source"] = self.source
         if self.license is not None:
@@ -129,14 +129,14 @@ def get_homebrew_from_json_data(id: str, data: dict) -> Homebrew:
           name=data["name"],
           id=id,
           summary=data["summary"],
-          creator=data["creator"],
+          author=data["author"],
           screenshots=data["screenshots"],
           ai_used=data["ai_used"],
           requires_additional_files=data["requires_additional_files"],
           category=data["category"],
           description=data.get("description", None),
           website=data.get("website", None),
-          creator_link=data.get("creator_link", None),
+          author_link=data.get("author_link", None),
           source=data.get("source", None),
           license=data.get("license", None),
           license_link=data.get("license_link", None),

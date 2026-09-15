@@ -32,7 +32,7 @@ def create_dist_dir() -> None:
     os.mkdir(DIST_DIR)
 
 
-def create_homebrew_list_json_file(homebrew_list: list[Homebrew]) -> None:
+def create_json_catalog(homebrew_list: list[Homebrew]) -> None:
     schema_name = "catalog.schema.json"
     generated_at = datetime.datetime.now().replace(microsecond=0)
     homebrew_dict = {
@@ -52,7 +52,43 @@ def create_homebrew_list_json_file(homebrew_list: list[Homebrew]) -> None:
 
     with open(os.path.join(DIST_DIR, "catalog.json"), "w") as fd:
         fd.write(json_output)
-    
+
+
+def create_pkgi_catalogs(homebrew_list: list[Homebrew]) -> None:
+    homebrew_by_catergory = {}
+    for homebrew in homebrew_list:
+        if homebrew.category not in homebrew_by_catergory:
+            homebrew_by_catergory[homebrew.category] = [homebrew]
+        else:
+            homebrew_by_catergory[homebrew.category].append(homebrew)
+
+    if "game" in homebrew_by_catergory and len(homebrew_by_catergory["game"]) > 0:
+        game_csv = ""
+        for homebrew in homebrew_by_catergory["game"]:
+            release = homebrew.releases[0]
+            game_csv += f",1,{homebrew.name},{homebrew.summary},{release.url},{release.size},{release.sha256}\n"
+
+        with open(os.path.join(DIST_DIR, "pkgi_games.txt"), "w") as fd:
+            fd.write(game_csv)
+
+    if "emulator" in homebrew_by_catergory and len(homebrew_by_catergory["emulator"]) > 0:
+        emulator_csv = ""
+        for homebrew in homebrew_by_catergory["emulator"]:
+            release = homebrew.releases[0]
+            emulator_csv += f",7,{homebrew.name},{homebrew.summary},{release.url},{release.size},{release.sha256}\n"
+
+        with open(os.path.join(DIST_DIR, "pkgi_emulators.txt"), "w") as fd:
+            fd.write(emulator_csv)
+
+    if "application" in homebrew_by_catergory and len(homebrew_by_catergory["application"]) > 0:
+        application_csv = ""
+        for homebrew in homebrew_by_catergory["application"]:
+            release = homebrew.releases[0]
+            application_csv += f",8,{homebrew.name},{homebrew.summary},{release.url},{release.size},{release.sha256}\n"
+
+        with open(os.path.join(DIST_DIR, "pkgi_applications.txt"), "w") as fd:
+            fd.write(application_csv)
+
 
 def create_pages(homebrew_list: list[Homebrew]) -> None:
     env = jinja2.Environment(loader=jinja2.FileSystemLoader(TEMPLATE_DIR))
@@ -98,7 +134,8 @@ def main() -> None:
 
     homebrew_list = get_homebrew_list(data_dir=DATA_DIR)
     create_pages(homebrew_list=homebrew_list)
-    create_homebrew_list_json_file(homebrew_list=homebrew_list)
+    create_json_catalog(homebrew_list=homebrew_list)
+    create_pkgi_catalogs(homebrew_list=homebrew_list)
     copy_resources()
 
 if __name__ == "__main__":

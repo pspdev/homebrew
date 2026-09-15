@@ -40,7 +40,7 @@ def create_homebrew_list_json_file(homebrew_list: list[Homebrew]) -> None:
     for homebrew in homebrew_list:
         homebrew_dict["apps"].append(homebrew.to_dict())
 
-    with open(os.path.join(DIST_DIR, "homebrew.json"), "w") as fd:
+    with open(os.path.join(DIST_DIR, "catalog.json"), "w") as fd:
         fd.write(json.dumps(homebrew_dict))
     
 

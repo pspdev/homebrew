@@ -30,12 +30,9 @@ New entries go in the `data` directory using the following json format:
 ```
 {
   "name": "Name of Homebrew",
-  "summary": "1 or 2 sentences about what the homebrew is",
+  "summary": "Short description, 1 sentence",
   "description": "Full description, optional. Can be many sentences long.",
   "author": "name of the author",
-  "screenshots": [
-    "https://example.com/"
-  ],
   "ai_used": false,
   "requires_additional_files": false,
   "category": "game",
@@ -50,11 +47,14 @@ New entries go in the `data` directory using the following json format:
   "tags": [
     ""
   ],
-  "author_link": "https://example.com/",
   "source": "https://example.com/",
   "license": "GPLv3",
-  "license_link": "https://example.com/",
   "website": "https://example.com"
+  "media": {
+    "screenshots": [
+      "https://example.com/"
+    ]
+  }
 }
 ```
 
@@ -65,7 +65,7 @@ Here a description of each field:
 | Field | Description | Required |
 |------|-------------|----------|
 | name | Name of the homebrew | Yes |
-| summary | Short 1 to 2 sentences description | Yes |
+| summary | Max 60 character description about what the homebrew is | Yes |
 | description | Full description | No |
 | author | Name of the author of the homebrew | Yes |
 | screenshots | A list of links to screenshots | Yes, but can be empty |
@@ -73,10 +73,8 @@ Here a description of each field:
 | requires_additional_files | Set to true if the homebrew requires the user to add additional files for it to work | Yes |
 | category | Category the homebrew belongs to. Should be set to `game`, `application` or `emulator` | Yes |
 | tags | Tags that fit the homebrew, should always be lower case. Try to match with other existing tags if possible | Yes |
-| author_link | Link to the website, GitHub or social media of the author | No |
 | source | A link to the location where the source code of the hombrew can be found | No |
 | license | The name of the license the homebrew was released under | No |
-| license_link | A link to the license the homebrew was released under | No |
 | website | The website for the homebrew | No |
 | releases | Contains download information per tag. See the table below | Yes |
 

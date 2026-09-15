@@ -3,9 +3,6 @@
   "id": "laser_kombat",
   "summary": "Shoot all the tanks in a classic puzzle game.",
   "author": "sharkwouter",
-  "screenshots": [
-    "screenshots/laser_kombat.png"
-  ],
   "ai_used": false,
   "requires_additional_files": false,
   "category": "game",
@@ -22,9 +19,12 @@
   "tags": [
     "puzzle"
   ],
-  "author_link": "https://wijsman.de/",
+  "media": {
+    "screenshots": [
+      "screenshots/laser_kombat.png"
+    ],
+    "icon": "icons/laser_kombat.png"
+  },
   "source": "https://github.com/sharkwouter/laserkombat/",
-  "license": "GPLv3",
-  "license_link": "https://github.com/sharkwouter/laserkombat/blob/master/COPYING?raw=true",
-  "icon": "icons/laser_kombat.png"
+  "license": "GPLv3"
 }

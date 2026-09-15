@@ -26,7 +26,7 @@
     </div>
     <table>
       {% if homebrew.author %}
-      <tr><td>Author</td><td>{% if homebrew.author_link %}<a href="{{ homebrew.author_link }}">{% endif %}{{ homebrew.author }}{% if homebrew.author_link %}</a>{% endif %}</td></tr>
+      <tr><td>Author</td><td>{{ homebrew.author }}</td></tr>
       {% endif %}
       {% if homebrew.website %}
       <tr><td>Website</td><td><a href="{{ homebrew.website }}">{{ homebrew.website }}</a></td></tr>
@@ -35,7 +35,7 @@
       <tr><td>Source</td><td><a href="{{ homebrew.source }}">{{ homebrew.source }}</a></td></tr>
       {% endif %}
       {% if homebrew.license %}
-      <tr><td>License</td><td>{% if homebrew.license_link %}<a href="{{ homebrew.license_link }}">{% endif %}{{ homebrew.license }}{% if homebrew.license_link %}</a>{% endif %}</td></tr>
+      <tr><td>License</td><td>{{ homebrew.license }}</td></tr>
       {% endif %}
       <tr><td>Category</td><td>{{ homebrew.category }}</td></tr>
       <tr>

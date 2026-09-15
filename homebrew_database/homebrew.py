@@ -53,10 +53,8 @@ class Homebrew:
     category: str
     description: str | None = None
     website: str | None = None
-    author_link: str | None = None
     source: str | None = None
     license: str | None = None
-    license_link: str | None = None
     releases: list[Release] = field(default_factory=list)
     tags: list[str] = field(default_factory=list)
     icon: str = None
@@ -81,28 +79,26 @@ class Homebrew:
             "id": self.id,
             "summary": self.summary,
             "author": self.author,
-            "screenshots": self.screenshots,
             "ai_used": self.ai_used,
             "requires_additional_files": self.requires_additional_files,
             "category": self.category,
             "releases": [],
             "tags": self.tags,
+            "media": {
+                "screenshots": self.screenshots,
+            },
         }
 
         if self.description is not None:
             return_dict["description"] = self.description
         if self.website is not None:
             return_dict["website"] = self.website
-        if self.author_link is not None:
-            return_dict["author_link"] = self.author_link
         if self.source is not None:
             return_dict["source"] = self.source
         if self.license is not None:
             return_dict["license"] = self.license
-        if self.license_link is not None:
-            return_dict["license_link"] = self.license_link
         if self.icon is not None:
-            return_dict["icon"] = self.icon
+            return_dict["media"]["icon"] = self.icon
         
         self.releases.sort(reverse=True)
         for release in self.releases:
@@ -135,19 +131,17 @@ def get_homebrew_from_json_data(id: str, data: dict) -> Homebrew:
           id=id,
           summary=data["summary"],
           author=data["author"],
-          screenshots=data["screenshots"],
+          screenshots=data["media"]["screenshots"],
           ai_used=data["ai_used"],
           requires_additional_files=data["requires_additional_files"],
           category=data["category"],
           description=data.get("description", None),
           website=data.get("website", None),
-          author_link=data.get("author_link", None),
           source=data.get("source", None),
           license=data.get("license", None),
-          license_link=data.get("license_link", None),
           releases=releases,
           tags=data.get("tags", list()),
-          icon=data.get("icon", None)
+          icon=data["media"].get("icon", None)
         )
     except (KeyError, ValueError) as e:
         raise HomebrewProcessingException(f"Could not process json data for {id}") from e

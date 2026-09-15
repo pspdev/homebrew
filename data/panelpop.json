@@ -3,9 +3,6 @@
   "id": "panelpop",
   "summary": "Panel de Pon / Tetris Attack / Puzzle League clone.",
   "author": "sharkwouter",
-  "screenshots": [
-    "https://github.com/sharkwouter/panel-pop/raw/master/screenshot.png?raw=true"
-  ],
   "ai_used": false,
   "requires_additional_files": false,
   "category": "game",
@@ -22,9 +19,12 @@
   "tags": [
     "puzzle"
   ],
-  "author_link": "https://wijsman.de/",
+  "media": {
+    "screenshots": [
+      "https://github.com/sharkwouter/panel-pop/raw/master/screenshot.png?raw=true"
+    ],
+    "icon": "icons/panelpop.png"
+  },
   "source": "https://github.com/sharkwouter/panel-pop",
-  "license": "MIT",
-  "license_link": "https://github.com/sharkwouter/panel-pop/blob/master/LICENSE?raw=true",
-  "icon": "icons/panelpop.png"
+  "license": "MIT"
 }

@@ -1,0 +1,152 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://wwijsman.de/psp-homebrew-database/catalog.schema.json",
+  "title": "PSP Homebrew Catalog",
+  "description": "Schema for the PSP Homebrew catalog.json file",
+  "type": "object",
+  "required": [
+    "schema",
+    "generated_at",
+    "apps"
+  ],
+  "properties": {
+    "schema": {
+      "type": "string",
+      "description": "The unique identifier for a product"
+    },
+    "generated_at": {
+      "type": "string",
+      "description": "The timestamp when the catalog was generated"
+    },
+    "apps": {
+      "type": "array",
+      "description": "The list of homebrew in the catalog",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "name",
+          "summary",
+          "ai_used",
+          "requires_additional_files",
+          "category",
+          "tags",
+          "media",
+          "releases"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "The unique identifier for a homebrew, generated based on the file name of the original json file"
+          },
+          "name": {
+            "type": "string",
+            "description": "Name of the homebrew"
+          },
+          "summary": {
+            "type": "string",
+            "description": "Max 60 character description about what the homebrew is"
+          },
+          "description": {
+            "type": "string",
+            "description": "Full description of the homebrew"
+          },
+          "ai_used": {
+            "type": "boolean",
+            "description": "Was the homebrew made with AI"
+          },
+          "requires_additional_files": {
+            "type": "boolean",
+            "description": "Set to true if the homebrew requires the user to add additional files for it to work"
+          },
+          "category": {
+            "type": "string",
+            "description": "Category the homebrew belongs to. Should be set to game, application or emulator"
+          },
+          "tags": {
+            "type": "array",
+            "description": "Tags that fit the homebrew, should always be lower case",
+            "items": {
+              "type": "string"
+            }
+          },
+          "source": {
+            "type": "string",
+            "description": "A link to the location where the source code of the homebrew can be found"
+          },
+          "license": {
+            "type": "string",
+            "description": "The name of the license the homebrew was released under"
+          },
+          "website": {
+            "type": "string",
+            "description": "The website for the homebrew"
+          },
+          "media": {
+            "type": "object",
+            "description": "Screenshots and icon of the homebrew",
+            "required": [
+                "screenshots",
+                "icon"
+            ],
+            "properties": {
+              "screenshots": {
+                "type": "array",
+                "description": "List of URL to screenshots of the homebrew",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "icon": {
+                "type": "string",
+                "description": "URL for the icon image pulled from the EBOOT.PBP"
+              }
+            }
+          },
+          "releases": {
+            "type": "array",
+            "description": "Releases of the homebrew sorted by newest first",
+            "items": {
+              "type": "object",
+              "required": [
+                  "tag",
+                  "url",
+                  "published_at"
+              ],
+              "properties": {
+                  "tag": {
+                      "type": "string",
+                      "description": "Version name of the release"
+                  },
+                  "url": {
+                      "type": "string",
+                      "description": "Download link to get the release"
+                  },
+                  "published_at": {
+                      "type": "string",
+                      "description": "Release date of this tag"
+                  },
+                  "changelog": {
+                      "type": "string",
+                      "description": "Changelog for the release"
+                  },
+                  "size": {
+                      "type": "number",
+                      "description": "Size of the download"
+                  },
+                  "sha256": {
+                      "type": "string",
+                      "description": "SHA256 checksum of the download"
+                  },
+                  "eboot_md5": {
+                      "type": "string",
+                      "description": "MD5 checksum of the EBOOT.PBP"
+                  }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

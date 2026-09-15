@@ -73,16 +73,16 @@ Here a description of each field:
 | requires_additional_files | Set to true if the homebrew requires the user to add additional files for it to work | Yes |
 | category | Category the homebrew belongs to. Should be set to `game`, `application` or `emulator` | Yes |
 | tags | Tags that fit the homebrew, should always be lower case. Try to match with other existing tags if possible | Yes |
-| source | A link to the location where the source code of the hombrew can be found | No |
+| source | A link to the location where the source code of the homebrew can be found | No |
 | license | The name of the license the homebrew was released under | No |
 | website | The website for the homebrew | No |
+| media | Contains screenshots | Yes |
 | releases | Contains download information per tag. See the table below | Yes |
 
 Here is a description for each field in a release:
 
 | Field | Description | Required |
 |------|-------------|----------|
-| name | Name of the homebrew | Yes |
 | tag | Name of the release tag, for example `1.0` | Yes |
 | url | Link to the `.zip` archive or `EBOOT.PBP` file | Yes |
 | published_at | Release data of this tag | Yes |

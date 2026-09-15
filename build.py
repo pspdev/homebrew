@@ -7,6 +7,7 @@ import logging
 import shutil
 
 import jinja2
+import jsonschema
 
 from homebrew_database.homebrew import Homebrew, get_homebrew_list
 
@@ -16,6 +17,7 @@ DIST_DIR = "dist"
 RESOURCE_DIR = "resources"
 TEMPLATE_DIR = "templates"
 TEMP_DIR = "temp"
+SCHEMA_DIR = os.path.join(RESOURCE_DIR, "schemas")
 
 
 def create_dist_dir() -> None:
@@ -31,16 +33,25 @@ def create_dist_dir() -> None:
 
 
 def create_homebrew_list_json_file(homebrew_list: list[Homebrew]) -> None:
+    schema_name = "catalog.schema.json"
     generated_at = datetime.datetime.now().replace(microsecond=0)
     homebrew_dict = {
+        "schema": f"schemas/{schema_name}",
         "generated_at": generated_at.isoformat() + "Z",
         "apps": []
     }
     for homebrew in homebrew_list:
         homebrew_dict["apps"].append(homebrew.to_dict())
 
+    # Validate the generated dict against the schema
+    json_schema_path = os.path.join(SCHEMA_DIR, schema_name)
+    with open(json_schema_path, "r") as fd:
+        json_schema = json.loads(fd.read())
+    json_output = json.dumps(homebrew_dict)
+    jsonschema.validate(instance=json.loads(json_output), schema=json_schema)
+
     with open(os.path.join(DIST_DIR, "catalog.json"), "w") as fd:
-        fd.write(json.dumps(homebrew_dict))
+        fd.write(json_output)
     
 
 def create_pages(homebrew_list: list[Homebrew]) -> None:

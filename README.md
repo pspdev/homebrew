@@ -88,7 +88,7 @@ Here is a description for each field in a release:
 | published_at | Release data of this tag | Yes |
 | changelog | What was change with the new release. This can be longer and contain newline characters | No |
 
-After creating the file, run the `add-resources-and-info.py` script once. This will add the icon and information like the md5 checksum of the `EBOOT.PBP` and the sha256 checksum of the archive for each release. Make sure to add the new and changed files to git as well when making a pull request (PR). PRs for homebrew for which the `add-resources-and-info.py` was not executed will not be accepted.
+After creating the file, run the `add-resources-and-info.py` script once. This will add the icon and information like the md5 checksum of the `EBOOT.PBP` and the sha256 checksum and sie of the archive for each release. Make sure to add the new and changed files to git as well when making a pull request (PR). PRs for homebrew for which the `add-resources-and-info.py` was not executed will not be accepted.
 
 ## License
 

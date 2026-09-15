@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 
+import datetime
 import os
 import json
 import logging
 import shutil
+import zoneinfo
 
 import jinja2
 
@@ -30,12 +32,16 @@ def create_dist_dir() -> None:
 
 
 def create_homebrew_list_json_file(homebrew_list: list[Homebrew]) -> None:
-    homebrew_dicts = []
+    generated_at = datetime.datetime.now().replace(microsecond=0)
+    homebrew_dict = {
+        "generated_at": generated_at.isoformat() + "Z",
+        "apps": []
+    }
     for homebrew in homebrew_list:
-        homebrew_dicts.append(homebrew.to_dict())
+        homebrew_dict["apps"].append(homebrew.to_dict())
 
     with open(os.path.join(DIST_DIR, "homebrew.json"), "w") as fd:
-        fd.write(json.dumps(homebrew_dicts))
+        fd.write(json.dumps(homebrew_dict))
     
 
 def create_pages(homebrew_list: list[Homebrew]) -> None:

@@ -43,11 +43,11 @@
         <td>{% for tag in homebrew.tags %}{{ tag }} {% endfor %}</td>
       </tr>
     </table>
-    <h2><a href="{{ homebrew.releases[0].download_link }}">Download</a></h2>
+    <h2><a href="{{ homebrew.releases[0].url }}">Download</a></h2>
     <table>
         <tr><th>Release</th><th>Changelog</th></tr>
         {% for release in homebrew.releases %}
-        <tr><td><a href="{{ release.download_link }}">{{ release.tag }}</a></td><td>{% if release.changelog %}{{ release.changelog.split('\n')|join('<br/>'|safe) }}{% endif %}</td></tr>
+        <tr><td><a href="{{ release.url }}">{{ release.tag }}</a></td><td>{% if release.changelog %}{{ release.changelog.split('\n')|join('<br/>'|safe) }}{% endif %}</td></tr>
         {% endfor %}
     </table>
   </div>

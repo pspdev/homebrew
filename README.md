@@ -39,7 +39,7 @@ New entries go in the `data` directory using the following json format:
   "releases": [
     {
       "tag": "v1.0",
-      "download_link": "https://example.com/",
+      "url": "https://example.com/",
       "published_at": "2026-07-23",
       "changelog": "Added something new"
     }
@@ -84,7 +84,7 @@ Here is a description for each field in a release:
 |------|-------------|----------|
 | name | Name of the homebrew | Yes |
 | tag | Name of the release tag, for example `1.0` | Yes |
-| download_link | Link to the `.zip` archive or `EBOOT.PBP` file | Yes |
+| url | Link to the `.zip` archive or `EBOOT.PBP` file | Yes |
 | published_at | Release data of this tag | Yes |
 | changelog | What was change with the new release. This can be longer and contain newline characters | No |
 

@@ -85,7 +85,7 @@ def main():
               continue
           with tempfile.TemporaryDirectory() as target_dir:
               logging.info(f"Downloading {homebrew.name} {release.tag} archive")
-              archive_path = download_archive(url=release.download_link, target_dir=target_dir)
+              archive_path = download_archive(url=release.url, target_dir=target_dir)
               logging.info(f"Adding sha256 to {homebrew.name} {release.tag}")
               release.sha256 = get_sha256_hash(file_path=archive_path)
               logging.info(f"Adding size to {homebrew.name} {release.tag}")

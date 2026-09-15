@@ -9,7 +9,7 @@
   "releases": [
     {
       "tag": "2.0",
-      "download_link": "https://github.com/sharkwouter/oceanpop/releases/download/2.0/oceanpop-psp.zip",
+      "url": "https://github.com/sharkwouter/oceanpop/releases/download/2.0/oceanpop-psp.zip",
       "published_at": "2024-12-20",
       "size": 28203233,
       "sha256": "47130c0e40eb9acb71902963dcd1c36e422ec283a61656b9dd16705d101edd2a",
@@ -18,7 +18,7 @@
     },
     {
       "tag": "1.0",
-      "download_link": "https://github.com/sharkwouter/oceanpop/releases/download/1.0/oceanpop-psp.zip",
+      "url": "https://github.com/sharkwouter/oceanpop/releases/download/1.0/oceanpop-psp.zip",
       "published_at": "2022-03-09",
       "size": 14996388,
       "sha256": "214d210c6fbea06f772366fdc280964fba4469a0dd0a5b399742e03b88ff1308",

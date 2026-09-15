@@ -13,7 +13,7 @@ class HomebrewProcessingException(Exception):
 @dataclass
 class Release:
     tag: str
-    download_link: str
+    url: str
     published_at: datetime.date
     sha256: str | None = None
     eboot_md5: str | None = None
@@ -26,7 +26,7 @@ class Release:
     def to_dict(self) -> dict:
         return_dict = {
             "tag": self.tag,
-            "download_link": self.download_link,
+            "url": self.url,
             "published_at": self.published_at.isoformat(),
             "size": self.size,
         }
@@ -117,7 +117,7 @@ def get_homebrew_from_json_data(id: str, data: dict) -> Homebrew:
             releases.append(
                 Release(
                     tag=release_data["tag"],
-                    download_link=release_data["download_link"],
+                    url=release_data["url"],
                     changelog=release_data.get("changelog", None),
                     published_at=datetime.date.fromisoformat(release_data["published_at"]),
                     sha256=release_data.get("sha256", None),

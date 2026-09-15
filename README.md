@@ -76,7 +76,7 @@ Here a description of each field:
 | source | A link to the location where the source code of the homebrew can be found | No |
 | license | The name of the license the homebrew was released under | No |
 | website | The website for the homebrew | No |
-| media | Contains screenshots | Yes |
+| media | A json object containing an attribute called screenshots with a list of screenshots | Yes |
 | releases | Contains download information per tag. See the table below | Yes |
 
 Here is a description for each field in a release:
@@ -88,7 +88,7 @@ Here is a description for each field in a release:
 | published_at | Release data of this tag | Yes |
 | changelog | What was change with the new release. This can be longer and contain newline characters | No |
 
-After creating the file, run the `add-resources-and-info.py` script once. This will add the icon and information like the md5 checksum of the `EBOOT.PBP` and the sha256 checksum and sie of the archive for each release. Make sure to add the new and changed files to git as well when making a pull request (PR). PRs for homebrew for which the `add-resources-and-info.py` was not executed will not be accepted.
+After creating the file, run the `add-resources-and-info.py` script once. This will add the icon and information like the md5 checksum of the `EBOOT.PBP` and the sha256 checksum and sie of the archive for each release. If this wasn't done, the build will fail.
 
 ## License
 

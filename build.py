@@ -5,7 +5,6 @@ import os
 import json
 import logging
 import shutil
-import zoneinfo
 
 import jinja2
 

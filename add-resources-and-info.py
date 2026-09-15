@@ -9,7 +9,7 @@ import logging
 import tempfile
 import json
 
-from homebrew_database.homebrew import HomebrewProcessingException, Homebrew, Release, get_homebrew_list
+from homebrew_database.homebrew import HomebrewProcessingException, get_homebrew_list
 
 
 DATA_DIR = "data"
@@ -23,7 +23,7 @@ def get_sha256_hash(file_path: str) -> str:
         return digest.hexdigest()
 
 
-def get_eboot_data_from_zip_archive(file_path: str):
+def get_eboot_data_from_zip_archive(file_path: str) -> bytearray:
     with zipfile.ZipFile(file_path) as fd:
         eboot_path_in_zip = None
         for file_name in fd.namelist():
@@ -67,7 +67,7 @@ def download_archive(url: str, target_dir: str) -> str:
       return file_path
     
 
-def configure_logger():
+def configure_logger() -> None:
     logger = logging.getLogger()
     logger.setLevel(logging.INFO)
 

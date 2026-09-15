@@ -66,7 +66,7 @@ def create_pkgi_catalogs(homebrew_list: list[Homebrew]) -> None:
         game_csv = ""
         for homebrew in homebrew_by_catergory["game"]:
             release = homebrew.releases[0]
-            game_csv += f",1,{homebrew.name},{homebrew.summary},{release.url},{release.size},{release.sha256}\n"
+            game_csv += f",1,{homebrew.name},\"{homebrew.summary}\",{release.url},{release.size},{release.sha256}\n"
 
         with open(os.path.join(DIST_DIR, "pkgi_games.txt"), "w") as fd:
             fd.write(game_csv)
@@ -75,7 +75,7 @@ def create_pkgi_catalogs(homebrew_list: list[Homebrew]) -> None:
         emulator_csv = ""
         for homebrew in homebrew_by_catergory["emulator"]:
             release = homebrew.releases[0]
-            emulator_csv += f",7,{homebrew.name},{homebrew.summary},{release.url},{release.size},{release.sha256}\n"
+            emulator_csv += f",7,{homebrew.name},\"{homebrew.summary}\",{release.url},{release.size},{release.sha256}\n"
 
         with open(os.path.join(DIST_DIR, "pkgi_emulators.txt"), "w") as fd:
             fd.write(emulator_csv)
@@ -84,7 +84,7 @@ def create_pkgi_catalogs(homebrew_list: list[Homebrew]) -> None:
         application_csv = ""
         for homebrew in homebrew_by_catergory["application"]:
             release = homebrew.releases[0]
-            application_csv += f",8,{homebrew.name},{homebrew.summary},{release.url},{release.size},{release.sha256}\n"
+            application_csv += f",8,{homebrew.name},\"{homebrew.summary}\",{release.url},{release.size},{release.sha256}\n"
 
         with open(os.path.join(DIST_DIR, "pkgi_applications.txt"), "w") as fd:
             fd.write(application_csv)

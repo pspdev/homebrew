@@ -33,10 +33,10 @@ nav {
 }
 
 #filters {
-  display: block;
+  display: flex;
   margin-top: 25px;
   margin-bottom: 15px;
-  justify-content: center;
+  justify-content: space-evenly;
   text-align: center;
 }
 

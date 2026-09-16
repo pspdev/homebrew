@@ -8,16 +8,22 @@
     <a id="title" href="">PSP <span>Homebrew</span> Database</a>
   </nav>
   <div id="filters">
-    Category:
-    <select id="category_select" oninput="applyFilters()">
-      <option value="">All</option>
-    </select>
-    Search:
-    <input id="search" oninput="applyFilters()">
-    Tag:
-    <select id="tag_select" oninput="applyFilters()">
-      <option value="">--</option>
-    </select>
+    <div>
+      Category:
+      <select id="category_select" oninput="applyFilters()">
+        <option value="">All</option>
+      </select>
+    </div>
+    <div>
+      Search:
+      <input id="search" oninput="applyFilters()">
+    </div>
+    <div>
+      Tag:
+      <select id="tag_select" oninput="applyFilters()">
+        <option value="">--</option>
+      </select>
+    </div>
   </div>
   <div id="homebrew_list"></div>
   <div id="pagination"></div>

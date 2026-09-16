@@ -32,6 +32,14 @@ nav {
   color: #F18F01;
 }
 
+#filters {
+  display: block;
+  margin-top: 25px;
+  margin-bottom: 15px;
+  justify-content: center;
+  text-align: center;
+}
+
 #homebrew_list {
   display: flex;
   justify-content: center;
@@ -131,4 +139,17 @@ nav {
 
 #content td {
   vertical-align: top;
+}
+
+#pagination {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#pagination div a {
+  text-align: center;
+}
+
+#pagination div {
+  text-align: center;
 }

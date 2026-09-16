@@ -82,6 +82,18 @@ def create_pkgi_catalogs(homebrew_list: list[Homebrew]) -> None:
         fd.write(content)
 
 
+def create_pkgi_config() -> None:
+    # Only create this file if the build is happening from the GitHub CI
+    # Otherwise we have no clue what the url should be
+    if not os.environ.get("CI"):
+        return
+    owner,repo = os.environ["GITHUB_REPOSITORY"].split("/")
+
+    config_content = f"url https://{owner}.github.io/{repo}/pkgi.txt"
+    with open(os.path.join(DIST_DIR, "config.txt")) as fd:
+        fd.write(config_content)
+
+
 def create_pages(homebrew_list: list[Homebrew]) -> None:
     env = jinja2.Environment(loader=jinja2.FileSystemLoader(TEMPLATE_DIR))
 
@@ -128,6 +140,7 @@ def main() -> None:
     create_pages(homebrew_list=homebrew_list)
     create_json_catalog(homebrew_list=homebrew_list)
     create_pkgi_catalogs(homebrew_list=homebrew_list)
+    create_pkgi_config()
     copy_resources()
 
 if __name__ == "__main__":

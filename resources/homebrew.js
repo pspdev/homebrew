@@ -82,7 +82,7 @@ function createPaginationLinks() {
 
 
   let current_page_element = document.createElement("div");
-  current_page_element.innerHTML = currentPage;
+  current_page_element.innerHTML = currentPage + "/" + pageCount;
   pagination.appendChild(current_page_element);
 
   let next_div = document.createElement("div");

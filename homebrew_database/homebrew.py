@@ -72,7 +72,7 @@ class Homebrew:
     def get_last_release(self) -> Release | None:
         if len(self.releases) == 0:
             return None
-        return sorted(self.releases)[0]
+        return sorted(self.releases, reverse=True)[0]
 
     def to_dict(self) -> dict:
         return_dict = {

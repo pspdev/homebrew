@@ -90,7 +90,7 @@ def create_pkgi_config() -> None:
     owner,repo = os.environ["GITHUB_REPOSITORY"].split("/")
 
     config_content = f"url https://{owner}.github.io/{repo}/pkgi.txt"
-    with open(os.path.join(DIST_DIR, "config.txt")) as fd:
+    with open(os.path.join(DIST_DIR, "config.txt"), "w") as fd:
         fd.write(config_content)
 
 

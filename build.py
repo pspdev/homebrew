@@ -55,39 +55,31 @@ def create_json_catalog(homebrew_list: list[Homebrew]) -> None:
 
 
 def create_pkgi_catalogs(homebrew_list: list[Homebrew]) -> None:
-    homebrew_by_catergory = {}
+    categories = ["game", "emulator", "application"]
+    content_per_category = {}
+    for category in categories:
+        content_per_category[category] = ""
+
     for homebrew in homebrew_list:
-        if homebrew.category not in homebrew_by_catergory:
-            homebrew_by_catergory[homebrew.category] = [homebrew]
+        if homebrew.category == "game":
+            pkgi_type = 1
+        elif homebrew.category == "emulator":
+            pkgi_type = 7
+        elif homebrew.category == "application":
+            pkgi_type = 8
         else:
-            homebrew_by_catergory[homebrew.category].append(homebrew)
+            continue
 
-    if "game" in homebrew_by_catergory and len(homebrew_by_catergory["game"]) > 0:
-        game_csv = ""
-        for homebrew in homebrew_by_catergory["game"]:
-            release = homebrew.releases[0]
-            game_csv += f",1,{homebrew.name},\"{homebrew.summary}\",,{release.url},{release.size},{release.sha256}\n"
+        release = homebrew.releases[0]
+        content_per_category[homebrew.category] += f",{pkgi_type},{homebrew.name},\"{homebrew.summary}\",,{release.url},{release.size},{release.sha256}\n"
 
-        with open(os.path.join(DIST_DIR, "pkgi_games.txt"), "w") as fd:
-            fd.write(game_csv)
+    for category in categories:
+        with open(os.path.join(DIST_DIR, f"pkgi_{category}s.txt"), "w") as fd:
+            fd.write(content_per_category[category])
 
-    if "emulator" in homebrew_by_catergory and len(homebrew_by_catergory["emulator"]) > 0:
-        emulator_csv = ""
-        for homebrew in homebrew_by_catergory["emulator"]:
-            release = homebrew.releases[0]
-            emulator_csv += f",7,{homebrew.name},\"{homebrew.summary}\",,{release.url},{release.size},{release.sha256}\n"
-
-        with open(os.path.join(DIST_DIR, "pkgi_emulators.txt"), "w") as fd:
-            fd.write(emulator_csv)
-
-    if "application" in homebrew_by_catergory and len(homebrew_by_catergory["application"]) > 0:
-        application_csv = ""
-        for homebrew in homebrew_by_catergory["application"]:
-            release = homebrew.releases[0]
-            application_csv += f",8,{homebrew.name},\"{homebrew.summary}\",,{release.url},{release.size},{release.sha256}\n"
-
-        with open(os.path.join(DIST_DIR, "pkgi_applications.txt"), "w") as fd:
-            fd.write(application_csv)
+    with open(os.path.join(DIST_DIR, "pkgi.txt"), "w") as fd:
+        content = "".join(content_per_category[category] for category in categories)
+        fd.write(content)
 
 
 def create_pages(homebrew_list: list[Homebrew]) -> None:

@@ -9,13 +9,13 @@
   </nav>
   <div id="filters">
     Category:
-    <select id="category_select">
+    <select id="category_select" oninput="applyFilters()">
       <option value="">All</option>
     </select>
     Search:
     <input id="search" oninput="applyFilters()">
     Tag:
-    <select id="tag_select">
+    <select id="tag_select" oninput="applyFilters()">
       <option value="">--</option>
     </select>
   </div>

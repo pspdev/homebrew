@@ -135,7 +135,7 @@ function applyFilters() {
     }
     if (tag.length > 0) {
       let found_tag = false;
-      for (let tag_i = 0; tag_i < catalog[i].tags; tag_i++) {
+      for (let tag_i = 0; tag_i < catalog[i].tags.length; tag_i++) {
         if (catalog[i].tags[tag_i] == tag) {
           found_tag = true;
           break;
@@ -152,6 +152,46 @@ function applyFilters() {
   createPaginationLinks();
 }
 
+function populateCategories() {
+    let categories = []
+    for (let i = 0; i < catalog.length; i++) {
+      if (!categories.includes(catalog[i].category)) {
+        categories.push(catalog[i].category)
+      }
+    }
+
+    categories.sort();
+
+    let category_select = document.getElementById("category_select");
+    for (let i = 0; i < categories.length; i++) {
+      let option = document.createElement("option");
+      option.value = categories[i];
+      option.innerHTML = categories[i].charAt(0).toUpperCase() + categories[i].slice(1);
+      category_select.appendChild(option);
+    }
+}
+
+function populateTags() {
+    let tags = []
+    for (let i = 0; i < catalog.length; i++) {
+      for (let j = 0; j < catalog[i].tags.length; j++) {
+        if (!tags.includes(catalog[i].tags[j])) {
+          tags.push(catalog[i].tags[j])
+        }
+      }
+    }
+
+    tags.sort();
+
+    let tag_select = document.getElementById("tag_select");
+    for (let i = 0; i < tags.length; i++) {
+      let option = document.createElement("option");
+      option.value = tags[i];
+      option.innerHTML = tags[i].charAt(0).toUpperCase() + tags[i].slice(1);
+      tag_select.appendChild(option);
+    }
+}
+
 fetch('catalog.json')
   .then(response => response.json())
   .then(data => {
@@ -159,6 +199,8 @@ fetch('catalog.json')
       catalog.push(data.apps[i]);
       filtered_catalog.push(data.apps[i]);
     }
+    populateCategories();
+    populateTags();
     createHomebrewTiles();
     createPaginationLinks();
   })

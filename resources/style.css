@@ -51,6 +51,7 @@ nav {
   margin-right: 15px;
   margin-top: 15px;
   margin-bottom: 15px;
+  padding-top: 5px;
   border-radius: 15px;
   -webkit-border-radius: 15px;
   box-shadow: 5px 5px 10px 2px rgb(0 0 0 / 0.8);
@@ -63,6 +64,13 @@ nav {
 
 .homebrew .icon {
   text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.homebrew .icon img {
+  width: 145px;
+  height: 80px;
 }
 
 .homebrew .summary {

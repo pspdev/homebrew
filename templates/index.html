@@ -1,31 +1,11 @@
 <head>
   <title>PSP Homebrew Database</title>
   <link rel="stylesheet" href="style.css">
+  <script src="homebrew.js" defer></script>
 </head>
 <body>
   <nav>
     <a id="title" href="">PSP <span>Homebrew</span> Database</a>
   </nav>
-  <div id="homebrew_list">
-    {% for homebrew in homebrew_list %}
-    <a href="{{ homebrew.id }}.html"><div class="homebrew">
-      <div class="name">
-        {{ homebrew.name }}
-      </div>
-      <div class="icon">
-        <img src="{{ homebrew.icon }}" alt="icon" width="145" height="80"/>
-      </div>
-      <div class="summary">
-        {{ homebrew.summary }}
-      </div>
-      <div class="tags">
-        {% for tag in homebrew.tags %}
-        <div class="tag">
-          {{ tag }}
-        </div>
-        {% endfor %}
-      </div>
-    </div></a>
-    {% endfor %}
-  </div>
+  <div id="homebrew_list"></div>
 </body>

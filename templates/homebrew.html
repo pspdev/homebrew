@@ -38,6 +38,12 @@
       <tr><td>License</td><td>{{ homebrew.license }}</td></tr>
       {% endif %}
       <tr><td>Category</td><td>{{ homebrew.category }}</td></tr>
+      {% if homebrew.languages %}
+      <tr>
+        <td>Languages</td>
+        <td>{{ ", ".join(homebrew.languages) }}</td>
+      </tr>
+      {% endif %}
       <tr>
         <td>Tags</td>
         <td>{% for tag in homebrew.tags %}{{ tag }} {% endfor %}</td>

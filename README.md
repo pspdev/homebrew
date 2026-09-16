@@ -76,6 +76,7 @@ Here a description of each field:
 | source | A link to the location where the source code of the homebrew can be found | No |
 | license | The name of the license the homebrew was released under | No |
 | website | The website for the homebrew | No |
+| languages | List of 2 letter codes for supported languages (think en, de, ch) | No |
 | media | A json object containing an attribute called screenshots with a list of screenshots | Yes |
 | releases | Contains download information per tag. See the table below | Yes |
 

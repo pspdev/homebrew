@@ -82,6 +82,13 @@
             "type": "string",
             "description": "The website for the homebrew"
           },
+          "languages": {
+            "type": "array",
+            "description": "List of languages the homebrew supports",
+            "items": {
+              "type": "string"
+            }
+          },
           "media": {
             "type": "object",
             "description": "Screenshots and icon of the homebrew",

@@ -57,6 +57,7 @@ class Homebrew:
     license: str | None = None
     releases: list[Release] = field(default_factory=list)
     tags: list[str] = field(default_factory=list)
+    languages: list[str] = field(default_factory=list)
     icon: str = None
 
     def __gt__(self, other: 'Homebrew') -> bool:
@@ -99,6 +100,8 @@ class Homebrew:
             return_dict["license"] = self.license
         if self.icon is not None:
             return_dict["media"]["icon"] = self.icon
+        if self.languages is not None:
+            return_dict["languages"] = self.languages
         
         self.releases.sort(reverse=True)
         for release in self.releases:
@@ -141,7 +144,8 @@ def get_homebrew_from_json_data(id: str, data: dict) -> Homebrew:
           license=data.get("license", None),
           releases=releases,
           tags=data.get("tags", list()),
-          icon=data["media"].get("icon", None)
+          icon=data["media"].get("icon", None),
+          languages=data.get("languages", list()),
         )
     except (KeyError, ValueError) as e:
         raise HomebrewProcessingException(f"Could not process json data for {id}") from e

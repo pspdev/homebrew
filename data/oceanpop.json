@@ -6,6 +6,10 @@
   "ai_used": false,
   "requires_additional_files": false,
   "category": "game",
+  "languages": [
+    "en",
+    "nl"
+  ],
   "releases": [
     {
       "tag": "2.0",

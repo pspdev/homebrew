@@ -5,7 +5,7 @@ import os
 import json
 import logging
 import shutil
-import time
+import gzip
 
 import jinja2
 import jsonschema
@@ -130,7 +130,7 @@ def create_binary_catalog(homebrew_list: list[Homebrew]) -> None:
     current_offset = homebrew_count_size + (homebrew_count * homebrew_struct_size)
 
     strings_to_append = []
-    with open(os.path.join(DIST_DIR, "catalog.bin"), "wb") as fd:
+    with open(os.path.join(DIST_DIR, "catalog.bin"), "w+b") as fd:
         fd.write(homebrew_count.to_bytes(homebrew_count_size, byteorder='little', signed=False))
         for homebrew in homebrew_list:
             last_release = homebrew.get_last_release()
@@ -196,6 +196,10 @@ def create_binary_catalog(homebrew_list: list[Homebrew]) -> None:
 
         for string in strings_to_append:
             fd.write(string.encode("utf-8"))
+
+        fd.seek(0, 0)
+        with gzip.open(os.path.join(DIST_DIR, "catalog.bin.gz"), "wb") as gzip_fd:
+            gzip_fd.write(fd.read())
 
 
 def create_pages(homebrew_list: list[Homebrew]) -> None:

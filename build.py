@@ -5,6 +5,7 @@ import os
 import json
 import logging
 import shutil
+import time
 
 import jinja2
 import jsonschema
@@ -94,6 +95,109 @@ def create_pkgi_config() -> None:
         fd.write(config_content)
 
 
+def create_binary_catalog(homebrew_list: list[Homebrew]) -> None:
+    homebrew_count = len(homebrew_list)
+    homebrew_count_size = 4
+
+    offset_size = 4
+
+    category_size = 1
+    name_length_size = 1
+    summary_length_size = 1
+    author_length_size = 1
+    icon_length_size = 1
+    tag_length_size = 1
+    url_length_size = 1
+    published_at_size = 4
+    size_size = 4
+    homebrew_struct_size = (
+        category_size +
+        name_length_size +
+        offset_size +
+        summary_length_size +
+        offset_size +
+        author_length_size +
+        offset_size +
+        icon_length_size +
+        offset_size +
+        tag_length_size +
+        offset_size +
+        url_length_size +
+        offset_size +
+        published_at_size +
+        size_size
+    )
+    current_offset = homebrew_count_size + (homebrew_count * homebrew_struct_size)
+
+    strings_to_append = []
+    with open(os.path.join(DIST_DIR, "catalog.bin"), "wb") as fd:
+        fd.write(homebrew_count.to_bytes(homebrew_count_size, byteorder='little', signed=False))
+        for homebrew in homebrew_list:
+            last_release = homebrew.get_last_release()
+
+            # Category
+            if homebrew.category == "game":
+                fd.write(int(1).to_bytes(category_size, byteorder='little', signed=False))
+            elif homebrew.category == "emulator":
+                fd.write(int(2).to_bytes(category_size, byteorder='little', signed=False))
+            elif homebrew.category == "application":
+                fd.write(int(3).to_bytes(category_size, byteorder='little', signed=False))
+            else:
+                fd.write(int(1).to_bytes(category_size, byteorder='little', signed=False))
+
+            # Name
+            name_length = len(homebrew.name.encode("utf-8"))
+            fd.write(name_length.to_bytes(name_length_size, byteorder='little', signed=False))
+            fd.write(current_offset.to_bytes(offset_size, byteorder='little', signed=False))
+            strings_to_append.append(homebrew.name)
+            current_offset += name_length
+
+            # Summary
+            summary_length = len(homebrew.summary.encode("utf-8"))
+            fd.write(summary_length.to_bytes(summary_length_size, byteorder='little', signed=False))
+            fd.write(current_offset.to_bytes(offset_size, byteorder='little', signed=False))
+            strings_to_append.append(homebrew.summary)
+            current_offset += summary_length
+
+            # Author
+            author_length = len(homebrew.author.encode("utf-8"))
+            fd.write(author_length.to_bytes(author_length_size, byteorder='little', signed=False))
+            fd.write(current_offset.to_bytes(offset_size, byteorder='little', signed=False))
+            strings_to_append.append(homebrew.author)
+            current_offset += author_length
+
+            # Icon
+            icon_length = len(homebrew.icon.encode("utf-8"))
+            fd.write(icon_length.to_bytes(icon_length_size, byteorder='little', signed=False))
+            fd.write(current_offset.to_bytes(offset_size, byteorder='little', signed=False))
+            strings_to_append.append(homebrew.author)
+            current_offset += icon_length
+
+            # Tag
+            tag_length = len(last_release.tag.encode("utf-8"))
+            fd.write(tag_length.to_bytes(tag_length_size, byteorder='little', signed=False))
+            fd.write(current_offset.to_bytes(offset_size, byteorder='little', signed=False))
+            strings_to_append.append(last_release.tag)
+            current_offset += tag_length
+
+            # Url
+            url_length = len(last_release.url.encode("utf-8"))
+            fd.write(url_length.to_bytes(url_length_size, byteorder='little', signed=False))
+            fd.write(current_offset.to_bytes(offset_size, byteorder='little', signed=False))
+            strings_to_append.append(last_release.url)
+            current_offset += url_length
+
+            # Published_at
+            timestamp = int(datetime.datetime.combine(last_release.published_at, datetime.time()).timestamp())
+            fd.write(timestamp.to_bytes(published_at_size, byteorder='little', signed=False))
+
+            # Size
+            fd.write(last_release.size.to_bytes(size_size, byteorder='little', signed=False))
+
+        for string in strings_to_append:
+            fd.write(string.encode("utf-8"))
+
+
 def create_pages(homebrew_list: list[Homebrew]) -> None:
     env = jinja2.Environment(loader=jinja2.FileSystemLoader(TEMPLATE_DIR))
 
@@ -141,6 +245,7 @@ def main() -> None:
     create_json_catalog(homebrew_list=homebrew_list)
     create_pkgi_catalogs(homebrew_list=homebrew_list)
     create_pkgi_config()
+    create_binary_catalog(homebrew_list=homebrew_list)
     copy_resources()
 
 if __name__ == "__main__":

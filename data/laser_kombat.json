@@ -2,6 +2,7 @@
   "name": "Laser Kombat",
   "id": "laser_kombat",
   "summary": "Shoot all the tanks in a classic puzzle game.",
+  "description": "Laser Kombat was a freeware puzzle game from the late 90s where you have to destroy all enemy tanks with the laser cannon on your tank without ever giving them a direct shot on you. If you get in a line without obstacles between you and an enemy you die, so you'll have to destroy them by using mirrors, explosives and by pushing them into the water.\n\n\nControls:\n- Cross: Fire\n- Circle: Undo the last move\n- Square: Create a save point\n- Triangle: Restore a save point\n- Start: Restart the level\n- L/R: Switch back and forth between levels",
   "author": "sharkwouter",
   "ai_used": false,
   "requires_additional_files": false,

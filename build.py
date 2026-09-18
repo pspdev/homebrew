@@ -225,6 +225,15 @@ def create_pages(homebrew_list: list[Homebrew]) -> None:
             )
 
 
+def copy_json_files() -> None:
+    for file_name in os.listdir(DATA_DIR):
+        file_path = os.path.join(DATA_DIR, file_name)
+        if file_name == "catalog.json":
+            raise Exception(f"No homebrew can have catalog as id, please rename {file_path} to something else")
+        if os.path.isfile(file_path) and file_path.endswith(".json"):
+            shutil.copy2(file_path, DIST_DIR)
+
+
 def copy_resources() -> None:
     for file_name in os.listdir(RESOURCE_DIR):
         file_path = os.path.join(RESOURCE_DIR, file_name)
@@ -246,6 +255,7 @@ def main() -> None:
 
     homebrew_list = get_homebrew_list(data_dir=DATA_DIR)
     create_pages(homebrew_list=homebrew_list)
+    copy_json_files()
     create_json_catalog(homebrew_list=homebrew_list)
     create_pkgi_catalogs(homebrew_list=homebrew_list)
     create_pkgi_config()

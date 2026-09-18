@@ -21,6 +21,13 @@ TEMP_DIR = "temp"
 SCHEMA_DIR = os.path.join(RESOURCE_DIR, "schemas")
 
 
+def get_github_link() -> str:
+    if os.environ.get("CI"):
+        repository = os.environ["GITHUB_REPOSITORY"]
+        return f"https://github.com/{repository}"
+    return "https://github.com/pspdev/homebrew"
+
+
 def create_dist_dir() -> None:
     if os.path.isdir(DIST_DIR):
         for file_name in os.listdir(DIST_DIR):
@@ -210,10 +217,13 @@ def create_pages(homebrew_list: list[Homebrew]) -> None:
     index_file_name = "index.html"
     index_template = env.get_template(index_file_name)
 
+    github_link = get_github_link()
+
     with open(os.path.join(DIST_DIR, index_file_name), "w") as fd:
         fd.write(
             index_template.render(
-                homebrew_list=homebrew_list
+                homebrew_list=homebrew_list,
+                github_link=github_link,
             )
         )
 
@@ -222,7 +232,8 @@ def create_pages(homebrew_list: list[Homebrew]) -> None:
         with open(os.path.join(DIST_DIR, f"{homebrew.id}.html"), "w") as fd:
             fd.write(
                 homebrew_template.render(
-                    homebrew=homebrew
+                    homebrew=homebrew,
+                    github_link=github_link,
                 )
             )
 

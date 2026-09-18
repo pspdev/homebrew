@@ -170,7 +170,7 @@ def create_binary_catalog(homebrew_list: list[Homebrew]) -> None:
             icon_length = len(homebrew.icon.encode("utf-8"))
             fd.write(icon_length.to_bytes(icon_length_size, byteorder='little', signed=False))
             fd.write(current_offset.to_bytes(offset_size, byteorder='little', signed=False))
-            strings_to_append.append(homebrew.author)
+            strings_to_append.append(homebrew.icon)
             current_offset += icon_length
 
             # Tag

@@ -1,6 +1,6 @@
 # PSP Homebrew Database
 
-This repo contains the source for a Playstation Portable homebrew database.
+This repo contains the source for a Playstation Portable homebrew database, which can be used from the web and many homebrew installer applications. Take a look at [https://pspdev.github.io/homebrew/](https://pspdev.github.io/homebrew/).
 
 ## Building the website
 
@@ -99,24 +99,24 @@ The PSP Homebrew Database supports a couple of formats for applications like hom
 
 The [PKGi PSP application](https://github.com/bucanero/pkgi-psp/) has its own custom format that the PSP Homebrew Database supports as well. The specification for it can be found [here](https://github.com/bucanero/pkgi-psp/tree/main#db-formats). The following files belong to it:
 
-- pkgi.txt
-- pkgi_games.txt
-- pkgi_emulators.txt
-- pkgi_applications.txt
-- config.txt
+- [pkgi.txt](https://pspdev.github.io/homebrew/pkgi.txt)
+- [pkgi_games.txt](https://pspdev.github.io/homebrew/pkgi_games.txt)
+- [pkgi_emulators.txt](https://pspdev.github.io/homebrew/pkgi_emulators.txt)
+- [pkgi_applications.txt](https://pspdev.github.io/homebrew/pkgi_applications.txt)
+- [config.txt](https://pspdev.github.io/homebrew/config.txt)
 
 The `pkgi.txt` file contains all homebrews, the other `pkgi_*.txt` files contain only one category of homebrew. The `config.txt` contains where to find `pkgi.txt`, which can be used by PKGi PSP.
 
 ### PSPDX Format
 
-The `catalog.json` file is a format from the [PSPDX standard](https://chriopter.github.io/pspdx/). The full schema for it can be found in [resources/schemas/catalog.schema.json](resources/schemas/catalog.schema.json).
+The `catalog.json` file is a format from the [PSPDX standard](https://chriopter.github.io/pspdx/). The full schema for it can be found in [resources/schemas/catalog.schema.json](resources/schemas/catalog.schema.json). The file can be downloaded from [here](https://pspdev.github.io/homebrew/catalog.json).
 
 ### Custom Binary Catalog
 
 This is the most compact format offered by the PSP Homebrew Database. It is completely custom an available in the following files:
 
-- catalog.bin
-- catalog.bin.gz
+- [catalog.bin](https://pspdev.github.io/homebrew/catalog.bin)
+- [catalog.bin.gz](https://pspdev.github.io/homebrew/catalog.bin.gz)
 
 The `.gz` version contains the same data but gzipped. 
 
@@ -151,9 +151,11 @@ typedef struct {
 
 There is no padding anywhere. Strings are appended at the end of the binary at the offset listed in the homebrew struct. Lengths are in bytes, not characters, as this format has full utf-8 support. All offsets are from the beginning of the file. Strings are not null terminated, so make sure to use the length provided to know how many bytes to read.
 
+**Note:** The `id` string can be used to get the icon, which can always be found at `https://pspdev.github.io/homebrew/icons/{id}.png`.
+
 ### Homebrew specific json files
 
-Each homebrew's json file as found in the `data/` directory of this repo will also be copied to the web root while building.
+Each homebrew's json file as found in the `data/` directory of this repo will also be copied to the web root while building. Names are the same as the `id` field in the other formats. The url to get these files will always be `https://pspdev.github.io/homebrew/{id}.json`
 
 ## License
 

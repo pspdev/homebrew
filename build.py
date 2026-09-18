@@ -72,7 +72,7 @@ def create_pkgi_catalogs(homebrew_list: list[Homebrew]) -> None:
             continue
 
         release = homebrew.releases[0]
-        content_per_category[homebrew.category] += f",{pkgi_type},{homebrew.name},\"{homebrew.summary}\",,{release.url},{release.size},{release.sha256}\n"
+        content_per_category[homebrew.category] += f"{homebrew.id},{pkgi_type},{homebrew.name},\"{homebrew.summary}\",,{release.url},{release.size},{release.sha256}\n"
 
     for category in categories:
         with open(os.path.join(DIST_DIR, f"pkgi_{category}s.txt"), "w") as fd:

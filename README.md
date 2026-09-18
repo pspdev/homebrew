@@ -149,7 +149,7 @@ typedef struct {
 } catalog;
 ```
 
-There is no padding anywhere. Strings are appended at the end of the binary at the offset listed in the homebrew struct. Lengths are in bytes, not characters, as this format has full utf-8 support. All offsets are from the beginning of the file.
+There is no padding anywhere. Strings are appended at the end of the binary at the offset listed in the homebrew struct. Lengths are in bytes, not characters, as this format has full utf-8 support. All offsets are from the beginning of the file. Strings are not null terminated, so make sure to use the length provided to know how many bytes to read.
 
 ### Homebrew specific json files
 

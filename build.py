@@ -158,7 +158,7 @@ def create_binary_catalog(homebrew_list: list[Homebrew]) -> None:
             id_length = len(homebrew.id.encode("utf-8"))
             fd.write(id_length.to_bytes(id_length_size, byteorder='little', signed=False))
             fd.write(current_offset.to_bytes(offset_size, byteorder='little', signed=False))
-            strings_to_append.append(homebrew.icon)
+            strings_to_append.append(homebrew.id)
             current_offset += id_length
 
             # Name

@@ -95,9 +95,60 @@ After creating the file, run the `add-resources-and-info.py` script once. This w
 
 The PSP Homebrew Database supports a couple of formats for applications like homebrew stores to use. Below they will be listed with a description of how to use each.
 
-### catalog.json
+### PKGi format
 
+The [PKGi PSP application](https://github.com/bucanero/pkgi-psp/) has its own custom format that the PSP Homebrew Database supports as well. The specification for it can be found [here](https://github.com/bucanero/pkgi-psp/tree/main#db-formats). The following files belong to it:
 
+- pkgi.txt
+- pkgi_games.txt
+- pkgi_emulators.txt
+- pkgi_applications.txt
+- config.txt
+
+The `pkgi.txt` file contains all homebrews, the other `pkgi_*.txt` files contain only one category of homebrew. The `config.txt` contains where to find `pkgi.txt`, which can be used by PKGi PSP.
+
+### PSPDX Format
+
+The `catalog.json` file is a format from the [PSPDX standard](https://chriopter.github.io/pspdx/). The full schema for it can be found in [resources/schemas/catalog.schema.json](resources/schemas/catalog.schema.json).
+
+### Custom Binary Catalog
+
+This is the most compact format offered by the PSP Homebrew Database. It is completely custom an available in the following files:
+
+- catalog.bin
+- catalog.bin.gz
+
+The `.gz` version contains the same data but gzipped. 
+
+This format represented as a C struct would look like this:
+
+```
+typedef struct __attribute__((__packed__)) {
+   uint8_t category; // can be 1 for game, 2 for emulator, 3 for application
+   uint8_t id_length;
+   uint32_t id_offset;
+   uint8_t name_length;
+   uint32_t name_offset;
+   uint8_t summary_length;
+   uint32_t summary_offset;
+   uint8_t author_length;
+   uint32_t author_offset;
+   uint8_t tag_length;
+   uint32_t tag_offset;
+   uint8_t url_length;
+   uint32_t url_offset;
+   uint32_t published_at;
+   uint32_t download_size;
+} homebrew;
+
+typedef struct {
+   uint32_t homebrew_count;
+   homebrew * homebrew_list;
+   uint8_t * homebrew_strings;
+} catalog;
+```
+
+There is no padding anywhere. Strings are appended at the end of the binary at the offset listed in the homebrew struct. Lengths are in bytes, not characters, as this format has full utf-8 support. All offsets are from the beginning of the file.
 
 ## License
 

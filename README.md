@@ -93,7 +93,7 @@ After creating the file, run the `add-resources-and-info.py` script once. This w
 
 ## Using the homebrew database data in applications
 
-The PSP Homebrew Database supports a couple of formats for applications like homebrew stores to use. Below they will be listed with a description of how to use each.
+The PSP Homebrew Database supports a couple of formats for applications like homebrew stores to use. In every single format, the homebrew list is returned by last updated with the newest at the top. Below they will be listed with a description of how to use each.
 
 ### PKGi format
 
@@ -124,7 +124,7 @@ This format represented as a C struct would look like this:
 
 ```
 typedef struct __attribute__((__packed__)) {
-   uint8_t category; // can be 1 for game, 2 for emulator, 3 for application
+   uint8_t category;  // can be 1 for game, 2 for emulator, 3 for application
    uint8_t id_length;
    uint32_t id_offset;
    uint8_t name_length;
@@ -142,6 +142,7 @@ typedef struct __attribute__((__packed__)) {
 } homebrew;
 
 typedef struct {
+   uint32_t creation_date;  // Unix timestamp for when the catalog was last updated
    uint32_t homebrew_count;
    homebrew * homebrew_list;
    uint8_t * homebrew_strings;
@@ -149,6 +150,10 @@ typedef struct {
 ```
 
 There is no padding anywhere. Strings are appended at the end of the binary at the offset listed in the homebrew struct. Lengths are in bytes, not characters, as this format has full utf-8 support. All offsets are from the beginning of the file.
+
+### Homebrew specific json files
+
+Each homebrew's json file as found in the `data/` directory of this repo will also be copied to the web root while building.
 
 ## License
 

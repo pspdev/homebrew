@@ -96,6 +96,7 @@ def create_pkgi_config() -> None:
 
 
 def create_binary_catalog(homebrew_list: list[Homebrew]) -> None:
+    creation_time_size = 4
     homebrew_count = len(homebrew_list)
     homebrew_count_size = 4
 
@@ -127,10 +128,11 @@ def create_binary_catalog(homebrew_list: list[Homebrew]) -> None:
         published_at_size +
         size_size
     )
-    current_offset = homebrew_count_size + (homebrew_count * homebrew_struct_size)
+    current_offset = creation_time_size + homebrew_count_size + (homebrew_count * homebrew_struct_size)
 
     strings_to_append = []
     with open(os.path.join(DIST_DIR, "catalog.bin"), "w+b") as fd:
+        fd.write(int(datetime.datetime.now().timestamp()).to_bytes(creation_time_size, byteorder='little', signed=False))
         fd.write(homebrew_count.to_bytes(homebrew_count_size, byteorder='little', signed=False))
         for homebrew in homebrew_list:
             last_release = homebrew.get_last_release()

@@ -91,6 +91,14 @@ Here is a description for each field in a release:
 
 After creating the file, run the `add-resources-and-info.py` script once. This will add the icon and information like the md5 checksum of the `EBOOT.PBP` and the sha256 checksum and sie of the archive for each release. If this wasn't done, the build will fail.
 
+## Using the homebrew database data in applications
+
+The PSP Homebrew Database supports a couple of formats for applications like homebrew stores to use. Below they will be listed with a description of how to use each.
+
+### catalog.json
+
+
+
 ## License
 
 This repo is licensed under the unlicense: 

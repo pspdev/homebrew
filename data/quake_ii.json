@@ -1,0 +1,29 @@
+{
+  "name": "Quake II",
+  "id": "quake_ii",
+  "summary": "PSP port of the game.",
+  "author": "Emergency Exit, Titan",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Multiplayer Beta 3",
+      "url": "https://archive.org/download/quake2-psp-beta.7z/quake2mp3full.zip",
+      "published_at": "2007-07-17",
+      "size": 51201597,
+      "sha256": "805232e1aa9d3492869650fbf1980d99daaef4a53227fe5a2c2144249acada06",
+      "eboot_md5": "ad4ff9fb28c4db89de006287d45cdd94"
+    }
+  ],
+  "tags": [
+    "PSP 30 Day Coding Competition #2 (2005-2006)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/quake2-psp-beta.7z/QUAK01426_00000.jpg"
+    ],
+    "icon": "icons/quake_ii.png"
+  },
+  "languages": []
+}

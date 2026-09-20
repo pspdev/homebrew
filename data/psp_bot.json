@@ -1,0 +1,29 @@
+{
+  "name": "PSP Bot",
+  "id": "psp_bot",
+  "summary": "Homebrew game for PSP.",
+  "author": "Cl\u00e9ment Gu\u00e9rin (Geecko)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/psp-bot.-7z/PSP_Bot.zip",
+      "published_at": "2010-08-20",
+      "size": 420536,
+      "sha256": "ab15f67375591af49cf799388c4a21cb398f6f1aaacc7d74588695a2d92809d9",
+      "eboot_md5": "200ba15296c8e159c4bf0ed3f346214e"
+    }
+  ],
+  "tags": [
+    "NEO Retro Coding Compo 2010"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-bot.-7z/PSP_00631_00001.png"
+    ],
+    "icon": "icons/psp_bot.png"
+  },
+  "languages": []
+}

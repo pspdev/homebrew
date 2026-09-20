@@ -1,0 +1,27 @@
+{
+  "name": "PSP-Heretic",
+  "id": "psp-heretic",
+  "summary": "PSP port of the game. Shareware version included.",
+  "author": "Nitr8",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "R1",
+      "url": "https://archive.org/download/psp-heretic.7z/psp-heretic.zip",
+      "published_at": "2014-01-01",
+      "size": 4467609,
+      "sha256": "2e3aedf73e579cf8d87468474056e7b3db5eb34c5664f3f51b4a9c4cf953cf1d",
+      "eboot_md5": "696a76a2067b355aa3822b11eea3e4de"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-heretic.7z/PSP-01124_00000.png"
+    ],
+    "icon": "icons/psp-heretic.png"
+  },
+  "languages": []
+}

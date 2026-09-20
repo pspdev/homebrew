@@ -1,0 +1,27 @@
+{
+  "name": "Heretic",
+  "id": "heretic",
+  "summary": "PSP port of the game. Shareware version included.",
+  "author": "Sherpya",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/heretic-0.2.7z/heretic-0.2.zip",
+      "published_at": "2005-10-19",
+      "size": 2866562,
+      "sha256": "7a62f92807df6f6ffba43aa6ee4e40c19bcae5d24c02296ef8676f4bfe5598e9",
+      "eboot_md5": "19ee083f4f29e2a8772052d233a462d6"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/heretic-0.2.7z/HERE00740_00000.jpg"
+    ],
+    "icon": "icons/heretic.png"
+  },
+  "languages": []
+}

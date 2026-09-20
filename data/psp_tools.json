@@ -1,0 +1,29 @@
+{
+  "name": "PSP Tools",
+  "id": "psp_tools",
+  "summary": "Collection of system utilities for PSP.",
+  "author": "Acid Snake",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "Beta 0.2",
+      "url": "https://archive.org/download/psptools.7z/PSPToolsBeta0.2.zip",
+      "published_at": "2012-01-01",
+      "size": 11108445,
+      "sha256": "ae56b1ee4c695a3438a584c2f9fb96742f2b19b9bf93d87a29e775f4a7c15e9b",
+      "eboot_md5": "1f7f3313a7758307e0e20238ad602dbf"
+    }
+  ],
+  "tags": [
+    "python"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psptools.7z/PSPT01296_00000.png"
+    ],
+    "icon": "icons/psp_tools.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Cible Attack",
+  "id": "cible_attack",
+  "summary": "Target shooting game.",
+  "author": "Team HCN",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0 D3",
+      "url": "https://archive.org/download/cible-attack.-7z/CibleAttack.zip",
+      "published_at": "2010-11-30",
+      "size": 3325240,
+      "sha256": "4ea2d694c7f3de84b8660596d38bc773887ecec2ff050dab26368d78ac67a73e",
+      "eboot_md5": "a6cf42b98ba71d529a2cb1b51335f47f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/cible-attack.-7z/CIBL01079_00002.png"
+    ],
+    "icon": "icons/cible_attack.png"
+  },
+  "languages": []
+}

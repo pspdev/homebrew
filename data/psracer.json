@@ -1,0 +1,27 @@
+{
+  "name": "PSRacer",
+  "id": "psracer",
+  "summary": "Simple racing game for PSP.",
+  "author": "xslayer91",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.05",
+      "url": "https://archive.org/download/psracer.-7z/PSRacer.zip",
+      "published_at": "2007-01-15",
+      "size": 132642,
+      "sha256": "fa0f5623473d04829ee3cfa52ca8c932622e4200bfaa4017ac8707757855d3ce",
+      "eboot_md5": "264ff263ab8e9bf118be4f55eba3237c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psracer.-7z/PSRA00656_00000.jpg"
+    ],
+    "icon": "icons/psracer.png"
+  },
+  "languages": []
+}

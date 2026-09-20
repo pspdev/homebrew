@@ -1,0 +1,27 @@
+{
+  "name": "rRootage",
+  "id": "rrootage",
+  "summary": "Port of Kenta Cho's PC shooter, rRootage.",
+  "author": "Denis Televnyy (Deniska)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/rrootage/rrootage.zip",
+      "published_at": "2005-12-07",
+      "size": 4750419,
+      "sha256": "6d97acc0a51ec36dbe8d696082356f820e6af91fcac2be24f4398b0b223a2cfd",
+      "eboot_md5": "a4030f69b37e2ca75e1e173a8c13d2de"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/rrootage/RROO00867_00002.png"
+    ],
+    "icon": "icons/rrootage.png"
+  },
+  "languages": []
+}

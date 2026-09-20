@@ -1,0 +1,27 @@
+{
+  "name": "Frogger",
+  "id": "frogger",
+  "summary": "Reach the other side of the road.",
+  "author": "wilhel1812, sharko",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/frogger.-7z/Frogger.zip",
+      "published_at": "2006-05-17",
+      "size": 2554622,
+      "sha256": "70ce7adb3f3f7cfa81999ba478a2eb3029a943bdff90093badd1f5bad7ee8632",
+      "eboot_md5": "5799b30ca33ba44c4369452620315b49"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/frogger.-7z/FROG00716_00000.jpg"
+    ],
+    "icon": "icons/frogger.png"
+  },
+  "languages": []
+}

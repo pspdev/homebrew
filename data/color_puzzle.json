@@ -1,0 +1,27 @@
+{
+  "name": "Color Puzzle",
+  "id": "color_puzzle",
+  "summary": "Fill the scren with your color, without getting stuck.",
+  "author": "AbE",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/colo-01193-00000/colorpuzzle.zip",
+      "published_at": "2006-10-16",
+      "size": 155818,
+      "sha256": "b25b0b728192624c4130d8560b60f1c7a05f9f2807d4efca1095ed8e3bc428ef",
+      "eboot_md5": "32e5148ef42b19048f0bb808170a7e13"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/colo-01193-00000/COLO01225_00000.png"
+    ],
+    "icon": "icons/color_puzzle.png"
+  },
+  "languages": []
+}

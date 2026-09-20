@@ -1,0 +1,27 @@
+{
+  "name": "PSP Racer",
+  "id": "psp_racer",
+  "summary": "Homebrew game for PSP.",
+  "author": "Benja32, PSP_maniac",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.01 Beta",
+      "url": "https://archive.org/download/psp_racer_0.01_beta_version.7z/psp_racer_0.01_beta_version.zip",
+      "published_at": "2006-07-16",
+      "size": 4222349,
+      "sha256": "40816650201f92560264db6653d92c5a52a4a5f87143ae5cddb50f9909321f1a",
+      "eboot_md5": "41a335c66bf94f2f569b37009f349441"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp_racer_0.01_beta_version.7z/PSP_02621_00000.jpg"
+    ],
+    "icon": "icons/psp_racer.png"
+  },
+  "languages": []
+}

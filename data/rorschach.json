@@ -1,0 +1,28 @@
+{
+  "name": "Rorschach",
+  "id": "rorschach",
+  "summary": "Detective-adventure game for PSP.",
+  "author": "Jens Andersson, Ida R\u00f6d\u00e9n",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.91",
+      "url": "https://archive.org/download/rorschach_psp_0_91.7z/rorschach_psp_0_91.zip",
+      "published_at": "2007-10-29",
+      "size": 8704031,
+      "sha256": "0b825c0be24daf5c3c2ab63ca7f5de7cd573a544d720f71e3d7da2eb29592654",
+      "eboot_md5": "d372730c59cac61606b3568ec8b6d316"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/rorschach_psp_0_91.7z/RORS01735_00000.jpg",
+      "https://archive.org/download/rorschach_psp_0_91.7z/RORS01735_00001.jpg"
+    ],
+    "icon": "icons/rorschach.png"
+  },
+  "languages": []
+}

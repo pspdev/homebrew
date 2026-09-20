@@ -1,0 +1,29 @@
+{
+  "name": "Echeri",
+  "id": "echeri",
+  "summary": "Dodging game for PSP.",
+  "author": "Guillermo E. Mendez, Guillermo Becerra, fco_otaku",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.5",
+      "url": "https://archive.org/download/echeri.-7z/Echeri.zip",
+      "published_at": "2009-01-01",
+      "size": 1551168,
+      "sha256": "8a28ff93cd3059fda99ba11cf992831dfce2e083f478d70b4f27727d08a5002b",
+      "eboot_md5": "56dcf382c758677d9a73df30efb95a1e"
+    }
+  ],
+  "tags": [
+    "Scenery Beta 2009"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/echeri.-7z/ECHE00592_00003.jpg"
+    ],
+    "icon": "icons/echeri.png"
+  },
+  "languages": []
+}

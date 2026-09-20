@@ -1,0 +1,27 @@
+{
+  "name": "DSONPSP Unofficial",
+  "id": "dsonpsp_unofficial",
+  "summary": "Nintendo DS emulator for PSP.",
+  "author": "Jonlimle",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/dsonpspunnoficial01.7z/dsonpspunnoficial01.zip",
+      "published_at": "2010-05-19",
+      "size": 2308434,
+      "sha256": "7e83c6935c6e46dec62bfbfcf651efef58dd0b31a8bd79d389474c394581d386",
+      "eboot_md5": "923cd46ae7dde7696d7e4c6e7a3c1139"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/dsonpspunnoficial01.7z/DSON01936_00000.png"
+    ],
+    "icon": "icons/dsonpsp_unofficial.png"
+  },
+  "languages": []
+}

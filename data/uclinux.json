@@ -1,0 +1,27 @@
+{
+  "name": "uClinux",
+  "id": "uclinux",
+  "summary": "Linux distribution able to run on PSP.",
+  "author": "Jackson Mo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.22",
+      "url": "https://archive.org/download/uClinux.7z/uclinux_on_psp-0.22.zip",
+      "published_at": "2008-02-03",
+      "size": 1097797,
+      "sha256": "7e5b09c896d36b8c4d951bf9fdedbd1cf57dbf0e2343b035370b73ac71a0c354",
+      "eboot_md5": "a8ebd81d22545349a20f3a8e35b74b3e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/uClinux.7z/screenshot0007.png"
+    ],
+    "icon": "icons/uclinux.png"
+  },
+  "languages": []
+}

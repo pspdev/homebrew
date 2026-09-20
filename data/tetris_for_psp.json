@@ -1,0 +1,27 @@
+{
+  "name": "Tetris for PSP",
+  "id": "tetris_for_psp",
+  "summary": "PSP version of the game. A version 1.3 is known to exist, but is currently missing.",
+  "author": "teruterubouzuuu",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/tetrispsp.-7z/TETRISPSP.zip",
+      "published_at": "2006-07-23",
+      "size": 570547,
+      "sha256": "dc5ae6124c3551409249a2caeb470c0f4d0a7056d22f8066a24f54510d81b215",
+      "eboot_md5": "88071210fd8fa4dd8e0bb612875bc3b0"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/tetrispsp.-7z/TETR00718_00000.jpg"
+    ],
+    "icon": "icons/tetris_for_psp.png"
+  },
+  "languages": []
+}

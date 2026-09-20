@@ -1,0 +1,27 @@
+{
+  "name": "psp\u626b\u96f7",
+  "id": "psp\u626b\u96f7",
+  "summary": "PSP version of Minesweeper.",
+  "author": "tbhf",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.7",
+      "url": "https://archive.org/download/psp-mine.7z/psp-mine.zip",
+      "published_at": "2008-06-15",
+      "size": 3308629,
+      "sha256": "28ca1dd19df4ef0a19cc175fdab79611bb30caa3818b19a3f80ce68075823092",
+      "eboot_md5": "e9e850c4beb0970b4aa5db0174917571"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-mine.7z/PSP-00809_00000.jpg"
+    ],
+    "icon": "icons/psp\u626b\u96f7.png"
+  },
+  "languages": []
+}

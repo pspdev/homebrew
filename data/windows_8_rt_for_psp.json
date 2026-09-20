@@ -1,0 +1,27 @@
+{
+  "name": "Windows 8 RT For PSP",
+  "id": "windows_8_rt_for_psp",
+  "summary": "UI shell for PSP.",
+  "author": "Doga Ozkaraca",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/projectsmyrna-dogaozkaraca-Win8forpspv1.2/projectsmyrna-dogaozkaraca-Win8forpspv1.2.zip",
+      "published_at": "2012-01-01",
+      "size": 49363750,
+      "sha256": "80fc56b5fdd1cab58fcd2c1965b7fa74666565ba341af452c38c108cff1266af",
+      "eboot_md5": "8a59493169bfee21801a745d4d431569"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/projectsmyrna-dogaozkaraca-Win8forpspv1.2/EBOO00926_00000.png"
+    ],
+    "icon": "icons/windows_8_rt_for_psp.png"
+  },
+  "languages": []
+}

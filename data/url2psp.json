@@ -1,0 +1,27 @@
+{
+  "name": "URL2PSP",
+  "id": "url2psp",
+  "summary": "Homebrew app for PSP.",
+  "author": "David Beyer",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "01.1",
+      "url": "https://archive.org/download/url2pspv011.7z/url2pspv011.zip",
+      "published_at": "2006-01-01",
+      "size": 661461,
+      "sha256": "e1b8faf7c13c4c2fd011f0659068801208771e0876802e5e3e051659a4f8588e",
+      "eboot_md5": "834e347fc662a786d99e2c2d87334f9d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/url2pspv011.7z/URL200992_00000.png"
+    ],
+    "icon": "icons/url2psp.png"
+  },
+  "languages": []
+}

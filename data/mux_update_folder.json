@@ -1,0 +1,27 @@
+{
+  "name": "MUX Update Folder",
+  "id": "mux_update_folder",
+  "summary": "Homebrew app for PSP.",
+  "author": "KingSebo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.1",
+      "url": "https://archive.org/download/mux-2-1-by-king-sebo.-7z/MUX_2_1_byKingSebo.zip",
+      "published_at": "2008-01-01",
+      "size": 105587,
+      "sha256": "d91ccce7d6572812863a3d75861a13e8fbabff6004fdf1511098ce8c9e1a781d",
+      "eboot_md5": "6094a06e5324c5a9761cf6c9a98d6aa0"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mux-2-1-by-king-sebo.-7z/20210708221714.png"
+    ],
+    "icon": "icons/mux_update_folder.png"
+  },
+  "languages": []
+}

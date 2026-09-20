@@ -1,0 +1,27 @@
+{
+  "name": "PicoDrive \u6c49\u5316\u7248",
+  "id": "picodrive_\u6c49\u5316\u7248",
+  "summary": "Chinese version of the Megadrive / Genesis emulator for PSP.",
+  "author": "tensai_wang",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/pico-drive-cn-bin.-7z/PicoDriveCN-BIN.zip",
+      "published_at": "2010-09-23",
+      "size": 928589,
+      "sha256": "4c48383bff1e7b069fa37b166ea4bb11f27c369cdcd9aa258999177c21ab8b89",
+      "eboot_md5": "fb325978cfbf998ec22a507260e0e401"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pico-drive-cn-bin.-7z/PICO01308_00000.jpg"
+    ],
+    "icon": "icons/picodrive_\u6c49\u5316\u7248.png"
+  },
+  "languages": []
+}

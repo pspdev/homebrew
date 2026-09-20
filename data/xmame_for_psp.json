@@ -1,0 +1,27 @@
+{
+  "name": "xmame for PSP",
+  "id": "xmame_for_psp",
+  "summary": "This MAME port only works with four games: omegaf, darius, nova2001, vanguard.",
+  "author": "\u7a32\u5c3e\u69d8 (Inao-sama)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.1.2",
+      "url": "https://archive.org/download/mame.-7z/MAME.zip",
+      "published_at": "2005-06-11",
+      "size": 515041,
+      "sha256": "48b59d78dcc23009820b61dbdc7b51facde408424e3aa4b7fb1873b0105d69ad",
+      "eboot_md5": "178a68713b07dd90e4f8285ecddb9d66"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mame.-7z/EBOO00649_00000.jpg"
+    ],
+    "icon": "icons/xmame_for_psp.png"
+  },
+  "languages": []
+}

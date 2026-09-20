@@ -1,0 +1,27 @@
+{
+  "name": "Pixie Ebook Reader",
+  "id": "pixie_ebook_reader",
+  "summary": "Ebook reader for PSP.",
+  "author": "Sasq",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "Beta 2b",
+      "url": "https://archive.org/download/pixi-01600-00000/Pixie_psp_beta2b.zip",
+      "published_at": "2005-07-11",
+      "size": 2161679,
+      "sha256": "ffd26d54e41df90d40ffebcbc0de81f345e18e523645d3afda8a5e7b90a8e4e1",
+      "eboot_md5": "45a155090e22c44e79f582a721ab89c0"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pixi-01600-00000/PIXI01600_00000.jpg"
+    ],
+    "icon": "icons/pixie_ebook_reader.png"
+  },
+  "languages": []
+}

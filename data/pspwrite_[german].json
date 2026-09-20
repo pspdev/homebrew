@@ -1,0 +1,27 @@
+{
+  "name": "PSPWrite [German]",
+  "id": "pspwrite_[german]",
+  "summary": "German-language version of the homebrew text editor.",
+  "author": "Ludovic Jacomme (Zx-81), SpeedProg",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.2.0 DE 1.1",
+      "url": "https://archive.org/download/pspwrite-v-1.2.0-fw-4x-de-v-1.1.7z/PSPWRITE-v1.2.0-fw4x_DE-v1.1.zip",
+      "published_at": "2008-01-01",
+      "size": 1549411,
+      "sha256": "65760c8e1e0e02dde57e3c3e64f61b56880d1bd6cc532908769b9e973a1e1886",
+      "eboot_md5": "34dcd223682ddd2fa0160d647888c9e2"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspwrite-v-1.2.0-fw-4x-de-v-1.1.7z/PSPW02017_00001.jpg"
+    ],
+    "icon": "icons/pspwrite_[german].png"
+  },
+  "languages": []
+}

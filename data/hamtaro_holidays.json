@@ -1,0 +1,30 @@
+{
+  "name": "Hamtaro Holidays",
+  "id": "hamtaro_holidays",
+  "summary": "Virtual pet game for PSP.",
+  "author": "Leviadragon",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/tama-relase.-7z/Tama_Relase.zip",
+      "published_at": "2011-08-23",
+      "size": 7370087,
+      "sha256": "8c44208a3c24608f48f2964a90d21f92f2f93ad876886b5a75af31aa8f250352",
+      "eboot_md5": "bed57777de638d610adebcbf0299db9b"
+    }
+  ],
+  "tags": [
+    "NEO Summer Coding Compo 2007",
+    "NEO Retro Coding Compo 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/tama-relase.-7z/TAMA01086_00001.png"
+    ],
+    "icon": "icons/hamtaro_holidays.png"
+  },
+  "languages": []
+}

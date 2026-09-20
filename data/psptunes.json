@@ -1,0 +1,27 @@
+{
+  "name": "pspTunes",
+  "id": "psptunes",
+  "summary": "Music player for PSP.",
+  "author": "Gamma Ray",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1",
+      "url": "https://archive.org/download/psptunes.-7z/PSPTUNES.zip",
+      "published_at": "2010-07-04",
+      "size": 10160169,
+      "sha256": "3582ff1a219f85f1787cda1e21dbc073c949bf394d3db4550a95a173cfad3033",
+      "eboot_md5": "4366faaec85d88ec6736ea8cdecbb38c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psptunes.-7z/pic_0000.png"
+    ],
+    "icon": "icons/psptunes.png"
+  },
+  "languages": []
+}

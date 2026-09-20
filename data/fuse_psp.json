@@ -1,0 +1,27 @@
+{
+  "name": "Fuse PSP",
+  "id": "fuse_psp",
+  "summary": "Sinclair ZX Spectrum emulator for PSP.",
+  "author": "Akop Karapetyan",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.10.0.21",
+      "url": "https://archive.org/download/fuse.7z/fuse.zip",
+      "published_at": "2009-04-07",
+      "size": 846581,
+      "sha256": "f7c32c598fc9d15e5e5f457c07d1df2813495e0ec21298a8d5e4639d9d303c91",
+      "eboot_md5": "138f03c9787d04e1c63ffcd0f5dab20c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/fuse.7z/FUSE00435_00001.png"
+    ],
+    "icon": "icons/fuse_psp.png"
+  },
+  "languages": []
+}

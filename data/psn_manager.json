@@ -1,0 +1,29 @@
+{
+  "name": "PSN Manager",
+  "id": "psn_manager",
+  "summary": "PlayStation Network License Manager.",
+  "author": "Light_AleX",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.40",
+      "url": "https://archive.org/download/psnmgr-0.30.7z/PSNMGR0.40.zip",
+      "published_at": "2009-01-01",
+      "size": 511256,
+      "sha256": "b39aaf1a27e85e251597e24f5fc9b0fb31b22d74360dcd23b2309c4dde008fc4",
+      "eboot_md5": "aa2f4fe9d846ed96e07c8583faf3c982"
+    }
+  ],
+  "tags": [
+    "NEO 2009 Summer Compo"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psnmgr-0.30.7z/pic_0000.png"
+    ],
+    "icon": "icons/psn_manager.png"
+  },
+  "languages": []
+}

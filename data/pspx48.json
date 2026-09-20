@@ -1,0 +1,27 @@
+{
+  "name": "PSPX48",
+  "id": "pspx48",
+  "summary": "HP48 Calculator emulator for PSP.",
+  "author": "Ludovic Jacomme (Zx-81)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.1.0",
+      "url": "https://archive.org/download/pspx48.7z/pspx48.zip",
+      "published_at": "2007-10-07",
+      "size": 1046682,
+      "sha256": "3c4455815fefc365ac6713f002f757b20c50c6eea4c0b1900a1855be0e9c3cb4",
+      "eboot_md5": "359b353780c38bc019b2594e4dc1b1dd"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspx48.7z/snap.png"
+    ],
+    "icon": "icons/pspx48.png"
+  },
+  "languages": []
+}

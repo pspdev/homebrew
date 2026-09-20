@@ -1,0 +1,27 @@
+{
+  "name": "Dual Tetris",
+  "id": "dual_tetris",
+  "summary": "Tetris on PSP.",
+  "author": "PSPEPE",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/dualtetris2.0.7z/dualtetris2.0.zip",
+      "published_at": "2005-08-15",
+      "size": 5715520,
+      "sha256": "a78c4622cc8ad6412b42d337e5bf8cae59fcb94e952991154a6e8b67849d23c9",
+      "eboot_md5": "e29650cc450da11749a2f46dc8cbacc9"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/dualtetris2.0.7z/EBOO00649_00000.png"
+    ],
+    "icon": "icons/dual_tetris.png"
+  },
+  "languages": []
+}

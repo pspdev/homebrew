@@ -1,0 +1,27 @@
+{
+  "name": "Dr. Mario PSP",
+  "id": "dr._mario_psp",
+  "summary": "Fan game for PSP.",
+  "author": "mikehaggar99",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.3",
+      "url": "https://archive.org/download/dr-mariov-0-3.7z/DrMariov0-3.zip",
+      "published_at": "2005-09-19",
+      "size": 1002855,
+      "sha256": "4e8d4c8519f40c625346ab5024b2653d60c80cf8c7dd2966ed146970e3f1f004",
+      "eboot_md5": "0628e630c5d545bd3c6f4339a144b716"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/dr-mariov-0-3.7z/DRMA00948_00000.jpg"
+    ],
+    "icon": "icons/dr._mario_psp.png"
+  },
+  "languages": []
+}

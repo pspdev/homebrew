@@ -1,0 +1,27 @@
+{
+  "name": "P-Tester",
+  "id": "p-tester",
+  "summary": "Test utility for PSP.",
+  "author": "Avanaboy",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/p-tester.-7z/P-TESTER.zip",
+      "published_at": "2012-03-18",
+      "size": 819896,
+      "sha256": "9c676b9ea9f2bbe688c2df8300a8dc32ba81de05cfd9e622912544e4be9675b1",
+      "eboot_md5": "bac457227cc46bec71d48344df8fbe5e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/p-tester.-7z/P-TE00596_00000.jpg"
+    ],
+    "icon": "icons/p-tester.png"
+  },
+  "languages": []
+}

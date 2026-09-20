@@ -1,0 +1,27 @@
+{
+  "name": "PSP VecX",
+  "id": "psp_vecx",
+  "summary": "Vectrex emulator for PSP.",
+  "author": "Samstag",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.51",
+      "url": "https://archive.org/download/pspvecx.7z/pspvecx.zip",
+      "published_at": "2006-09-18",
+      "size": 6488636,
+      "sha256": "dbe2651baf229b5f2b730260e2006e5b5e88e13a8ad5d400c7506d9499660cc3",
+      "eboot_md5": "d0c408e3af2d59ad2e552efda429689e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspvecx.7z/PSPV00777_00002.jpg"
+    ],
+    "icon": "icons/psp_vecx.png"
+  },
+  "languages": []
+}

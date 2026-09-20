@@ -1,0 +1,27 @@
+{
+  "name": "Cheatworks PSP Type S",
+  "id": "cheatworks_psp_type_s",
+  "summary": "Homebrew app for PSP.",
+  "author": "Tsukasa Ooi (lS[UMD/2kdlSU])",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.10 Beta 1a",
+      "url": "https://archive.org/download/cheatworks-psp-s_010beta1a.7z/cheatworks-psp-s_010beta1a.zip",
+      "published_at": "2006-01-05",
+      "size": 437561,
+      "sha256": "b540fec57df416385a1c9de784273c410d93d6efa0088dea239163f1ac577672",
+      "eboot_md5": "3b4dce77e0389fb63fa7e20603f81641"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/cheatworks-psp-s_010beta1a.7z/20210804205531.png"
+    ],
+    "icon": "icons/cheatworks_psp_type_s.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "DTMF Touch Tone Dialer",
+  "id": "dtmf_touch_tone_dialer",
+  "summary": "Homebrew app for PSP.",
+  "author": "Brek Martin (Art)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "3",
+      "url": "https://archive.org/download/dial.7z/dial.zip",
+      "published_at": "2008-02-14",
+      "size": 6027822,
+      "sha256": "881d94e07fac65ae91914c970372c32424781bdd03aa47aa5e454f1ed563b32f",
+      "eboot_md5": "91d5eae93b55bd74a03a6e03101a83fa"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/dial.7z/DIAL00410_00000.jpg"
+    ],
+    "icon": "icons/dtmf_touch_tone_dialer.png"
+  },
+  "languages": []
+}

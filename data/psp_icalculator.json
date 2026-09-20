@@ -1,0 +1,27 @@
+{
+  "name": "PSP iCalculator",
+  "id": "psp_icalculator",
+  "summary": "Calculator app for PSP.",
+  "author": "Xandu",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/pspicalc10.7z/pspicalc10.zip",
+      "published_at": "2006-10-21",
+      "size": 2375182,
+      "sha256": "2a2ca02ef8ecf2728cbd8c50e1cccda40a38aaa29de337ebcb92ee6f202916ae",
+      "eboot_md5": "0b1d116baf96c161c0fdd2ae4d1c4ba5"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspicalc10.7z/ICAL01139_00000.jpg"
+    ],
+    "icon": "icons/psp_icalculator.png"
+  },
+  "languages": []
+}

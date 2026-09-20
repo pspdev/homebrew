@@ -1,0 +1,30 @@
+{
+  "name": "Mobile Assault",
+  "id": "mobile_assault",
+  "summary": "Control an attack helicopter to destroy targets; homebrew game for PSP. Early builds are known as Apollonia.",
+  "author": "Code Tactics",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.8.2",
+      "url": "https://archive.org/download/mobileassault.7z_202101/mobileassault.zip",
+      "published_at": "2012-04-14",
+      "size": 6154779,
+      "sha256": "c687c03d563d149f32872460b5a5cfea7885d326f6d229cdbd2df5162ee10bda",
+      "eboot_md5": "a6f0d1e6150dcd55a19812540588b864"
+    }
+  ],
+  "tags": [
+    "NEO Spring Coding Compo 2009",
+    "Homebrew Idol 2 (2009)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mobileassault.7z_202101/MOBI01397_00001.jpg"
+    ],
+    "icon": "icons/mobile_assault.png"
+  },
+  "languages": []
+}

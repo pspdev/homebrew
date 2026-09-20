@@ -1,0 +1,27 @@
+{
+  "name": "s4inexCraft",
+  "id": "s4inexcraft",
+  "summary": "Fan version of Minecraft for PSP.",
+  "author": "Marcin Ploska, S4inex",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.2",
+      "url": "https://archive.org/download/lamecraft.-7z/S4inexCraft.zip",
+      "published_at": "2013-01-01",
+      "size": 20274012,
+      "sha256": "e7bdd522be79de7fad0c599a29e188d2c97fc2d146646f7b11f0e16f0670d641",
+      "eboot_md5": "2588958c60ce3dc91de163cf0278eba3"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lamecraft.-7z/LAME00911_00000.jpg"
+    ],
+    "icon": "icons/s4inexcraft.png"
+  },
+  "languages": []
+}

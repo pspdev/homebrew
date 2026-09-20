@@ -1,0 +1,29 @@
+{
+  "name": "PSP Vi",
+  "id": "psp_vi",
+  "summary": "Text editor for the PalmOne Universal Keyboard.",
+  "author": "Nullkill",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.02a",
+      "url": "https://archive.org/download/psp-vi.-7z/PSP_VI.zip",
+      "published_at": "2007-01-23",
+      "size": 185093,
+      "sha256": "2f1a700aee7fcb8cb0f43bca4751850deb465521857f72f162811e513f728e2c",
+      "eboot_md5": "a64c050748fd9bb9ed4d6ccdb1e3faf2"
+    }
+  ],
+  "tags": [
+    "IrDA"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-vi.-7z/EBOO00649_00000.jpg"
+    ],
+    "icon": "icons/psp_vi.png"
+  },
+  "languages": []
+}

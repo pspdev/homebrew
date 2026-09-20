@@ -1,0 +1,27 @@
+{
+  "name": "Reverb",
+  "id": "reverb",
+  "summary": "Homebrew game for PSP.",
+  "author": "Chrisp6825",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/reverb-1.2.7z/Reverb1.2.zip",
+      "published_at": "2008-06-05",
+      "size": 7438948,
+      "sha256": "751bafe69b01eceef85656ed3bf895584cae9657c9a884a6c8fc0e335199550b",
+      "eboot_md5": "09a7a48e41007bc98d981f1ee770bfb6"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/reverb-1.2.7z/REVE00759_00000.jpg"
+    ],
+    "icon": "icons/reverb.png"
+  },
+  "languages": []
+}

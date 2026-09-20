@@ -1,0 +1,27 @@
+{
+  "name": "Diamond",
+  "id": "diamond",
+  "summary": "Homebrew game for PSP.",
+  "author": "Illusion",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1 Beta",
+      "url": "https://archive.org/download/diamond.7z/diamond.zip",
+      "published_at": "2008-03-23",
+      "size": 2772614,
+      "sha256": "3a79cb38980dfdf34418efd5f06c6907ba817d042b6ab0356f87ad79f44d5911",
+      "eboot_md5": "077be61ef9304686b7c8d58dc73bb7cf"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/diamond.7z/DIAM00732_00000.jpg"
+    ],
+    "icon": "icons/diamond.png"
+  },
+  "languages": []
+}

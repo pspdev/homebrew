@@ -1,0 +1,27 @@
+{
+  "name": "PicoDrive [Russian]",
+  "id": "picodrive_[russian]",
+  "summary": "Russian-language version of the Megadrive / Genesis emulator for PSP.",
+  "author": "Re-Education",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.51b",
+      "url": "https://archive.org/download/pico-drive-rus.-7z/PicoDrive_Rus.zip",
+      "published_at": "2016-04-18",
+      "size": 1214421,
+      "sha256": "25d0b922444e9141355fe2d025aa364cd319d8d785ead8fa396b219d9356c4b0",
+      "eboot_md5": "074e8ddf899f039fe17d49b8a38f52a3"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pico-drive-rus.-7z/PICO01310_00000.png"
+    ],
+    "icon": "icons/picodrive_[russian].png"
+  },
+  "languages": []
+}

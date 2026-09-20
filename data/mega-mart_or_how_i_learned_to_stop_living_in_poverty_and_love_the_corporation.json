@@ -1,0 +1,27 @@
+{
+  "name": "Mega-Mart or: How I Learned to Stop Living in Poverty and Love the Corporation",
+  "id": "mega-mart_or_how_i_learned_to_stop_living_in_poverty_and_love_the_corporation",
+  "summary": "Homebrew game for PSP.",
+  "author": "LBG Productions",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.58",
+      "url": "https://archive.org/download/megamart2_01.7z/megamart2_01.zip",
+      "published_at": "2006-05-31",
+      "size": 7652860,
+      "sha256": "093618730610d7099b17d443ddccb1710045c178a530306d918d8fd9e3f0caac",
+      "eboot_md5": "e8108b2a9dbd452513e14d8b3c2261b4"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/megamart2_01.7z/20210608175631.png"
+    ],
+    "icon": "icons/mega-mart_or_how_i_learned_to_stop_living_in_poverty_and_love_the_corporation.png"
+  },
+  "languages": []
+}

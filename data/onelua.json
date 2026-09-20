@@ -1,0 +1,27 @@
+{
+  "name": "ONElua",
+  "id": "onelua",
+  "summary": "Lua interpreter for PSP.",
+  "author": "ONELua Team",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "4 R1",
+      "url": "https://archive.org/download/oneluav-4-r-1.7z/ONEluav4R1.zip",
+      "published_at": "2016-07-07",
+      "size": 4912342,
+      "sha256": "ffac7676bbd2d8715bcb2931c7ca152f291c52b9474e7e6f385b955c143b46c8",
+      "eboot_md5": "918cf3acb96c21c6d9642d14b6744370"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/oneluav-4-r-1.7z/ONEL00849_00000.png"
+    ],
+    "icon": "icons/onelua.png"
+  },
+  "languages": []
+}

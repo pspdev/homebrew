@@ -1,0 +1,27 @@
+{
+  "name": "FBA4PSP",
+  "id": "fba4psp",
+  "summary": "Port of the FinalBurn Alpha arcade emulator for PSP. This version supports over 1,700 games (including clones), but the number of games that will actually load is more limited. Better results will be achieved by using one of the dedicated builds (FBA4PSP CPS3, FBA4PSP Sega, etc). FBA4PSP seems to support the MAME 0.130 romset (uploader's guess, not confirmed by the documentation).",
+  "author": "OopsWare, Lbicelyne, Reprep",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "12.5.4",
+      "url": "https://archive.org/download/fba-4-psp.-7z/FBA4PSPv12.5.4.zip",
+      "published_at": "2017-06-01",
+      "size": 2413548,
+      "sha256": "14e52550551522fc7f593801fb1581fd631348453c8af58da1855f618752768b",
+      "eboot_md5": "77d154ea02ee57b01c568b728b705c64"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/fba-4-psp.-7z/FBA400910_00000.jpg"
+    ],
+    "icon": "icons/fba4psp.png"
+  },
+  "languages": []
+}

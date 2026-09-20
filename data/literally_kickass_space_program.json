@@ -1,0 +1,27 @@
+{
+  "name": "Literally Kickass Space Program",
+  "id": "literally_kickass_space_program",
+  "summary": "Homebrew game for PSP.",
+  "author": "Laith Iris",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2.5",
+      "url": "https://archive.org/download/lksp.-7z/LKSP.zip",
+      "published_at": "2016-05-16",
+      "size": 21242981,
+      "sha256": "03909a49a019c80d696a0376dd690ec6d3165285d1f45cd11d9875ce05e4eaf1",
+      "eboot_md5": "ffdab99f65bac0e1c5bfd74264f83863"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lksp.-7z/LKSP00314_00001.png"
+    ],
+    "icon": "icons/literally_kickass_space_program.png"
+  },
+  "languages": []
+}

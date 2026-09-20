@@ -1,0 +1,29 @@
+{
+  "name": "Cristal Vista",
+  "id": "cristal_vista",
+  "summary": "UI shell for PSP.",
+  "author": "Arb\u00ebr",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "7.0",
+      "url": "https://archive.org/download/cristal-vista-7.0.7z/CristalVista7.0.zip",
+      "published_at": "2010-08-22",
+      "size": 4143913,
+      "sha256": "39fa3818e622753a3c47242a201078c6d27031204722e7a40330a49fd12c491a",
+      "eboot_md5": "a77cfb3e4558672a7e805026f6386de9"
+    }
+  ],
+  "tags": [
+    "NEO Retro Coding Compo 2010"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/cristal-vista-7.0.7z/pic_0002.png"
+    ],
+    "icon": "icons/cristal_vista.png"
+  },
+  "languages": []
+}

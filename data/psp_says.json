@@ -1,0 +1,27 @@
+{
+  "name": "PSP Says",
+  "id": "psp_says",
+  "summary": "Version of Simon Says.",
+  "author": "ikarius",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.10",
+      "url": "https://archive.org/download/pspsays.-7z/PSPSays.zip",
+      "published_at": "2006-04-15",
+      "size": 545303,
+      "sha256": "b5e47eab378111ad401fc0e31daf7e669ccf2e13d8136cf3325aba0d11746723",
+      "eboot_md5": "3341448f8d7ee40838f7e64ceb66d2f5"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspsays.-7z/PSPS00659_00001.jpg"
+    ],
+    "icon": "icons/psp_says.png"
+  },
+  "languages": []
+}

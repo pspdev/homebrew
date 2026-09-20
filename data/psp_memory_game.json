@@ -1,0 +1,27 @@
+{
+  "name": "PSP Memory Game",
+  "id": "psp_memory_game",
+  "summary": "Card game of Memory for PSP.",
+  "author": "DSI",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/memory.-7z_202101/MEMORY.zip",
+      "published_at": "2008-02-13",
+      "size": 2155884,
+      "sha256": "3e47796321700d3a1420d66bd50772221b13114ea3cb121e4bca466a96e13ba2",
+      "eboot_md5": "0460eb5b86c836e3ad35afed45fce522"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/memory.-7z_202101/MEMO00473_00000.png"
+    ],
+    "icon": "icons/psp_memory_game.png"
+  },
+  "languages": []
+}

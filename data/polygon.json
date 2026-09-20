@@ -1,0 +1,27 @@
+{
+  "name": "Polygon",
+  "id": "polygon",
+  "summary": "Puzzle game for PSP.",
+  "author": "The Grey Matter, sinx",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.3",
+      "url": "https://archive.org/download/polygon.-7z/Polygon.zip",
+      "published_at": "2005-07-17",
+      "size": 3612487,
+      "sha256": "2546a552887dfbbfbdfa777b626a033d924dbf0d3b31abd4f58fbc4285614c37",
+      "eboot_md5": "6357fc00c6d3c7e10cb67a40dfee7992"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/polygon.-7z/POLY00744_00000.jpg"
+    ],
+    "icon": "icons/polygon.png"
+  },
+  "languages": []
+}

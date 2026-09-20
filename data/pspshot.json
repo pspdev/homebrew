@@ -1,0 +1,27 @@
+{
+  "name": "PSPShot",
+  "id": "pspshot",
+  "summary": "Launcher app for PSP.",
+  "author": "Tsukasa",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.3",
+      "url": "https://archive.org/download/pspshot-v-03.7z/PSPShot_v03.zip",
+      "published_at": "2006-01-30",
+      "size": 320042,
+      "sha256": "92278ff873fc956b17c6edb6beadf658cd296a68eb7e244deb1e9833f22fcf20",
+      "eboot_md5": "cdd47e71e506f4cf12dc8d62fba9b46f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspshot-v-03.7z/PSPS00969_00000.jpg"
+    ],
+    "icon": "icons/pspshot.png"
+  },
+  "languages": []
+}

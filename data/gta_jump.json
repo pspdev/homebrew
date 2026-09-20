@@ -1,0 +1,29 @@
+{
+  "name": "GTA Jump",
+  "id": "gta_jump",
+  "summary": "Homebrew game for PSP.",
+  "author": "HardHat, John-Paul Gignac",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/gtajump1_1bfor1_0.7z/gtajump1_1bfor1_0.zip",
+      "published_at": "2006-01-01",
+      "size": 4885906,
+      "sha256": "c6cb464caa417fe7cf780977865e18e03aa255a474d7ce307a52127a5b582d78",
+      "eboot_md5": "d8b3fcb9cc406ef02b97cccb98dd12be"
+    }
+  ],
+  "tags": [
+    "PSP3D.com Homebrew Contest (2006)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/gtajump1_1bfor1_0.7z/gtajump.png"
+    ],
+    "icon": "icons/gta_jump.png"
+  },
+  "languages": []
+}

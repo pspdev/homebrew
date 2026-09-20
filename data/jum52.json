@@ -1,0 +1,27 @@
+{
+  "name": "Jum52",
+  "id": "jum52",
+  "summary": "Atari 5200 emulator for PSP.",
+  "author": "James Higgs (Jum)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/jum52_11_PSP.7z/jum52_11_PSP.zip",
+      "published_at": "2010-02-28",
+      "size": 394667,
+      "sha256": "de39b58a035cb9ace379d0292e2d46af78041c1acc3cd537015155d2b4667ea1",
+      "eboot_md5": "b12e496c1a824ef1eb69196a6337bb8a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/jum52_11_PSP.7z/JUM500966_00000.jpg"
+    ],
+    "icon": "icons/jum52.png"
+  },
+  "languages": []
+}

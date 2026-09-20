@@ -1,0 +1,27 @@
+{
+  "name": "PSPMAME SNK",
+  "id": "pspmame_snk",
+  "summary": "MAME emulator for PSP, based on MAME 0.97. Claims support for 77 games. A compatibility list for an earlier version is available (in Japanese).",
+  "author": "TMK",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.97 r0.6",
+      "url": "https://archive.org/download/snk.7z_202104/snk.zip",
+      "published_at": "2010-03-02",
+      "size": 1232085,
+      "sha256": "93249348f5fa91c996bc2ca029820a00f50c490511401a4e04375cdf6fe50196",
+      "eboot_md5": "db9379629b82f8880ec0e4952bd45600"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/snk.7z_202104/SNKH00332_00000.jpg"
+    ],
+    "icon": "icons/pspmame_snk.png"
+  },
+  "languages": []
+}

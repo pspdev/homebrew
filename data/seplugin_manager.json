@@ -1,0 +1,29 @@
+{
+  "name": "SEPlugin Manager",
+  "id": "seplugin_manager",
+  "summary": "Plugin manager for PSP.",
+  "author": "5h4d0w",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.6",
+      "url": "https://archive.org/download/seplugins-manager.-7z/Seplugins_Manager.zip",
+      "published_at": "2011-01-01",
+      "size": 935522,
+      "sha256": "2582bbf05e443143b0988da3409c5c59019161ad574dd0c07cdc80447d067755",
+      "eboot_md5": "6ea8f376a9e9d159389f423a2617076f"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/seplugins-manager.-7z/EBOO00649_00000.jpg"
+    ],
+    "icon": "icons/seplugin_manager.png"
+  },
+  "languages": []
+}

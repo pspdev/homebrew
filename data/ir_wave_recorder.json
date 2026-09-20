@@ -1,0 +1,29 @@
+{
+  "name": "IR Wave Recorder",
+  "id": "ir_wave_recorder",
+  "summary": "Records IR waves on a PSP-1000.",
+  "author": "\u6751\u4e2d \u662d\u96c4 (STEAR)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.10 Alpha",
+      "url": "https://archive.org/download/irrec-110a.-7z/IRREC110a.zip",
+      "published_at": "2010-01-01",
+      "size": 182852,
+      "sha256": "fd8b0447ff57e2f54ee9a482208de21eed849db40e30c7b16ded942a791944c1",
+      "eboot_md5": "b846a756bef526b1fc6aff1479492759"
+    }
+  ],
+  "tags": [
+    "IrDA"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/irrec-110a.-7z/IRRE00616_00000.png"
+    ],
+    "icon": "icons/ir_wave_recorder.png"
+  },
+  "languages": []
+}

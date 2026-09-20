@@ -1,0 +1,27 @@
+{
+  "name": "Slender: The Eight Pages",
+  "id": "slender_the_eight_pages",
+  "summary": "Homebrew game for PSP.",
+  "author": "Nathan Bourgeois (IridescentRose), Janos Harsanyi",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/slender.-7z/Slender.zip",
+      "published_at": "2010-05-15",
+      "size": 14162519,
+      "sha256": "739e3770b5774d3e66fe4eb09c2b30709aa45b8c68e40a89f2a1d5cfaa359572",
+      "eboot_md5": "e7ea172fe5d2f98019eb37ad60cff34a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/slender.-7z/EBOO00649_00000.jpg"
+    ],
+    "icon": "icons/slender_the_eight_pages.png"
+  },
+  "languages": []
+}

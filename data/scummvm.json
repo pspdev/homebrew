@@ -1,0 +1,27 @@
+{
+  "name": "ScummVM",
+  "id": "scummvm",
+  "summary": "Application to run classic adventure games on PSP.",
+  "author": "ScummVM Team",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "2.5.0",
+      "url": "https://archive.org/download/scummvm-2.2.0-psp.7z/scummvm.zip",
+      "published_at": "2021-10-09",
+      "size": 75461490,
+      "sha256": "99622f6365e2b83c4658e385573df40166959dbb2ab367588cea3a994ea9e6d4",
+      "eboot_md5": "f342c9e4d06318c303e80e73c0a39bde"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/scummvm-2.2.0-psp.7z/SCUM01445_00001.jpg"
+    ],
+    "icon": "icons/scummvm.png"
+  },
+  "languages": []
+}

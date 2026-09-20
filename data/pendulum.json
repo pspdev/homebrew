@@ -1,0 +1,27 @@
+{
+  "name": "Pendulum",
+  "id": "pendulum",
+  "summary": "Physics homebrew game - swing the pendulum and avoid obstacles to reach the blue target.",
+  "author": "mcidclan",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/pendulum-v1.0/pendulum-v1.0.zip",
+      "published_at": "2012-01-01",
+      "size": 137744,
+      "sha256": "cfcbe7c39ac51556f74d73699d2a4e440811ac1a8104a41d902e46aaddbed082",
+      "eboot_md5": "ef6fa526a5b294470507c8c17840dadf"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pendulum-v1.0/PEND01180_00000.png"
+    ],
+    "icon": "icons/pendulum.png"
+  },
+  "languages": []
+}

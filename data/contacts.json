@@ -1,0 +1,27 @@
+{
+  "name": "Contacts",
+  "id": "contacts",
+  "summary": "vCard viewer for PSP.",
+  "author": "Cancan",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.8",
+      "url": "https://archive.org/download/contacts.7z/contacts.zip",
+      "published_at": "2006-05-23",
+      "size": 1095031,
+      "sha256": "c8c211bdd020af487f11f4b8b1030e3ce2c57adad410323752ad7f66c144b2f7",
+      "eboot_md5": "47fabd42107e1eae4a483878ef22674b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/contacts.7z/CONT00863_00000.jpg"
+    ],
+    "icon": "icons/contacts.png"
+  },
+  "languages": []
+}

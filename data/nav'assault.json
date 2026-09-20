@@ -1,0 +1,27 @@
+{
+  "name": "Nav'Assault",
+  "id": "nav'assault",
+  "summary": "Game of Battleship for PSP.",
+  "author": "Clode666",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/nav-assault.-7z/NavAssault.zip",
+      "published_at": "2010-03-11",
+      "size": 2957319,
+      "sha256": "d073e9547dea26c6988cef12ae46782b0ca10746dcc4b7bf2f01080852cda9be",
+      "eboot_md5": "6849d91c4b4d51f1b92bac72fdc43cab"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/nav-assault.-7z/NAVA01026_00000.jpg"
+    ],
+    "icon": "icons/nav'assault.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Spacecraft",
+  "id": "spacecraft",
+  "summary": "Dodging game.",
+  "author": "NautiluS1",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/spacecraft_20.7z/spacecraft_20.zip",
+      "published_at": "2011-05-03",
+      "size": 3414548,
+      "sha256": "3b88d1f0de15c8d7f466a1ee94c5ab6921cbd4809f64f927b33e232d6bc72773",
+      "eboot_md5": "c08846996ac5d5cb4493c6b2683c6362"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/spacecraft_20.7z/SPAC01245_00000.jpg"
+    ],
+    "icon": "icons/spacecraft.png"
+  },
+  "languages": []
+}

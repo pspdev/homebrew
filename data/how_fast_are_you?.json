@@ -1,0 +1,27 @@
+{
+  "name": "How Fast Are You?",
+  "id": "how_fast_are_you?",
+  "summary": "Button-pressing game.",
+  "author": "N0ePDA_PSP",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/how-fast-are-you.-7z/How_Fast_are_you_v1.0.zip",
+      "published_at": "2009-12-08",
+      "size": 963783,
+      "sha256": "36080f58ed67559175d74d4f20b79b6002c0e9e4810945374666b436d40f321a",
+      "eboot_md5": "9ae562d6f9c9d0af5cd8a13b8783dd6e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/how-fast-are-you.-7z/HOW 01457_00000.jpg"
+    ],
+    "icon": "icons/how_fast_are_you?.png"
+  },
+  "languages": []
+}

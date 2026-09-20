@@ -1,0 +1,27 @@
+{
+  "name": "LuaIDE",
+  "id": "luaide",
+  "summary": "Coding application for PSP.",
+  "author": "Oslord",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "5",
+      "url": "https://archive.org/download/lua-ide.-7z/LuaIDE.zip",
+      "published_at": "2010-04-16",
+      "size": 1223435,
+      "sha256": "e70c22c4cfa4041f3c7890b2e98939a0c463c731108972c56fe5631ace059e6d",
+      "eboot_md5": "84fbba7a952abcf402f08ed3123b4c8e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lua-ide.-7z/LUAI00500_00000.jpg"
+    ],
+    "icon": "icons/luaide.png"
+  },
+  "languages": []
+}

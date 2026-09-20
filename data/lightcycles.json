@@ -1,0 +1,27 @@
+{
+  "name": "LightCycles",
+  "id": "lightcycles",
+  "summary": "Homebrew game for PSP.",
+  "author": "Julio Cesar Ho",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1b",
+      "url": "https://archive.org/download/lc-0.1b.-7z/LC0.1b.zip",
+      "published_at": "2006-03-17",
+      "size": 582745,
+      "sha256": "b29551a6e9670279494b9d1b4a75ba3a4079349403a7bebaabd4311fe26fb1f8",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lc-0.1b.-7z/LUAP01126_00000.png"
+    ],
+    "icon": "icons/lightcycles.png"
+  },
+  "languages": []
+}

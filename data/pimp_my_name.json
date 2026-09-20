@@ -1,0 +1,27 @@
+{
+  "name": "Pimp My Name",
+  "id": "pimp_my_name",
+  "summary": "Homebrew app for PSP.",
+  "author": "R. Yonaba",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "R4",
+      "url": "https://archive.org/download/pmnr-3.7z/PMN.zip",
+      "published_at": "2008-05-18",
+      "size": 5206448,
+      "sha256": "bd22b76ccedc9f4690ca537bde0785d78ddc2650f186e14455803bd63c21bdc6",
+      "eboot_md5": "0b738a4039dfb0556c9572ce728a5ca6"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pmnr-3.7z/PMNR00368_00000.jpg"
+    ],
+    "icon": "icons/pimp_my_name.png"
+  },
+  "languages": []
+}

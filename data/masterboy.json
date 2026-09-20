@@ -1,0 +1,29 @@
+{
+  "name": "MasterBoy",
+  "id": "masterboy",
+  "summary": "Game Boy, Sega Master System and Game Gear Emulator for the PSP. Note: MasterBoy 2.10 by GenesisVids is a rebadged copy of version 2.02. It offers no improvements (or even changes) compared to this version. The same applies to EmuMaster 3.0, created by the same person.",
+  "author": "Florian Br\u00f6nnimann (Brunni)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "2.02",
+      "url": "https://archive.org/download/masterboy.-7z/Masterboy.zip",
+      "published_at": "2007-09-04",
+      "size": 3265980,
+      "sha256": "998856cf2ce18e61205fdbf7a0455500386ce20745e64ec13dbab46f6bfed562",
+      "eboot_md5": "2f54c87b0ce83ed3db410d7315f4fda3"
+    }
+  ],
+  "tags": [
+    "NEO Summer Coding Compo 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/masterboy.-7z/MAST00950_00000.jpg"
+    ],
+    "icon": "icons/masterboy.png"
+  },
+  "languages": []
+}

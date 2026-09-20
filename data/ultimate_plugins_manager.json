@@ -1,0 +1,27 @@
+{
+  "name": "Ultimate Plugins Manager",
+  "id": "ultimate_plugins_manager",
+  "summary": "Plugin managing app.",
+  "author": "Max840",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.65",
+      "url": "https://archive.org/download/upm.-7z/UPM.zip",
+      "published_at": "2010-04-09",
+      "size": 1013223,
+      "sha256": "094be6b906aa412b35d37a6e425c1c6287a417d20444f9cd8a7381c00e8429e8",
+      "eboot_md5": "943b2294a1776454b07d46f9f29eccac"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/upm.-7z/UPMH00242_00000.jpg"
+    ],
+    "icon": "icons/ultimate_plugins_manager.png"
+  },
+  "languages": []
+}

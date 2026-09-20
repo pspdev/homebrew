@@ -1,0 +1,27 @@
+{
+  "name": "Shooter",
+  "id": "shooter",
+  "summary": "Homebrew game for PSP.",
+  "author": "Jorge_97",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Beta",
+      "url": "https://archive.org/download/shooter.-7z/Shooter.zip",
+      "published_at": "2011-02-26",
+      "size": 1522465,
+      "sha256": "ffc7f35167988d7a54183ef15b586d344ec0c875af660bb3f8a53c427a64d3c6",
+      "eboot_md5": "8207e356d8c856997ae1ffc335f0a044"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/shooter.-7z/pic_0001.png"
+    ],
+    "icon": "icons/shooter.png"
+  },
+  "languages": []
+}

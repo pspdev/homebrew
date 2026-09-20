@@ -1,0 +1,27 @@
+{
+  "name": "Rock Paper Scissors",
+  "id": "rock_paper_scissors",
+  "summary": "Homebrew game for PSP.",
+  "author": "Skippy911",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/rps.7z/rps.zip",
+      "published_at": "2005-07-04",
+      "size": 855996,
+      "sha256": "d98f5b1340701d66a800b69d6e4c1970c249e9698c6690377886bb6f8b8a71b8",
+      "eboot_md5": "7a6ebf1bc30e7ce8200d39c9ad4058cc"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/rps.7z/RPSH00341_00001.jpg"
+    ],
+    "icon": "icons/rock_paper_scissors.png"
+  },
+  "languages": []
+}

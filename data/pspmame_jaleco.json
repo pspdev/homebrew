@@ -1,0 +1,27 @@
+{
+  "name": "PSPMAME Jaleco",
+  "id": "pspmame_jaleco",
+  "summary": "MAME emulator for PSP, based on MAME 0.97. Claims support for 86 games.",
+  "author": "TMK",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.97 r0.6",
+      "url": "https://archive.org/download/jaleco.7z/jaleco.zip",
+      "published_at": "2010-03-02",
+      "size": 1603217,
+      "sha256": "56e45bbbe1b8c54cd0c567b84f7a0f2ce9e0bdd993247717d93d2eb0d216706d",
+      "eboot_md5": "87cbe0cb9d7f27eaeb56fb13e5fb1921"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/jaleco.7z/20210829220947.png"
+    ],
+    "icon": "icons/pspmame_jaleco.png"
+  },
+  "languages": []
+}

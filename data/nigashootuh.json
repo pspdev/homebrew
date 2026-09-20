@@ -1,0 +1,29 @@
+{
+  "name": "NIGaShootuh",
+  "id": "nigashootuh",
+  "summary": "2D shooter for PSP.",
+  "author": "NIGathan",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/niga-shootuh.-7z/NIGaShootuh.zip",
+      "published_at": "2008-05-31",
+      "size": 25806266,
+      "sha256": "3d43fd475b8971cc647468319d2cd9438e08044ab276f54f51679e8008612871",
+      "eboot_md5": "fcfae75db95a67526010f7083403d6e8"
+    }
+  ],
+  "tags": [
+    "Homebrew Idol (2008)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/niga-shootuh.-7z/NIGA01065_00000.png"
+    ],
+    "icon": "icons/nigashootuh.png"
+  },
+  "languages": []
+}

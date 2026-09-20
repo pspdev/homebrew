@@ -1,0 +1,27 @@
+{
+  "name": "WinShell",
+  "id": "winshell",
+  "summary": "Windows UI shell for PSP.",
+  "author": "Trom_US",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "5.03",
+      "url": "https://archive.org/download/win-shell-5-03-cf-401.7z/WinShell_5_03_CF401.zip",
+      "published_at": "2008-07-07",
+      "size": 12081972,
+      "sha256": "a27db133f110aa95c9beed4fea56cdba442c60aea26339c5ef469396b89e4288",
+      "eboot_md5": "44bd08044335f5a958caee513180dedf"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/win-shell-5-03-cf-401.7z/WINS01010_00000.png"
+    ],
+    "icon": "icons/winshell.png"
+  },
+  "languages": []
+}

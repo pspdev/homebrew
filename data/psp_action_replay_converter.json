@@ -1,0 +1,27 @@
+{
+  "name": "PSP Action Replay Converter",
+  "id": "psp_action_replay_converter",
+  "summary": "Utility app for PSP.",
+  "author": "raing3",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.31",
+      "url": "https://archive.org/download/psp-action-replay-converter.-7z/PSPActionReplayConverter0.31.zip",
+      "published_at": "2009-08-06",
+      "size": 1125579,
+      "sha256": "37a2e5fc87509f1c313959e4ee193f87902c6737c20df0d12ee823027fe0f336",
+      "eboot_md5": "cf35a72f28ab770c6daedda7f8fd4e6b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-action-replay-converter.-7z/20210719190252.png"
+    ],
+    "icon": "icons/psp_action_replay_converter.png"
+  },
+  "languages": []
+}

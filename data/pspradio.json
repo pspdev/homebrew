@@ -1,0 +1,27 @@
+{
+  "name": "PSPRadio",
+  "id": "pspradio",
+  "summary": "Music streaming client for PSP.",
+  "author": "Rafael Cabezas (Raf), Sandberg, jpfouch48",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.18.1400",
+      "url": "https://archive.org/download/pspradio-1.18.1400.7z/PSPRadio1.18.1400.zip",
+      "published_at": "2007-04-08",
+      "size": 2254227,
+      "sha256": "3e57dabc6b9d49eaf36b8b938e3d3e5a5d621f79ff71effe45a80a3926c923e3",
+      "eboot_md5": "ecf6b85845b6bc479b92c83247a6ffeb"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspradio-1.18.1400.7z/PSPR01181_00000.png"
+    ],
+    "icon": "icons/pspradio.png"
+  },
+  "languages": []
+}

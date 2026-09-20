@@ -1,0 +1,27 @@
+{
+  "name": "Puyo [\u3077\u3088\u25cb\u3088]",
+  "id": "puyo_[\u3077\u3088\u25cb\u3088]",
+  "summary": "Puzzle game for PSP.",
+  "author": "Rider",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/puyo-11.7z/PUYO11.zip",
+      "published_at": "2005-05-19",
+      "size": 1889821,
+      "sha256": "e0a14b83d80459344559c0db693934b1d9eaa99e1e9fbf2f86c42553c6340caf",
+      "eboot_md5": "67502aba3b620d545bd0eb17d291c529"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/puyo-11.7z/PUYO00431_00000.png"
+    ],
+    "icon": "icons/puyo_[\u3077\u3088\u25cb\u3088].png"
+  },
+  "languages": []
+}

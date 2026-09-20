@@ -1,0 +1,27 @@
+{
+  "name": "PSP7800",
+  "id": "psp7800",
+  "summary": "Atari 7800 emulator for PSP.",
+  "author": "Ludovic Jacomme (Zx-81)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.2.0",
+      "url": "https://archive.org/download/psp7800.7z/psp7800.zip",
+      "published_at": "2008-10-28",
+      "size": 1313447,
+      "sha256": "dace15e5dce92566ac20c46748d3a467ac24571b090d92e4439837062fdef7bb",
+      "eboot_md5": "f23a69d570b290c0f31fccd1f047ae5e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp7800.7z/PSP700546_00000.jpg"
+    ],
+    "icon": "icons/psp7800.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,29 @@
+{
+  "name": "PSP-gnuboy",
+  "id": "psp-gnuboy",
+  "summary": "Port of the Game Boy emulator Gnuboy to the PSP.",
+  "author": "HamsterBert",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1",
+      "url": "https://archive.org/download/pspgnuboy_rls.7z/pspgnuboy_rls.zip",
+      "published_at": "2006-03-19",
+      "size": 1038190,
+      "sha256": "497809b0e8875b21baceceb35bf6121642870f17b240ff65ae658d9ab368510b",
+      "eboot_md5": "27a53b7234eb5881fed7e1a0e72178b6"
+    }
+  ],
+  "tags": [
+    "NEO Spring 2006"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspgnuboy_rls.7z/PSPG01431_00000.jpg"
+    ],
+    "icon": "icons/psp-gnuboy.png"
+  },
+  "languages": []
+}

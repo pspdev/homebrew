@@ -1,0 +1,27 @@
+{
+  "name": "Wab Launcher",
+  "id": "wab_launcher",
+  "summary": "Homebrew app for PSP.",
+  "author": "Yoshihiro, MrSiir, WAB",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.5f",
+      "url": "https://archive.org/download/wab-launcher2.5f.7z/wab-launcher2.5f.zip",
+      "published_at": "2005-06-21",
+      "size": 259480,
+      "sha256": "116e82e8c4058932aa59ec1719f3373f06a02da77cbf5a5f49fc5ee151593317",
+      "eboot_md5": "6b141ff88eb37af17057aa7a74f920f8"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/wab-launcher2.5f.7z/WAB-01460_00000.jpg"
+    ],
+    "icon": "icons/wab_launcher.png"
+  },
+  "languages": []
+}

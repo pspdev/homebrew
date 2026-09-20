@@ -1,0 +1,29 @@
+{
+  "name": "PSP Music Center",
+  "id": "psp_music_center",
+  "summary": "Music player for the Sony PSP powered by FFMpeg.",
+  "author": "RNB_PSP",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "R2",
+      "url": "https://archive.org/download/pmc.-7z/PMC.zip",
+      "published_at": "2011-08-17",
+      "size": 3953513,
+      "sha256": "78bd63a7206432b00fabb442534ec316bee58630b82f046df42fd8aac33e0303",
+      "eboot_md5": "13a3054cf7d0af6ef281c7eda92a0d3b"
+    }
+  ],
+  "tags": [
+    "NEO Retro Coding Compo 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pmc.-7z/pic_0000.png"
+    ],
+    "icon": "icons/psp_music_center.png"
+  },
+  "languages": []
+}

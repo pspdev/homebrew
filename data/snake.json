@@ -1,0 +1,27 @@
+{
+  "name": "Snake",
+  "id": "snake",
+  "summary": "Homebrew game for PSP.",
+  "author": "Zharikov Vitaliy (Vittach)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/snakes_202112/SNAKES.zip",
+      "published_at": "2012-07-09",
+      "size": 8812809,
+      "sha256": "1d1779b5540d703c6f1c9382993c1fd8852471ee9771cf323c1316abf77cd2c1",
+      "eboot_md5": "eb765d3698a32e050254c3950a5f8baf"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/snakes_202112/SNAK00453_00000.png"
+    ],
+    "icon": "icons/snake.png"
+  },
+  "languages": []
+}

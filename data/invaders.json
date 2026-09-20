@@ -1,0 +1,27 @@
+{
+  "name": "Invaders",
+  "id": "invaders",
+  "summary": "Space invaders clone for PSP.",
+  "author": "Netaro",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/inv.-7z/INV.zip",
+      "published_at": "2007-12-02",
+      "size": 1225257,
+      "sha256": "5dd9af6d41418da3ab9c9b0c5f987b5af9f45f69f1863147dd6035c654582692",
+      "eboot_md5": "7ddcb9051ac581c9101a755601daffbb"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/inv.-7z/INVH00237_00002.png"
+    ],
+    "icon": "icons/invaders.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Wandria - Tears In Fate",
+  "id": "wandria_-_tears_in_fate",
+  "summary": "Homebrew game for PSP.",
+  "author": "ZionMax",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Alpha",
+      "url": "https://archive.org/download/wandria.-7z/Wandria.zip",
+      "published_at": "2007-04-15",
+      "size": 10941682,
+      "sha256": "f058a306d453dfcfa3f77151a10c68bf1cdcc8750e51d48f5c68244ac445cbaf",
+      "eboot_md5": "6d65a7d2e805deb968cb71c7bc036498"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/wandria.-7z/WAND00710_00000.jpg"
+    ],
+    "icon": "icons/wandria_-_tears_in_fate.png"
+  },
+  "languages": []
+}

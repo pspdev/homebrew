@@ -1,0 +1,27 @@
+{
+  "name": "EDecrypt",
+  "id": "edecrypt",
+  "summary": "Homebrew app for PSP.",
+  "author": "mc707",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.4",
+      "url": "https://archive.org/download/edecrypt.-7z/EDecrypt.zip",
+      "published_at": "2010-01-01",
+      "size": 124221,
+      "sha256": "3fa0685bc82582534edfd17d599e59133e1eb608a186a9f09a0af0b8fb75228e",
+      "eboot_md5": "4c62d2cd167d1d04694810d484a1c4bd"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/edecrypt.-7z/EDEC00800_00000.jpg"
+    ],
+    "icon": "icons/edecrypt.png"
+  },
+  "languages": []
+}

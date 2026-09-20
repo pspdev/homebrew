@@ -1,0 +1,27 @@
+{
+  "name": "Whac-a-Mole",
+  "id": "whac-a-mole",
+  "summary": "Homebrew game for PSP.",
+  "author": "kenny.bsp",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/mole.7z/mole.zip",
+      "published_at": "2008-06-25",
+      "size": 3395759,
+      "sha256": "fd137d60996af6d4c48867ff3c4aad1a8069b71e768f891eaedc75ad0e923c6a",
+      "eboot_md5": "8ef8e133ab84887767444c1b77174057"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mole.7z/MOLE00429_00001.png"
+    ],
+    "icon": "icons/whac-a-mole.png"
+  },
+  "languages": []
+}

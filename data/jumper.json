@@ -1,0 +1,27 @@
+{
+  "name": "Jumper",
+  "id": "jumper",
+  "summary": "Homebrew game for PSP.",
+  "author": "Gutya",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.4",
+      "url": "https://archive.org/download/jumper-v-14.7z/Jumper_v14.zip",
+      "published_at": "2007-09-24",
+      "size": 507678,
+      "sha256": "6df65797ad5a719d829dcc75b8641d722e7198c94279c50812682d19299ae27a",
+      "eboot_md5": "05d2b1c9f578439a310ad2142fd9f66b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/jumper-v-14.7z/LPM300335_00001.jpg"
+    ],
+    "icon": "icons/jumper.png"
+  },
+  "languages": []
+}

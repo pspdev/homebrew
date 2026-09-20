@@ -1,0 +1,27 @@
+{
+  "name": "SudokuZen",
+  "id": "sudokuzen",
+  "summary": "Sudoku for PSP.",
+  "author": "EvilDooinz",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/sudoku-zen-3xxr-2.7z/SudokuZen3xxr2.zip",
+      "published_at": "2008-05-31",
+      "size": 751518,
+      "sha256": "59d587e22ce814a383cd6ebe72b39c81cc96668f6754b73c86f81027f7a7a3ce",
+      "eboot_md5": "220e10c02e9c92c764b4e2e9a26fd7d5"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/sudoku-zen-3xxr-2.7z/SUDO01391_00000.jpg"
+    ],
+    "icon": "icons/sudokuzen.png"
+  },
+  "languages": []
+}

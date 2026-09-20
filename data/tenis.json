@@ -1,0 +1,27 @@
+{
+  "name": "Tenis",
+  "id": "tenis",
+  "summary": "Pong for PSP.",
+  "author": "Pucelano",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/tenis.-7z/Tenis.zip",
+      "published_at": "2006-01-07",
+      "size": 648875,
+      "sha256": "69fec349c099acd54046e8ccb5804ad868ab3aab2aa333284f14cff8611e35f9",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/tenis.-7z/TENI00515_00001.jpg"
+    ],
+    "icon": "icons/tenis.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "PSPMancala",
+  "id": "pspmancala",
+  "summary": "PSP version of the African game, Mancala.",
+  "author": "Ludovic Jacomme (Zx-81)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1.0",
+      "url": "https://archive.org/download/pspmancala.7z/pspmancala.zip",
+      "published_at": "2009-11-07",
+      "size": 1829245,
+      "sha256": "6d84680f00de293f1fccf33e45c9b93e60b20d648597249b4936b8b9bc35502f",
+      "eboot_md5": "2c458aba07d0837db1a5227a330ae4de"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspmancala.7z/PSPM01056_00000.jpg"
+    ],
+    "icon": "icons/pspmancala.png"
+  },
+  "languages": []
+}

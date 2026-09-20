@@ -1,0 +1,27 @@
+{
+  "name": "QUASI88",
+  "id": "quasi88",
+  "summary": "PC-88 emulator for PSP.",
+  "author": "BouKiCHi (\u67d0\u5409)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.6.3 release 3",
+      "url": "https://archive.org/download/3q-88px-080220.7z/q88px080819.zip",
+      "published_at": "2008-08-19",
+      "size": 698100,
+      "sha256": "c453b7dcb502f5f1087babdadd7bb63c25438e3bf0e54aaf4f8efb6a5b01992e",
+      "eboot_md5": "f246ee6bcca3aad25872ba00204dd8bc"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/3q-88px-080220.7z/20210808083833.png"
+    ],
+    "icon": "icons/quasi88.png"
+  },
+  "languages": []
+}

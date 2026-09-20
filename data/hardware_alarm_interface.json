@@ -1,0 +1,27 @@
+{
+  "name": "Hardware Alarm Interface",
+  "id": "hardware_alarm_interface",
+  "summary": "Alarm clock for the PSP.",
+  "author": "Vivek Javvaji",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.3 bld 361",
+      "url": "https://archive.org/download/hardware-alarm-interface.-7z/HardwareAlarmInterface.zip",
+      "published_at": "2008-06-18",
+      "size": 618611,
+      "sha256": "c273e8bc90eac7bf75dd74bad3fbcb96918b4462d78395da2494e2fe8d15dc37",
+      "eboot_md5": "a756edae90d0524ba3e5fe2db8855aff"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/hardware-alarm-interface.-7z/20210610182954.png"
+    ],
+    "icon": "icons/hardware_alarm_interface.png"
+  },
+  "languages": []
+}

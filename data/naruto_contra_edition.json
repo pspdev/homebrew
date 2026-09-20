@@ -1,0 +1,27 @@
+{
+  "name": "Naruto Contra Edition",
+  "id": "naruto_contra_edition",
+  "summary": "Homebrew game for PSP.",
+  "author": "Tiago Araujo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "3",
+      "url": "https://archive.org/download/naruto-contra-editionv-3.7z/NarutoContraEditionv3.zip",
+      "published_at": "2009-12-15",
+      "size": 1257441,
+      "sha256": "36379918351e04f1027901a8e6e6aff320284516968c5b372b472333c4cbe143",
+      "eboot_md5": "1ad0f22e56643736104ff87aac77309b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/naruto-contra-editionv-3.7z/NARU02133_00001.png"
+    ],
+    "icon": "icons/naruto_contra_edition.png"
+  },
+  "languages": []
+}

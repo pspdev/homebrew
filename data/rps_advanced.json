@@ -1,0 +1,27 @@
+{
+  "name": "RPS Advanced",
+  "id": "rps_advanced",
+  "summary": "Rock-paper-scissors for PSP.",
+  "author": "Spiritbeast",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/rpsav-02.7z/RPSAv02.zip",
+      "published_at": "2007-09-24",
+      "size": 1150742,
+      "sha256": "48d47f6708cf09afdb851afdfb25cd174afbe1356671d0008cfd8baeb2f6e641",
+      "eboot_md5": "05d2b1c9f578439a310ad2142fd9f66b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/rpsav-02.7z/LUAP01292_00000.jpg"
+    ],
+    "icon": "icons/rps_advanced.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "IQS",
+  "id": "iqs",
+  "summary": "Button-pressing game for PSP.",
+  "author": "kWORk",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.12",
+      "url": "https://archive.org/download/psp-iqs-v-012.7z/Psp_IQS_v012.zip",
+      "published_at": "2006-05-22",
+      "size": 1937309,
+      "sha256": "05016ba165a9f97a678c8a933563781c726a2608a1102c80c766d9a2945c84a9",
+      "eboot_md5": "987cac6c2ae9a33897e42257dd1c2fd1"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-iqs-v-012.7z/IQS 01324_00000.jpg"
+    ],
+    "icon": "icons/iqs.png"
+  },
+  "languages": []
+}

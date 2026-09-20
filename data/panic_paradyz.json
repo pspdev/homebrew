@@ -1,0 +1,27 @@
+{
+  "name": "Panic Paradyz",
+  "id": "panic_paradyz",
+  "summary": "Homebrew game for PSP.",
+  "author": "Realtech VR",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/panic_paradyz_11.7z/panic_paradyz_11.zip",
+      "published_at": "2007-12-20",
+      "size": 5754233,
+      "sha256": "7bcc0bd78501b992b6739cd095b6b947c9fd7bccd90f4f761dfda8296941f159",
+      "eboot_md5": "f52d619909f97a9bc9978e2162a09522"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/panic_paradyz_11.7z/PANI01574_00001.png"
+    ],
+    "icon": "icons/panic_paradyz.png"
+  },
+  "languages": []
+}

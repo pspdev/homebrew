@@ -1,0 +1,27 @@
+{
+  "name": "LUAmines",
+  "id": "luamines",
+  "summary": "Puzzle game for PSP.",
+  "author": "Dragula96",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.06c",
+      "url": "https://archive.org/download/luamines6.7z/luamines6.zip",
+      "published_at": "2006-11-26",
+      "size": 9350541,
+      "sha256": "38ecb418db559d5dbc22d8f7ebd525989fe7afd2d2a4abd4c135ce696c1ec032",
+      "eboot_md5": "3996ee9e426609abb82ea70c6d6762e2"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/luamines6.7z/LUAM00916_00000.jpg"
+    ],
+    "icon": "icons/luamines.png"
+  },
+  "languages": []
+}

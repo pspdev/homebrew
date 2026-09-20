@@ -1,0 +1,27 @@
+{
+  "name": "PSPMAME Konami",
+  "id": "pspmame_konami",
+  "summary": "MAME emulator for PSP, based on MAME 0.97. Claims support for 125 games. A compatibility list for an earlier version is available (in Japanese).",
+  "author": "TMK",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.97 r0.6",
+      "url": "https://archive.org/download/konami.7z/konami.zip",
+      "published_at": "2010-03-02",
+      "size": 1464421,
+      "sha256": "fb7032e8723fa00d484fa4e5bd76401e53a000b96ba596b4b5d86245f82ed562",
+      "eboot_md5": "d45953418d8425f312232c2c1122443a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/konami.7z/MAME01321_00000.jpg"
+    ],
+    "icon": "icons/pspmame_konami.png"
+  },
+  "languages": []
+}

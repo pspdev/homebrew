@@ -1,0 +1,27 @@
+{
+  "name": "PSN Messenger",
+  "id": "psn_messenger",
+  "summary": "Homebrew app for PSP.",
+  "author": "fableboss1",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1",
+      "url": "https://archive.org/download/msn.7z/msn.zip",
+      "published_at": "2008-08-20",
+      "size": 872596,
+      "sha256": "8ee378cadf065977292a09acc0408f7200fdcbe29448eee17d0dca27ca5ffab4",
+      "eboot_md5": "146a7368573cde8c258140ee9caecc93"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/msn.7z/pic_0000.png"
+    ],
+    "icon": "icons/psn_messenger.png"
+  },
+  "languages": []
+}

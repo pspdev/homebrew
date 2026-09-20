@@ -1,0 +1,27 @@
+{
+  "name": "Stella",
+  "id": "stella",
+  "summary": "Atari 2600 emulator for PSP.",
+  "author": "David Voswinkel (optixx)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "2.0.1",
+      "url": "https://archive.org/download/stella_bin_20060106/stella_bin_20060106.zip",
+      "published_at": "2006-01-06",
+      "size": 1552077,
+      "sha256": "4ef938be853bd8c4f52e08a229ff058f80c079f357ae408fce528be7bebd2cc7",
+      "eboot_md5": "251753b2208ed045581369c765d5d164"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/stella_bin_20060106/EBOO00649_00000.png"
+    ],
+    "icon": "icons/stella.png"
+  },
+  "languages": []
+}

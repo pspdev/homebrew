@@ -1,0 +1,27 @@
+{
+  "name": "Aozora Bunko Reader [\u9752\u7a7a\u6587\u5eab\u30ea\u30fc\u30c0\u30fc ]",
+  "id": "aozora_bunko_reader_[\u9752\u7a7a\u6587\u5eab\u30ea\u30fc\u30c0\u30fc_]",
+  "summary": "Novel reading application for PSP.",
+  "author": "henoheno",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.85",
+      "url": "https://archive.org/download/aozora.-7z/Aozora.zip",
+      "published_at": "2005-06-22",
+      "size": 1596929,
+      "sha256": "450039ecb2f86fe5565c47b5cbb26554108731513d8b956daec556b7b07aadef",
+      "eboot_md5": "25eaee4438afa9fff8a268a96555b4d1"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/aozora.-7z/AOZO00620_00000.jpg"
+    ],
+    "icon": "icons/aozora_bunko_reader_[\u9752\u7a7a\u6587\u5eab\u30ea\u30fc\u30c0\u30fc_].png"
+  },
+  "languages": []
+}

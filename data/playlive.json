@@ -1,0 +1,27 @@
+{
+  "name": "PlayLive",
+  "id": "playlive",
+  "summary": "A pair of applications that lets you control 8 tracks in Ableton Live from your PSP game console.",
+  "author": "Rob King",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/playlive.7z/playlive.zip",
+      "published_at": "2006-01-01",
+      "size": 5315179,
+      "sha256": "f35223a8dffd5f1943e2d2cb62ea07383b20f60229870c30a7e03900e07a09ac",
+      "eboot_md5": "ecfde53eeca2b81efd612abed3bc71a6"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/playlive.7z/20210719193525.png"
+    ],
+    "icon": "icons/playlive.png"
+  },
+  "languages": []
+}

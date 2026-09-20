@@ -1,0 +1,29 @@
+{
+  "name": "s9xTYLme Mod",
+  "id": "s9xtylme_mod",
+  "summary": "SNES emulator for PSP.",
+  "author": "ThunderZ, YoyoFR, Laxer3a, esmjanus",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "180404",
+      "url": "https://archive.org/download/s9xTYLme_mod.7z/s9xTYLme_mod.zip",
+      "published_at": "2018-04-05",
+      "size": 1215656,
+      "sha256": "b40caf05258d81b13eb5ac261bd06cf195abd6c2af696c09d0e5aec75a7495a7",
+      "eboot_md5": "500a410d060ddcd31c66808788468617"
+    }
+  ],
+  "tags": [
+    "ad-hoc support"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/s9xTYLme_mod.7z/20210613174607.png"
+    ],
+    "icon": "icons/s9xtylme_mod.png"
+  },
+  "languages": []
+}

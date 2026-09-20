@@ -1,0 +1,27 @@
+{
+  "name": "PMF Viewer",
+  "id": "pmf_viewer",
+  "summary": "Application to play PMF files on PSP. It can be used to preview gameboots.",
+  "author": "mowglisanu",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/pmfviewer0_1.7z/pmfviewer0_1.zip",
+      "published_at": "2011-07-03",
+      "size": 218837,
+      "sha256": "db28a38f50d603744cec70b30d8c0c13c85e7d77b7cfe960b0bcf6ca0a52b2eb",
+      "eboot_md5": "f2e266ba30538062dbefd242ac41730c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pmfviewer0_1.7z/20210614220739.png"
+    ],
+    "icon": "icons/pmf_viewer.png"
+  },
+  "languages": []
+}

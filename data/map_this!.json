@@ -1,0 +1,30 @@
+{
+  "name": "Map This!",
+  "id": "map_this!",
+  "summary": "Map viewer compatible with the Go!Explore GPS module for PSP.",
+  "author": "Denis Televnyy (Deniska)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.5.20",
+      "url": "https://archive.org/download/mapViewer.7z/mapViewer.zip",
+      "published_at": "2007-11-20",
+      "size": 6287589,
+      "sha256": "e8786ca7e48ff1c3b3f280e66e809934c6b6f5c8cb91c9ae7ec7163bceb356ef",
+      "eboot_md5": "0bb564292fdcffff383ccd2a68df7fef"
+    }
+  ],
+  "tags": [
+    "Go!Explore",
+    "NEO Summer Coding Compo 2006"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mapViewer.7z/pic_0002.png"
+    ],
+    "icon": "icons/map_this!.png"
+  },
+  "languages": []
+}

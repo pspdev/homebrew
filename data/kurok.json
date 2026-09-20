@@ -1,0 +1,27 @@
+{
+  "name": "Kurok",
+  "id": "kurok",
+  "summary": "3D homebrew game for PSP.",
+  "author": "MDave",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.40",
+      "url": "https://archive.org/download/kurok-pspv-0.4.7z/KurokPSPv0.4.zip",
+      "published_at": "2008-08-22",
+      "size": 43883988,
+      "sha256": "4e06798b67a97315d2bb90a9f5571cc7ff78a0b604e6fbce76ff26167145f0aa",
+      "eboot_md5": "34c1ebd24cb47c89772e1a97169c8601"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/kurok-pspv-0.4.7z/20211231024548.png"
+    ],
+    "icon": "icons/kurok.png"
+  },
+  "languages": []
+}

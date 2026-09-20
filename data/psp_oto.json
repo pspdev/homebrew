@@ -1,0 +1,27 @@
+{
+  "name": "psp oto",
+  "id": "psp_oto",
+  "summary": "Music player for PSP. OggVorbis, MP2, MP3, MIDI, WAV (uncompressed/MS-ADPCM) can be played.",
+  "author": "\u3057\uff5e\u304f\u308b (shinshin319)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "test 2",
+      "url": "https://archive.org/download/psp_oto_test2.7z/psp_oto_test2_PochiStyle.zip",
+      "published_at": "2005-08-21",
+      "size": 2982101,
+      "sha256": "8ea45604cee524cbf239acede4b67cf4d6497d58f6fd4a8be762773ebc472abc",
+      "eboot_md5": "f6203335d2cf661d2fc07e3ec1ce17b2"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp_oto_test2.7z/PSP_01365_00000.jpg"
+    ],
+    "icon": "icons/psp_oto.png"
+  },
+  "languages": []
+}

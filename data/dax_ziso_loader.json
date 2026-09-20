@@ -1,0 +1,27 @@
+{
+  "name": "DAX ZISO Loader",
+  "id": "dax_ziso_loader",
+  "summary": "Homebrew app for PSP.",
+  "author": "Dark_AleX",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.62",
+      "url": "https://archive.org/download/daxziso-062.7z/DAXZISO_062.zip",
+      "published_at": "2006-05-18",
+      "size": 1049435,
+      "sha256": "c5add10b21e32917a66639cac420cf1d2104b74b96da9c9427ae59c4f720c576",
+      "eboot_md5": "361a942145615e9af5d8d52eb3d2acaf"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/daxziso-062.7z/snap.png"
+    ],
+    "icon": "icons/dax_ziso_loader.png"
+  },
+  "languages": []
+}

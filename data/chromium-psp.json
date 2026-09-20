@@ -1,0 +1,27 @@
+{
+  "name": "Chromium-PSP",
+  "id": "chromium-psp",
+  "summary": "Shoot 'em up homebrew game for PSP.",
+  "author": "Antoine Jacquet (Royale)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.50",
+      "url": "https://archive.org/download/114-chromium-psp-0.5fw-15.7z/ChromiumPSP0.5fw3x.zip",
+      "published_at": "2008-03-09",
+      "size": 1680519,
+      "sha256": "c8baa420698ab6d0a906ef39068936ddc9acf453252e813337a693da28adbc4e",
+      "eboot_md5": "31f52bc7329b069f223ba645f84af6e2"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/114-chromium-psp-0.5fw-15.7z/CHRO01618_00001.jpg"
+    ],
+    "icon": "icons/chromium-psp.png"
+  },
+  "languages": []
+}

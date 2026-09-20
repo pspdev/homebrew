@@ -1,0 +1,27 @@
+{
+  "name": "Fibonacci Calculator",
+  "id": "fibonacci_calculator",
+  "summary": "Fibonacci number calculator.",
+  "author": "MaxTheBest",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/fibonacci.-7z/Fibonacci.zip",
+      "published_at": "2008-02-27",
+      "size": 307604,
+      "sha256": "09f8b19dc393cdd4b6a5a1d683c2072e892b1aa4f32f464894773414103e0e4c",
+      "eboot_md5": "34e5b85cbb5774b9eb76fbdc10aaecc7"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/fibonacci.-7z/FIBO00894_00000.jpg"
+    ],
+    "icon": "icons/fibonacci_calculator.png"
+  },
+  "languages": []
+}

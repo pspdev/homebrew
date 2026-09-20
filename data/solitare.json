@@ -1,0 +1,27 @@
+{
+  "name": "Solitare",
+  "id": "solitare",
+  "summary": "Game of Solitaire for PSP.",
+  "author": "Pradeep M Kumar",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/solitarelua.-7z/Solitarelua.zip",
+      "published_at": "2005-12-20",
+      "size": 643764,
+      "sha256": "ccbe88f93c3a608a66f6d190d65cddd700f00000bdbfd451e533a42dd482a25e",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/solitarelua.-7z/LUAP01126_00001.jpg"
+    ],
+    "icon": "icons/solitare.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "BLUEKVM",
+  "id": "bluekvm",
+  "summary": "J2ME Kilobyte Virtual Machine Java Runtime Environment for PSP.",
+  "author": "QPOINT Software Group",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "Demo",
+      "url": "https://archive.org/download/bluekvm.7z/bluekvm.zip",
+      "published_at": "2007-01-16",
+      "size": 1205973,
+      "sha256": "521586faebbfff542371096f027901c14fd52e45c2437e51c61778d0141cde40",
+      "eboot_md5": "1450b0d6283afc08bc106e0e0a36dccf"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/bluekvm.7z/BLUE00758_00000.jpg"
+    ],
+    "icon": "icons/bluekvm.png"
+  },
+  "languages": []
+}

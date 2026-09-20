@@ -1,0 +1,27 @@
+{
+  "name": "CaSTaway/PSP",
+  "id": "castaway_psp",
+  "summary": "Atari ST emulator for PSP. Requires the file TOS.ROM.",
+  "author": "Jeff Mitchell",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "006",
+      "url": "https://archive.org/download/castaway-psp-006.7z/castaway-psp-006.zip",
+      "published_at": "2007-11-15",
+      "size": 680890,
+      "sha256": "ad7ad8f7445175d6ba1c90cc3e1c3f4fd118140e74bdd89212ce65de9a4b12f2",
+      "eboot_md5": "f896c0076884d70e9f6d80074aaab344"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/castaway-psp-006.7z/CAST01008_00000.jpg"
+    ],
+    "icon": "icons/castaway_psp.png"
+  },
+  "languages": []
+}

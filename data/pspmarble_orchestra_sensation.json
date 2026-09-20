@@ -1,0 +1,29 @@
+{
+  "name": "PSPMarble: Orchestra Sensation",
+  "id": "pspmarble_orchestra_sensation",
+  "summary": "3D puzzle game for PSP.",
+  "author": "BricKdEv",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.5b",
+      "url": "https://archive.org/download/pspmarble.-7z/PSPMarble.zip",
+      "published_at": "2009-06-21",
+      "size": 21885442,
+      "sha256": "74a49630b70c080302d8d1ad456cc7d758b6b9cc2a10a590c57e138277073974",
+      "eboot_md5": "562081d609b6c5303f33aee0d01bcb06"
+    }
+  ],
+  "tags": [
+    "Homebrew Idol 2 (2009)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspmarble.-7z/20210815211907.png"
+    ],
+    "icon": "icons/pspmarble_orchestra_sensation.png"
+  },
+  "languages": []
+}

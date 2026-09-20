@@ -1,0 +1,27 @@
+{
+  "name": "PSP Sokoban",
+  "id": "psp_sokoban",
+  "summary": "Version of Sokoban for PSP.",
+  "author": "Cl\u00e9ment Slempkes (Shadow77340)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.8",
+      "url": "https://archive.org/download/pspsokoban.-7z/Pspsokoban.zip",
+      "published_at": "2007-04-13",
+      "size": 4042075,
+      "sha256": "8bf6b36b1056aa00ea9676599af493dc622a57ef8b38071ff1c84d7936cec655",
+      "eboot_md5": "ae833f5505f244f624952faf694df920"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspsokoban.-7z/PSPS01056_00000.png"
+    ],
+    "icon": "icons/psp_sokoban.png"
+  },
+  "languages": []
+}

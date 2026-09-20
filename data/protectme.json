@@ -1,0 +1,29 @@
+{
+  "name": "ProtectMe",
+  "id": "protectme",
+  "summary": "Homebrew app for PSP.",
+  "author": "Maxence Ardouin (MaxTheBest)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.92",
+      "url": "https://archive.org/download/pm-src.-7z/PM_SRC.zip",
+      "published_at": "2008-05-31",
+      "size": 2207144,
+      "sha256": "ba89aebcd67466a3ce91e58fc6dda061779d51932c0e43c350869888be0477d0",
+      "eboot_md5": "818d104f11e402f44ef4fc0e26b3a119"
+    }
+  ],
+  "tags": [
+    "Homebrew Idol (2008)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pm-src.-7z/PM_S00484_00000.png"
+    ],
+    "icon": "icons/protectme.png"
+  },
+  "languages": []
+}

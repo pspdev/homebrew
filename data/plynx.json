@@ -1,0 +1,27 @@
+{
+  "name": "PLynx",
+  "id": "plynx",
+  "summary": "Atari Lynx emulator for PSP.",
+  "author": "PLynx",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.9",
+      "url": "https://archive.org/download/plynx-v-09.7z/PLynx_v09.zip",
+      "published_at": "2006-01-28",
+      "size": 866688,
+      "sha256": "2f52b682f612dc12dd19bf95e8c23f4939577f6d25d551319bd847bb038191bf",
+      "eboot_md5": "da95c3728495e8128ee389d4ece0608f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/plynx-v-09.7z/EBOO00649_00000.jpg"
+    ],
+    "icon": "icons/plynx.png"
+  },
+  "languages": []
+}

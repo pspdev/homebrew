@@ -1,0 +1,27 @@
+{
+  "name": "RoxPaint",
+  "id": "roxpaint",
+  "summary": "Paint app for PSP.",
+  "author": "roxfox64",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/rox-paintv-1.1.7z/RoxPaintv1.1.zip",
+      "published_at": "2008-09-22",
+      "size": 459875,
+      "sha256": "af5dbd19b140f54f96a172d7c4efd616410ac97fa6b67e2aab1a820530a2f928",
+      "eboot_md5": "05d2b1c9f578439a310ad2142fd9f66b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/rox-paintv-1.1.7z/LPM300335_00000.jpg"
+    ],
+    "icon": "icons/roxpaint.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "OnScreenMessure",
+  "id": "onscreenmessure",
+  "summary": "Measuring app for PSP.",
+  "author": "NoePDA_psp",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.6",
+      "url": "https://archive.org/download/on-screen-messure.-7z/OnScreenMessure.zip",
+      "published_at": "2009-12-23",
+      "size": 948851,
+      "sha256": "977f0fec625c681765db2f052ea832400fdde8df05bdb57d99006a848a8961a7",
+      "eboot_md5": "061d057ee102a6e95103a2e79bfdbebe"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/on-screen-messure.-7z/ONSC01537_00000.png"
+    ],
+    "icon": "icons/onscreenmessure.png"
+  },
+  "languages": []
+}

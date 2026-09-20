@@ -1,0 +1,27 @@
+{
+  "name": "Horror Quake PSP",
+  "id": "horror_quake_psp",
+  "summary": "PSP port of a Quake mod.",
+  "author": "pisswad12",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Beta 1",
+      "url": "https://archive.org/download/horror_quake.7z/horror_quake.zip",
+      "published_at": "2009-10-18",
+      "size": 42496543,
+      "sha256": "3d7c8dec769124af6269192f7c4316f8bbd6f5c42f77f679c74bb60b707adf93",
+      "eboot_md5": "67c2a284da20c8a982999ed9a83989c2"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/horror_quake.7z/HORR01298_00001.jpg"
+    ],
+    "icon": "icons/horror_quake_psp.png"
+  },
+  "languages": []
+}

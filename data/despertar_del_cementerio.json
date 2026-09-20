@@ -1,0 +1,27 @@
+{
+  "name": "Despertar del Cementerio",
+  "id": "despertar_del_cementerio",
+  "summary": "Unbricker for PSP.",
+  "author": "Dark_AleX",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "8",
+      "url": "https://archive.org/download/25335-dc-8/25335_dc8.zip",
+      "published_at": "2008-12-18",
+      "size": 937386,
+      "sha256": "5bcada0ec5abbc7864eca877d9bc5069d60a29fe6af745f965eba7f0eb235882",
+      "eboot_md5": "e5284b9da89d54f3a56612ffb3377048"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/25335-dc-8/20221010190946.png"
+    ],
+    "icon": "icons/despertar_del_cementerio.png"
+  },
+  "languages": []
+}

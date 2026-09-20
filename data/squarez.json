@@ -1,0 +1,27 @@
+{
+  "name": "Squarez",
+  "id": "squarez",
+  "summary": "Homebrew puzzle game for PSP.",
+  "author": "Globware",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.8.2 Beta 24",
+      "url": "https://archive.org/download/squarez-v-0.8.1.7z/SQUAREZ.zip",
+      "published_at": "2005-09-25",
+      "size": 1602146,
+      "sha256": "c3512fb1cc692931de9f639108a24749d5688ad03dcac9581eea8185e81d1a6a",
+      "eboot_md5": "0b135e8f443cef2253d06ede58f85db8"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/squarez-v-0.8.1.7z/SQUA00555_00000.jpg"
+    ],
+    "icon": "icons/squarez.png"
+  },
+  "languages": []
+}

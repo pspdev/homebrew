@@ -1,0 +1,27 @@
+{
+  "name": "Go!Tube",
+  "id": "go!tube",
+  "summary": "Video streaming app for PSP.",
+  "author": "biscottealacrevette",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/go-tube-1.2-hmm.-7z/GoTube1.2HMM.zip",
+      "published_at": "2010-04-23",
+      "size": 3306615,
+      "sha256": "3cb9de495a95edcf3edc09126f543c050e06396af603cde7d2ae8eb962547c59",
+      "eboot_md5": "4fdd00a4b7e83f24310ea6b21cdf791d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/go-tube-1.2-hmm.-7z/20210528225424.png"
+    ],
+    "icon": "icons/go!tube.png"
+  },
+  "languages": []
+}

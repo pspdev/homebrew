@@ -1,0 +1,27 @@
+{
+  "name": "PSPVE",
+  "id": "pspve",
+  "summary": "Vectrex emulator for PSP.",
+  "author": "Ludovic Jacomme (Zx-81)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.0.2",
+      "url": "https://archive.org/download/pspve-v1.0.2-fw3x.7z/pspve-v1.0.2-fw3x.zip",
+      "published_at": "2008-06-15",
+      "size": 1020486,
+      "sha256": "cbcdcb43841f5797094ae569fa24723d0f324bf0bd76903da8e155c064911eef",
+      "eboot_md5": "fc1abade2fbed55e53dbb814bbc89766"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspve-v1.0.2-fw3x.7z/PSPV01397_00000.jpg"
+    ],
+    "icon": "icons/pspve.png"
+  },
+  "languages": []
+}

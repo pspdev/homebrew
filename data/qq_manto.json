@@ -1,0 +1,29 @@
+{
+  "name": "QQ Manto",
+  "id": "qq_manto",
+  "summary": "Homebrew game for PSP.",
+  "author": "Kevin Chen",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Final",
+      "url": "https://archive.org/download/qqmanto.7z/QQMANTO.zip",
+      "published_at": "2010-01-01",
+      "size": 1033337,
+      "sha256": "8718b67bc5acf7b02e2ac5b4ab3b89b6e52f21103af874f24e14213d633de866",
+      "eboot_md5": "7c5408723cb4a0e8ed4dad28ea7f5b80"
+    }
+  ],
+  "tags": [
+    "NEO Summer Coding Compo 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/qqmanto.7z/QQMA00545_00000.jpg"
+    ],
+    "icon": "icons/qq_manto.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "PSPMAME Namco 2",
+  "id": "pspmame_namco_2",
+  "summary": "Version of the MAME emulator for PSP. Compatibility list available (in Japanese).",
+  "author": "Takka, TMK",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.97 r0.4",
+      "url": "https://archive.org/download/pspmame-0.97-namco-2.7z/PSPMAME-0.97-namco2.zip",
+      "published_at": "2009-12-31",
+      "size": 1000254,
+      "sha256": "a871ed2665b30ce97341e77f2ba5aef9f0b1fb0999abf24de7111f2e78854029",
+      "eboot_md5": "ca9705daebe6066da1a2c74b9866dd06"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspmame-0.97-namco-2.7z/PSPM01403_00000.png"
+    ],
+    "icon": "icons/pspmame_namco_2.png"
+  },
+  "languages": []
+}

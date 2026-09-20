@@ -1,0 +1,27 @@
+{
+  "name": "PSP Office",
+  "id": "psp_office",
+  "summary": "Homebrew app for PSP.",
+  "author": "Static, Sharko",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "Beta 2",
+      "url": "https://archive.org/download/pspoffice.-7z/PSPoffice.zip",
+      "published_at": "2006-04-30",
+      "size": 1939020,
+      "sha256": "0bfbf1c5178308b725ad546e4decec6cf67c8460c62c5dd0cb9d8bfb7dbe8865",
+      "eboot_md5": "3dc909f728c9f5e428f404e7aa992445"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspoffice.-7z/PSPO00863_00000.jpg"
+    ],
+    "icon": "icons/psp_office.png"
+  },
+  "languages": []
+}

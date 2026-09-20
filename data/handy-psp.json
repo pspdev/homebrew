@@ -1,0 +1,27 @@
+{
+  "name": "HANDY-PSP",
+  "id": "handy-psp",
+  "summary": "Atari Lynx emulator for PSP. To boot, it requires the lynxboot.img file, and at least one game with the .lnx extension.",
+  "author": "EXCEED",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.01",
+      "url": "https://archive.org/download/handy-psp-001.7z/HandyPSP001.zip",
+      "published_at": "2005-08-15",
+      "size": 160469,
+      "sha256": "42c151b78c7b6b23c942b20281dcf494721e3ca4f4361117f8206ab43c4c46e9",
+      "eboot_md5": "21781cd9931eecdc5033dcabb7f1aa12"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/handy-psp-001.7z/HAND00888_00000.png"
+    ],
+    "icon": "icons/handy-psp.png"
+  },
+  "languages": []
+}

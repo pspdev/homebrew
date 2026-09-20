@@ -1,0 +1,29 @@
+{
+  "name": "DGEN Lite",
+  "id": "dgen_lite",
+  "summary": "Sega Genesis (Megadrive) emulator for PSP. Fork of the original emulator by Syn-k with support for later models / firmwares.",
+  "author": "takka",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.70",
+      "url": "https://archive.org/download/dgen-170-lite/DGEN_170_Lite.zip",
+      "published_at": "2007-10-20",
+      "size": 3252033,
+      "sha256": "34ec90efe0d9bfd4949da4abd9be6f2b2a7cda4acc98b15250be2bc9fb6c1bda",
+      "eboot_md5": "55b4ebfd8395a392db9fbde607d2aa42"
+    }
+  ],
+  "tags": [
+    "ad-hoc support"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/dgen-170-lite/DGEN01026_00000.png"
+    ],
+    "icon": "icons/dgen_lite.png"
+  },
+  "languages": []
+}

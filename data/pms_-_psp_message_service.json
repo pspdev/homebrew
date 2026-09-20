@@ -1,0 +1,27 @@
+{
+  "name": "PMS - PSP Message Service",
+  "id": "pms_-_psp_message_service",
+  "summary": "Homebrew messaging app for PSP.",
+  "author": "Joshi, Pront0",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/pms.-7z/PMS.zip",
+      "published_at": "2008-01-01",
+      "size": 3188156,
+      "sha256": "1b3ca599a44bdd77212d5364050a42799a49039a7aac361d2ebff798d46b4134",
+      "eboot_md5": "65c1e1266df702c378aad0139943c57a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pms.-7z/pic_0002.png"
+    ],
+    "icon": "icons/pms_-_psp_message_service.png"
+  },
+  "languages": []
+}

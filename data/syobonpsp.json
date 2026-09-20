@@ -1,0 +1,27 @@
+{
+  "name": "SyobonPSP",
+  "id": "syobonpsp",
+  "summary": "PSP port of Syobon Action (also known as Cat Mario).",
+  "author": "Daniel Ribeiro (DanielBR)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "r3",
+      "url": "https://archive.org/download/syobon_DA_r3.7z/syobon_DA_r3.zip",
+      "published_at": "2012-07-27",
+      "size": 4604814,
+      "sha256": "e41fb3f3237eecc8e7b03d3f0c170d7178f77171089e9a13c6f4c995a408ba6e",
+      "eboot_md5": "c39480dcdbef386850c9d2090d10cb5f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/syobon_DA_r3.7z/SYOB01154_00001.png"
+    ],
+    "icon": "icons/syobonpsp.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Touhoudaibouken [\u6771\u65b9\u5927\u5192\u967a]",
+  "id": "touhoudaibouken_[\u6771\u65b9\u5927\u5192\u967a]",
+  "summary": "2D platformer fan game based on the Touhou Project franchise.",
+  "author": "satoshifukusima",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0 Beta 16-14",
+      "url": "https://archive.org/download/thd.-7z/THD.zip",
+      "published_at": "2012-01-01",
+      "size": 10974071,
+      "sha256": "a805df4ac94f202be32d212dbec66ec5a0a3e472b2abcee9f4e68558c95a0583",
+      "eboot_md5": "f37f997e31b23f3ad31c47e7260db47e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/thd.-7z/THDH00224_00000.jpg"
+    ],
+    "icon": "icons/touhoudaibouken_[\u6771\u65b9\u5927\u5192\u967a].png"
+  },
+  "languages": []
+}

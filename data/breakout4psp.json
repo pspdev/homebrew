@@ -1,0 +1,29 @@
+{
+  "name": "BreakOut4PSP",
+  "id": "breakout4psp",
+  "summary": "Breakout for PSP, but with menus in French.",
+  "author": "Cl\u00e9ment Gu\u00e9rin (Geecko)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.8",
+      "url": "https://archive.org/download/break-out-4-psp.-7z/BreakOut4PSP.zip",
+      "published_at": "2010-01-01",
+      "size": 433954,
+      "sha256": "508467b3e2b0e724aa8f5c0e240b37f292a92a484e3cab87a603a72a788f5f2a",
+      "eboot_md5": "63a6024561f6697e6c1cd7ce7a86188b"
+    }
+  ],
+  "tags": [
+    "NEO Retro Coding Compo 2010"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/break-out-4-psp.-7z/BREA01092_00002.png"
+    ],
+    "icon": "icons/breakout4psp.png"
+  },
+  "languages": []
+}

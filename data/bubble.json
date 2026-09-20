@@ -1,0 +1,27 @@
+{
+  "name": "Bubble",
+  "id": "bubble",
+  "summary": "Puzzle game for PSP.",
+  "author": "Sauron le noir",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0.1",
+      "url": "https://archive.org/download/bubble.7z/bubble.zip",
+      "published_at": "2007-12-01",
+      "size": 417012,
+      "sha256": "f280747db1a4f2c268edd54db4d0ed846dacaa882ef912a39d42d95ba1a9ab17",
+      "eboot_md5": "05b7b0095a638b8d623a3f80d39efb6c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/bubble.7z/BUBB00620_00000.png"
+    ],
+    "icon": "icons/bubble.png"
+  },
+  "languages": []
+}

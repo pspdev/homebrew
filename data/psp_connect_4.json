@@ -1,0 +1,30 @@
+{
+  "name": "PSP Connect 4",
+  "id": "psp_connect_4",
+  "summary": "Connect 4 for PSP.",
+  "author": "Team Sushi",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/pc4-1_1.7z/pc4-1_1.zip",
+      "published_at": "2006-10-30",
+      "size": 4225229,
+      "sha256": "bd9b1a0670baff8206a59c9d013d917a34b051ee4946e16ad2e5be43bdb7e903",
+      "eboot_md5": "4af37f91fd3b256e9c3f996e358d500f"
+    }
+  ],
+  "tags": [
+    "IrDA",
+    "QJ.NET and Lik-sang Summer Homebrew Competition (2006)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pc4-1_1.7z/PC4-00501_00000.jpg"
+    ],
+    "icon": "icons/psp_connect_4.png"
+  },
+  "languages": []
+}

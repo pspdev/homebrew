@@ -1,0 +1,27 @@
+{
+  "name": "Alex the Allegator 4",
+  "id": "alex_the_allegator_4",
+  "summary": "PSP port of the game.",
+  "author": "MK2k",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "R2",
+      "url": "https://archive.org/download/alex_the_allegator_4_psp_r2-mk2k.7z/alex_the_allegator_4_psp_r2-mk2k.zip",
+      "published_at": "2009-02-14",
+      "size": 1190466,
+      "sha256": "deb2e72b801b982c2a240462bf09fe137f7a711226ae28a3423c49ef28edcc9e",
+      "eboot_md5": "236322ea1c2703f5fa4012f6ddbd4ce9"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/alex_the_allegator_4_psp_r2-mk2k.7z/ALEX03150_00000.png"
+    ],
+    "icon": "icons/alex_the_allegator_4.png"
+  },
+  "languages": []
+}

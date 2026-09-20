@@ -1,0 +1,27 @@
+{
+  "name": "PSPRIS",
+  "id": "pspris",
+  "summary": "Homebrew Tetris for PSP.",
+  "author": "KISUO",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/PSPRIS/PSPRIS.zip",
+      "published_at": "2005-05-11",
+      "size": 27402,
+      "sha256": "8b140ea43678ac0f03ad34fe04862048c184f5aecefeec5bedb733faa0da9cf5",
+      "eboot_md5": "646dc0a87c996e4919b31555dbede173"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/PSPRIS/PSPR00481_00000.png"
+    ],
+    "icon": "icons/pspris.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Abuse",
+  "id": "abuse",
+  "summary": "Port of Abuse-SDL for the PSP.",
+  "author": "Jochen Schleu (JJS)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.8 R1",
+      "url": "https://archive.org/download/abuse-0.8-psp-r1.7z/abuse-0.8-psp-r1.zip",
+      "published_at": "2012-01-01",
+      "size": 21508911,
+      "sha256": "1389e29dcb1f07de2b2e672da59e9bf92abab08c13294f7d3338bf1ad23cd715",
+      "eboot_md5": "2452d47810715a8a8e3e9a770792bf23"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/abuse-0.8-psp-r1.7z/ABUS01315_00000.png"
+    ],
+    "icon": "icons/abuse.png"
+  },
+  "languages": []
+}

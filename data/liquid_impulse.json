@@ -1,0 +1,27 @@
+{
+  "name": "Liquid Impulse",
+  "id": "liquid_impulse",
+  "summary": "Beat 'em up game for PSP.",
+  "author": "Christian Ngo, Jonathan Muller, Danjon Kimura et al",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.3",
+      "url": "https://archive.org/download/li.-7z/LI.zip",
+      "published_at": "2013-03-28",
+      "size": 11802182,
+      "sha256": "59755690f25896f6905a5381287223ec268b20506ef1e91773528b5eb875c2d5",
+      "eboot_md5": "a4a0283b4017e992c4e3c650acd244ab"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/li.-7z/LIHO00149_00003.png"
+    ],
+    "icon": "icons/liquid_impulse.png"
+  },
+  "languages": []
+}

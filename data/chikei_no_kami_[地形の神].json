@@ -1,0 +1,27 @@
+{
+  "name": "Chikei no Kami [\u5730\u5f62\u306e\u795e]",
+  "id": "chikei_no_kami_[\u5730\u5f62\u306e\u795e]",
+  "summary": "The browser game Chikei no Kami has been ported to the PSP. Some unpleasant stages and stages that seemed impossible to reproduce were remade. All 24 stages.",
+  "author": "PEPO",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.00",
+      "url": "https://archive.org/download/tikei-no-kami-win-2/Tikei_no_Kami_WIN2.zip",
+      "published_at": "2007-12-21",
+      "size": 2256744,
+      "sha256": "70fd0248df2d86389037512cf3cfb43f90d544f8128afab70d8ee32c6bf512b5",
+      "eboot_md5": "24d01ed9498fc5650e0ec81aeaf20241"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/tikei-no-kami-win-2/TIKE01682_00000.png"
+    ],
+    "icon": "icons/chikei_no_kami_[\u5730\u5f62\u306e\u795e].png"
+  },
+  "languages": []
+}

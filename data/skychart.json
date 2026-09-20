@@ -1,0 +1,27 @@
+{
+  "name": "SkyChart",
+  "id": "skychart",
+  "summary": "Stargazing application for PSP.",
+  "author": "Harpet",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/skychart.7z/skychart.zip",
+      "published_at": "2007-01-01",
+      "size": 731540,
+      "sha256": "7ea0ce5e311ee33f277b75249734f3af202fd3fcc2fc58e0af25b5550caae06d",
+      "eboot_md5": "ce5ac3a72ce8dc435a82351aec42b88e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/skychart.7z/SKYC00873_00000.jpg"
+    ],
+    "icon": "icons/skychart.png"
+  },
+  "languages": []
+}

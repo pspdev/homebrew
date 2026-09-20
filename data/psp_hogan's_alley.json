@@ -1,0 +1,27 @@
+{
+  "name": "PSP Hogan's Alley",
+  "id": "psp_hogan's_alley",
+  "summary": "PSP version of the game.",
+  "author": "Yashamaru",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.0",
+      "url": "https://archive.org/download/ews-psp-hogans-alley-demo.-7z/EWS-PSP_HOGANS_ALLEY_DEMO.zip",
+      "published_at": "2005-10-04",
+      "size": 716804,
+      "sha256": "f65432f723c9355d8bb01eb4ed81aeba767ab2c2ba163492fd90178fee69265f",
+      "eboot_md5": "990b6fc35f7bbb32d2bf8b67d995e4a8"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ews-psp-hogans-alley-demo.-7z/EWS-01928_00000.jpg"
+    ],
+    "icon": "icons/psp_hogan's_alley.png"
+  },
+  "languages": []
+}

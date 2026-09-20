@@ -1,0 +1,27 @@
+{
+  "name": "Flash Copy",
+  "id": "flash_copy",
+  "summary": "Homebrew app for PSP.",
+  "author": "gracz54",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.3",
+      "url": "https://archive.org/download/flashcopy13.7z/flashcopy13.zip",
+      "published_at": "2006-04-15",
+      "size": 1107357,
+      "sha256": "0156a56f64c4b485451798d8a40f7eeb6396346c849fcd84c7a8ac89cccbc80b",
+      "eboot_md5": "c6dbfc24ce19c6f4b498754f3fa0940e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/flashcopy13.7z/FLAS01069_00001.jpg"
+    ],
+    "icon": "icons/flash_copy.png"
+  },
+  "languages": []
+}

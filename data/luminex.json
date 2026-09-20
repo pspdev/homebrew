@@ -1,0 +1,29 @@
+{
+  "name": "Luminex",
+  "id": "luminex",
+  "summary": "Puzzle game for PSP.",
+  "author": "pointbat",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/luminex.-7z/LUMINEX.zip",
+      "published_at": "2006-01-01",
+      "size": 1730376,
+      "sha256": "7272dc9cb5f140dea08fc824f2dc09227ae1143064dcd26b27c9c00771775185",
+      "eboot_md5": "ffaf98d5af4a23bb486f25557728fd83"
+    }
+  ],
+  "tags": [
+    "NEO Summer Coding Compo 2006"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/luminex.-7z/LUMI00546_00000.jpg"
+    ],
+    "icon": "icons/luminex.png"
+  },
+  "languages": []
+}

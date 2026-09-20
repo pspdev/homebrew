@@ -1,0 +1,30 @@
+{
+  "name": "Motion Pong",
+  "id": "motion_pong",
+  "summary": "Pong; supports a motion kit add-on.",
+  "author": "Bumuckl",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/motionpong02.7z/mtn02.zip",
+      "published_at": "2008-03-12",
+      "size": 1885809,
+      "sha256": "735c87a3a0fcf2164a04c8df5531e075f908ee72f91a204f173368bd52dd3818",
+      "eboot_md5": "c52c94e85c6011de15c3ee5b97622bcb"
+    }
+  ],
+  "tags": [
+    "Neo Motion Kit",
+    "NEO Spring Coding Compo 2008"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/motionpong02.7z/MOTI01196_00001.png"
+    ],
+    "icon": "icons/motion_pong.png"
+  },
+  "languages": []
+}

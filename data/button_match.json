@@ -1,0 +1,27 @@
+{
+  "name": "Button Match",
+  "id": "button_match",
+  "summary": "Homebrew game for PSP. Also known as \"Crappy Button Matching Game\".",
+  "author": "Alex Carroll",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/button-match-02.7z/ButtonMatch02.zip",
+      "published_at": "2005-07-20",
+      "size": 648940,
+      "sha256": "b1994fad0de6d758c789837abbc17480cf575deec36d414b1b1326928b3eb63b",
+      "eboot_md5": "3affadb846d070a3ff9b4fdcfbe1af15"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/button-match-02.7z/BUTT01227_00001.jpg"
+    ],
+    "icon": "icons/button_match.png"
+  },
+  "languages": []
+}

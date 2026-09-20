@@ -1,0 +1,27 @@
+{
+  "name": "Worm",
+  "id": "worm",
+  "summary": "Version of Snake for PSP.",
+  "author": "St3ph3n, Michelle",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/worm3xx.7z/worm3xx.zip",
+      "published_at": "2009-05-09",
+      "size": 4459377,
+      "sha256": "129581a28d888592792d8d7b57dea228b8aa90f58324cd135864a972cda5a9c4",
+      "eboot_md5": "20a908225950cef347940cd07554d279"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/worm3xx.7z/WORM00744_00000.png"
+    ],
+    "icon": "icons/worm.png"
+  },
+  "languages": []
+}

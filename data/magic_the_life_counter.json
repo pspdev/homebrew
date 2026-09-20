@@ -1,0 +1,27 @@
+{
+  "name": "Magic: The Life Counter",
+  "id": "magic_the_life_counter",
+  "summary": "Homebrew app for PSP.",
+  "author": "Dragula96, stifpsp",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/magic-lc.-7z/MagicLC.zip",
+      "published_at": "2009-01-23",
+      "size": 1685384,
+      "sha256": "d98362ae433070ea17ae90c1728fc50b9aeac46065b9a18279e4aaf00beb1300",
+      "eboot_md5": "3b74c1c8499bfd31c8dbfb2222b5e307"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/magic-lc.-7z/MAGI00624_00000.png"
+    ],
+    "icon": "icons/magic_the_life_counter.png"
+  },
+  "languages": []
+}

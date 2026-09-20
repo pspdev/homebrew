@@ -1,0 +1,27 @@
+{
+  "name": "Threes",
+  "id": "threes",
+  "summary": "An unofficial implementation of the Threes Game for PSP.",
+  "author": "Marian Kleineberg",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/threes-psp/threes-psp.zip",
+      "published_at": "2022-05-30",
+      "size": 85909,
+      "sha256": "9a234ecb5606f1f46fd729eaef2563a798ebf144a1cc922ee63003ad8cc0afff",
+      "eboot_md5": "e4a3adeb02f3b5aafc7cadcef35a0171"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/threes-psp/THRE01035_00000.png"
+    ],
+    "icon": "icons/threes.png"
+  },
+  "languages": []
+}

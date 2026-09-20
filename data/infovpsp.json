@@ -1,0 +1,29 @@
+{
+  "name": "InfoVPSP",
+  "id": "infovpsp",
+  "summary": "Homebrew app for PSP.",
+  "author": "sergi70",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.78",
+      "url": "https://archive.org/download/PSPInfo/PSPInfo.zip",
+      "published_at": "2009-09-01",
+      "size": 5940599,
+      "sha256": "e735f756fd573476d3a87ca05ddcd3f029ad6df1e1684258a3dc441d53f6bc1b",
+      "eboot_md5": "c7e6067ce83ab0860d372f688f629a2b"
+    }
+  ],
+  "tags": [
+    "Scenery Beta 2009"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/PSPInfo/PSPI00639_00001.png"
+    ],
+    "icon": "icons/infovpsp.png"
+  },
+  "languages": []
+}

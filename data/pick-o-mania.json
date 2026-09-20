@@ -1,0 +1,27 @@
+{
+  "name": "Pick-o-Mania",
+  "id": "pick-o-mania",
+  "summary": "Homebrew game for PSP.",
+  "author": "JustChris",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1 Beta",
+      "url": "https://archive.org/download/pick-o-mania.-7z/Pick-O-Mania.zip",
+      "published_at": "2006-10-30",
+      "size": 183127,
+      "sha256": "f6409694748daa0751fa3d99049c01071f75cf3de81d1b2656563416d26ab14e",
+      "eboot_md5": "3ec4c12391c19559b103fe362d1a898c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pick-o-mania.-7z/PICK01046_00000.jpg"
+    ],
+    "icon": "icons/pick-o-mania.png"
+  },
+  "languages": []
+}

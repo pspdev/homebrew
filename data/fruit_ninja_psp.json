@@ -1,0 +1,27 @@
+{
+  "name": "Fruit Ninja PSP",
+  "id": "fruit_ninja_psp",
+  "summary": "Homebrew game for PSP.",
+  "author": "\u0413aeae \u0412ea\u0434e\u0441eaa (vladgalay)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.31",
+      "url": "https://archive.org/download/fn_131/fn_131.zip",
+      "published_at": "2012-01-01",
+      "size": 1195512,
+      "sha256": "bd799849e7d35069e0bb042349505ec8275f8d4ae9b6ca2b9971c0b99ceab866",
+      "eboot_md5": "b90fccda37c36189834d32c4c686ba0d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/fn_131/FN_100456_00001.png"
+    ],
+    "icon": "icons/fruit_ninja_psp.png"
+  },
+  "languages": []
+}

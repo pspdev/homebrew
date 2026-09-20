@@ -1,0 +1,27 @@
+{
+  "name": "Mir Cronometro",
+  "id": "mir_cronometro",
+  "summary": "Stopwatch app for PSP.",
+  "author": "Miro Mannino",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/mirCronometro.7z/mirCronometro.zip",
+      "published_at": "2008-08-08",
+      "size": 416247,
+      "sha256": "7f69c53de78c51ba08433577f73c7b6f64e7ff080eb72b9f7891f7ea8bab2235",
+      "eboot_md5": "60afac79e6026988617a852f04f828b3"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mirCronometro.7z/PSP 01232_00000.png"
+    ],
+    "icon": "icons/mir_cronometro.png"
+  },
+  "languages": []
+}

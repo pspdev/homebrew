@@ -1,0 +1,29 @@
+{
+  "name": "NCDZPSP [Adhoc]",
+  "id": "ncdzpsp_[adhoc]",
+  "summary": "NeoGeo CDZ emulator for PSP. Version with ad-hoc support. Ad-hoc mode is enabled by pressing square when launching a game.",
+  "author": "NJ, AhMan",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "2.2.1a",
+      "url": "https://archive.org/download/ncdzpsp_2.2.1a_adhoc_for_3x/ncdzpsp_2.2.1a_adhoc_for_slim.zip",
+      "published_at": "2007-10-04",
+      "size": 294164,
+      "sha256": "87a4b151186364940a5e0932948136327d0af48c6eda72a3e1e31d7401dfe3bf",
+      "eboot_md5": "b25885a507fab9cc758f1bbb13cf1ca6"
+    }
+  ],
+  "tags": [
+    "ad-hoc support"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ncdzpsp_2.2.1a_adhoc_for_3x/20220122110312.png"
+    ],
+    "icon": "icons/ncdzpsp_[adhoc].png"
+  },
+  "languages": []
+}

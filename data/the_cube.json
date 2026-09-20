@@ -1,0 +1,29 @@
+{
+  "name": "The Cube",
+  "id": "the_cube",
+  "summary": "Rubik's cube.",
+  "author": "Sebastien Delestaing",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/the_cube_seb_normal.7z/the_cube_11_fw150.zip",
+      "published_at": "2007-11-21",
+      "size": 1326608,
+      "sha256": "7245c27397346b37bc097d66000f9b34da6991c781b41ba3a72fa591fb76480f",
+      "eboot_md5": "183527da7abf9b8d141fbf5c7dddd166"
+    }
+  ],
+  "tags": [
+    "D\u00e9fi devSgen (2007)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/the_cube_seb_normal.7z/THE_01490_00001.jpg"
+    ],
+    "icon": "icons/the_cube.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Canadian Roswell",
+  "id": "canadian_roswell",
+  "summary": "Space shooter homebrew for PSP.",
+  "author": "Mr305",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Final",
+      "url": "https://archive.org/download/cana-02406-00000/CanadianRoswell_v1_final.zip",
+      "published_at": "2008-12-15",
+      "size": 2796347,
+      "sha256": "9db419cbadc929e2b61c29f878156c952420cf62a974eab416b16befe3e01b3e",
+      "eboot_md5": "63c5a4ac22b3e4f6c9fe73bd120b1e7e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/cana-02406-00000/snap.png"
+    ],
+    "icon": "icons/canadian_roswell.png"
+  },
+  "languages": []
+}

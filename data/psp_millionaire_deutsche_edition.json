@@ -1,0 +1,27 @@
+{
+  "name": "PSP Millionaire Deutsche Edition",
+  "id": "psp_millionaire_deutsche_edition",
+  "summary": "German-language edition of the homebrew game.",
+  "author": "portable-news.de",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.10",
+      "url": "https://archive.org/download/pspmillionaire.-7z_202102/PSPMillionaire.zip",
+      "published_at": "2013-05-14",
+      "size": 6227883,
+      "sha256": "d46a74e66b54731c4ee2f41af40e07245848b60a9cbf849c58a72ebaebf0851a",
+      "eboot_md5": "95168aa7b45297cbceccc24b41c21b00"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspmillionaire.-7z_202102/EBOO00649_00006.jpg"
+    ],
+    "icon": "icons/psp_millionaire_deutsche_edition.png"
+  },
+  "languages": []
+}

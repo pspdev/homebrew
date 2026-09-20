@@ -1,0 +1,27 @@
+{
+  "name": "PSP DiGi CoMiX",
+  "id": "psp_digi_comix",
+  "summary": "Comics reader for PSP.",
+  "author": "DeGenerationX",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1",
+      "url": "https://archive.org/download/digi_comix_reader.7z/digi_comix_reader.zip",
+      "published_at": "2011-10-11",
+      "size": 13098179,
+      "sha256": "25c45ae016d0496e82657c1cfb811dcb26ad9331fed679c51355a08105110711",
+      "eboot_md5": "5aba05b391cd682584d517138f29b5af"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/digi_comix_reader.7z/DIGI01340_00000.jpg"
+    ],
+    "icon": "icons/psp_digi_comix.png"
+  },
+  "languages": []
+}

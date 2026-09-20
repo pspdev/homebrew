@@ -1,0 +1,27 @@
+{
+  "name": "TehPwn",
+  "id": "tehpwn",
+  "summary": "Homebrew game for PSP.",
+  "author": "Slasher",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.01",
+      "url": "https://archive.org/download/teh-pwn-v.-01.7z/TehPwnV.01.zip",
+      "published_at": "2005-09-18",
+      "size": 561981,
+      "sha256": "1c092e815ea54a12eea8dff64a8dd3a92d99c4d9f3dea27ff59f14f9c813932a",
+      "eboot_md5": "47874835d82f6adef9a65173e1aae3cf"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/teh-pwn-v.-01.7z/TEHP00827_00000.jpg"
+    ],
+    "icon": "icons/tehpwn.png"
+  },
+  "languages": []
+}

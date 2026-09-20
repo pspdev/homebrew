@@ -1,0 +1,27 @@
+{
+  "name": "PokeMini",
+  "id": "pokemini",
+  "summary": "Pok\u00e9mon-Mini emulator for PSP.",
+  "author": "JustBurn",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.60",
+      "url": "https://archive.org/download/poke-mini.-7z/pokemini_060_psp.zip",
+      "published_at": "2015-06-16",
+      "size": 205782,
+      "sha256": "cdc653b9c4f54b5620133448c4459b636d610a08aecb6c5ad2f4dfd372f0f6db",
+      "eboot_md5": "db5f52d6f817555bb5ea943bdb268e65"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/poke-mini.-7z/POKE01539_00000.png"
+    ],
+    "icon": "icons/pokemini.png"
+  },
+  "languages": []
+}

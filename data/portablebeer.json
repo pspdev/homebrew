@@ -1,0 +1,27 @@
+{
+  "name": "PortableBeer",
+  "id": "portablebeer",
+  "summary": "Video of a beer being poured. Press L to drink.",
+  "author": "N0ePDA",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.7",
+      "url": "https://archive.org/download/portable-beer-v-0.5.7z/portbalebeer-v0-7_1260870987.zip",
+      "published_at": "2009-01-01",
+      "size": 8049252,
+      "sha256": "58a3ac6c18329d37d7b94f6d66d2bf2eeb53e5bb2dcdcbe45e6277a8f0aee8bb",
+      "eboot_md5": "c3700a2944760f296c4a31055a767b35"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/portable-beer-v-0.5.7z/PORT01536_00000.jpg"
+    ],
+    "icon": "icons/portablebeer.png"
+  },
+  "languages": []
+}

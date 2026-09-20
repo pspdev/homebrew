@@ -1,0 +1,29 @@
+{
+  "name": "Ruckus Mod",
+  "id": "ruckus_mod",
+  "summary": "Homebrew app for PSP.",
+  "author": "System Mega Function Inc.",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "LE 1.1",
+      "url": "https://archive.org/download/usbhostfs_gui_usr1.1/ruckus_mod_le1.1.zip",
+      "published_at": "2008-01-01",
+      "size": 389525,
+      "sha256": "695f402b74d9f6b6663815614be8a0c7ff30d0c1110ce0ce3e6d8e9090d355c0",
+      "eboot_md5": "4b2abffae9427a3758645c4179cacce2"
+    }
+  ],
+  "tags": [
+    "Homebrew Idol (2008)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/usbhostfs_gui_usr1.1/RUCK01532_00001.png"
+    ],
+    "icon": "icons/ruckus_mod.png"
+  },
+  "languages": []
+}

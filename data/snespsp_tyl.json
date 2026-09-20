@@ -1,0 +1,29 @@
+{
+  "name": "SnesPSP TYL",
+  "id": "snespsp_tyl",
+  "summary": "SNES emulator for PSP.",
+  "author": "ThunderZ, YoyoFR, Laxer3a",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.4.2me",
+      "url": "https://archive.org/download/s9xTYL-0.4.2me.7z/s9xTYL-0.4.2me.zip",
+      "published_at": "2006-05-15",
+      "size": 4111054,
+      "sha256": "fa2de9673718844087b4d28cea2ded578bc97a27c9e089a15020e6a6b844d32d",
+      "eboot_md5": "777675da31d3e8d1b8ade0feb1e899ed"
+    }
+  ],
+  "tags": [
+    "ad-hoc support"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/s9xTYL-0.4.2me.7z/pic_0001.png"
+    ],
+    "icon": "icons/snespsp_tyl.png"
+  },
+  "languages": []
+}

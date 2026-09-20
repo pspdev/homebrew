@@ -1,0 +1,27 @@
+{
+  "name": "PSPirc",
+  "id": "pspirc",
+  "summary": "Homebrew app for PSP.",
+  "author": "AsErTo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.1b",
+      "url": "https://archive.org/download/pspirc.-7z/PSPirc.zip",
+      "published_at": "2007-09-24",
+      "size": 595841,
+      "sha256": "bf1825edac678de02cded5b9a1c4c8466112bba31b4f6d4d8da40f06b72af021",
+      "eboot_md5": "05d2b1c9f578439a310ad2142fd9f66b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspirc.-7z/PSPI00561_00000.jpg"
+    ],
+    "icon": "icons/pspirc.png"
+  },
+  "languages": []
+}

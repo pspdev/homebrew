@@ -1,0 +1,29 @@
+{
+  "name": "PReSS",
+  "id": "press",
+  "summary": "RSS feed reader for PSP.",
+  "author": "Nino van Hooff (The Underminer)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.4.1",
+      "url": "https://archive.org/download/pressv04.7z/press041.zip",
+      "published_at": "2009-11-02",
+      "size": 1569837,
+      "sha256": "71cc6b7406fa45462508033e20e6675f6032d06b09d61e6eb89aaadd82d004c7",
+      "eboot_md5": "d2f9ae8cc00b2b11e28b439f3ee8f96a"
+    }
+  ],
+  "tags": [
+    "Homebrew Idol (2008)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pressv04.7z/PRES00429_00000.jpg"
+    ],
+    "icon": "icons/press.png"
+  },
+  "languages": []
+}

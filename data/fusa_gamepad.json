@@ -1,0 +1,27 @@
+{
+  "name": "FuSa GamePad",
+  "id": "fusa_gamepad",
+  "summary": "Allows you to use a PSP as a PC controller by connecting it with a USB cable.",
+  "author": "Andy_maN",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.3",
+      "url": "https://archive.org/download/fusa-game-pad.-7z/FusaGamePad.zip",
+      "published_at": "2010-01-03",
+      "size": 73086,
+      "sha256": "1e5129e51b46a2f1040d0b2ddec865964da0761a8d7a03840c33842bc0e69c14",
+      "eboot_md5": "0a5910c0005ccb694313a6391f61916f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/fusa-game-pad.-7z/20210721201538.png"
+    ],
+    "icon": "icons/fusa_gamepad.png"
+  },
+  "languages": []
+}

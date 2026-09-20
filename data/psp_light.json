@@ -1,0 +1,27 @@
+{
+  "name": "PSP Light",
+  "id": "psp_light",
+  "summary": "Torchlight app for PSP.",
+  "author": "Team Shipp\u00fbden",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "3",
+      "url": "https://archive.org/download/psp-light.-7z/PSPLight.zip",
+      "published_at": "2012-04-16",
+      "size": 1973070,
+      "sha256": "2f04e5123f1670b5975dde50e32f0395e40099431289d682205f6dfd5d66a0e5",
+      "eboot_md5": "85eb26e7827a44c8b68067c762ceea92"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-light.-7z/PSP 00779_00000.jpg"
+    ],
+    "icon": "icons/psp_light.png"
+  },
+  "languages": []
+}

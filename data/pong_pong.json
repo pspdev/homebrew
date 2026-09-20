@@ -1,0 +1,27 @@
+{
+  "name": "Pong Pong",
+  "id": "pong_pong",
+  "summary": "Pong for PSP.",
+  "author": "Marc Weisser",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/pongv2.7z/pongv2.zip",
+      "published_at": "2007-01-01",
+      "size": 1274505,
+      "sha256": "705a65f664f78502b1dea9b4777ca60791d6e5a456248387fefbf03c47c5bb0e",
+      "eboot_md5": "2ad93ceac3337133fa4ecb8a378318f3"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pongv2.7z/PONG00604_00001.jpg"
+    ],
+    "icon": "icons/pong_pong.png"
+  },
+  "languages": []
+}

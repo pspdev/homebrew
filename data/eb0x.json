@@ -1,0 +1,27 @@
+{
+  "name": "Eb0x",
+  "id": "eb0x",
+  "summary": "Eboot extractor.",
+  "author": "Bumuckl",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/eb-0xv-1.0.7z/Eb0xv1.0.zip",
+      "published_at": "2008-01-01",
+      "size": 815673,
+      "sha256": "9a1b42798c16993ca3ef54b74f070f335d979cda9f4a2c41065d785f72d4270f",
+      "eboot_md5": "f9027f60ede969f97d38bdba05119b6f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/eb-0xv-1.0.7z/EB0X00596_00000.jpg"
+    ],
+    "icon": "icons/eb0x.png"
+  },
+  "languages": []
+}

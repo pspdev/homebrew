@@ -1,0 +1,29 @@
+{
+  "name": "Stakker PSP",
+  "id": "stakker_psp",
+  "summary": "Puzzle game for PSP. Won first place at the Homebrew Idol 2008 coding contest.",
+  "author": "MK2k",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Idol Edition",
+      "url": "https://archive.org/download/stakker_psp_update2-mk2k.7z/Stakker_PSP_Idol_Edition-MK2k.zip",
+      "published_at": "2008-06-10",
+      "size": 11355151,
+      "sha256": "6e64cc8589efdf82e86caa03980e1fff267a6c242b01c08fa358e118a484c2ca",
+      "eboot_md5": "c287335120a8f20cb67b4756bb916655"
+    }
+  ],
+  "tags": [
+    "Homebrew Idol (2008)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/stakker_psp_update2-mk2k.7z/STAK02715_00000.png"
+    ],
+    "icon": "icons/stakker_psp.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Caprice32",
+  "id": "caprice32",
+  "summary": "Amstrad CPC emulator for PlayStation Portable.",
+  "author": "Akop Karapetyan",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "4.2.0.2",
+      "url": "https://archive.org/download/cpc-300750-00000/cpc32psp.zip",
+      "published_at": "2007-11-28",
+      "size": 437501,
+      "sha256": "be2eab383107508fb7f0282102dc076d92bb087399bf73f10dc5e4f1e08d9d54",
+      "eboot_md5": "008ac37d810019096ef59b179789d385"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/cpc-300750-00000/CPC300750_00000.png"
+    ],
+    "icon": "icons/caprice32.png"
+  },
+  "languages": []
+}

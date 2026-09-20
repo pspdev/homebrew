@@ -1,0 +1,27 @@
+{
+  "name": "Unofficial NesterJ",
+  "id": "unofficial_nesterj",
+  "summary": "NES Emulator for PSP.",
+  "author": "T. Kawamorita (e)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "2b",
+      "url": "https://archive.org/download/uo_nj2.7z/uo_nj2b.zip",
+      "published_at": "2005-10-13",
+      "size": 1080880,
+      "sha256": "7470af79693c841d923f376e0be8d9393dd1c0f1ecc4e416045748dcdab5fcac",
+      "eboot_md5": "01dbc91cc8a755895c382e9087587571"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/uo_nj2.7z/20210609162546.png"
+    ],
+    "icon": "icons/unofficial_nesterj.png"
+  },
+  "languages": []
+}

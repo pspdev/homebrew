@@ -1,0 +1,27 @@
+{
+  "name": "LUA Hua Rong Dao",
+  "id": "lua_hua_rong_dao",
+  "summary": "Puzzle game for PSP.",
+  "author": "gisxing",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Alpha",
+      "url": "https://archive.org/download/luahua-rong-dao.-7z/LUAHuaRongDao.zip",
+      "published_at": "2005-12-29",
+      "size": 1203483,
+      "sha256": "47230e2216f8d86818e4e5f4277866f5c3a6b2b3f38bd2886773ff21f0b85b81",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/luahua-rong-dao.-7z/pic_0011.png"
+    ],
+    "icon": "icons/lua_hua_rong_dao.png"
+  },
+  "languages": []
+}

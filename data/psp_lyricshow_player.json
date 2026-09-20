@@ -1,0 +1,27 @@
+{
+  "name": "PSP LyricShow Player",
+  "id": "psp_lyricshow_player",
+  "summary": "Chinese-language MP3 player for PSP.",
+  "author": "gadget2k",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.9.7",
+      "url": "https://archive.org/download/mp-3-player-097.7z/Mp3Player097.zip",
+      "published_at": "2008-07-02",
+      "size": 1595561,
+      "sha256": "63d220d8c50fb58144b92b56d0f123a35690b45d917d0e4896172a38b4f01c04",
+      "eboot_md5": "8af3dc801f365a76ea973837287dbfcf"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mp-3-player-097.7z/MP3P01021_00000.png"
+    ],
+    "icon": "icons/psp_lyricshow_player.png"
+  },
+  "languages": []
+}

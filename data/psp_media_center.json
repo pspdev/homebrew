@@ -1,0 +1,27 @@
+{
+  "name": "PSP Media Center",
+  "id": "psp_media_center",
+  "summary": "Media player for PSP.",
+  "author": "John_K, adresd",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.87",
+      "url": "https://archive.org/download/pmc.-7z_202102/PSPMediaCenter_0.87a.zip",
+      "published_at": "2005-07-14",
+      "size": 536076,
+      "sha256": "45982ea5ba3854e54da5d0e08eef3818390d29a22f2547ad039d32824fe64149",
+      "eboot_md5": "ff823972f8e1aa9eab417ef5d52106c7"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pmc.-7z_202102/PSPM01729_00000.jpg"
+    ],
+    "icon": "icons/psp_media_center.png"
+  },
+  "languages": []
+}

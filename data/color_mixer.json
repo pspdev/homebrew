@@ -1,0 +1,27 @@
+{
+  "name": "Color Mixer",
+  "id": "color_mixer",
+  "summary": "App that mixes colors.",
+  "author": "R. Yonaba",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/colormixer.7z/colormixer.zip",
+      "published_at": "2008-03-18",
+      "size": 1295420,
+      "sha256": "423e004f53747d88ba0cba8db11af7dbe116a211d0e0c51d68e7d2547b5fa539",
+      "eboot_md5": "8cb6886b28d31789081c300d5754a335"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/colormixer.7z/snap.png"
+    ],
+    "icon": "icons/color_mixer.png"
+  },
+  "languages": []
+}

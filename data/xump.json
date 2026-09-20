@@ -1,0 +1,27 @@
+{
+  "name": "Xump",
+  "id": "xump",
+  "summary": "Homebrew game for PSP.",
+  "author": "Retroguru",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.00",
+      "url": "https://archive.org/download/xump.-7z/XUMP.zip",
+      "published_at": "2014-01-01",
+      "size": 901828,
+      "sha256": "e3c76bc54a8e95dd86c272997611d67d270abd227b16e51a6171f5ef7b5579e0",
+      "eboot_md5": "09d73fe288ab305b7d8fbc3dcf93e0d2"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/xump.-7z/XUMP00330_00000.jpg"
+    ],
+    "icon": "icons/xump.png"
+  },
+  "languages": []
+}

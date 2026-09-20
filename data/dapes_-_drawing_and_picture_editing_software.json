@@ -1,0 +1,27 @@
+{
+  "name": "DAPES - Drawing And Picture Editing Software",
+  "id": "dapes_-_drawing_and_picture_editing_software",
+  "summary": "Image editor for PSP.",
+  "author": "Shaolan",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "3.0.1",
+      "url": "https://archive.org/download/dapesv-3.0.1/DAPESv3.0.1.zip",
+      "published_at": "2008-08-10",
+      "size": 2121247,
+      "sha256": "c20c6b0057744ab397a0c57cee679e0bf3430b84437fc0b9960af989dc1d9df0",
+      "eboot_md5": "ccc517cf0e54e28813be0f34f4c0946e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/dapesv-3.0.1/DAPE00723_00000.png"
+    ],
+    "icon": "icons/dapes_-_drawing_and_picture_editing_software.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Hangman for PSP",
+  "id": "hangman_for_psp",
+  "summary": "Homebrew game for PSP.",
+  "author": "pspwner",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.00",
+      "url": "https://archive.org/download/hangman.-7z/Hangman.zip",
+      "published_at": "2007-03-08",
+      "size": 1012075,
+      "sha256": "2faa31c3e3f01db3e3f4e2ad369c2c0d26a4bf34d36478a34a64c712c2b51f33",
+      "eboot_md5": "367f1f111c913b9d7678c91910669fff"
+    }
+  ],
+  "tags": [
+    "NEO Spring Compo 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/hangman.-7z/HANG00698_00000.jpg"
+    ],
+    "icon": "icons/hangman_for_psp.png"
+  },
+  "languages": []
+}

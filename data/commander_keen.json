@@ -1,0 +1,27 @@
+{
+  "name": "Commander Keen",
+  "id": "commander_keen",
+  "summary": "PSP port of the game, based on CloneKeen 8.3 by Katy. The shareware version is included.",
+  "author": "McZonk",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.99",
+      "url": "https://archive.org/download/keen.7z/keen.zip",
+      "published_at": "2006-03-08",
+      "size": 718657,
+      "sha256": "ba0b4e22b1819a45eb0be4e61e6c3bee296a746bb9ab8c7b2b54d98665c85cde",
+      "eboot_md5": "4b1775ca9e486b562dfc6980a042b7ed"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/keen.7z/KEEN00419_00000.jpg"
+    ],
+    "icon": "icons/commander_keen.png"
+  },
+  "languages": []
+}

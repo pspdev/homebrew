@@ -1,0 +1,27 @@
+{
+  "name": "pspChess",
+  "id": "pspchess",
+  "summary": "Chess for PSP.",
+  "author": "Christopher Bowron",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.31",
+      "url": "https://archive.org/download/pspchess.7z/pspchess.zip",
+      "published_at": "2005-08-13",
+      "size": 1320313,
+      "sha256": "30618b23e85c163632dd7157c8481b5f75cdc3cee7e9063e07300d536e921ef8",
+      "eboot_md5": "51684f7775689451f1fe40d39115ea10"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspchess.7z/pic_0001.png"
+    ],
+    "icon": "icons/pspchess.png"
+  },
+  "languages": []
+}

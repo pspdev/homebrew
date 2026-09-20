@@ -1,0 +1,27 @@
+{
+  "name": "Freebox Remote",
+  "id": "freebox_remote",
+  "summary": "Homebrew app for PSP.",
+  "author": "Miles",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/freeboxRemote.7z/freeboxRemote.zip",
+      "published_at": "2010-12-26",
+      "size": 296866,
+      "sha256": "b8713c14dda06821a14b67b432bfe53bc3b08a779efbc0dbc6f9256dc37a5e51",
+      "eboot_md5": "930a3b6aedec8db99cff14766af0e30e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/freeboxRemote.7z/FREE01367_00000.jpg"
+    ],
+    "icon": "icons/freebox_remote.png"
+  },
+  "languages": []
+}

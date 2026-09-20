@@ -1,0 +1,27 @@
+{
+  "name": "Irem M72",
+  "id": "irem_m72",
+  "summary": "Version of PSPMAME supporting games from the Irem M72 arcade board, including R-Type and Hammerin' Harry. Recompiled from source from late 2006.",
+  "author": "\uff30\uff33\uff30\u958b\u767a\u5e7c\u7a1a\u5712",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "A02",
+      "url": "https://archive.org/download/m-72_20210910/M72.zip",
+      "published_at": "2006-01-01",
+      "size": 558215,
+      "sha256": "37a4595f404ff5a98de3c98f742ee555e6c4b81d5c6879e9ebabf65a4769dc39",
+      "eboot_md5": "8a72788ec489f0cfc0f4490bbcf247c1"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/m-72_20210910/20210910181408.png"
+    ],
+    "icon": "icons/irem_m72.png"
+  },
+  "languages": []
+}

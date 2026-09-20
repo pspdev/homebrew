@@ -1,0 +1,27 @@
+{
+  "name": "PSP Shootouts",
+  "id": "psp_shootouts",
+  "summary": "Homebrew game for PSP.",
+  "author": "PSPMEX",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.3",
+      "url": "https://archive.org/download/pspshootouts.-7z/pspshootoutsv0.3.zip",
+      "published_at": "2006-07-31",
+      "size": 3867755,
+      "sha256": "9f3214654528f6a77c880601df8ce63434a2b00ad89634e4447c58d36767ba7b",
+      "eboot_md5": "12a40dede976c6cd95a9b98c850b75e8"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspshootouts.-7z/pic_0001.png"
+    ],
+    "icon": "icons/psp_shootouts.png"
+  },
+  "languages": []
+}

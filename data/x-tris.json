@@ -1,0 +1,27 @@
+{
+  "name": "X-Tris",
+  "id": "x-tris",
+  "summary": "Tetris on PSP.",
+  "author": "Samy",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.01",
+      "url": "https://archive.org/download/xtris-v-1-01.7z/Xtris_v1_01.zip",
+      "published_at": "2010-12-27",
+      "size": 9212213,
+      "sha256": "7b7eb995c7dee172a3d955dead71af2c0ada6bcd5b08399ae0eeed59c947ee50",
+      "eboot_md5": "6456f3353456c224862c2b45e70dbf32"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/xtris-v-1-01.7z/XTRI00992_00000.jpg"
+    ],
+    "icon": "icons/x-tris.png"
+  },
+  "languages": []
+}

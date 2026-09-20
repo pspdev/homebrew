@@ -1,0 +1,27 @@
+{
+  "name": "Swarm Rampage",
+  "id": "swarm_rampage",
+  "summary": "Homebrew game for PSP.",
+  "author": "James Cutter",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.4",
+      "url": "https://archive.org/download/swarm-rampagev-4.7z/SwarmRampagev4.zip",
+      "published_at": "2010-04-11",
+      "size": 2634416,
+      "sha256": "b41e17beb243e485063821ba886b06761d4e4c041ba4e1158f8fd19a9301ee02",
+      "eboot_md5": "1497ea4c25bdd79e3236d42fe991ad5a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/swarm-rampagev-4.7z/SWAR01393_00000.jpg"
+    ],
+    "icon": "icons/swarm_rampage.png"
+  },
+  "languages": []
+}

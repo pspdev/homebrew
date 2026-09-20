@@ -1,0 +1,27 @@
+{
+  "name": "Cave Story [\u6d1e\u7a9f\u7269\u8a9e]",
+  "id": "cave_story_[\u6d1e\u7a9f\u7269\u8a9e]",
+  "summary": "PSP port of the game by Daisuke Amaya (aka Pixel). This version is in English and Japanese.",
+  "author": "ufo_z",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "RC1",
+      "url": "https://archive.org/download/cave-00992-00000/cavestory.zip",
+      "published_at": "2007-07-08",
+      "size": 1843844,
+      "sha256": "6e24a35fe8e8cbdac984ee2a4052e66c460fdaf5843cd1a11904aa41be866eb7",
+      "eboot_md5": "e9bcdc2bc634a5ffaa3a06a0226d9c8c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/cave-00992-00000/CAVE00992_00001.png"
+    ],
+    "icon": "icons/cave_story_[\u6d1e\u7a9f\u7269\u8a9e].png"
+  },
+  "languages": []
+}

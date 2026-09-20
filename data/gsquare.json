@@ -1,0 +1,30 @@
+{
+  "name": "gSquare",
+  "id": "gsquare",
+  "summary": "gSquare is a platform game where you control a cube, you've got to finish each level under the due time.",
+  "author": "Meastnt, Cl\u00e9ment Gu\u00e9rin (Geecko)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/gSquare.7z/gSquare-1.1-signed.zip",
+      "published_at": "2011-12-10",
+      "size": 29187288,
+      "sha256": "29b772a90f6e51eec415012b9aa6263479496f1b1309d9d684f426b81faecc5d",
+      "eboot_md5": "735d3503f0333fee42182d702c2821e1"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011",
+    "XtreamContest Winter 2010/2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/gSquare.7z/GSQU01596_00000.png"
+    ],
+    "icon": "icons/gsquare.png"
+  },
+  "languages": []
+}

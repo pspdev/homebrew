@@ -1,0 +1,27 @@
+{
+  "name": "Apollo Save Tool",
+  "id": "apollo_save_tool",
+  "summary": "Apollo Save Tool is an application to manage save-game files on the PlayStation Portable.",
+  "author": "Dami\u00e1n Parrino (bucanero)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.2.0",
+      "url": "https://archive.org/download/apollo_202311/APOLLO.zip",
+      "published_at": "2023-10-30",
+      "size": 6067695,
+      "sha256": "ae99d8f87b4c9816b73070ba499bde7e3bc3693ca73c26c7f70bcafe297fb017",
+      "eboot_md5": "00fbdcc06d176c61ec88910c275c533d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/apollo_202311/APOL00455_00001.png"
+    ],
+    "icon": "icons/apollo_save_tool.png"
+  },
+  "languages": []
+}

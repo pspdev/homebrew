@@ -1,0 +1,27 @@
+{
+  "name": "SexyPSF",
+  "id": "sexypsf",
+  "summary": "Playstation Sound Format player for PSP.",
+  "author": "\u3084\u306d\u3046\u3089\u304a\u30fc (yaneurao), Weltall",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.4.5-r1-psp-1.1d",
+      "url": "https://archive.org/download/sexypsf.-7z/sexypsf-0.4.5-r1-psp-1.1d.zip",
+      "published_at": "2006-01-21",
+      "size": 1588552,
+      "sha256": "5c4a5f6c638fc99a3bf21934dc898454d66c79711fa996d19047c9488cfa9ffd",
+      "eboot_md5": "45c50fb2fc882d408d78fe25b3c574ba"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/sexypsf.-7z/SEXY01957_00000.png"
+    ],
+    "icon": "icons/sexypsf.png"
+  },
+  "languages": []
+}

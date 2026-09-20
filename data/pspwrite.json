@@ -1,0 +1,27 @@
+{
+  "name": "PSPWrite",
+  "id": "pspwrite",
+  "summary": "Text editor for PSP.",
+  "author": "Ludovic Jacomme (Zx-81)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.2.1",
+      "url": "https://archive.org/download/pspwrite.7z/pspwrite.zip",
+      "published_at": "2009-04-12",
+      "size": 1473850,
+      "sha256": "669267264ebca3110481a050d93941744dd562753a5b389703aa5e1a359b197b",
+      "eboot_md5": "274f3d503f9b41150df19903b10229ff"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspwrite.7z/PSPW00894_00000.png"
+    ],
+    "icon": "icons/pspwrite.png"
+  },
+  "languages": []
+}

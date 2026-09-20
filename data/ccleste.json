@@ -1,0 +1,27 @@
+{
+  "name": "Ccleste",
+  "id": "ccleste",
+  "summary": "A portable Celeste Classic C source port.",
+  "author": "Francisco Javier Trujillo (fjtrujy)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0.4",
+      "url": "https://archive.org/download/ccleste_psp-v1.0.4/ccleste_psp-v1.0.4.zip",
+      "published_at": "2023-02-09",
+      "size": 2631279,
+      "sha256": "883a37aa0c1101aebecae9653f9292e8e4b3ae9994d0db9416d0feb0062edae7",
+      "eboot_md5": "ef0f54f3006d32921ba42a07d49b1632"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ccleste_psp-v1.0.4/CCLE01577_00000.png"
+    ],
+    "icon": "icons/ccleste.png"
+  },
+  "languages": []
+}

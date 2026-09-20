@@ -1,0 +1,27 @@
+{
+  "name": "PSP2600",
+  "id": "psp2600",
+  "summary": "Atari 2600 emulator for PSP.",
+  "author": "Ludovic Jacomme (Zx-81)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.2.0",
+      "url": "https://archive.org/download/psp2600.7z/psp2600.zip",
+      "published_at": "2009-05-10",
+      "size": 1994626,
+      "sha256": "167c57824f7a4359c987cad2b1bccb6c1f08a05ecbb8a966ad6d1b2fe1c474e1",
+      "eboot_md5": "825853b7aef70a8e1ea9259ab1ee5823"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp2600.7z/snap.png"
+    ],
+    "icon": "icons/psp2600.png"
+  },
+  "languages": []
+}

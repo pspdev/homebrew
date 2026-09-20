@@ -1,0 +1,27 @@
+{
+  "name": "PS3Jig",
+  "id": "ps3jig",
+  "summary": "App to make the PSP show up as the Sony PS3 USB \"jig stick\".",
+  "author": "Brandon Wilson",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/ps-3-jig.-7z/PS3Jig.zip",
+      "published_at": "2011-02-06",
+      "size": 71665,
+      "sha256": "c1139d843ef2f2a8df9425244ac6114256ffb49a461ef2a83bf8c4d9f0e3ccd0",
+      "eboot_md5": "e0fdfecf802f11cc38a1c2902f412beb"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ps-3-jig.-7z/PS3J00496_00000.jpg"
+    ],
+    "icon": "icons/ps3jig.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "SlammerBall",
+  "id": "slammerball",
+  "summary": "Homebrew game for PSP.",
+  "author": "MasterQ",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/slammer-ball.-7z/SlammerBall.zip",
+      "published_at": "2005-10-04",
+      "size": 1461010,
+      "sha256": "417e187a8f9fc7bca6535421b816e9e83545fa32e0515f7aefd2e2682e8df5d8",
+      "eboot_md5": "6539a4c31e18849cf3b8bec1b59d774e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/slammer-ball.-7z/SLAM01100_00000.png"
+    ],
+    "icon": "icons/slammerball.png"
+  },
+  "languages": []
+}

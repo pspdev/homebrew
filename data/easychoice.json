@@ -1,0 +1,27 @@
+{
+  "name": "easyChoice",
+  "id": "easychoice",
+  "summary": "UI shell for PSP.",
+  "author": "XArt Software & Designs",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "5C014",
+      "url": "https://archive.org/download/easychoice.7z/easychoice.zip",
+      "published_at": "2007-08-10",
+      "size": 286271,
+      "sha256": "dafb16c9cd975d3ca6fd2e46a6282c51a4add1beb8aea514064c42c85f4f3e6f",
+      "eboot_md5": "a3d3b3c14258bf98556a0389324fb8de"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/easychoice.7z/EBOO00649_00000 - Kopie.jpg"
+    ],
+    "icon": "icons/easychoice.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "oSwan v0.7 for PSP",
+  "id": "oswan_v0.7_for_psp",
+  "summary": "Wonderswan Color emulator for PSP.",
+  "author": "REi",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.01",
+      "url": "https://archive.org/download/oswan001.7z/oswan001.zip",
+      "published_at": "2005-06-09",
+      "size": 217548,
+      "sha256": "d668bf91a0341136eb4192b7622c4c9c71ec68de0324da30d0b9f31adeecc8a7",
+      "eboot_md5": "0e50bd00aba43f912785e40c56e3537f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/oswan001.7z/OSWA00697_00000.png"
+    ],
+    "icon": "icons/oswan_v0.7_for_psp.png"
+  },
+  "languages": []
+}

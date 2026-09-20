@@ -1,0 +1,27 @@
+{
+  "name": "Troll Arena",
+  "id": "troll_arena",
+  "summary": "Dodging game for PSP.",
+  "author": "Hideous, Fantomek",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.8",
+      "url": "https://archive.org/download/trollarena.-7z/TROLLARENA.zip",
+      "published_at": "2008-11-14",
+      "size": 2492365,
+      "sha256": "759fce54167e4103390a50b4cb4250564220778a04b36b40c0f993ce386baddb",
+      "eboot_md5": "b6faff80581c10475b73db8e9141bc1c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/trollarena.-7z/TROL00756_00001.png"
+    ],
+    "icon": "icons/troll_arena.png"
+  },
+  "languages": []
+}

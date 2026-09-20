@@ -1,0 +1,27 @@
+{
+  "name": "PSPTHOM",
+  "id": "pspthom",
+  "summary": "Thomson TO7-70 emulator for PSP.",
+  "author": "Ludovic Jacomme (Zx-81)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.2.1",
+      "url": "https://archive.org/download/pspthom-fw-15.7z/pspthom-v1.2.1-fw5x.zip",
+      "published_at": "2008-11-09",
+      "size": 1394403,
+      "sha256": "3224808bc5b9ead9a6b6a116a4bb2d5a2763acc8c603521d7b8b52e35b2d0f48",
+      "eboot_md5": "28226bc0bb5ac4496149c96f1cfb3137"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspthom-fw-15.7z/PSPT01621_00000.jpg"
+    ],
+    "icon": "icons/pspthom.png"
+  },
+  "languages": []
+}

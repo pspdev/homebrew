@@ -1,0 +1,27 @@
+{
+  "name": "PSP GNU Chess",
+  "id": "psp_gnu_chess",
+  "summary": "Game of chess for PSP.",
+  "author": "Ludovic Jacomme (Zx-81)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0.3",
+      "url": "https://archive.org/download/pspgchess.7z/pspgchess.zip",
+      "published_at": "2007-11-17",
+      "size": 8827887,
+      "sha256": "ec98e89c13dd9ca64f7b900279b2adb83db0da63a2c419918f051c9459faf24d",
+      "eboot_md5": "c09bd2c794a2afb7117f96763c604a57"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspgchess.7z/PSPG00976_00000.jpg"
+    ],
+    "icon": "icons/psp_gnu_chess.png"
+  },
+  "languages": []
+}

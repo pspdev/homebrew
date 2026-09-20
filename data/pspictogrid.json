@@ -1,0 +1,27 @@
+{
+  "name": "PSPictogrid",
+  "id": "pspictogrid",
+  "summary": "Homebrew game for PSP.",
+  "author": "xerpi",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Beta 3",
+      "url": "https://archive.org/download/pspictogrid.-7z/PSPictogrid.zip",
+      "published_at": "2011-04-12",
+      "size": 1042129,
+      "sha256": "f415624b209f375e01c07262295e103a1f2c0e2d775243ab5661145456df3eba",
+      "eboot_md5": "d7d53d6f90abae2f69a72cc87dcdf7e9"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspictogrid.-7z/PSPI01096_00000.jpg"
+    ],
+    "icon": "icons/pspictogrid.png"
+  },
+  "languages": []
+}

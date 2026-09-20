@@ -1,0 +1,27 @@
+{
+  "name": "Infinity",
+  "id": "infinity",
+  "summary": "Tool that enables persistent custom firmware on PSP firmware 6.60 and 6.61 for every model.",
+  "author": "DaveeFTW",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.0.3",
+      "url": "https://archive.org/download/pspgo.7z/standard.zip",
+      "published_at": "2019-11-10",
+      "size": 750395,
+      "sha256": "b106e17be54b83af2bf08d6581ffd68f49daebe11b1ff568f830b1f8731f75e0",
+      "eboot_md5": "e22d04bd6851a9d30bbf54a51b1243e0"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspgo.7z/IMG_0437.JPG"
+    ],
+    "icon": "icons/infinity.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Jpong",
+  "id": "jpong",
+  "summary": "Pong for PSP.",
+  "author": "Jaklub",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.7",
+      "url": "https://archive.org/download/jpong07.7z/jpong07.zip",
+      "published_at": "2007-01-01",
+      "size": 5014390,
+      "sha256": "4bd6fc380ae93ef40f38e6a0deef24d0d736141906f78f2e361e647f7dd8fd44",
+      "eboot_md5": "68220b8d9d3d7e47c060298bf2c8046e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/jpong07.7z/JPON00645_00001.png"
+    ],
+    "icon": "icons/jpong.png"
+  },
+  "languages": []
+}

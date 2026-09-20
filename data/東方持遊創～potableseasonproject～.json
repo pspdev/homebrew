@@ -1,0 +1,27 @@
+{
+  "name": "\u6771\u65b9\u6301\u904a\u5275\uff5ePotableSeasonProject\uff5e",
+  "id": "\u6771\u65b9\u6301\u904a\u5275\uff5epotableseasonproject\uff5e",
+  "summary": "Touhou Project fan game for PSP.",
+  "author": "A3",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.82",
+      "url": "https://archive.org/download/thp.7z/thp.zip",
+      "published_at": "2011-08-30",
+      "size": 19033192,
+      "sha256": "fe929c6b08ed6e9edb7080b5988282101adcafe80ebe1c8cf370a4426c0428b0",
+      "eboot_md5": "5b0fe7458c5826ad6d14db19e0e63a3a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/thp.7z/THPH00332_00000.jpg"
+    ],
+    "icon": "icons/\u6771\u65b9\u6301\u904a\u5275\uff5epotableseasonproject\uff5e.png"
+  },
+  "languages": []
+}

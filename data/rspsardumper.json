@@ -1,0 +1,27 @@
+{
+  "name": "RSPsarDumper",
+  "id": "rspsardumper",
+  "summary": "Utility app for PSP.",
+  "author": "redsquirrel87",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "3.5",
+      "url": "https://archive.org/download/rspsar-dumper-v-3.5.7z/RSPsarDumper_v3.5.zip",
+      "published_at": "2007-01-01",
+      "size": 209965,
+      "sha256": "940b073178a1e11a2be7756ee98fb59442b37ee9cbff7a59dcbdb58cf111c52e",
+      "eboot_md5": "01a59cb9738b820d2bd5f82f664177da"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/rspsar-dumper-v-3.5.7z/RSPS01096_00000.jpg"
+    ],
+    "icon": "icons/rspsardumper.png"
+  },
+  "languages": []
+}

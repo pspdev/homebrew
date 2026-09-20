@@ -1,0 +1,27 @@
+{
+  "name": "CPS1PSP with Rewind",
+  "id": "cps1psp_with_rewind",
+  "summary": "Version of the CPS1 emulator for PSP featuring a rewind mode.",
+  "author": "NJ, davex",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.01",
+      "url": "https://archive.org/download/nj-cps-1-psp-101zc-rewind/NJ_CPS1PSP_101zc-REWIND.zip",
+      "published_at": "2006-11-14",
+      "size": 1450955,
+      "sha256": "7ca46f99b0699d419eefcd4e75019cbad33858f4df1aac2f0b239e4eee4e5985",
+      "eboot_md5": "a0a53c037e449fd7453b3acc61e3bc3e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/nj-cps-1-psp-101zc-rewind/NJ_C01733_00001.png"
+    ],
+    "icon": "icons/cps1psp_with_rewind.png"
+  },
+  "languages": []
+}

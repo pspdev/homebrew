@@ -1,0 +1,27 @@
+{
+  "name": "Quarters",
+  "id": "quarters",
+  "summary": "Drinking game for PSP.",
+  "author": "Spastic",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/quarters.-7z/Quarters.zip",
+      "published_at": "2005-10-01",
+      "size": 885155,
+      "sha256": "fc96b644e308158a8ad183ac1065d8c91c212b445606cb1bcbd28074376752bf",
+      "eboot_md5": "e0ba427909b4748283099bad0ad49eee"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/quarters.-7z/QUAR00855_00000.jpg"
+    ],
+    "icon": "icons/quarters.png"
+  },
+  "languages": []
+}

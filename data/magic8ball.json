@@ -1,0 +1,27 @@
+{
+  "name": "Magic8Ball",
+  "id": "magic8ball",
+  "summary": "PSP version of the Magic 8 Ball toy.",
+  "author": "pspwner",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.10",
+      "url": "https://archive.org/download/magic-8-ball.-7z/Magic8Ball.zip",
+      "published_at": "2007-02-17",
+      "size": 767351,
+      "sha256": "4229774f319bd1bd5b81af72b90763ca8a06b71b44386368df39ecc819b9ec38",
+      "eboot_md5": "5d39ca457a0a47bfcbfa3ddd9fa3cddc"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/magic-8-ball.-7z/MAGI00916_00000.jpg"
+    ],
+    "icon": "icons/magic8ball.png"
+  },
+  "languages": []
+}

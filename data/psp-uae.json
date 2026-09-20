@@ -1,0 +1,27 @@
+{
+  "name": "PSP-UAE",
+  "id": "psp-uae",
+  "summary": "Amiga emulator for PSP.",
+  "author": "Christophe Thibault",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.41",
+      "url": "https://archive.org/download/pspuae-0.41/pspuae-0.41.zip",
+      "published_at": "2005-10-30",
+      "size": 5180393,
+      "sha256": "c957e69fc79958056fbbc89456a1af0da418d4fad626b585fac2bfc5fa14ecab",
+      "eboot_md5": "4dcff19d19963f6041d679ff4f5e470f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspuae-0.41/PSPU00894_00000.png"
+    ],
+    "icon": "icons/psp-uae.png"
+  },
+  "languages": []
+}

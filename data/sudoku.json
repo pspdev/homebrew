@@ -1,0 +1,27 @@
+{
+  "name": "Sudoku",
+  "id": "sudoku",
+  "summary": "Homebrew version of the game.",
+  "author": "QLFECV",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.03",
+      "url": "https://archive.org/download/sudokuv0.03.7z/sudokuv0.03.zip",
+      "published_at": "2005-08-04",
+      "size": 508538,
+      "sha256": "46e4ad9170b394d5d1699aa83917575fad1d5a4b201f93536f7d57a6cf787d03",
+      "eboot_md5": "9f537372a2ee19bc213958fd8d518c3d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/sudokuv0.03.7z/SUDO00978_00000.jpg"
+    ],
+    "icon": "icons/sudoku.png"
+  },
+  "languages": []
+}

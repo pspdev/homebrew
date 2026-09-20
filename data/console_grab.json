@@ -1,0 +1,27 @@
+{
+  "name": "Console Grab",
+  "id": "console_grab",
+  "summary": "Homebrew game for PSP.",
+  "author": "Anonymous D",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/consolegrabv-1.0.7z/consolegrabv1.2.zip",
+      "published_at": "2007-07-15",
+      "size": 3997108,
+      "sha256": "847e8f1f30b21e26564354067d3e0ef8122b1e366f1b49d20f537254263e5db8",
+      "eboot_md5": "08e8a6d0bc5dc5f6ed026c1c8e4c2f41"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/consolegrabv-1.0.7z/pic_0001.png"
+    ],
+    "icon": "icons/console_grab.png"
+  },
+  "languages": []
+}

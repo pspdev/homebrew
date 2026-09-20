@@ -1,0 +1,27 @@
+{
+  "name": "Slime Volleyball PSP",
+  "id": "slime_volleyball_psp",
+  "summary": "Homebrew game for PSP.",
+  "author": "mEo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/slime-volleyball-psp.-7z/SlimeVolleyballPSP.zip",
+      "published_at": "2006-07-15",
+      "size": 665316,
+      "sha256": "092023ff9e2e6d8c8ae06d474311c2e4244c87f0bc7c49554e38d956a53d2dab",
+      "eboot_md5": "f1b7f4dcd15e5bc17c0444e16d7ea927"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/slime-volleyball-psp.-7z/SLIM01795_00001.png"
+    ],
+    "icon": "icons/slime_volleyball_psp.png"
+  },
+  "languages": []
+}

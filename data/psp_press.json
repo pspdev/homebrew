@@ -1,0 +1,27 @@
+{
+  "name": "PSP Press",
+  "id": "psp_press",
+  "summary": "Button-pressing game.",
+  "author": "ThePspTester",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/psppress.-7z/PSPPress.zip",
+      "published_at": "2009-07-26",
+      "size": 6525820,
+      "sha256": "c67a8b0087ab21a574ea92ca8d68b70d484116760098b900e89ff6871f1910da",
+      "eboot_md5": "63d1f321b2940a6d423c14cea56c715f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psppress.-7z/PSPP00768_00000.jpg"
+    ],
+    "icon": "icons/psp_press.png"
+  },
+  "languages": []
+}

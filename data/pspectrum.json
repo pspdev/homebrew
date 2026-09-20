@@ -1,0 +1,27 @@
+{
+  "name": "PsPectrum",
+  "id": "pspectrum",
+  "summary": "ZX Spectrum for PSP.",
+  "author": "HexDump^NewOlds",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.0.4",
+      "url": "https://archive.org/download/ps-pectrum.-7z/PsPectrum.zip",
+      "published_at": "2006-06-10",
+      "size": 1076320,
+      "sha256": "938e021e3911e5c2cbbd8b912eb2abd77193568c0617c234994d19e573a27c11",
+      "eboot_md5": "f7eb8d87dbe1a12597e0ba302b8dba11"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ps-pectrum.-7z/PSPE00931_00000.png"
+    ],
+    "icon": "icons/pspectrum.png"
+  },
+  "languages": []
+}

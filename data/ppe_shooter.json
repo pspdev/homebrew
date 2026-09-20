@@ -1,0 +1,27 @@
+{
+  "name": "PPE Shooter",
+  "id": "ppe_shooter",
+  "summary": "Homebrew game for PSP.",
+  "author": "Dark_Sabre",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/ppeshooter.-7z/PPEShooter.zip",
+      "published_at": "2009-01-14",
+      "size": 7114004,
+      "sha256": "35769b8da823b33bd9598d4118275d3b2972dc3d25f3a979a636fba76b9ee299",
+      "eboot_md5": "cb487bfde9946b974b9b262f1426e807"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ppeshooter.-7z/PPES00969_00001.png"
+    ],
+    "icon": "icons/ppe_shooter.png"
+  },
+  "languages": []
+}

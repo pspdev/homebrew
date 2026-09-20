@@ -1,0 +1,27 @@
+{
+  "name": "Devour RSS Reader",
+  "id": "devour_rss_reader",
+  "summary": "RSS feed reader for PSP.",
+  "author": "Liquid8d",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/devourRSS_10.7z/devourRSS_10.zip",
+      "published_at": "2006-01-29",
+      "size": 883561,
+      "sha256": "b0adbac14a51488be2576e83c1847d59e9d7190dcf4c7e4a87a41f8d4e99602d",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/devourRSS_10.7z/LUAP01126_00000.jpg"
+    ],
+    "icon": "icons/devour_rss_reader.png"
+  },
+  "languages": []
+}

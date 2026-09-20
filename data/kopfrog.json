@@ -1,0 +1,27 @@
+{
+  "name": "Kopfrog",
+  "id": "kopfrog",
+  "summary": "Puzzle game for PSP.",
+  "author": "Kaltorak, Chus",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.20",
+      "url": "https://archive.org/download/kopfrog.-7z/KOPFROG.zip",
+      "published_at": "2010-11-13",
+      "size": 1954673,
+      "sha256": "e81cc333d5e883112c9c664cadf7678a29ae4c81e171bd06a2e0fe951a5c1ac0",
+      "eboot_md5": "2b4b1cb0ccb3b3cc97cf3da55c47a58e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/kopfrog.-7z/KOPF00536_00000.jpg"
+    ],
+    "icon": "icons/kopfrog.png"
+  },
+  "languages": []
+}

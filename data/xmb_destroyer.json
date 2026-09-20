@@ -1,0 +1,27 @@
+{
+  "name": "XMB Destroyer",
+  "id": "xmb_destroyer",
+  "summary": "Destroy your XMB.",
+  "author": "yongobongo, lmtlmt, Phlippi",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.8",
+      "url": "https://archive.org/download/xmb_destroyer.7z/xmb_destroyer.zip",
+      "published_at": "2008-01-01",
+      "size": 1961948,
+      "sha256": "c202b613120e7e58fe32c333c7823444e07b1d5f3631b43d78c8810899942403",
+      "eboot_md5": "0e4d18293cc7e472d601969e0882084e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/xmb_destroyer.7z/XMB_01415_00000.jpg"
+    ],
+    "icon": "icons/xmb_destroyer.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "yaS^4 - Yet Another Stupid SideScrolling Shooter",
+  "id": "yas^4_-_yet_another_stupid_sidescrolling_shooter",
+  "summary": "Homebrew game for PSP.",
+  "author": "myersn024",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.05",
+      "url": "https://archive.org/download/yas4.7z/yaS^4.zip",
+      "published_at": "2007-10-31",
+      "size": 719387,
+      "sha256": "5cf7afb837e2e62a52163d467e525d320a4ea250ce27844579c00c812f364bcf",
+      "eboot_md5": "89b7af9566a95f3110d727562ea386c6"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/yas4.7z/YAS^00447_00000.jpg"
+    ],
+    "icon": "icons/yas^4_-_yet_another_stupid_sidescrolling_shooter.png"
+  },
+  "languages": []
+}

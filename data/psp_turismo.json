@@ -1,0 +1,27 @@
+{
+  "name": "PSP Turismo",
+  "id": "psp_turismo",
+  "summary": "Dodging game for PSP.",
+  "author": "splodger15",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.41",
+      "url": "https://archive.org/download/pspturismo-v-0.41.7z/PSPTurismoV0.41.zip",
+      "published_at": "2007-02-08",
+      "size": 3672817,
+      "sha256": "4a189255b78410a95e5f7b2a22c082d099a190001a7ac82f5e9e306e995fd48e",
+      "eboot_md5": "27ba62ba5cbeea5fed65b8d8e99054b7"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspturismo-v-0.41.7z/PSPT01279_00000.jpg"
+    ],
+    "icon": "icons/psp_turismo.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Snes9xTYL [3.xx]",
+  "id": "snes9xtyl_[3.xx]",
+  "summary": "Version of the SNES emulator for PSP with support for the 3.xx firmware and later revisions of the console.",
+  "author": "Chilly Willy, CaptShoe",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.4.2 (3.xx)",
+      "url": "https://archive.org/download/snes9xTYL-0.4.2me_fw3x/snes9xTYL-0.4.2me_fw3x.zip",
+      "published_at": "2007-10-17",
+      "size": 2408591,
+      "sha256": "3d73fc88b95f8d2323da6564e46e7a068d88bb12c4bd08309e0dfda6cdf4c9a9",
+      "eboot_md5": "97e7fed35497aff117f8726479a082db"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/snes9xTYL-0.4.2me_fw3x/20220111225102.png"
+    ],
+    "icon": "icons/snes9xtyl_[3.xx].png"
+  },
+  "languages": []
+}

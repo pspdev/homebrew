@@ -1,0 +1,27 @@
+{
+  "name": "Choice",
+  "id": "choice",
+  "summary": "UI shell for PSP.",
+  "author": "XArt Software & Designs",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1B114",
+      "url": "https://archive.org/download/choice.7z/choice.zip",
+      "published_at": "2007-07-21",
+      "size": 537702,
+      "sha256": "18426900221ae00caf084d204258b1f22dc16ec8243ea9158f55878947b26257",
+      "eboot_md5": "2346db8939e0230fb16edf66b0609a03"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/choice.7z/CHOI00619_00000.jpg"
+    ],
+    "icon": "icons/choice.png"
+  },
+  "languages": []
+}

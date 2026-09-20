@@ -1,0 +1,27 @@
+{
+  "name": "PSPanel De Pon",
+  "id": "pspanel_de_pon",
+  "summary": "PSP version of the puzzle game.",
+  "author": "db26",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/pspanel-de-pon-v-1.0.7z/PSPanelDePon-v1.0.zip",
+      "published_at": "2006-07-19",
+      "size": 685089,
+      "sha256": "075f71ea9733c3778e503231eb2192540809c10c6928f2390b787cb206c5d838",
+      "eboot_md5": "5ad35e827e9a8b70459fc2b58f757368"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspanel-de-pon-v-1.0.7z/__SC00748_00000.jpg"
+    ],
+    "icon": "icons/pspanel_de_pon.png"
+  },
+  "languages": []
+}

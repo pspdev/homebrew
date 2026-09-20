@@ -1,0 +1,27 @@
+{
+  "name": "MashWriter",
+  "id": "mashwriter",
+  "summary": "Text editor for PSP.",
+  "author": "ajmilne",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "Alpha 001",
+      "url": "https://archive.org/download/mashwriter.7z/mashwriter.zip",
+      "published_at": "2009-02-09",
+      "size": 912194,
+      "sha256": "d6c3ac27d7673f3946366d3d7226c1b538c1e8a997dbfab643d6139e950d98fd",
+      "eboot_md5": "3978619a6c87936f9a83f0e540802712"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mashwriter.7z/pic_0000.jpg"
+    ],
+    "icon": "icons/mashwriter.png"
+  },
+  "languages": []
+}

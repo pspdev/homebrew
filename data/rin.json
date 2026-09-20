@@ -1,0 +1,27 @@
+{
+  "name": "RIN",
+  "id": "rin",
+  "summary": "Game Boy emulator for PSP. The first version (simply called GB EMU) was released on 13 May 2005, making it the first emulator to run on a PSP.",
+  "author": "\u307f\u3089\u304d\u3061 (Mirakichi)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.32",
+      "url": "https://archive.org/download/gbemu.7z/RIN_v1_32.zip",
+      "published_at": "2005-08-22",
+      "size": 301244,
+      "sha256": "880b4d168dce9dd6ef2485fdc49f5b3f34de06c652b5fb998004e0ecbbf5f7ec",
+      "eboot_md5": "6add32cb38ea66596c2a01158759bfa1"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/gbemu.7z/RIN_00691_00001.png"
+    ],
+    "icon": "icons/rin.png"
+  },
+  "languages": []
+}

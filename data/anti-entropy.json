@@ -1,0 +1,29 @@
+{
+  "name": "Anti-Entropy",
+  "id": "anti-entropy",
+  "summary": "Homebrew visual novel for PSP.",
+  "author": "History_exe",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Beta 1.0",
+      "url": "https://archive.org/download/anti-entropy-beta-1-0_202112/Extra/Anti_Entropy_beta_1_0.zip",
+      "published_at": "2021-11-08",
+      "size": 105723552,
+      "sha256": "5ebe83483a4dedd71467b676d7754ebe7563495af181e77aef6708bda600af1f",
+      "eboot_md5": "58fa6b1cbd9c8042e3530bdc18b2e703"
+    }
+  ],
+  "tags": [
+    "visual novel"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/anti-entropy-beta-1-0_202112/ANTI02038_00000.png"
+    ],
+    "icon": "icons/anti-entropy.png"
+  },
+  "languages": []
+}

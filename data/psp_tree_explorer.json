@@ -1,0 +1,27 @@
+{
+  "name": "PSP Tree Explorer",
+  "id": "psp_tree_explorer",
+  "summary": "Homebrew app for PSP. Also known as FileTreeader.",
+  "author": "yuh0q223",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/psptree-explorer-1.1fix.-7z/PSPTreeExplorer_1.1fix.zip",
+      "published_at": "2012-03-10",
+      "size": 3097861,
+      "sha256": "45a7fe673c50ac00a751c34090eb331dc5027bab70f1ecbaa4c8de83a8963a7e",
+      "eboot_md5": "d1836f7083a6fe5496824455071f6c55"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psptree-explorer-1.1fix.-7z/20210528191356.png"
+    ],
+    "icon": "icons/psp_tree_explorer.png"
+  },
+  "languages": []
+}

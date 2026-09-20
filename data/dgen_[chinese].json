@@ -1,0 +1,27 @@
+{
+  "name": "DGEN [Chinese]",
+  "id": "dgen_[chinese]",
+  "summary": "Chinese-language version of the Sega Genesis (Megadrive) emulator for PSP.",
+  "author": "tensai_wang",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.7 \u6c49\u5316\u7248 0.1",
+      "url": "https://archive.org/download/dgen-170-cn-plus.-7z/Dgen170CN_Plus.zip",
+      "published_at": "2010-10-01",
+      "size": 2083978,
+      "sha256": "ca974264af85fa9a0b439d46b8628f8bc1bc334f7028f818f0a54c6746d1c71f",
+      "eboot_md5": "f4b7d5038df1f6c5b590894254bec6db"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/dgen-170-cn-plus.-7z/DGEN01194_00001.jpg"
+    ],
+    "icon": "icons/dgen_[chinese].png"
+  },
+  "languages": []
+}

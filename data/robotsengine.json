@@ -1,0 +1,27 @@
+{
+  "name": "RobotsEngine",
+  "id": "robotsengine",
+  "summary": "Engine to run Robots-type games.",
+  "author": "danabnormal",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1 Beta",
+      "url": "https://archive.org/download/robots-enginev-0.1-beta.-7z/RobotsEnginev0.1BETA.zip",
+      "published_at": "2006-05-08",
+      "size": 644399,
+      "sha256": "f87316f4627f40e559dee20b136c3daa28a066001a9d0e1c78e57a3ba1c90596",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/robots-enginev-0.1-beta.-7z/snap.png"
+    ],
+    "icon": "icons/robotsengine.png"
+  },
+  "languages": []
+}

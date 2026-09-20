@@ -1,0 +1,29 @@
+{
+  "name": "PSP Missile Command",
+  "id": "psp_missile_command",
+  "summary": "Collection of Lua minigames.",
+  "author": "Yashamaru",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/missile-command-luav-02b.-7z/MissileCommandLUAv02b.zip",
+      "published_at": "2006-01-15",
+      "size": 1618310,
+      "sha256": "1c15a1567a48a8cc4cb33ebf83dd7211dfff2b7dc611a3d330b503108da3704b",
+      "eboot_md5": "e0ba427909b4748283099bad0ad49eee"
+    }
+  ],
+  "tags": [
+    "PSP 30 Day Coding Competition #2 (2005-2006)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/missile-command-luav-02b.-7z/MISS01969_00000.jpg"
+    ],
+    "icon": "icons/psp_missile_command.png"
+  },
+  "languages": []
+}

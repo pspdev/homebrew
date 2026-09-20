@@ -1,0 +1,27 @@
+{
+  "name": "PSP Mame4All",
+  "id": "psp_mame4all",
+  "summary": "Arcade emulator for PSP. This is a port of MAME GP2X 5.1 by Franxis. The romset is a mix of MAME 0.34 and 0.36.",
+  "author": "TTYman",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "5.1",
+      "url": "https://archive.org/download/psp-mame-4-all-v-5.1.7z/PSP_MAME4ALL_v5.1.zip",
+      "published_at": "2020-01-01",
+      "size": 3027762,
+      "sha256": "d176be3550e48ac0106e7ef1abbac0e17389be0dc0f761ff77e6207d5b69a039",
+      "eboot_md5": "c1ab0c0d9ea7eba598eb5aedf1cb215c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-mame-4-all-v-5.1.7z/20210614055537.png"
+    ],
+    "icon": "icons/psp_mame4all.png"
+  },
+  "languages": []
+}

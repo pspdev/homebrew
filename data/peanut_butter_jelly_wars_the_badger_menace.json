@@ -1,0 +1,27 @@
+{
+  "name": "Peanut Butter Jelly Wars: The Badger Menace",
+  "id": "peanut_butter_jelly_wars_the_badger_menace",
+  "summary": "Homebrew game for PSP.",
+  "author": "Alexmae",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/pbjwars.-7z/PBJWars.zip",
+      "published_at": "2005-10-10",
+      "size": 2292168,
+      "sha256": "29a72a3380f64d6663bb39ea17f20b15878a47d0981059db08fa566ffdb23d14",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pbjwars.-7z/pic_0009.png"
+    ],
+    "icon": "icons/peanut_butter_jelly_wars_the_badger_menace.png"
+  },
+  "languages": []
+}

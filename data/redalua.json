@@ -1,0 +1,27 @@
+{
+  "name": "REDaLUA",
+  "id": "redalua",
+  "summary": "Command & Conquer fan game made in Lua.",
+  "author": "Noldus Reijnders",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Beta 1",
+      "url": "https://archive.org/download/reda-lua-1.0-r-1.7z/REDaLUA1.0R1.zip",
+      "published_at": "2008-06-03",
+      "size": 5692640,
+      "sha256": "d661b85b6e05a5cbd50ffdda1d23e8f27dc82687ccf742979712da312f850b1f",
+      "eboot_md5": "f863423c8494621cfc076cc4023fdafe"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/reda-lua-1.0-r-1.7z/REDA00816_00000.jpg"
+    ],
+    "icon": "icons/redalua.png"
+  },
+  "languages": []
+}

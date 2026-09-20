@@ -1,0 +1,31 @@
+{
+  "name": "DownPSP",
+  "id": "downpsp",
+  "summary": "Downloader homebrew for PSP",
+  "author": "Carlosgs",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.10",
+      "url": "https://archive.org/download/down-psp-v-1.9-beta.-7z/downPSP_C.zip",
+      "published_at": "2009-01-01",
+      "size": 507190,
+      "sha256": "ad2939a177939aa1e27c9242dece1e52cdd8fc18aaacd930b5d3202a6114e278",
+      "eboot_md5": "2523a995f1901d51bd4e25207ed4e907"
+    }
+  ],
+  "tags": [
+    "Scenery Beta 2009",
+    "NEO Spring Coding Compo 2009",
+    "Scenery Beta 2008"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/down-psp-v-1.9-beta.-7z/20210623205733.png"
+    ],
+    "icon": "icons/downpsp.png"
+  },
+  "languages": []
+}

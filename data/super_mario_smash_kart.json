@@ -1,0 +1,27 @@
+{
+  "name": "Super Mario Smash Kart",
+  "id": "super_mario_smash_kart",
+  "summary": "Fan game for PSP.",
+  "author": "Zion",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/super_mario_smash_kart.7z/super_mario_smash_kart.zip",
+      "published_at": "2007-05-01",
+      "size": 7146857,
+      "sha256": "8d5452e54a1b4df5b65566cc55cdbe08451d41ad03995fb2067ce63605005ecf",
+      "eboot_md5": "a63b6f0724d0c89a440180baeb25d941"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/super_mario_smash_kart.7z/SUPE02354_00001.jpg"
+    ],
+    "icon": "icons/super_mario_smash_kart.png"
+  },
+  "languages": []
+}

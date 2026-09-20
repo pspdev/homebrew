@@ -1,0 +1,27 @@
+{
+  "name": "Champyonshipp Kaiten Patissier [\u30c1\u30e3\u30f3\u30d4\u30e7\u30f3\u30b7\u30c3\u30d7\u304b\u3044\u3066\u3093\u30d1\u30c6\u30a3\u30b7\u30a8]",
+  "id": "champyonshipp_kaiten_patissier_[\u30c1\u30e3\u30f3\u30d4\u30e7\u30f3\u30b7\u30c3\u30d7\u304b\u3044\u3066\u3093\u30d1\u30c6\u30a3\u30b7\u30a8]",
+  "summary": "Port of the indie puzzle game by Alpha Secret Base.",
+  "author": "MK2k",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.00",
+      "url": "https://archive.org/download/champ-kaiten-patissier.-7z/ChampKaitenPatissier.zip",
+      "published_at": "2008-01-01",
+      "size": 14629387,
+      "sha256": "4c2b98b2017c67bcd8f32746f1e76f264ac6cf20739ff99c4e1064daab04140d",
+      "eboot_md5": "cf2b6c813d285a1be1b1fb8a24a28f21"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/champ-kaiten-patissier.-7z/CHAM02041_00000.png"
+    ],
+    "icon": "icons/champyonshipp_kaiten_patissier_[\u30c1\u30e3\u30f3\u30d4\u30e7\u30f3\u30b7\u30c3\u30d7\u304b\u3044\u3066\u3093\u30d1\u30c6\u30a3\u30b7\u30a8].png"
+  },
+  "languages": []
+}

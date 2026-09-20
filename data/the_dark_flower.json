@@ -1,0 +1,27 @@
+{
+  "name": "The Dark Flower",
+  "id": "the_dark_flower",
+  "summary": "Super Mini Mario mod.",
+  "author": "madsoul, rikardo_92",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.00",
+      "url": "https://archive.org/download/tdf.-7z/TDF.zip",
+      "published_at": "2006-04-02",
+      "size": 861836,
+      "sha256": "b04eabdd833fe1bdff7c9bce2293d1eae35349b17445fb9c64efcd4033936b5a",
+      "eboot_md5": "6d97e91d196a7cba0e97421b9065124e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/tdf.-7z/TDFH00222_00000.jpg"
+    ],
+    "icon": "icons/the_dark_flower.png"
+  },
+  "languages": []
+}

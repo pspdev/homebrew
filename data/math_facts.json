@@ -1,0 +1,29 @@
+{
+  "name": "Math Facts",
+  "id": "math_facts",
+  "summary": "Learning app for PSP.",
+  "author": "Rob (Mathfacts)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/math-facts.-7z/MathFacts.zip",
+      "published_at": "2006-05-10",
+      "size": 1578448,
+      "sha256": "b920a51af98dcf131f5c7a93232e112ac0a1404add7f6e3b0e5ded7a620ba249",
+      "eboot_md5": "39f9701d50773c7f372d687ce54c7706"
+    }
+  ],
+  "tags": [
+    "PSP NEWS & Lik Sang 15 Day Lua Coding Comp (2006)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/math-facts.-7z/MATH00891_00000.jpg"
+    ],
+    "icon": "icons/math_facts.png"
+  },
+  "languages": []
+}

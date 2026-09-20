@@ -1,0 +1,30 @@
+{
+  "name": "Xandu's Media Player",
+  "id": "xandu's_media_player",
+  "summary": "Media player app for PSP.",
+  "author": "Xandu",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.2d",
+      "url": "https://archive.org/download/xmpbeta.-7z/XandusMediaPlayer1.2d.zip",
+      "published_at": "2007-08-18",
+      "size": 3067245,
+      "sha256": "854566b541919eaeba0c817141e897318d4e8693358fc127b78c70df0ead4af0",
+      "eboot_md5": "608e5ba6968d16eee6918fec3ec65e0a"
+    }
+  ],
+  "tags": [
+    "GBAX 2007 Coding Competition",
+    "NEO Summer Coding Compo 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/xmpbeta.-7z/20221011130113.png"
+    ],
+    "icon": "icons/xandu's_media_player.png"
+  },
+  "languages": []
+}

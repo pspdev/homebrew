@@ -1,0 +1,27 @@
+{
+  "name": "Jump 'n Bump",
+  "id": "jump_'n_bump",
+  "summary": "Port of the platform game for PSP.",
+  "author": "MK2k",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.51b",
+      "url": "https://archive.org/download/jump-n-bump-psp-1.51b-mk-2k.-7z/Jump_n_Bump_PSP_1.51b-MK2k.zip",
+      "published_at": "2008-01-22",
+      "size": 1618842,
+      "sha256": "1689a4d1742fa197affb93465846f8b6f1c86a503529925bcbd26dfea3308e10",
+      "eboot_md5": "5d65619aa18be3d1755f67dc14e76db4"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/jump-n-bump-psp-1.51b-mk-2k.-7z/JUMP02198_00001.png"
+    ],
+    "icon": "icons/jump_'n_bump.png"
+  },
+  "languages": []
+}

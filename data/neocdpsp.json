@@ -1,0 +1,27 @@
+{
+  "name": "NeoCDPSP",
+  "id": "neocdpsp",
+  "summary": "NeoGeo CD emulator for PSP.",
+  "author": "yoyofr",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.5",
+      "url": "https://archive.org/download/neocd.7z/neocd-PochiStyle.zip",
+      "published_at": "2005-07-21",
+      "size": 260373,
+      "sha256": "ed345e00f03fdab440618f40997333f8fc7037e9bd17891505a7b3fa2a798511",
+      "eboot_md5": "ea0d6f4354eeb591742447c8fd1b4654"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/neocd.7z/snap.png"
+    ],
+    "icon": "icons/neocdpsp.png"
+  },
+  "languages": []
+}

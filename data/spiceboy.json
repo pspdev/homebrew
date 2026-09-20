@@ -1,0 +1,27 @@
+{
+  "name": "SpiceBoy",
+  "id": "spiceboy",
+  "summary": "Game Boy emulator for PSP.",
+  "author": "Juan Antonio Arguelles Rius (Arguru)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/spice-boy.-7z/SpiceBoy.zip",
+      "published_at": "2006-08-16",
+      "size": 336536,
+      "sha256": "9948dc5caa47c0c2fb5c37dda453ef00823f1c1f1fe295a0d44b6e4c10cb3e57",
+      "eboot_md5": "955647c79913eddaeba900d6a4efa9d2"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/spice-boy.-7z/SPIC00798_00000.jpg"
+    ],
+    "icon": "icons/spiceboy.png"
+  },
+  "languages": []
+}

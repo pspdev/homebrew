@@ -1,0 +1,31 @@
+{
+  "name": "Portable Bubble",
+  "id": "portable_bubble",
+  "summary": "PSP version of the game.",
+  "author": "Germano Fabio (Gefa)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.1.0",
+      "url": "https://archive.org/download/portable-bubble-v-2.1.0.7z/PortableBubble_v2.1.0.zip",
+      "published_at": "2010-01-01",
+      "size": 12097722,
+      "sha256": "6a6f3c793f10b63790f29698e1dcd6ad83bc5c38e4e9c5562e4a87a04afd95d2",
+      "eboot_md5": "54c4c1f943d4c1c19207fb7c453d6e8b"
+    }
+  ],
+  "tags": [
+    "python",
+    "NEO 2009 Summer Compo",
+    "NEO Retro Coding Compo 2010"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/portable-bubble-v-2.1.0.7z/PORT01413_00000.jpg"
+    ],
+    "icon": "icons/portable_bubble.png"
+  },
+  "languages": []
+}

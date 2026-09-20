@@ -1,0 +1,27 @@
+{
+  "name": "Unofficial PMPlayer Advance",
+  "id": "unofficial_pmplayer_advance",
+  "summary": "Media player for PSP.",
+  "author": "Neur0n, Cooleyes",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "3.1.5",
+      "url": "https://archive.org/download/uo-pmplayer-660.7z/UoPMPlayer_660.zip",
+      "published_at": "2011-08-22",
+      "size": 3764036,
+      "sha256": "0560982a88b0b879df71bd4da1927d88525bbc074a4be7a03ae7d765dfa6e03c",
+      "eboot_md5": "7b4b6eccb32718e4d6400d3addfac5e5"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/uo-pmplayer-660.7z/20220121234109.png"
+    ],
+    "icon": "icons/unofficial_pmplayer_advance.png"
+  },
+  "languages": []
+}

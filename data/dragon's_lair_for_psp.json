@@ -1,0 +1,27 @@
+{
+  "name": "Dragon's Lair for PSP",
+  "id": "dragon's_lair_for_psp",
+  "summary": "Incomplete homebrew port of the game, only one scene is present.",
+  "author": "Technopodman",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/dragons-lair.-7z/Dragons_Lair.zip",
+      "published_at": "2007-10-27",
+      "size": 19016074,
+      "sha256": "e47bc4208860dc98ec836ddff3c5ac4837defb799508b9eb3d417f3839ff3f9a",
+      "eboot_md5": "70a350dc46fb9f05984e6ffa850611a6"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/dragons-lair.-7z/DRAG01205_00000.jpg"
+    ],
+    "icon": "icons/dragon's_lair_for_psp.png"
+  },
+  "languages": []
+}

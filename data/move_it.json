@@ -1,0 +1,29 @@
+{
+  "name": "Move It",
+  "id": "move_it",
+  "summary": "Puzzle game for PSP.",
+  "author": "2flower",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.9",
+      "url": "https://archive.org/download/moveit2xxvbeta.7z/moveit2xxvbeta.zip",
+      "published_at": "2006-08-14",
+      "size": 852053,
+      "sha256": "8eda72b673a6da8489bb9b6419cd2f997dd4b48570fe58d9fae8f456570d21d6",
+      "eboot_md5": "568800ca8a48e2a8bd62194ffefb4c07"
+    }
+  ],
+  "tags": [
+    "NEO Summer Coding Compo 2006"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/moveit2xxvbeta.7z/EBOO00649_00000.jpg"
+    ],
+    "icon": "icons/move_it.png"
+  },
+  "languages": []
+}

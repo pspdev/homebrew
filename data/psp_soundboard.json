@@ -1,0 +1,27 @@
+{
+  "name": "PSP Soundboard",
+  "id": "psp_soundboard",
+  "summary": "Homebrew app for PSP.",
+  "author": "corytheidiot",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.1 Alpha",
+      "url": "https://archive.org/download/soundboard.-7z_202107/Soundboard.zip",
+      "published_at": "2009-01-12",
+      "size": 1848518,
+      "sha256": "e594977b19000a5c5cb9986c4d93625a656eaab32dbf8957d05db6c61d086f89",
+      "eboot_md5": "b486345def107b5e47c489eab066e71b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/soundboard.-7z_202107/SOUN01041_00000.png"
+    ],
+    "icon": "icons/psp_soundboard.png"
+  },
+  "languages": []
+}

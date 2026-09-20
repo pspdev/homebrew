@@ -1,0 +1,27 @@
+{
+  "name": "SOS Princesse Peach",
+  "id": "sos_princesse_peach",
+  "summary": "Maze game for PSP.",
+  "author": "Pspflashsystem",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/sosprincessepeachv1.1.7z/sosprincessepeachv1.1.zip",
+      "published_at": "2007-12-15",
+      "size": 2630877,
+      "sha256": "31b7006e659bcd1df038506e166179a8a187366a54932ced3b7288840da13d83",
+      "eboot_md5": "27af1d486a0fafc5c20141d37b422acb"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/sosprincessepeachv1.1.7z/SOSP02088_00000.jpg"
+    ],
+    "icon": "icons/sos_princesse_peach.png"
+  },
+  "languages": []
+}

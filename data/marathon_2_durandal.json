@@ -1,0 +1,27 @@
+{
+  "name": "Marathon 2: Durandal",
+  "id": "marathon_2_durandal",
+  "summary": "AlephOne port for the PSP, packed with Marathon 2 data.",
+  "author": "Mk (BarrySoft)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/a-1-psp-m-2.7z/A1PSP-M2.zip",
+      "published_at": "2008-12-12",
+      "size": 31979659,
+      "sha256": "86f7c205d8b3638dceabc7929fe016e2842dfb2e27e4ef5d89c9e2220970bd40",
+      "eboot_md5": "6986630dde361e1715822119bdc13f62"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/a-1-psp-m-2.7z/A1PS00529_00000.png"
+    ],
+    "icon": "icons/marathon_2_durandal.png"
+  },
+  "languages": []
+}

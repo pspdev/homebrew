@@ -1,0 +1,29 @@
+{
+  "name": "Multir3voluti0n",
+  "id": "multir3voluti0n",
+  "summary": "Homebrew app for PSP.",
+  "author": "tonetex",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/Multirevolution/Multirevolution.zip",
+      "published_at": "2010-09-02",
+      "size": 2797738,
+      "sha256": "8241361cb4060fa91e29f315b234b98438135a471bd8155d682d5b8c1dc4bb17",
+      "eboot_md5": "b7b8549e60abd3e91b3417fcde39f1cf"
+    }
+  ],
+  "tags": [
+    "Scenery Beta 2010"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/Multirevolution/MULT01634_00000.png"
+    ],
+    "icon": "icons/multir3voluti0n.png"
+  },
+  "languages": []
+}

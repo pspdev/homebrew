@@ -1,0 +1,27 @@
+{
+  "name": "PSPKick",
+  "id": "pspkick",
+  "summary": "Drum machine for PSP.",
+  "author": "Noah Vawter, Nathan Wray",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "3.0",
+      "url": "https://archive.org/download/pspkickv-3.00.7z/PSPKickv3.00.zip",
+      "published_at": "2006-04-01",
+      "size": 11884469,
+      "sha256": "17d71c9e156600b96d36cafdedc92491daba259266728a6e6baf475770e53678",
+      "eboot_md5": "cfdb5b799bcc8555d426f56c607a18cd"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspkickv-3.00.7z/PSPK00940_00000.jpg"
+    ],
+    "icon": "icons/pspkick.png"
+  },
+  "languages": []
+}

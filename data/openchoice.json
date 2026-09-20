@@ -1,0 +1,27 @@
+{
+  "name": "openChoice",
+  "id": "openchoice",
+  "summary": "Shell UI replacement for PSP.",
+  "author": "XArt Software & Designs",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "Alpha 2 Build 2A063",
+      "url": "https://archive.org/download/openchoice.7z/openchoice.zip",
+      "published_at": "2008-07-16",
+      "size": 251897,
+      "sha256": "caf6e56010e27d83952a20bb43e685c16c0a7c7e67a88fc96814e268f3fb52e9",
+      "eboot_md5": "2477d1d8955ac27a5223ce37f420284b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/openchoice.7z/OPEN01053_00000.jpg"
+    ],
+    "icon": "icons/openchoice.png"
+  },
+  "languages": []
+}

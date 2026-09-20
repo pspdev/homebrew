@@ -1,0 +1,27 @@
+{
+  "name": "Ponies and Kittens",
+  "id": "ponies_and_kittens",
+  "summary": "Homebrew game for PSP.",
+  "author": "HardHat, John-Paul Gignac",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/ponies1_0.7z/ponies1_0.zip",
+      "published_at": "2006-07-31",
+      "size": 4457942,
+      "sha256": "f4491149ecbfc50d1eb5b47b4f727780f9cd00fae60f3d5dc9b19cc7f7e425e5",
+      "eboot_md5": "85dc01f32bce70da89665e9db1477c4a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ponies1_0.7z/PONI00846_00000.jpg"
+    ],
+    "icon": "icons/ponies_and_kittens.png"
+  },
+  "languages": []
+}

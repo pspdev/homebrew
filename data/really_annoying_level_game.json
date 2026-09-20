@@ -1,0 +1,29 @@
+{
+  "name": "Really Annoying Level Game",
+  "id": "really_annoying_level_game",
+  "summary": "Homebrew game for PSP.",
+  "author": "EcLiPsE",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "5",
+      "url": "https://archive.org/download/ralg5.7z/ralg5.zip",
+      "published_at": "2011-04-26",
+      "size": 1409843,
+      "sha256": "59efa190c1f7d98ad2c9b5f053d6e4a97fa97739facf0d953382c35c7721c036",
+      "eboot_md5": "e72ef727d693fd6aec4db1a63e63f8be"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ralg5.7z/RALG00475_00000.jpg"
+    ],
+    "icon": "icons/really_annoying_level_game.png"
+  },
+  "languages": []
+}

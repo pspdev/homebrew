@@ -1,0 +1,27 @@
+{
+  "name": "EjPSP Reader",
+  "id": "ejpsp_reader",
+  "summary": "Text reader for PSP.",
+  "author": "EjPSP",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.9b",
+      "url": "https://archive.org/download/ej-pspreader.-7z/EjPSPReader.zip",
+      "published_at": "2010-02-25",
+      "size": 3354645,
+      "sha256": "525b8a0fe4b9e841fa81d59ab1ded2f1c754f80c8543a52b67774ef1e99f7562",
+      "eboot_md5": "e41cb66d11e81f470a1b2aa93a10c79b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ej-pspreader.-7z/EJPS01013_00001.png"
+    ],
+    "icon": "icons/ejpsp_reader.png"
+  },
+  "languages": []
+}

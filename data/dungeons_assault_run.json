@@ -1,0 +1,27 @@
+{
+  "name": "Dungeons: Assault Run",
+  "id": "dungeons_assault_run",
+  "summary": "3D shooter homebrew for PSP. Includes a Windows level editor.",
+  "author": "Christoph Arnold (charnold)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0.6",
+      "url": "https://archive.org/download/pspdar.-7z/PSPDAR.zip",
+      "published_at": "2008-07-09",
+      "size": 12930733,
+      "sha256": "213f698b4d033f4a165c8edfb524a81fbf6fb7fe7a2e7bca912b0d75ddb0edc1",
+      "eboot_md5": "0e6ffbab94331658c9f2868d44b9b692"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspdar.-7z/20210808084154.png"
+    ],
+    "icon": "icons/dungeons_assault_run.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,29 @@
+{
+  "name": "MazeEffect",
+  "id": "mazeeffect",
+  "summary": "Puzzle game for PSP. Credits: Engine programer : HigHRonN/Tichau Tools programer : Tichau Gameplay programer : Uga/Zazou 2D/3D environment artist : Griffin Sound designer : Kazemushi Level designer : Hugo/Anthony/Meedoc/Griffin Thanks to: Jeremy Evain for characters design Bertrand and Olivier for characters modeling and animating Chacha for dialogs screen",
+  "author": "3.4 lettres",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.9",
+      "url": "https://archive.org/download/maze-effects-plus-leveleditor.-7z/MazeEffects_plus_leveleditor.zip",
+      "published_at": "2011-06-03",
+      "size": 9495493,
+      "sha256": "284a43a533586c2d3a28fd8ad31a716f1ea765bdaaf7d4f8bb03f0ff8c0831ba",
+      "eboot_md5": "11a71607a647d2ad338f47e8e94b2e7c"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/maze-effects-plus-leveleditor.-7z/MAZE01101_00000.png"
+    ],
+    "icon": "icons/mazeeffect.png"
+  },
+  "languages": []
+}

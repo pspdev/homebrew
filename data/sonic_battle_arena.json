@@ -1,0 +1,27 @@
+{
+  "name": "Sonic Battle Arena",
+  "id": "sonic_battle_arena",
+  "summary": "Homebrew game for PSP.",
+  "author": "Vaza",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Final",
+      "url": "https://archive.org/download/sba.-7z/SBA.zip",
+      "published_at": "2006-01-01",
+      "size": 5212049,
+      "sha256": "be1fad378aa80ab3608e3e129f9481a963e9d131d94fe856d8967b0f9d61dea9",
+      "eboot_md5": "7aed3580485faffc9ccca9ce5ca0a544"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/sba.-7z/SBAH00214_00000.jpg"
+    ],
+    "icon": "icons/sonic_battle_arena.png"
+  },
+  "languages": []
+}

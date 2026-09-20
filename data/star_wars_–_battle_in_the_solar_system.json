@@ -1,0 +1,27 @@
+{
+  "name": "Star Wars \u2013 Battle In The Solar System",
+  "id": "star_wars_\u2013_battle_in_the_solar_system",
+  "summary": "Homebrew game for PSP.",
+  "author": "Bushy, Antoetienne",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2 Beta",
+      "url": "https://archive.org/download/star-wars.-7z/StarWars_0.2beta.zip",
+      "published_at": "2007-01-01",
+      "size": 5147308,
+      "sha256": "d2618c7ef02e6d2993a8fa1959f4a0482849e143068df23988bda6472fe01f0a",
+      "eboot_md5": "dfc8830a080521e6614f97a583c4f0f3"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/star-wars.-7z/snap.png"
+    ],
+    "icon": "icons/star_wars_\u2013_battle_in_the_solar_system.png"
+  },
+  "languages": []
+}

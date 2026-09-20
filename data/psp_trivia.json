@@ -1,0 +1,27 @@
+{
+  "name": "PSP Trivia",
+  "id": "psp_trivia",
+  "summary": "Quiz game for PSP.",
+  "author": "Anonymous D",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/psptrivia1.0/psptrivia1.0.zip",
+      "published_at": "2006-01-07",
+      "size": 4014229,
+      "sha256": "1cd7041cc47252c92ae47972cc940ca8cca86f48024aebda52d12177a5d82189",
+      "eboot_md5": "e4229b4d38887b94b3c4ebcf788d2ad7"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psptrivia1.0/PSPT01137_00000.png"
+    ],
+    "icon": "icons/psp_trivia.png"
+  },
+  "languages": []
+}

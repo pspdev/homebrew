@@ -1,0 +1,27 @@
+{
+  "name": "PSPrxLauncher",
+  "id": "psprxlauncher",
+  "summary": "Homebrew app for PSP.",
+  "author": "XMBDebug",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/psprx-launcher-v-2.2by-xmbdebug.-7z/PSPrxLauncherV2.2byXMBDebug.zip",
+      "published_at": "2009-05-15",
+      "size": 738805,
+      "sha256": "a49cf24ee823a58e604b8cd6a0936cbd9a2bd2331eb6d5619ff51f8a98933cc7",
+      "eboot_md5": "6857c9f5eec697129a476e54e4fd3135"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psprx-launcher-v-2.2by-xmbdebug.-7z/PSPR01295_00000.png"
+    ],
+    "icon": "icons/psprxlauncher.png"
+  },
+  "languages": []
+}

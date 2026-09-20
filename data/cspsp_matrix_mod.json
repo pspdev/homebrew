@@ -1,0 +1,27 @@
+{
+  "name": "CSPSP Matrix Mod",
+  "id": "cspsp_matrix_mod",
+  "summary": "Mod of CSPSP.",
+  "author": "Nataku92, Briggzy11",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.5",
+      "url": "https://archive.org/download/cs-psp.-7z/CS-PSP.zip",
+      "published_at": "2006-09-01",
+      "size": 10248603,
+      "sha256": "a01307431da5c746452b18759fb7e900057ff57ff800256b77f49bdfccef4a46",
+      "eboot_md5": "6244cacfe47ddec0bc65acd1d5d5fb02"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/cs-psp.-7z/CS-P00438_00000.jpg"
+    ],
+    "icon": "icons/cspsp_matrix_mod.png"
+  },
+  "languages": []
+}

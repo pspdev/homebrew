@@ -1,0 +1,27 @@
+{
+  "name": "SMS PSP",
+  "id": "sms_psp",
+  "summary": "Sega Master System and Game Gear emulator for PSP.",
+  "author": "Yoshihiro",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.5",
+      "url": "https://archive.org/download/sms-psp-v-0.3.7z/PSPSMSV5.zip",
+      "published_at": "2005-11-06",
+      "size": 1073079,
+      "sha256": "767466382ec1e4eb3def421272fd67cde2e07d20a8fe23379f42661765e66177",
+      "eboot_md5": "e10dfea5a4940d64f25c1f633fc5e2d0"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/sms-psp-v-0.3.7z/PSPS00625_00000.jpg"
+    ],
+    "icon": "icons/sms_psp.png"
+  },
+  "languages": []
+}

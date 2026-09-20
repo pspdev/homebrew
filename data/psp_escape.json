@@ -1,0 +1,27 @@
+{
+  "name": "PSP Escape",
+  "id": "psp_escape",
+  "summary": "Homebrew game for PSP.",
+  "author": "w_b_b_w",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/escape-w-b-b-w/Escape_w_b_b_w.zip",
+      "published_at": "2005-11-05",
+      "size": 86339,
+      "sha256": "3de587c76d3fbc7c341ec6f377c48a20c4545e5dd162410aec4fcbd813b0cb17",
+      "eboot_md5": "eaa8af30f4584a2c5a3a969dc3aab813"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/escape-w-b-b-w/ESCA01407_00003.png"
+    ],
+    "icon": "icons/psp_escape.png"
+  },
+  "languages": []
+}

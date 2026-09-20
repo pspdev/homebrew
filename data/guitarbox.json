@@ -1,0 +1,29 @@
+{
+  "name": "GuitarBox",
+  "id": "guitarbox",
+  "summary": "Guitar effects processing app.",
+  "author": "Rocamatics",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.1.52",
+      "url": "https://archive.org/download/guitarBox.7z/guitarBox.zip",
+      "published_at": "2007-01-01",
+      "size": 738509,
+      "sha256": "73ceda0da243b60a070ba49b8ff81479f35def3bb32f286d3a1d9afcbd0f0449",
+      "eboot_md5": "18889affd105f30066b0575f9d87d230"
+    }
+  ],
+  "tags": [
+    "PSP-Hacks Homebrew Competition (2007)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/guitarBox.7z/GUIT00917_00000.jpg"
+    ],
+    "icon": "icons/guitarbox.png"
+  },
+  "languages": []
+}

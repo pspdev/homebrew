@@ -1,0 +1,29 @@
+{
+  "name": "El Nim",
+  "id": "el_nim",
+  "summary": "Homebrew game for PSP.",
+  "author": "Francisco Mu\u00f1oz",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "SB2",
+      "url": "https://archive.org/download/el-nim-sb.-7z/el-nim-v2-0_1253109277.zip",
+      "published_at": "2009-01-01",
+      "size": 5210099,
+      "sha256": "1b1c44544b5370d77766c01a6bdc4a1e5394174fa12ade77d75106d15c213f80",
+      "eboot_md5": "1ef1dae7c292c28e8eda0befc8000227"
+    }
+  ],
+  "tags": [
+    "Scenery Beta 2009"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/el-nim-sb.-7z/ELNI00618_00000.jpg"
+    ],
+    "icon": "icons/el_nim.png"
+  },
+  "languages": []
+}

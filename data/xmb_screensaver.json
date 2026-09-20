@@ -1,0 +1,27 @@
+{
+  "name": "XMB Screensaver",
+  "id": "xmb_screensaver",
+  "summary": "Screensaver for PSP.",
+  "author": "Brek Martin (Art)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/xmb-screensaver-v-2.7z/XMB_Screensaver_V2.zip",
+      "published_at": "2008-12-09",
+      "size": 307526,
+      "sha256": "5f9bb455695396440493f77eaccc4abeda33cc3b204e817875c81547bd452285",
+      "eboot_md5": "d0a82a7ef0b7f7d7e754f7c6fe1ed125"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/xmb-screensaver-v-2.7z/XMB_01710_00000.jpg"
+    ],
+    "icon": "icons/xmb_screensaver.png"
+  },
+  "languages": []
+}

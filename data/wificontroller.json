@@ -1,0 +1,27 @@
+{
+  "name": "WiFiController",
+  "id": "wificontroller",
+  "summary": "Turns your PSP into a controller for your PC (running Windows).",
+  "author": "David Rudie",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.4.4",
+      "url": "https://archive.org/download/wi-fi-controller.-7z/WiFiController.zip",
+      "published_at": "2007-01-01",
+      "size": 518741,
+      "sha256": "a0caf0d22a49f0ca79c3339292b58c507a00785251b3fbf4c9959d0478e87b4b",
+      "eboot_md5": "e982e795ba04843b95ddd8b8058f56f4"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/wi-fi-controller.-7z/20210806040831.png"
+    ],
+    "icon": "icons/wificontroller.png"
+  },
+  "languages": []
+}

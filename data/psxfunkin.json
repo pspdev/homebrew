@@ -1,0 +1,27 @@
+{
+  "name": "PSXFunkin",
+  "id": "psxfunkin",
+  "summary": "PSP version of the PlayStation 1 fan game.",
+  "author": "cuckydev",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.12",
+      "url": "https://archive.org/download/psxfunkin.-7z/PSXFunkin-210812.zip",
+      "published_at": "2021-08-12",
+      "size": 279103195,
+      "sha256": "1eca87f976f34376d742ca133a774c3ad8dda5970b4c59c878bf716eb709af88",
+      "eboot_md5": "ebe42e68702aa92e29539f885985c7a8"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psxfunkin.-7z/20210712183716.png"
+    ],
+    "icon": "icons/psxfunkin.png"
+  },
+  "languages": []
+}

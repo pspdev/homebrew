@@ -1,0 +1,27 @@
+{
+  "name": "PSPcc",
+  "id": "pspcc",
+  "summary": "Chat client app for PSP.",
+  "author": "Johnny Rainbow",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/pspcc.-7z/PSPCC_WLAN_FIXED.zip",
+      "published_at": "2007-01-01",
+      "size": 1835248,
+      "sha256": "f92d1d9b6ab68533f805b7cbba2b1e0955ccb01983b73acfe69956c6776f0dbd",
+      "eboot_md5": "78101c0c85e50926e9ef4779164dd5cc"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspcc.-7z/20210721131618.png"
+    ],
+    "icon": "icons/pspcc.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Rayman PSP",
+  "id": "rayman_psp",
+  "summary": "Homebrew game for PSP.",
+  "author": "Tryolivier, Psplay",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/rayman_v1.7z/rayman_v1.zip",
+      "published_at": "2007-06-14",
+      "size": 5299104,
+      "sha256": "1474a4c475e9c5dcd3815e9b8707679e9fbbbd1b725770e16820541798911783",
+      "eboot_md5": "29fd9b06126bb96e59c550b80d4e8a9f"
+    }
+  ],
+  "tags": [
+    "Gx-mod/XtreamLua 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/rayman_v1.7z/RAYM00910_00000.png"
+    ],
+    "icon": "icons/rayman_psp.png"
+  },
+  "languages": []
+}

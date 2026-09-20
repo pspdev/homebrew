@@ -1,0 +1,27 @@
+{
+  "name": "NORT",
+  "id": "nort",
+  "summary": "Two-player homebrew game for PSP.",
+  "author": "Dragula96",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.04",
+      "url": "https://archive.org/download/nort.-7z/NORT.zip",
+      "published_at": "2006-01-01",
+      "size": 2735908,
+      "sha256": "b2bb6b1748b614604280b236d554386e0046ed1c0d9762e69e66747599aec6d8",
+      "eboot_md5": "05d2b1c9f578439a310ad2142fd9f66b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/nort.-7z/NORT00323_00000.jpg"
+    ],
+    "icon": "icons/nort.png"
+  },
+  "languages": []
+}

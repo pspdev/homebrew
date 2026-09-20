@@ -1,0 +1,27 @@
+{
+  "name": "PSPVice",
+  "id": "pspvice",
+  "summary": "Commodore 64 emulator for PSP.",
+  "author": "Christophe Kohler",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/pspvice.7z/pspvice.zip",
+      "published_at": "2008-01-01",
+      "size": 944146,
+      "sha256": "963b5c18f544385e9df8cbded6c063e2541474a733b279ad9dcbd7e8dd6fa5a6",
+      "eboot_md5": "af8c935b1a89cfe83132a96ecf5d33fd"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspvice.7z/PSPV00762_00000.png"
+    ],
+    "icon": "icons/pspvice.png"
+  },
+  "languages": []
+}

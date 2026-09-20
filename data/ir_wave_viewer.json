@@ -1,0 +1,29 @@
+{
+  "name": "IR Wave Viewer",
+  "id": "ir_wave_viewer",
+  "summary": "Homebrew app for PSP.",
+  "author": "\u6751\u4e2d \u662d\u96c4 (STEAR)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.00",
+      "url": "https://archive.org/download/irview.-7z/IRVIEW.zip",
+      "published_at": "2008-01-01",
+      "size": 130909,
+      "sha256": "35970cee3edfd0ac2197f0556d046ac53ff03fd74a236c5629545f690ef5432b",
+      "eboot_md5": "ba2539f4c1f7b496f0c5e8601b62bbfa"
+    }
+  ],
+  "tags": [
+    "IrDA"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/irview.-7z/IRVI00470_00000.jpg"
+    ],
+    "icon": "icons/ir_wave_viewer.png"
+  },
+  "languages": []
+}

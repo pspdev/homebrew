@@ -1,0 +1,27 @@
+{
+  "name": "FBA4PSP Mid",
+  "id": "fba4psp_mid",
+  "summary": "This version of FinalBurn Alpha for PSP claims support for all games included in the 'Small' build, and an additional 63 games.",
+  "author": "OopsWare, Lbicelyne",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "12.4.0",
+      "url": "https://archive.org/download/mid.7z/mid.zip",
+      "published_at": "2009-03-15",
+      "size": 1559850,
+      "sha256": "85b9da0fcd5e51c76be4e258f9e93535d02accd67b81c4579ab9faaa5e6d5d14",
+      "eboot_md5": "99432c41fefa08a9ec55c211ea523a55"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mid.7z/MIDH00314_00000.jpg"
+    ],
+    "icon": "icons/fba4psp_mid.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "PSP Filer CN",
+  "id": "psp_filer_cn",
+  "summary": "Chinese-language version of the homebrew app created by Mediumgauge.",
+  "author": "Angelspsp",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.9+",
+      "url": "https://archive.org/download/pspfiler-cn/Filer.zip",
+      "published_at": "2007-02-16",
+      "size": 338570,
+      "sha256": "8bdc3caeb0433d7b8b0e5dd0e84ba714926e53f342cb8e489cde0be92268d09d",
+      "eboot_md5": "83c8da6d22346b722ae7ae88f5e61a04"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspfiler-cn/FILE00498_00000.png"
+    ],
+    "icon": "icons/psp_filer_cn.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Link Fun [\u5ba0\u7269 \u8fde\u8fde \u770b PSP]",
+  "id": "link_fun_[\u5ba0\u7269_\u8fde\u8fde_\u770b_psp]",
+  "summary": "Homebrew game for PSP.",
+  "author": "Bian Wei (orbpig)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1 Beta",
+      "url": "https://archive.org/download/link_fun_1222.7z/link_fun_1222.zip",
+      "published_at": "2005-12-21",
+      "size": 403402,
+      "sha256": "db30fb37dbf188aac872bc0a3dcf0a56affcb4f2b277580308d0eddf21fcb61e",
+      "eboot_md5": "59b0667071d5ffb28009d849b55f801d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/link_fun_1222.7z/20220125042922.png"
+    ],
+    "icon": "icons/link_fun_[\u5ba0\u7269_\u8fde\u8fde_\u770b_psp].png"
+  },
+  "languages": []
+}

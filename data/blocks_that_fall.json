@@ -1,0 +1,27 @@
+{
+  "name": "Blocks That Fall",
+  "id": "blocks_that_fall",
+  "summary": "Tetris game for PSP.",
+  "author": "Ville Helin",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.5",
+      "url": "https://archive.org/download/blocksThatFall_1.3.7z/blocksThatFall_1.5.zip",
+      "published_at": "2007-07-08",
+      "size": 615678,
+      "sha256": "1ce45d9e7f96be6a08a29e28112fc90e2ba18e68be83d7ee19e5d5fbae1a25e4",
+      "eboot_md5": "f58dc2fdfc9abb515ba5edec7081d1fe"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/blocksThatFall_1.3.7z/EBOO00649_00000.jpg"
+    ],
+    "icon": "icons/blocks_that_fall.png"
+  },
+  "languages": []
+}

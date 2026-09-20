@@ -1,0 +1,27 @@
+{
+  "name": "Wordingo",
+  "id": "wordingo",
+  "summary": "Homebrew game for PSP. Early builds are known as Lua Scrabble.",
+  "author": "Lee Fuller",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.6",
+      "url": "https://archive.org/download/wordingo.7z/wordingo.zip",
+      "published_at": "2008-06-05",
+      "size": 613320,
+      "sha256": "510e3df0ff7bd99c8a246e153c215a887f9f4de26c5c5e3861b57badb543e0a8",
+      "eboot_md5": "1388f1a6f3715cf18a9e99afd4e96cbe"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/wordingo.7z/WORD00873_00000.jpg"
+    ],
+    "icon": "icons/wordingo.png"
+  },
+  "languages": []
+}

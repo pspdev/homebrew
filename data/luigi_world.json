@@ -1,0 +1,27 @@
+{
+  "name": "Luigi World",
+  "id": "luigi_world",
+  "summary": "Infinite runner for PSP.",
+  "author": "Roland Yonaba (SeanPaul223)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/french.7z/french.zip",
+      "published_at": "2008-04-15",
+      "size": 2167647,
+      "sha256": "2b37e1933632cd0bece42e15f90b84303aad5c6bcef35cd109815f0a03465d2f",
+      "eboot_md5": "90783673a94e3104ba781d5b8fb738a9"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/french.7z/ENGL00714_00000.png"
+    ],
+    "icon": "icons/luigi_world.png"
+  },
+  "languages": []
+}

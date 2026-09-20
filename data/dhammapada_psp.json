@@ -1,0 +1,27 @@
+{
+  "name": "Dhammapada PSP",
+  "id": "dhammapada_psp",
+  "summary": "PSP version of the religious text.",
+  "author": "Sakya",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.00",
+      "url": "https://archive.org/download/dhammapada-psp.-7z/DhammapadaPSP.zip",
+      "published_at": "2007-01-01",
+      "size": 1369289,
+      "sha256": "bc972be330b8a3c7fbfda9f1f2a5a1440e6ad719f5feb2fef553dcb656443339",
+      "eboot_md5": "bf85bc11982db1bb101bd7da1e0eee70"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/dhammapada-psp.-7z/DHAM01233_00000.png"
+    ],
+    "icon": "icons/dhammapada_psp.png"
+  },
+  "languages": []
+}

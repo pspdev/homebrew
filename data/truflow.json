@@ -1,0 +1,27 @@
+{
+  "name": "TruFlow",
+  "id": "truflow",
+  "summary": "Coverflow style music browser for PSP.\u00a0 Hold R as the app starts after adding music files to refresh its cache.",
+  "author": "Da MerV",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/truflow_1_1.7z/truflow_1_1.zip",
+      "published_at": "2008-07-23",
+      "size": 802129,
+      "sha256": "bc7057c64e25fef2fd5ba50a1e0649da7674561330c7f4fbc17ec1ade3863516",
+      "eboot_md5": "cbf9e1f0d4f98bc5855e7eb8e3407239"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/truflow_1_1.7z/TRUF01075_00001.png"
+    ],
+    "icon": "icons/truflow.png"
+  },
+  "languages": []
+}

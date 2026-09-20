@@ -1,0 +1,27 @@
+{
+  "name": "Pong+",
+  "id": "pong+",
+  "summary": "Two-player Pong for PSP.",
+  "author": "Fish",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/pong-plus.-7z/PongPlus.zip",
+      "published_at": "2006-02-27",
+      "size": 268618,
+      "sha256": "74ba8d679a397280c0e0fed0d5e23b3c6325d225d2596f87bc121291c5b0c686",
+      "eboot_md5": "e2ae932d2910c9ab387eae6c3cf0857a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pong-plus.-7z/PONG00824_00000.jpg"
+    ],
+    "icon": "icons/pong+.png"
+  },
+  "languages": []
+}

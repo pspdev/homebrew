@@ -1,0 +1,27 @@
+{
+  "name": "playPSP",
+  "id": "playpsp",
+  "summary": "Pong and a pixel fixer.",
+  "author": "ArkTRT",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.12",
+      "url": "https://archive.org/download/playPSP112.7z/playPSP112.zip",
+      "published_at": "2007-12-10",
+      "size": 947735,
+      "sha256": "66d71a7ab921884501e27eeb9d3fde65e8db686ff9a56740635f9a6f88242edc",
+      "eboot_md5": "7cf8872bfa52b78bedf84d9fd88da806"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/playPSP112.7z/LUAP01292_00000.png"
+    ],
+    "icon": "icons/playpsp.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "PSP PDF Reader",
+  "id": "psp_pdf_reader",
+  "summary": "Homebrew app for PSP.",
+  "author": "Sauron le noir",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/psppdf.7z_202103/psppdf.zip",
+      "published_at": "2008-08-19",
+      "size": 2505535,
+      "sha256": "45ca299ae7ee6ebbc6a5a02c462f2b33956c1cdec16381100b26ef73853beea9",
+      "eboot_md5": "9a964e588af9ba0f93592f99e4da7e2b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psppdf.7z_202103/PSPP00653_00000.jpg"
+    ],
+    "icon": "icons/psp_pdf_reader.png"
+  },
+  "languages": []
+}

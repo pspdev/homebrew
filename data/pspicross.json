@@ -1,0 +1,29 @@
+{
+  "name": "PSPicross",
+  "id": "pspicross",
+  "summary": "Puzzle game for PSP.",
+  "author": "Mike Haggar (mikehaggar99)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/pspicross-02.7z/PSPicross02.zip",
+      "published_at": "2005-11-06",
+      "size": 2157840,
+      "sha256": "eb201eadb8a7f51a97fa4d4f2b114d3449c93f5c7e5d0081c0dc403954e1bcc6",
+      "eboot_md5": "79e0478e1f415ab52c54f1fb8e295d9b"
+    }
+  ],
+  "tags": [
+    "PSP NEWS & Lik Sang 30 Day Coding Comp (2005)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspicross-02.7z/PSPI01576_00000.jpg"
+    ],
+    "icon": "icons/pspicross.png"
+  },
+  "languages": []
+}

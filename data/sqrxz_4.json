@@ -1,0 +1,27 @@
+{
+  "name": "SQRXZ 4",
+  "id": "sqrxz_4",
+  "summary": "Homebrew game for PSP.",
+  "author": "Retroguru",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.00",
+      "url": "https://archive.org/download/sqrxz-4.7z/SQRXZ4.zip",
+      "published_at": "2014-01-01",
+      "size": 1144987,
+      "sha256": "cda2a9cfa291e3c18f23ec5881c367c9887ae7036424743f67547e84e2b5fbe9",
+      "eboot_md5": "3cbd951f3029c96ff50b10dacca87168"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/sqrxz-4.7z/SQRX00476_00000.jpg"
+    ],
+    "icon": "icons/sqrxz_4.png"
+  },
+  "languages": []
+}

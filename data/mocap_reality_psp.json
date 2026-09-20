@@ -1,0 +1,29 @@
+{
+  "name": "MoCap Reality PSP",
+  "id": "mocap_reality_psp",
+  "summary": "Motion capture and depiction software for PSP. It requires the Neo Motion Kit.",
+  "author": "Mr305",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.1.159",
+      "url": "https://archive.org/download/mo-cap-reality.-7z/MoCapReality.zip",
+      "published_at": "2008-10-30",
+      "size": 182452,
+      "sha256": "3a62ec702c8b1c15e21a4db0d93fc772d82813e53e4b3ff702460e2b05a76597",
+      "eboot_md5": "b1557af50012624085815f0747c3dfcb"
+    }
+  ],
+  "tags": [
+    "Neo Motion Kit"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mo-cap-reality.-7z/snap.png"
+    ],
+    "icon": "icons/mocap_reality_psp.png"
+  },
+  "languages": []
+}

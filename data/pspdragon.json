@@ -1,0 +1,27 @@
+{
+  "name": "PSPDragon",
+  "id": "pspdragon",
+  "summary": "Dragon / Tandy Coco Emulator for PSP.",
+  "author": "Ludovic Jacomme (Zx-81)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.0.3",
+      "url": "https://archive.org/download/pspdragon.7z/pspdragon.zip",
+      "published_at": "2008-04-26",
+      "size": 1075748,
+      "sha256": "fa81557838cab49266bc7fd0746551c7e9b14d525358e5f81ea55ae7aed78956",
+      "eboot_md5": "c9424317ccead38d1d05d6be73215f73"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspdragon.7z/PSPD00974_00001.jpg"
+    ],
+    "icon": "icons/pspdragon.png"
+  },
+  "languages": []
+}

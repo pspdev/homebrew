@@ -1,0 +1,29 @@
+{
+  "name": "Space Assault",
+  "id": "space_assault",
+  "summary": "Homebrew game for PSP.",
+  "author": "Zwergengraf",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.3",
+      "url": "https://archive.org/download/space_assault_v0.3.7z/space_assault_v0.3.zip",
+      "published_at": "2007-01-01",
+      "size": 2137002,
+      "sha256": "53435928eec354290710c0882fb37a7c7ee29e78246f60bdb83ec5ae79f2fe15",
+      "eboot_md5": "74cbcd2e0d54050aa072d1b0d94de2c7"
+    }
+  ],
+  "tags": [
+    "PSPSource Summer Coding Compo 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/space_assault_v0.3.7z/SPAC01742_00001.jpg"
+    ],
+    "icon": "icons/space_assault.png"
+  },
+  "languages": []
+}

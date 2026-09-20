@@ -1,0 +1,29 @@
+{
+  "name": "Take the Ball",
+  "id": "take_the_ball",
+  "summary": "Button-pressing game.",
+  "author": "fede94boss",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "3.0.4",
+      "url": "https://archive.org/download/take_the_ballv304.7z/take_the_ballv304.zip",
+      "published_at": "2011-05-02",
+      "size": 8000238,
+      "sha256": "b853b6be3cd0e1a97820c50da8556510a3e91614936c2b1e65b4f44cc5d506f9",
+      "eboot_md5": "070b863d743b0033e023d207f35b8e65"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/take_the_ballv304.7z/TAKE01612_00000.jpg"
+    ],
+    "icon": "icons/take_the_ball.png"
+  },
+  "languages": []
+}

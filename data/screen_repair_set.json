@@ -1,0 +1,29 @@
+{
+  "name": "Screen Repair Set",
+  "id": "screen_repair_set",
+  "summary": "This app promises to revive dead pixels on your PSP.",
+  "author": "saulotmalo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/srs-1.0.7z/SRS_1.0.zip",
+      "published_at": "2006-08-11",
+      "size": 502922,
+      "sha256": "a3aaff081ff28395bac69937cbf0c692fb778c7a4c8d974ce01419196dcd2865",
+      "eboot_md5": "b460512f6f9f827e70e3d726d13a2642"
+    }
+  ],
+  "tags": [
+    "NEO Summer Coding Compo 2006"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/srs-1.0.7z/SCRE01519_00000.jpg"
+    ],
+    "icon": "icons/screen_repair_set.png"
+  },
+  "languages": []
+}

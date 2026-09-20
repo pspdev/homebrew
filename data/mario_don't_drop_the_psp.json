@@ -1,0 +1,27 @@
+{
+  "name": "Mario Don't Drop the PSP",
+  "id": "mario_don't_drop_the_psp",
+  "summary": "Homebrew game for PSP.",
+  "author": "DreaDNoughT, Kid101skater",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "3.5",
+      "url": "https://archive.org/download/mddp_v3.5.7z/mddp_v3.5.zip",
+      "published_at": "2006-12-17",
+      "size": 3689402,
+      "sha256": "6d100f0dcf1723b25ec519aca645b3a9ba2df5b198b337376ffa6258de2e303a",
+      "eboot_md5": "5303ac8cadc16be714ec50deeefc736a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mddp_v3.5.7z/MARI02693_00000.jpg"
+    ],
+    "icon": "icons/mario_don't_drop_the_psp.png"
+  },
+  "languages": []
+}

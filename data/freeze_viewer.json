@@ -1,0 +1,27 @@
+{
+  "name": "Freeze Viewer",
+  "id": "freeze_viewer",
+  "summary": "Image viewer for PSP.",
+  "author": "\u6751\u4e2d \u662d\u96c4 (STEAR)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.91",
+      "url": "https://archive.org/download/fviewer.7z/fviewer.zip",
+      "published_at": "2017-06-04",
+      "size": 1615848,
+      "sha256": "2d1007870ba58ad72c02d22fa3353741261c2caef546626619c8e64542f7fb33",
+      "eboot_md5": "ce3516a16f1a6a8ccc96a13bf21cf75c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/fviewer.7z/FVIE00760_00002.jpg"
+    ],
+    "icon": "icons/freeze_viewer.png"
+  },
+  "languages": []
+}

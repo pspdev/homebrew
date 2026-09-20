@@ -1,0 +1,29 @@
+{
+  "name": "X-pired",
+  "id": "x-pired",
+  "summary": "Homebrew puzzle game for PSP.",
+  "author": "MK2k",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.22",
+      "url": "https://archive.org/download/xpired.7z/xpired.zip",
+      "published_at": "2008-08-15",
+      "size": 4163750,
+      "sha256": "ec95e66c9f1887e2ea1b010b83e2c26e7366eb0d517027bf25ff355a24b44323",
+      "eboot_md5": "c9e97820ef56f0ebcb94b05ab9782947"
+    }
+  ],
+  "tags": [
+    "NEO 2008 Summer Compo"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/xpired.7z/XPIR00652_00000.jpg"
+    ],
+    "icon": "icons/x-pired.png"
+  },
+  "languages": []
+}

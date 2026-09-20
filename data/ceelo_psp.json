@@ -1,0 +1,27 @@
+{
+  "name": "CeeLo PSP",
+  "id": "ceelo_psp",
+  "summary": "Homebrew game for PSP.",
+  "author": "Dark Killer",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/cee-lo-psp-0.1-dk.-7z/CeeLoPSP_0.1-DK.zip",
+      "published_at": "2005-10-01",
+      "size": 493032,
+      "sha256": "2cc1bc15adced653a550026a3f8b119b88d7331f25f7674ba3b613bbd5428d88",
+      "eboot_md5": "53f21664cbcb94421791820df868dc86"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/cee-lo-psp-0.1-dk.-7z/CEEL00603_00000.png"
+    ],
+    "icon": "icons/ceelo_psp.png"
+  },
+  "languages": []
+}

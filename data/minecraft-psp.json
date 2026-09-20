@@ -1,0 +1,28 @@
+{
+  "name": "Minecraft-PSP",
+  "id": "minecraft-psp",
+  "summary": "Minecraft-PSP, the continued extension of Woolio's version of the game.",
+  "author": "Nathan Bourgeois (IridescentRose)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.5-pre2",
+      "url": "https://archive.org/download/launcher.-7z/Launcher.zip",
+      "published_at": "2020-01-01",
+      "size": 75739805,
+      "sha256": "2f887813ec94ae449b037f27c7dc4d8da47f5788e0974892762584e959a6725d",
+      "eboot_md5": "3fd67366540abc9148cec0f07f2c8d88"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/launcher.-7z/pic_0001.jpg",
+      "https://archive.org/download/launcher.-7z/pic_0002.jpg"
+    ],
+    "icon": "icons/minecraft-psp.png"
+  },
+  "languages": []
+}

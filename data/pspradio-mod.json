@@ -1,0 +1,27 @@
+{
+  "name": "PSPRadio-Mod",
+  "id": "pspradio-mod",
+  "summary": "Fork of the PSPRadio project.",
+  "author": "NiKoTiN",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.19.7",
+      "url": "https://archive.org/download/pspradio-1.19.7.7z/PSPRadio1.19.7.zip",
+      "published_at": "2011-05-29",
+      "size": 2245055,
+      "sha256": "8f9c1a482578c2d085eb7a12b511ac4c25a5569b97a6fbfefe294ee9b0ccde80",
+      "eboot_md5": "1cd0382791f76ff48f1520b3d615726c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspradio-1.19.7.7z/PSPR01040_00000.png"
+    ],
+    "icon": "icons/pspradio-mod.png"
+  },
+  "languages": []
+}

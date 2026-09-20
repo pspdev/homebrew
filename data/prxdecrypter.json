@@ -1,0 +1,27 @@
+{
+  "name": "PRXdecrypter",
+  "id": "prxdecrypter",
+  "summary": "Homebrew app for PSP.",
+  "author": "jas0nuk, Rahim-US",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.7a fix",
+      "url": "https://archive.org/download/prxdecrypter-2-3.7z/PRXdecrypter_27a_fix.zip",
+      "published_at": "2012-09-22",
+      "size": 178716,
+      "sha256": "dfbb6a53de26fd9edb472b168852a22f80089b41fc7e1b3537272c159585d819",
+      "eboot_md5": "049bf9614b94d72fba3e01e53e3c47e5"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/prxdecrypter-2-3.7z/PRXD00547_00000.png"
+    ],
+    "icon": "icons/prxdecrypter.png"
+  },
+  "languages": []
+}

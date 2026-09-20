@@ -1,0 +1,27 @@
+{
+  "name": "PSP Millionaire [Spanish]",
+  "id": "psp_millionaire_[spanish]",
+  "summary": "Spanish-language version of the game.",
+  "author": "PSPMillionaire",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.10",
+      "url": "https://archive.org/download/pspmillionaire.-7z_202105/PSPMillionaire.zip",
+      "published_at": "2007-10-06",
+      "size": 6117091,
+      "sha256": "ea02a3910aa7de59368d2323f5d65181e23f5e493aba9416547570fd69e13f61",
+      "eboot_md5": "07b3680e68f1a70e34a3cbe8877d731d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspmillionaire.-7z_202105/PSPM01384_00000.jpg"
+    ],
+    "icon": "icons/psp_millionaire_[spanish].png"
+  },
+  "languages": []
+}

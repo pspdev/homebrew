@@ -1,0 +1,27 @@
+{
+  "name": "Flappy Bird",
+  "id": "flappy_bird",
+  "summary": "Flappy Bird on PSP.",
+  "author": "Sandroron, Gears",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.1",
+      "url": "https://archive.org/download/fbird.-7z/FBird.zip",
+      "published_at": "2014-06-08",
+      "size": 4652888,
+      "sha256": "aa477d128b56a83376d46ef656bf8379da61a5398c846fcaa13f8d92aafa84be",
+      "eboot_md5": "17a49c884eec080922e4918956e44e83"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/fbird.-7z/FBHO00136_00001.jpg"
+    ],
+    "icon": "icons/flappy_bird.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Ura Kaiten Patissier [\u88cf\u304b\u3044\u3066\u3093\u30d1\u30c6\u30a3\u30b7\u30a8]",
+  "id": "ura_kaiten_patissier_[\u88cf\u304b\u3044\u3066\u3093\u30d1\u30c6\u30a3\u30b7\u30a8]",
+  "summary": "Port of the indie puzzle game by Alpha Secret Base.",
+  "author": "MK2k",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "R1",
+      "url": "https://archive.org/download/ura-kaiten-patissier-psp.-7z/UraKaitenPatissierPSP.zip",
+      "published_at": "2008-06-04",
+      "size": 16105505,
+      "sha256": "4d613ce84c0b7e47fd07738e1357165f358615db303f08b0fea2f699301e7a8a",
+      "eboot_md5": "96ba99b2245507802de996617002fce7"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ura-kaiten-patissier-psp.-7z/URAK02091_00001.jpg"
+    ],
+    "icon": "icons/ura_kaiten_patissier_[\u88cf\u304b\u3044\u3066\u3093\u30d1\u30c6\u30a3\u30b7\u30a8].png"
+  },
+  "languages": []
+}

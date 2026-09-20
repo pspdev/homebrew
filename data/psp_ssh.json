@@ -1,0 +1,27 @@
+{
+  "name": "PSP SSH",
+  "id": "psp_ssh",
+  "summary": "SSH2 client for PSP.",
+  "author": "Ludovic Jacomme (Zx-81)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.2.0",
+      "url": "https://archive.org/download/pspssh-v1.2.0-fw5x.7z/pspssh-v1.2.0-fw5x.zip",
+      "published_at": "2008-11-10",
+      "size": 3445918,
+      "sha256": "ff2a6fbeeb548896a8541154896d9d50545d93798bda46787a7b8caea58c3d00",
+      "eboot_md5": "0313004a45a19beeb97be9d0a1bd7159"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspssh-v1.2.0-fw5x.7z/PSPS01514_00000.jpg"
+    ],
+    "icon": "icons/psp_ssh.png"
+  },
+  "languages": []
+}

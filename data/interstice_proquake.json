@@ -1,0 +1,27 @@
+{
+  "name": "Interstice ProQuake",
+  "id": "interstice_proquake",
+  "summary": "A modification of the ProQuake/Kurok Sony PSP engine focusing on hardware rendering optimization & mod support functionality. This package includes the shareware version of Quake.",
+  "author": "MotoLegacy",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "5.1.0",
+      "url": "https://archive.org/download/interstice-v-5.1.0/Interstice-v5.1.0.zip",
+      "published_at": "2023-08-14",
+      "size": 9334478,
+      "sha256": "d52389939d2bd765814c709482c7a75cde860cb17f225559046b74b99b28d727",
+      "eboot_md5": "6725cc2bfd37ffc846a1e67ac34ee468"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/interstice-v-5.1.0/INTE01455_00003.png"
+    ],
+    "icon": "icons/interstice_proquake.png"
+  },
+  "languages": []
+}

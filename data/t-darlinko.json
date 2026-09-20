@@ -1,0 +1,27 @@
+{
+  "name": "T-Darlinko",
+  "id": "t-darlinko",
+  "summary": "Version of Tetris for PSP.",
+  "author": "USpeed",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.74",
+      "url": "https://archive.org/download/t-darlinko.-7z/T-Darlinko.zip",
+      "published_at": "2011-02-04",
+      "size": 12689914,
+      "sha256": "e36a0f1e0ae56ae239cb962c604bc403474cda707247dfe79b42e00faf5c6ebf",
+      "eboot_md5": "3601ed1c64d6cf5958412b0ff09ee74c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/t-darlinko.-7z/T-DA00949_00000.jpg"
+    ],
+    "icon": "icons/t-darlinko.png"
+  },
+  "languages": []
+}

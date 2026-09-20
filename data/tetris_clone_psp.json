@@ -1,0 +1,27 @@
+{
+  "name": "Tetris Clone PSP",
+  "id": "tetris_clone_psp",
+  "summary": "NES tetris clone adapted for PSP.",
+  "author": "Monthou\u00ebl Alexandre (An0n1mity)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0.0",
+      "url": "https://archive.org/download/tetris_202311/TETRIS.zip",
+      "published_at": "2023-05-13",
+      "size": 8996748,
+      "sha256": "498b54e4ccfb9a920186d3ab2f57043ffc3b59fc624b3d4db30f7ad420ae07f5",
+      "eboot_md5": "45827db9b978254db2016dbbe4bbd7ff"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/tetris_202311/TETR00475_00000.png"
+    ],
+    "icon": "icons/tetris_clone_psp.png"
+  },
+  "languages": []
+}

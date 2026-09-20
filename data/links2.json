@@ -1,0 +1,27 @@
+{
+  "name": "Links2",
+  "id": "links2",
+  "summary": "PSP port of the Links web browser by Twibright Labs.",
+  "author": "Rafael Cabezas (Raf)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1261",
+      "url": "https://archive.org/download/links-2.1pre23_psp_r1261_stand_alone.7z/links-2.1pre23_psp_r1261.zip",
+      "published_at": "2007-02-06",
+      "size": 2732752,
+      "sha256": "f3f2f627ed60cf90c1096bd4199d3487fa23fdcc23e4c435bdf81fb2f0a92f81",
+      "eboot_md5": "791b830dca3ae0ed7d9c3d70dc65f86a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/links-2.1pre23_psp_r1261_stand_alone.7z/20210613175040.png"
+    ],
+    "icon": "icons/links2.png"
+  },
+  "languages": []
+}

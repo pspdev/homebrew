@@ -1,0 +1,27 @@
+{
+  "name": "Loonies 8192",
+  "id": "loonies_8192",
+  "summary": "Homebrew puzzle game for PSP.",
+  "author": "thp",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "r66",
+      "url": "https://archive.org/download/loonies8192-r62.7z/loonies8192-r66.zip",
+      "published_at": "2021-07-09",
+      "size": 441394,
+      "sha256": "523a3fd575e7ed7cf279f4483b7dbad74817e0f65a153aa2c10a377c485f90d8",
+      "eboot_md5": "d5bda833a30aa96911939cf332c9c5c9"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/loonies8192-r62.7z/LOON01236_00000.jpg"
+    ],
+    "icon": "icons/loonies_8192.png"
+  },
+  "languages": []
+}

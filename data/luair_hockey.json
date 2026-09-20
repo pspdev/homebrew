@@ -1,0 +1,27 @@
+{
+  "name": "LUAir Hockey",
+  "id": "luair_hockey",
+  "summary": "Air hockey game for PSP.",
+  "author": "zeroXorXdieXskater",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.21",
+      "url": "https://archive.org/download/luair-hockey-v-0.21.7z/LUAirHockeyV0.21.zip",
+      "published_at": "2008-09-01",
+      "size": 406921,
+      "sha256": "e4977d60a16515daa9fb5bfe72836324adaf9f5c180a4911c5774909197d3cfa",
+      "eboot_md5": "a4a93cce2eae2810df2e549d335474dd"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/luair-hockey-v-0.21.7z/LUAI01335_00000.png"
+    ],
+    "icon": "icons/luair_hockey.png"
+  },
+  "languages": []
+}

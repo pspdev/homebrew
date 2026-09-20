@@ -1,0 +1,27 @@
+{
+  "name": "eReader",
+  "id": "ereader",
+  "summary": "Homebrew app for PSP.",
+  "author": "aeolusc",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.6",
+      "url": "https://archive.org/download/eReader0.8_100_16pt.7z/eReader_1_6.zip",
+      "published_at": "2007-01-16",
+      "size": 14585373,
+      "sha256": "f599ea739e34c1e8c08d09df987d1c080dc9ed1be0a0ef82bc49b97f6056ec7b",
+      "eboot_md5": "e45cc0a1b231d64bd7fa2a25fdb97f21"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/eReader0.8_100_16pt.7z/20210610043743.png"
+    ],
+    "icon": "icons/ereader.png"
+  },
+  "languages": []
+}

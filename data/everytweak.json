@@ -1,0 +1,27 @@
+{
+  "name": "Everytweak",
+  "id": "everytweak",
+  "summary": "Homebrew app for PSP.",
+  "author": "Comandillos",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/fixer_202108/fixer.zip",
+      "published_at": "2011-09-05",
+      "size": 6286426,
+      "sha256": "72e1e5018bdde84da2c7f2a09139bbe94a37bd7ae2d81c7a0eecc82607693c7b",
+      "eboot_md5": "3d591bcfaa6e3dde23eca54e7d3830e0"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/fixer_202108/FIXE00542_00000.png"
+    ],
+    "icon": "icons/everytweak.png"
+  },
+  "languages": []
+}

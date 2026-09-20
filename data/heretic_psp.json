@@ -1,0 +1,27 @@
+{
+  "name": "Heretic PSP",
+  "id": "heretic_psp",
+  "summary": "PSP port of the PC game. Shareware wad included.",
+  "author": "bjohnson",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/heretic-psp.-7z/HERETIC-PSP.zip",
+      "published_at": "2005-07-19",
+      "size": 2833809,
+      "sha256": "10eb67a62d1499df1b35864c7cd7dd94522b5c1ae396bbbb730b94a472546cb7",
+      "eboot_md5": "621c0872a7984b31b04fb79b48ef2e03"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/heretic-psp.-7z/HERE00804_00000.png"
+    ],
+    "icon": "icons/heretic_psp.png"
+  },
+  "languages": []
+}

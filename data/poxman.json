@@ -1,0 +1,27 @@
+{
+  "name": "Poxman",
+  "id": "poxman",
+  "summary": "Homebrew game for PSP.",
+  "author": "Ragable, Butterballer360, Pox",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/alpha-psphg.-7z/poxmanbuild2.zip",
+      "published_at": "2006-06-03",
+      "size": 1651947,
+      "sha256": "c51007b725e3298dc23a4e4db48cc64ebef46d03a2f5d0f2040a05a21ddb79f9",
+      "eboot_md5": "ebff415446c9f9137f47b0a1fae332d2"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/alpha-psphg.-7z/LPM300335_00000.jpg"
+    ],
+    "icon": "icons/poxman.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Zelda: Time to Triumph",
+  "id": "zelda_time_to_triumph",
+  "summary": "PSP version of the fan game by Vincent Jouillat.",
+  "author": "Randall Spychalla",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "3",
+      "url": "https://archive.org/download/zelda-t-3-v-3.7z/ZeldaT3_V3.zip",
+      "published_at": "2014-09-23",
+      "size": 51848282,
+      "sha256": "41d1bfe3d62c9f7e6083aa8f42e8ef3210b42aec3cee2e48b92c1cb22eafb08f",
+      "eboot_md5": "7468d10458ad241a20dce5f62b32d071"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/zelda-t-3-v-3.7z/ZELD00863_00000.png"
+    ],
+    "icon": "icons/zelda_time_to_triumph.png"
+  },
+  "languages": []
+}

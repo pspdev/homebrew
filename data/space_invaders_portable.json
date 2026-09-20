@@ -1,0 +1,27 @@
+{
+  "name": "Space Invaders Portable",
+  "id": "space_invaders_portable",
+  "summary": "Homebrew version of the game for PSP.",
+  "author": "TacticalPenguin",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.5",
+      "url": "https://archive.org/download/sipwe.-7z/SIPWE.zip",
+      "published_at": "2006-12-10",
+      "size": 1243501,
+      "sha256": "9d5daf7bd2f73ca5ee4f150bc1405c1d0faed0b21c9249d69faf0e1db371eb2b",
+      "eboot_md5": "464bd426528a7e26482160a643e4f5e9"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/sipwe.-7z/SIPW00392_00001.jpg"
+    ],
+    "icon": "icons/space_invaders_portable.png"
+  },
+  "languages": []
+}

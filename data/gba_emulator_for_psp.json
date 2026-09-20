@@ -1,0 +1,27 @@
+{
+  "name": "GBA emulator for PSP",
+  "id": "gba_emulator_for_psp",
+  "summary": "GameBoy Advance emulator for PSP.",
+  "author": "Miemt11",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.01",
+      "url": "https://archive.org/download/pspgba.-7z/PSPGBA.zip",
+      "published_at": "2006-02-07",
+      "size": 497970,
+      "sha256": "4d585e42218fe52af8be0912f7147ac9990ce700cfe228d802e903376ed62801",
+      "eboot_md5": "4995d03b7ad62686d383578a95c46404"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspgba.-7z/PSPG00445_00003.jpg"
+    ],
+    "icon": "icons/gba_emulator_for_psp.png"
+  },
+  "languages": []
+}

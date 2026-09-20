@@ -1,0 +1,27 @@
+{
+  "name": "Test My Controls",
+  "id": "test_my_controls",
+  "summary": "Testing app for PSP.",
+  "author": "Johnny McKinney",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.0 Final",
+      "url": "https://archive.org/download/test-my-controls-v-2.0-final.-7z/TestMyControlsV2.0Final.zip",
+      "published_at": "2007-12-31",
+      "size": 259824,
+      "sha256": "b3ffb22956426b83128ff542d7598f94ecb62484ec4fcfd95321fd098eacf60d",
+      "eboot_md5": "4fb6fb61de4438c26056c1040b27f921"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/test-my-controls-v-2.0-final.-7z/TEST02186_00000.jpg"
+    ],
+    "icon": "icons/test_my_controls.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Rise Of The Triad",
+  "id": "rise_of_the_triad",
+  "summary": "Port of the PC game to PSP. The shareware version is included.",
+  "author": "Denis Televnyy (Deniska), Chilly Willy",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.01",
+      "url": "https://archive.org/download/rise-of-the-triad-psp-v-1.01.7z/ROTT_PSP_v101.zip",
+      "published_at": "2008-06-16",
+      "size": 10348271,
+      "sha256": "ec200d6c9759044b085940c7e1c497fdfc2dd73f606a2d1d2af02c79fa96ce74",
+      "eboot_md5": "068b5e7607cb772887f78b4f4d3040f1"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/rise-of-the-triad-psp-v-1.01.7z/RISE03763_00000.jpg"
+    ],
+    "icon": "icons/rise_of_the_triad.png"
+  },
+  "languages": []
+}

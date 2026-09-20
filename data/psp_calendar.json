@@ -1,0 +1,27 @@
+{
+  "name": "PSP Calendar",
+  "id": "psp_calendar",
+  "summary": "Calendar app for PSP.",
+  "author": "Yamasan",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.3",
+      "url": "https://archive.org/download/calendar-v-0-3.7z/Calendar_v0_3.zip",
+      "published_at": "2005-05-23",
+      "size": 103058,
+      "sha256": "2f0904399f54f20205e2b6c0cb43eff0ee297bf5e82811b366e0d1d37003afff",
+      "eboot_md5": "3f0bca2a2493f597bcf76d8f8a2daa73"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/calendar-v-0-3.7z/CALE01201_00000.jpg"
+    ],
+    "icon": "icons/psp_calendar.png"
+  },
+  "languages": []
+}

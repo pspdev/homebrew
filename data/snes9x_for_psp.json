@@ -1,0 +1,27 @@
+{
+  "name": "Snes9x for PSP",
+  "id": "snes9x_for_psp",
+  "summary": "First SNES emulator for PSP.",
+  "author": "\u3073\u3075\u3066\u304d\u6c0f (Bifuteki)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.03a",
+      "url": "https://archive.org/download/snes-9-x.-7z/SNES9X003A.zip",
+      "published_at": "2005-06-15",
+      "size": 239990,
+      "sha256": "fa2186647d5601ce11e50d2009d166efc8099a726f1aebfce794cc57de0ffdca",
+      "eboot_md5": "d1e3001b48bfc0f898d4e7a3a8941d48"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/snes-9-x.-7z/20210609163224.png"
+    ],
+    "icon": "icons/snes9x_for_psp.png"
+  },
+  "languages": []
+}

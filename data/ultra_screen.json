@@ -1,0 +1,27 @@
+{
+  "name": "Ultra Screen",
+  "id": "ultra_screen",
+  "summary": "Image viewer for PSP",
+  "author": "Marce_82, thesixhalcon",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.7",
+      "url": "https://archive.org/download/ultra-screen-v-1.7z/Ultra_Screen_v1.zip",
+      "published_at": "2008-05-10",
+      "size": 1361784,
+      "sha256": "cae807d2d69ce84816fc2a83016a40764e57ff34a2364b3d6b3ff0f7011ec43a",
+      "eboot_md5": "a37514605af6544c9fed74f9d87fb092"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ultra-screen-v-1.7z/ultrascreen2.png"
+    ],
+    "icon": "icons/ultra_screen.png"
+  },
+  "languages": []
+}

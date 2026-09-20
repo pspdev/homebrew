@@ -1,0 +1,27 @@
+{
+  "name": "Tyrian PSP",
+  "id": "tyrian_psp",
+  "summary": "2D shooter homebrew game.",
+  "author": "Denis Televnyy (Deniska)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/open-tyrian-pspplus.-7z/OpenTyrianPSP_v1_0.zip",
+      "published_at": "2008-01-18",
+      "size": 5799967,
+      "sha256": "fee4e5e296a4a0bddda6544b1feddc8893d9a7aa6972b56bd8980c86e7acf84b",
+      "eboot_md5": "0dc98a416ce21ede1c41fdd0b33124e7"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/open-tyrian-pspplus.-7z/OPEN01681_00002.png"
+    ],
+    "icon": "icons/tyrian_psp.png"
+  },
+  "languages": []
+}

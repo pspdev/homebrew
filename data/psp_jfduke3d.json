@@ -1,0 +1,27 @@
+{
+  "name": "PSP JFDuke3D",
+  "id": "psp_jfduke3d",
+  "summary": "PSP port of Duke Nukem 3D. The shareware version of the game is included.",
+  "author": "Sergey Galushko (Crow_bar)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/duke-slim.-7z/DukeSlim.zip",
+      "published_at": "2011-02-04",
+      "size": 20136216,
+      "sha256": "8b7fe1b7c9f8924425a3bc22193f603cf1821c6c6026c5167873a8978f1021a6",
+      "eboot_md5": "3c0685a2aa63adc7277bcff295717437"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/duke-slim.-7z/DUKE00798_00000.jpg"
+    ],
+    "icon": "icons/psp_jfduke3d.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Explored",
+  "id": "explored",
+  "summary": "Homebrew app for PSP.",
+  "author": "adrian-SAYA",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.2",
+      "url": "https://archive.org/download/explored-v-2.2/ExploredV2.2.zip",
+      "published_at": "2010-01-20",
+      "size": 1407134,
+      "sha256": "470448b8a1a18b576d115c60d24297b73cbe920be451a7bcce5fd01bfbc0ec57",
+      "eboot_md5": "9cfa6edc79751f18cebcf65f446806f3"
+    }
+  ],
+  "tags": [
+    "Scenery Beta 2009"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/explored-v-2.2/EXPL01067_00000.png"
+    ],
+    "icon": "icons/explored.png"
+  },
+  "languages": []
+}

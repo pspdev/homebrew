@@ -1,0 +1,29 @@
+{
+  "name": "Spider Solitaire",
+  "id": "spider_solitaire",
+  "summary": "Card game for PSP.",
+  "author": "Synopsis",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.04",
+      "url": "https://archive.org/download/spider.-7z/Spider.zip",
+      "published_at": "2006-08-23",
+      "size": 1520294,
+      "sha256": "06e022ab4dc48b23770cfa947b593956d47940f62d644a7e5a6631779f6dbb5c",
+      "eboot_md5": "475e08bd2378543d1737ff58d85b31c6"
+    }
+  ],
+  "tags": [
+    "python"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/spider.-7z/SPID00615_00000.jpg"
+    ],
+    "icon": "icons/spider_solitaire.png"
+  },
+  "languages": []
+}

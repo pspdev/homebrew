@@ -1,0 +1,29 @@
+{
+  "name": "CubeMania",
+  "id": "cubemania",
+  "summary": "Puzzle game for PSP",
+  "author": "Sand3r",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.4",
+      "url": "https://archive.org/download/cube-mania.-7z/CubeMania.zip",
+      "published_at": "2011-05-15",
+      "size": 8134185,
+      "sha256": "7ddd6da6ec418a04ee773c3190c3e82296d3a84d3030dc2b996a12b25e81df81",
+      "eboot_md5": "f6d89c6b79e2c797b8107321979dfd4c"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/cube-mania.-7z/CUBE00869_00000.png"
+    ],
+    "icon": "icons/cubemania.png"
+  },
+  "languages": []
+}

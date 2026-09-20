@@ -1,0 +1,27 @@
+{
+  "name": "IDKWTFTPIC",
+  "id": "idkwtftpic",
+  "summary": "Puzzle game for PSP.",
+  "author": "Levone",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/idkw-00761-00000/IDKWTFTPIC.zip",
+      "published_at": "2009-05-19",
+      "size": 92698,
+      "sha256": "889734c4555ebdea22671982d1f6365915ef0b05e4b0cf6c66c3986f9794bc5d",
+      "eboot_md5": "e85d1b627ebbfaa3e713ed628a70d99c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/idkw-00761-00000/IDKW00761_00000.png"
+    ],
+    "icon": "icons/idkwtftpic.png"
+  },
+  "languages": []
+}

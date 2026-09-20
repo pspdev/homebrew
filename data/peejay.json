@@ -1,0 +1,27 @@
+{
+  "name": "PeeJay",
+  "id": "peejay",
+  "summary": "Virtual machine running Java Classes on PSP.",
+  "author": "DickyDick1969",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/pee-jay-midp-0.2.7z/PeeJayMIDP0.2.zip",
+      "published_at": "2007-05-25",
+      "size": 1900961,
+      "sha256": "0a26406030b93cd27dc0431a28e9f302d4959c490566385476fb1a90b5ed2cc9",
+      "eboot_md5": "910f76581bc0093ae5aea47d32ec392b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pee-jay-midp-0.2.7z/PEEJ01016_00001.png"
+    ],
+    "icon": "icons/peejay.png"
+  },
+  "languages": []
+}

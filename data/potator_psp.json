@@ -1,0 +1,27 @@
+{
+  "name": "Potator PSP",
+  "id": "potator_psp",
+  "summary": "Watara Supervision emulator for PSP.",
+  "author": "Akop Karapetyan, David Raingeard",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.0.6",
+      "url": "https://archive.org/download/potator-psp-akop.-7z/Potator-PSP-Akop.zip",
+      "published_at": "2019-08-01",
+      "size": 193003,
+      "sha256": "165a697dd6c871e6b50c3a789407ca705639a1ce3ba3265b3e2ec8732fcc8d11",
+      "eboot_md5": "35ad0f4c3599f3fa158c12fe919b63a8"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/potator-psp-akop.-7z/POTA01473_00001.png"
+    ],
+    "icon": "icons/potator_psp.png"
+  },
+  "languages": []
+}

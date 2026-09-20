@@ -1,0 +1,29 @@
+{
+  "name": "Frag",
+  "id": "frag",
+  "summary": "Homebrew game for PSP.",
+  "author": "Soulkiller",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.04b",
+      "url": "https://archive.org/download/frag.-7z/FRAG.zip",
+      "published_at": "2006-08-15",
+      "size": 2783983,
+      "sha256": "52f5a80f77b96f92c4059da97e6ab9735be2a85f19f05932502e8f6bace095cc",
+      "eboot_md5": "6db0cd23929daf578748d566cb4bc3ae"
+    }
+  ],
+  "tags": [
+    "NEO Summer Coding Compo 2006"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/frag.-7z/FRAG00288_00000.jpg"
+    ],
+    "icon": "icons/frag.png"
+  },
+  "languages": []
+}

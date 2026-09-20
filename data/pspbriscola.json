@@ -1,0 +1,29 @@
+{
+  "name": "PSPBriscola",
+  "id": "pspbriscola",
+  "summary": "PSP version of the Italian card game.",
+  "author": "Rinnegatamante",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.4",
+      "url": "https://archive.org/download/pspbriscola-v.-1.4-signed.-7z/PSPBriscola_v.1.4_signed.zip",
+      "published_at": "2011-05-13",
+      "size": 10744281,
+      "sha256": "fcfb869ea227423ca4090471f5bf69c05ffaf48671249199fb87d7061e0a276c",
+      "eboot_md5": "8784b6291df6cc2848b2a3234c7d13b6"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspbriscola-v.-1.4-signed.-7z/PSPB02193_00000.jpg"
+    ],
+    "icon": "icons/pspbriscola.png"
+  },
+  "languages": []
+}

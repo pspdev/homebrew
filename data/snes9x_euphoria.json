@@ -1,0 +1,29 @@
+{
+  "name": "Snes9x Euphoria",
+  "id": "snes9x_euphoria",
+  "summary": "SNES emulator for PSP.",
+  "author": "Zack",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "R5 Beta 3",
+      "url": "https://archive.org/download/snes9x_euphoria_r5beta3.7z/snes9x_euphoria_r5beta3.zip",
+      "published_at": "2011-02-11",
+      "size": 5329889,
+      "sha256": "232ea5ebe56b88f7fda94565716e7acd597b46eeca22cdb92aab6dd88372f004",
+      "eboot_md5": "0f33fa61687e62e7608b41200ce35894"
+    }
+  ],
+  "tags": [
+    "NEO Retro Coding Compo 2010"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/snes9x_euphoria_r5beta3.7z/pic_0007.png"
+    ],
+    "icon": "icons/snes9x_euphoria.png"
+  },
+  "languages": []
+}

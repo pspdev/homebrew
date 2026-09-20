@@ -1,0 +1,27 @@
+{
+  "name": "PSPLife",
+  "id": "psplife",
+  "summary": "PSP version of the Game of Life.",
+  "author": "Joris Vergeer (jojojoris)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/psplife.-7z_202104/PSPLife.zip",
+      "published_at": "2010-02-13",
+      "size": 155378,
+      "sha256": "613554265caa4e12657987d7dacea5441b91d84831d6dcbb0ba3c8fe507a91fb",
+      "eboot_md5": "da022acdef49ff7dfc9d55a9db3cb8f5"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psplife.-7z_202104/snap.png"
+    ],
+    "icon": "icons/psplife.png"
+  },
+  "languages": []
+}

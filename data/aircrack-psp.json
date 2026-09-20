@@ -1,0 +1,27 @@
+{
+  "name": "AirCrack-PSP",
+  "id": "aircrack-psp",
+  "summary": "Wi-Fi sniffer for PSP.",
+  "author": "Gaby_64",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.588013",
+      "url": "https://archive.org/download/air-crack-psp.-7z/AirCrack-PSP.zip",
+      "published_at": "2009-07-05",
+      "size": 5090138,
+      "sha256": "f36d37be617f32a0b163aef22a97a42f21f4736256cf68ed0352aee97936f9ad",
+      "eboot_md5": "5822647756fb1fbb5bfef6951b24d541"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/air-crack-psp.-7z/AIRC01056_00000.png"
+    ],
+    "icon": "icons/aircrack-psp.png"
+  },
+  "languages": []
+}

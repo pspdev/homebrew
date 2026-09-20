@@ -1,0 +1,27 @@
+{
+  "name": "PSP Spectrum",
+  "id": "psp_spectrum",
+  "summary": "Lua-based audio analyser for PSP.",
+  "author": "sam, mrn",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.01",
+      "url": "https://archive.org/download/psp.-spectrum.-7z/PSP.Spectrum.zip",
+      "published_at": "2006-03-30",
+      "size": 433598,
+      "sha256": "171142201c93ea09db42211ae4ccadf4f0dbdb31d89f082ac54d4fd643985aaf",
+      "eboot_md5": "05d2b1c9f578439a310ad2142fd9f66b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp.-spectrum.-7z/LPM300335_00000.jpg"
+    ],
+    "icon": "icons/psp_spectrum.png"
+  },
+  "languages": []
+}

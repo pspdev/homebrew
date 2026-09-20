@@ -1,0 +1,27 @@
+{
+  "name": "Tetris",
+  "id": "tetris",
+  "summary": "Homebrew version of the game.",
+  "author": "wSlava",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/psptetris_v2_0/psptetris_v2_0.zip",
+      "published_at": "2007-06-21",
+      "size": 3295520,
+      "sha256": "613371954badd28ac8665a32e0ea7cb90cc62f743e0f4dcce3e9ad02cd684115",
+      "eboot_md5": "ed467659a0f4e568fe2c430a7386ed29"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psptetris_v2_0/PSPT01412_00000.png"
+    ],
+    "icon": "icons/tetris.png"
+  },
+  "languages": []
+}

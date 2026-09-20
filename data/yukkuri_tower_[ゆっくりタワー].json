@@ -1,0 +1,27 @@
+{
+  "name": "Yukkuri Tower [\u3086\u3063\u304f\u308a\u30bf\u30ef\u30fc]",
+  "id": "yukkuri_tower_[\u3086\u3063\u304f\u308a\u30bf\u30ef\u30fc]",
+  "summary": "Touhou Project fan game for PSP.",
+  "author": "\u6771\u65b9\u3068\u304b\u3068\u304b (TOHO Etcetra)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/tower.-7z/Tower.zip",
+      "published_at": "2008-01-01",
+      "size": 3042077,
+      "sha256": "27caa384e58ee7ae6c5d9fa1ba1271e00b61134a2e9a1d4d94328d4aff0b9d58",
+      "eboot_md5": "fbf022cd89986427b30a1390ee6839cd"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/tower.-7z/20220124202755.png"
+    ],
+    "icon": "icons/yukkuri_tower_[\u3086\u3063\u304f\u308a\u30bf\u30ef\u30fc].png"
+  },
+  "languages": []
+}

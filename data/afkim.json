@@ -1,0 +1,30 @@
+{
+  "name": "AFKIM",
+  "id": "afkim",
+  "summary": "Instant messenger for PSP, supporting several once-popular apps.",
+  "author": "Dave Leaver (Danzel), Ludovic Jacomme (Zx-81)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "3.3.7",
+      "url": "https://archive.org/download/afkim.7z/afkim.zip",
+      "published_at": "2008-10-10",
+      "size": 1300895,
+      "sha256": "995a6ec1bb31b7868af0e430925cedeac5d5f099a488fe01a03751471b777401",
+      "eboot_md5": "84c9a60c23f81a9d93ee52dcfb5d348c"
+    }
+  ],
+  "tags": [
+    "NEO Spring Compo 2007",
+    "NEO Spring 2006"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/afkim.7z/20210721202103.png"
+    ],
+    "icon": "icons/afkim.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "FCEUltra for PSP \u65e5\u672c\u8a9e\u7248",
+  "id": "fceultra_for_psp_\u65e5\u672c\u8a9e\u7248",
+  "summary": "Japanese version of the NES emulator, originally ported to PSP by boootsector.",
+  "author": "takka",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.3 \u305d\u306e4",
+      "url": "https://archive.org/download/fceultra-j.-7z/FCEUltra_j_4_FPS.zip",
+      "published_at": "2011-11-23",
+      "size": 5598859,
+      "sha256": "299e42883b82460fb9c7bedf936eedecc2aef3eca8150379e4fa0fd08139ecea",
+      "eboot_md5": "9f1e7b3fc489d8c4431b0ab04613d4f4"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/fceultra-j.-7z/pic_0001.png"
+    ],
+    "icon": "icons/fceultra_for_psp_\u65e5\u672c\u8a9e\u7248.png"
+  },
+  "languages": []
+}

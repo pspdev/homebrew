@@ -1,0 +1,29 @@
+{
+  "name": "ThrottleX",
+  "id": "throttlex",
+  "summary": "3D driving game for PSP.",
+  "author": "Matthew Harris (AnonymousTipster)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.3b",
+      "url": "https://archive.org/download/throttleX03b.7z/throttleX03b.zip",
+      "published_at": "2006-08-20",
+      "size": 3460316,
+      "sha256": "b3c9e877b3f904fe98bd6027f0672ea4ed8ff99833e37ea0287ee5ce78007035",
+      "eboot_md5": "9bf9756a9d5d256da84f1886b053b87c"
+    }
+  ],
+  "tags": [
+    "NEO Summer Coding Compo 2006"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/throttleX03b.7z/pic_0006.png"
+    ],
+    "icon": "icons/throttlex.png"
+  },
+  "languages": []
+}

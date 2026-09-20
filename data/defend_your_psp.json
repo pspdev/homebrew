@@ -1,0 +1,27 @@
+{
+  "name": "Defend your PSP",
+  "id": "defend_your_psp",
+  "summary": "Homebrew game for PSP.",
+  "author": "TacticalPenguin",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/dyp.-7z/DYP.zip",
+      "published_at": "2007-01-14",
+      "size": 1216712,
+      "sha256": "ce633ef71b6763296e7d109caf617521ec07b5620f02e2b4f7ad0deb57424cca",
+      "eboot_md5": "5f4fde83590844ce3491c6ae4738b6ad"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/dyp.-7z/__SC00836_00000.jpg"
+    ],
+    "icon": "icons/defend_your_psp.png"
+  },
+  "languages": []
+}

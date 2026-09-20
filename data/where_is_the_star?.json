@@ -1,0 +1,27 @@
+{
+  "name": "Where is the star?",
+  "id": "where_is_the_star?",
+  "summary": "Homebrew game for PSP.",
+  "author": "moikop",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.6.0",
+      "url": "https://archive.org/download/wits.-7z/WITS.zip",
+      "published_at": "2010-12-15",
+      "size": 9175924,
+      "sha256": "6acea12afbe9899e440a1e5b63c02f6f889c201f2655dbcacb955bbc949b569c",
+      "eboot_md5": "db22f10bd14f1a307a6449aa027679e5"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/wits.-7z/pic_0001.png"
+    ],
+    "icon": "icons/where_is_the_star?.png"
+  },
+  "languages": []
+}

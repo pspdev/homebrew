@@ -1,0 +1,27 @@
+{
+  "name": "Defendguin",
+  "id": "defendguin",
+  "summary": "PSP adaptation of Defendguin by Bill Kendrick.",
+  "author": "Denis Televnyy (Deniska)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.0.10",
+      "url": "https://archive.org/download/defendguin.-7z/DEFENDGUIN.zip",
+      "published_at": "2006-01-04",
+      "size": 3138908,
+      "sha256": "c5d2cbd1fe34eeb5c3daa5e04c323228f3763f3be570c5783a4e9dd9e69cdb97",
+      "eboot_md5": "7bd65cf742b66bf1aa1946a65519089e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/defendguin.-7z/EBOO00649_00000.png"
+    ],
+    "icon": "icons/defendguin.png"
+  },
+  "languages": []
+}

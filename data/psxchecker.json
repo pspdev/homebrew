@@ -1,0 +1,27 @@
+{
+  "name": "PSXChecker",
+  "id": "psxchecker",
+  "summary": "Test utility for PSP.",
+  "author": "Xager",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/psxchecker_1.0.7z/psxchecker_1.0.zip",
+      "published_at": "2009-01-17",
+      "size": 376076,
+      "sha256": "b2827c36c64e8462a97c8b74fab0427165de7d88a0e3fab1c3150cfffd08e8b0",
+      "eboot_md5": "5ffa7bfb29908405c9cafb78cdc82909"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psxchecker_1.0.7z/PSXC00752_00000.jpg"
+    ],
+    "icon": "icons/psxchecker.png"
+  },
+  "languages": []
+}

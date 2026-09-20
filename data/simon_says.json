@@ -1,0 +1,29 @@
+{
+  "name": "Simon Says",
+  "id": "simon_says",
+  "summary": "Button-pressing game.",
+  "author": "Wouter Wijsman (sharkwouter)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.3",
+      "url": "https://archive.org/download/simonsaysv11.7z/simonsays-1.3.zip",
+      "published_at": "2019-08-13",
+      "size": 877446,
+      "sha256": "68d28b8d695b952738324a6b805882443532e20db1ec19f2388a2458c7eb39e3",
+      "eboot_md5": "a6d7d8d8e360088d4ddca6937f1769da"
+    }
+  ],
+  "tags": [
+    "NEO Retro Coding Compo 2010"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/simonsaysv11.7z/SIMO01214_00000.jpg"
+    ],
+    "icon": "icons/simon_says.png"
+  },
+  "languages": []
+}

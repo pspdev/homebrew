@@ -1,0 +1,27 @@
+{
+  "name": "Tormentor",
+  "id": "tormentor",
+  "summary": "Homebrew game for PSP.",
+  "author": "Hooger",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/tormentor.-7z/TormentorV2.0.zip",
+      "published_at": "2006-03-19",
+      "size": 2267297,
+      "sha256": "b4704cda82b934ab05dafaff1386da2d211ffa27aae58072f694ad9ebd64eded",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/tormentor.-7z/LPM300335_00000.jpg"
+    ],
+    "icon": "icons/tormentor.png"
+  },
+  "languages": []
+}

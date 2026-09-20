@@ -1,0 +1,27 @@
+{
+  "name": "Hustlaz Shell",
+  "id": "hustlaz_shell",
+  "summary": "Homebrew app for PSP.",
+  "author": "2.6CRACKED!, Rikardo_92, PSP-KID",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.4",
+      "url": "https://archive.org/download/hustlaz-shell.-7z/HustlazShell.zip",
+      "published_at": "2007-01-20",
+      "size": 1627452,
+      "sha256": "46ec86b2af3979a5610331fa25c44dccb7749a6ee3604a218b94e5c4350c93d0",
+      "eboot_md5": "a199d877fc6e4c43813387d62b5ca0b8"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/hustlaz-shell.-7z/20210627171913.png"
+    ],
+    "icon": "icons/hustlaz_shell.png"
+  },
+  "languages": []
+}

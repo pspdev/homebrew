@@ -1,0 +1,27 @@
+{
+  "name": "Mille Bornes",
+  "id": "mille_bornes",
+  "summary": "Card game for PSP.",
+  "author": "Yoshi Noir (240-185)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.99",
+      "url": "https://archive.org/download/milborn.7z/milborn.zip",
+      "published_at": "2008-01-01",
+      "size": 2622312,
+      "sha256": "b0cc82626a8eb79f02683591234a7c7fa8f4be3d08b7642e40c0c83d95dd0780",
+      "eboot_md5": "030d7dc459bd68c5024102aed9ac597a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/milborn.7z/MILB00755_00001.png"
+    ],
+    "icon": "icons/mille_bornes.png"
+  },
+  "languages": []
+}

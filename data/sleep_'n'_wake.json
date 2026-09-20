@@ -1,0 +1,30 @@
+{
+  "name": "Sleep 'n' Wake",
+  "id": "sleep_'n'_wake",
+  "summary": "Alarm app for PSP.",
+  "author": "MK2k",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.99b",
+      "url": "https://archive.org/download/sleep_n_wake_psp_1.99b_multi_8mk2k.7z/sleep_n_wake_psp_1.99b_multi_8mk2k.zip",
+      "published_at": "2008-07-01",
+      "size": 722289,
+      "sha256": "d150ac865fcea7bd5b87df71934ae9530e6bb4a717c33cc8af02d6faf4e710a4",
+      "eboot_md5": "010efbc1e2e395cf7617d2d39708a5f9"
+    }
+  ],
+  "tags": [
+    "PSP-Hacks Homebrew Competition (2007)",
+    "PSPSource Summer Coding Compo 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/sleep_n_wake_psp_1.99b_multi_8mk2k.7z/SLEE03271_00000.jpg"
+    ],
+    "icon": "icons/sleep_'n'_wake.png"
+  },
+  "languages": []
+}

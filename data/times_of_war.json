@@ -1,0 +1,30 @@
+{
+  "name": "Times of War",
+  "id": "times_of_war",
+  "summary": "Homebrew game for PSP.",
+  "author": "Madcupid, Dead Angel, RichardV",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "4.0",
+      "url": "https://archive.org/download/times-of-war.-7z/TOWv40CFMultilang.zip",
+      "published_at": "2007-08-21",
+      "size": 32913928,
+      "sha256": "9ac73fafca62a42ee64ed363aef8eee3c038a45ed4c0a09e6e446a3faa520097",
+      "eboot_md5": "3a40f7827b804ea9c55bcc65f848594f"
+    }
+  ],
+  "tags": [
+    "GBAX 2007 Coding Competition",
+    "NEO Summer Coding Compo 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/times-of-war.-7z/TIME00993_00002.jpg"
+    ],
+    "icon": "icons/times_of_war.png"
+  },
+  "languages": []
+}

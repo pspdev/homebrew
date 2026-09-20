@@ -1,0 +1,27 @@
+{
+  "name": "VMINES",
+  "id": "vmines",
+  "summary": "Minesweeper for PSP.",
+  "author": "Vicente Jim\u00e9nez (Vic20)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/vmines.-7z/VMines.zip",
+      "published_at": "2010-03-25",
+      "size": 3309434,
+      "sha256": "753cb8861da98272885f340116436ce15244c142757c479bfc5bb5a0a4325745",
+      "eboot_md5": "df51176d0f6419ad164cb8ee191887ce"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/vmines.-7z/VMIN00594_00000.jpg"
+    ],
+    "icon": "icons/vmines.png"
+  },
+  "languages": []
+}

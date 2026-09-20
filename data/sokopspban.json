@@ -1,0 +1,27 @@
+{
+  "name": "SokoPSPBan",
+  "id": "sokopspban",
+  "summary": "Puzzle game.",
+  "author": "Wuepe",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.5",
+      "url": "https://archive.org/download/soko-psp-banv-0.3.7z/SokoPSPBan.zip",
+      "published_at": "2008-01-01",
+      "size": 595791,
+      "sha256": "faebd2b1e2adc2850b65fb6d0444c95ca7cd706224a0599ae65856b05b6072d0",
+      "eboot_md5": "56ae1a3cbd51733295edc964257a2071"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/soko-psp-banv-0.3.7z/SOKO01255_00000.jpg"
+    ],
+    "icon": "icons/sokopspban.png"
+  },
+  "languages": []
+}

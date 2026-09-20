@@ -1,0 +1,27 @@
+{
+  "name": "Powder",
+  "id": "powder",
+  "summary": "PSP port of the GameBoy Advance homebrew roguelike game by Jeff Lait.",
+  "author": "Marvin Sanchez",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "117",
+      "url": "https://archive.org/download/powder104_psp.7z/powder117_psp.zip",
+      "published_at": "2017-01-01",
+      "size": 1124611,
+      "sha256": "70c0178f3a99554c1bd2406d193e0317ea12eb81375e8bf841ee1c100eb9e2b6",
+      "eboot_md5": "ba8f5b1b34ba03440c7818c2610ffaab"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/powder104_psp.7z/POWD01244_00001.png"
+    ],
+    "icon": "icons/powder.png"
+  },
+  "languages": []
+}

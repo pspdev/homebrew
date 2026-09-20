@@ -1,0 +1,27 @@
+{
+  "name": "VICE PSP",
+  "id": "vice_psp",
+  "summary": "Fork of the Commodore 64 emulator originally ported to PSP by Akop Karapetyan.",
+  "author": "DelayedQuasar, rsn8887",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "3.2.5",
+      "url": "https://archive.org/download/pspvice_3.2.5/pspvice_3.2.5.zip",
+      "published_at": "2019-12-09",
+      "size": 1278685,
+      "sha256": "d3aa270defd7c1223ac1a658b33e8a38e65cf8774b574ff61b5b85551fd346d3",
+      "eboot_md5": "4a7627f2f6aebc8d61e41d5625859676"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspvice_3.2.5/PSPV01103_00000.png"
+    ],
+    "icon": "icons/vice_psp.png"
+  },
+  "languages": []
+}

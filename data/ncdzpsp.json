@@ -1,0 +1,27 @@
+{
+  "name": "NCDZPSP",
+  "id": "ncdzpsp",
+  "summary": "NeoGeo CDZ emulator for PSP. Versions 2.3.1 and 2.2.5 were released at the same time. 2.3.1 is the development build, 2.2.5 the stable one.",
+  "author": "NJ",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "2.3.1",
+      "url": "https://archive.org/download/ncdzpsp-2.3.5.7z/ncdzpsp_2.3.1_3.xx_user.zip",
+      "published_at": "2007-10-28",
+      "size": 1028145,
+      "sha256": "fa6aa5cce59b21a7a0ae4fd97a5832185f701cf8c12b813364af892d80e70e57",
+      "eboot_md5": "e27a500a51d6d123d35179560f41300b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ncdzpsp-2.3.5.7z/NCDZ02086_00000.png"
+    ],
+    "icon": "icons/ncdzpsp.png"
+  },
+  "languages": []
+}

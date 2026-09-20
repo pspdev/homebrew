@@ -1,0 +1,27 @@
+{
+  "name": "Zelda No Sokoban",
+  "id": "zelda_no_sokoban",
+  "summary": "Homebrew game for PSP.",
+  "author": "rabzaman, tybu",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1 Demo",
+      "url": "https://archive.org/download/ultra_beta_ZNS.7z/ultra_beta_ZNS.zip",
+      "published_at": "2006-01-01",
+      "size": 4926402,
+      "sha256": "a2a40842c9430fe654a4bb2c1b8a464e1f5133dde12999b70722c8d44e617271",
+      "eboot_md5": "1b11980c1e167291c50c072aaf31ea78"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ultra_beta_ZNS.7z/20210620133108.png"
+    ],
+    "icon": "icons/zelda_no_sokoban.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "PSP XnO",
+  "id": "psp_xno",
+  "summary": "Naughts and crosses game.",
+  "author": "Kwastie, Feddemaster",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/pspxn-o.-7z/PSPXnO.zip",
+      "published_at": "2007-10-24",
+      "size": 226328,
+      "sha256": "d8a5df7487647248cdc6f2c222e17695fd92da7681890220b5d96290390d697e",
+      "eboot_md5": "35dec2c7cddd46537af05a16affcf4fd"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspxn-o.-7z/PSPX00520_00000.jpg"
+    ],
+    "icon": "icons/psp_xno.png"
+  },
+  "languages": []
+}

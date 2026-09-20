@@ -1,0 +1,27 @@
+{
+  "name": "gPlot++",
+  "id": "gplot++",
+  "summary": "Graphic calculator for PSP.",
+  "author": "Cl\u00e9ment Gu\u00e9rin (Geecko)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/gplot.7z/gPlot++.zip",
+      "published_at": "2012-01-01",
+      "size": 5721678,
+      "sha256": "434976def7cb7d1de9f6624dc5f9bd0082046852ac1d997e45efb106311e7f25",
+      "eboot_md5": "eff317ab10ccd3701ecb26f205024fa7"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/gplot.7z/20210627155123.png"
+    ],
+    "icon": "icons/gplot++.png"
+  },
+  "languages": []
+}

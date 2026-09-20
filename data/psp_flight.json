@@ -1,0 +1,27 @@
+{
+  "name": "PSP Flight",
+  "id": "psp_flight",
+  "summary": "Simulates flight - as a passenger. April Fools release.",
+  "author": "Ludovic Jacomme (Zx-81)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0.0",
+      "url": "https://archive.org/download/pspflight-v1.0.0.7z/pspflight-v1.0.0.zip",
+      "published_at": "2009-04-01",
+      "size": 1849045,
+      "sha256": "be8a7debd86b73d928c776f50eac6d411c50832feb88528fb78db9f27ff08b57",
+      "eboot_md5": "4e49e879bf4650f62cd53946ba491472"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspflight-v1.0.0.7z/PSPF01377_00000.png"
+    ],
+    "icon": "icons/psp_flight.png"
+  },
+  "languages": []
+}

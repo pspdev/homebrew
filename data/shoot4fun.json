@@ -1,0 +1,29 @@
+{
+  "name": "Shoot4Fun",
+  "id": "shoot4fun",
+  "summary": "Homebrew game for PSP.",
+  "author": "Gambiting",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Final",
+      "url": "https://archive.org/download/shoot4fun.7z/shoot4fun.zip",
+      "published_at": "2007-01-01",
+      "size": 561259,
+      "sha256": "dca4a5429bac40a168ea0a877430048789576fd00583e547a2b20738cd16da61",
+      "eboot_md5": "0cff37bc796812c5156c3509dcd95039"
+    }
+  ],
+  "tags": [
+    "NEO Summer Coding Compo 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/shoot4fun.7z/SHOO00938_00000.jpg"
+    ],
+    "icon": "icons/shoot4fun.png"
+  },
+  "languages": []
+}

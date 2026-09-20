@@ -1,0 +1,27 @@
+{
+  "name": "iPSPod",
+  "id": "ipspod",
+  "summary": "Homebrew app for PSP.",
+  "author": "Moikop, Hhuanag",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.5",
+      "url": "https://archive.org/download/iPSPod.7z/iPSPod.zip",
+      "published_at": "2010-01-01",
+      "size": 2427584,
+      "sha256": "5e6613fa0eb2336bcf06d358bfc0b58020185588c2ea440d6565a6834202841f",
+      "eboot_md5": "eee3db6dc219c4a73997f5f173216310"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/iPSPod.7z/IPSP00559_00000.png"
+    ],
+    "icon": "icons/ipspod.png"
+  },
+  "languages": []
+}

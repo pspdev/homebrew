@@ -1,0 +1,29 @@
+{
+  "name": "Spacelua",
+  "id": "spacelua",
+  "summary": "Homebrew game for PSP.",
+  "author": "Taz666",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/taz666sspaceluav10.7z/taz666sspaceluav10.zip",
+      "published_at": "2006-11-27",
+      "size": 3572619,
+      "sha256": "42d1c8faccb22ac9954df50381f9923afc4237f5ffa4add38809042446f7f2a7",
+      "eboot_md5": "8a55cf2b07d80177744e14c599d27385"
+    }
+  ],
+  "tags": [
+    "XtreamLua/Gx-mod Lua contest (2006)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/taz666sspaceluav10.7z/LUAP01292_00001.png"
+    ],
+    "icon": "icons/spacelua.png"
+  },
+  "languages": []
+}

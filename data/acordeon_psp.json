@@ -1,0 +1,27 @@
+{
+  "name": "Acordeon PSP",
+  "id": "acordeon_psp",
+  "summary": "Accordion simulator for PSP.",
+  "author": "MABZ",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/acordeon-psp.-7z/AcordeonPSP.zip",
+      "published_at": "2011-01-01",
+      "size": 4814832,
+      "sha256": "22a8c865f74342e9c2e9dd83036b80f7cc7f8bf3ce5a6b6d7ec37226b688a76a",
+      "eboot_md5": "e11dc0d9aa73fc0ee68cfa6c9f9cb995"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/acordeon-psp.-7z/ACOR01054_00000.jpg"
+    ],
+    "icon": "icons/acordeon_psp.png"
+  },
+  "languages": []
+}

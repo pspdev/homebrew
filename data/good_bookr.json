@@ -1,0 +1,29 @@
+{
+  "name": "Good Bookr",
+  "id": "good_bookr",
+  "summary": "Bible reader for PSP.",
+  "author": "phosphorous",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.2.1",
+      "url": "https://archive.org/download/goodbookr.7z/goodbookr-1.2.1.zip",
+      "published_at": "2012-01-01",
+      "size": 7712364,
+      "sha256": "9785b6d10cd135441caa65a57d4b1950a127b18bb3ea1a3f01f27c22816fe762",
+      "eboot_md5": "7359af903ebd4c887230610e43b51022"
+    }
+  ],
+  "tags": [
+    "NEO 2008 Summer Compo"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/goodbookr.7z/GOOD00966_00000.jpg"
+    ],
+    "icon": "icons/good_bookr.png"
+  },
+  "languages": []
+}

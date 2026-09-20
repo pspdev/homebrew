@@ -1,0 +1,27 @@
+{
+  "name": "Wizznic",
+  "id": "wizznic",
+  "summary": "Homebrew game for PSP.",
+  "author": "Jimmy Christensen",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.9.1",
+      "url": "https://archive.org/download/wizznic-0.9.1-psp.-7z/Wizznic-0.9.1-psp.zip",
+      "published_at": "2010-12-09",
+      "size": 40419055,
+      "sha256": "7498d2cfb1149387b0f4df54f49de9eb6073166a27c07f041026777151e36f67",
+      "eboot_md5": "e48ce16240aacddc0babad183c066bf6"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/wizznic-0.9.1-psp.-7z/WIZZ01425_00000.jpg"
+    ],
+    "icon": "icons/wizznic.png"
+  },
+  "languages": []
+}

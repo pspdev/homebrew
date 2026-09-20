@@ -1,0 +1,29 @@
+{
+  "name": "SMS Plus PSP Adhoc",
+  "id": "sms_plus_psp_adhoc",
+  "summary": "Version of the Sega Master System and Game Gear emulator with experimental ad-hoc support.",
+  "author": "Akop Karapetyan",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.2.5adhoc",
+      "url": "https://archive.org/download/smsplusadhoc.7z/smsplusadhoc.zip",
+      "published_at": "2008-11-13",
+      "size": 250132,
+      "sha256": "5b4afe85385b93d74e410d1d4eace192fe56d92ef5feaa8ef85678d06563e451",
+      "eboot_md5": "2d54e40d68bb3bf4efe0e4d31bef2ecd"
+    }
+  ],
+  "tags": [
+    "ad-hoc support"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/smsplusadhoc.7z/SMSP01302_00000.jpg"
+    ],
+    "icon": "icons/sms_plus_psp_adhoc.png"
+  },
+  "languages": []
+}

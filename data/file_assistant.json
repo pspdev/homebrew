@@ -1,0 +1,27 @@
+{
+  "name": "File Assistant",
+  "id": "file_assistant",
+  "summary": "File manager for PSP.",
+  "author": "linjr",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.04",
+      "url": "https://archive.org/download/file-assistant-004.7z/FileAssistant004.zip",
+      "published_at": "2005-07-13",
+      "size": 1740115,
+      "sha256": "581fae8694bb6962e4bf40f02a5bad74c3226fc51092962fb9a0714961c1e3bb",
+      "eboot_md5": "758b267ac303f52816fa6190e92c9774"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/file-assistant-004.7z/FILE01486_00002.jpg"
+    ],
+    "icon": "icons/file_assistant.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Kitty Book Portable",
+  "id": "kitty_book_portable",
+  "summary": "Text reader for PSP.",
+  "author": "Chris J.",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/kitty-book-portable.-7z/KittyBookPortable.zip",
+      "published_at": "2005-10-05",
+      "size": 2376795,
+      "sha256": "7306316d0107c98df59c9c5c3892f97fe1a11e658f6cba831c5fa1a4d6260d8e",
+      "eboot_md5": "a8bd8de49c2daf0e8c3cf2e3905fcd6e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/kitty-book-portable.-7z/EBOO00649_00000.jpg"
+    ],
+    "icon": "icons/kitty_book_portable.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "PSP E-mail Client",
+  "id": "psp_e-mail_client",
+  "summary": "Homebrew app for PSP.",
+  "author": "Cafe Hobbit",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "001",
+      "url": "https://archive.org/download/mailclient/mailclient.zip",
+      "published_at": "2005-11-05",
+      "size": 274287,
+      "sha256": "b7f644c4db3e739cbce523c523e33f9ca4e28a9e407171b424b7ef4f65cfd2e7",
+      "eboot_md5": "aeb9e2b781fe0975f6cfd6948e8678d4"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mailclient/MAIL01058_00000.png"
+    ],
+    "icon": "icons/psp_e-mail_client.png"
+  },
+  "languages": []
+}

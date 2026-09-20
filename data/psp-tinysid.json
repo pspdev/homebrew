@@ -1,0 +1,27 @@
+{
+  "name": "PSP-TinySID",
+  "id": "psp-tinysid",
+  "summary": "SID-file player for PSP.",
+  "author": "Rainer Sinsch",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.03",
+      "url": "https://archive.org/download/psptinysid01.7z/psptinysid03.zip",
+      "published_at": "2006-12-31",
+      "size": 1784406,
+      "sha256": "c1067323cc1a8170b2b3633711c415fb4bd81fbe84ceb4bdc0c3e668999b1c88",
+      "eboot_md5": "1614ab52492ab6009ea9893125ab4a45"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psptinysid01.7z/PSPT01210_00001.png"
+    ],
+    "icon": "icons/psp-tinysid.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Ukke",
+  "id": "ukke",
+  "summary": "Homebrew puzzle game for PSP.",
+  "author": "Realtech VR",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/ukke_11.7z/ukke_11.zip",
+      "published_at": "2007-12-30",
+      "size": 7295781,
+      "sha256": "4b05c3d2d7da138ddb6792ba843129e265120300a19691c66d1403e0c39f3da7",
+      "eboot_md5": "ea1556007afe66e7f75b5448cb54d678"
+    }
+  ],
+  "tags": [
+    "Gx-mod/XtreamLua 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ukke_11.7z/UKKE00625_00001.png"
+    ],
+    "icon": "icons/ukke.png"
+  },
+  "languages": []
+}

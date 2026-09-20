@@ -1,0 +1,27 @@
+{
+  "name": "Mr Driller PSP",
+  "id": "mr_driller_psp",
+  "summary": "PSP version of the game.",
+  "author": "Wally",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/drill-psp.-7z/DrillPSP.zip",
+      "published_at": "2007-01-01",
+      "size": 895062,
+      "sha256": "bc509d38af3c206de40f4ae66b96b569d6df011bad92227f1e5fdf4f163e4d34",
+      "eboot_md5": "8eb824680c19243fa545ea68aace4e8e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/drill-psp.-7z/DRIL00746_00000.jpg"
+    ],
+    "icon": "icons/mr_driller_psp.png"
+  },
+  "languages": []
+}

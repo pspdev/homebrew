@@ -1,0 +1,29 @@
+{
+  "name": "Space Evader",
+  "id": "space_evader",
+  "summary": "Avoid touching the walls.",
+  "author": "Lkiz, Albandu51, Psp-slym",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/space-evader-v-1.0.7z/SpaceEvaderV1.0.zip",
+      "published_at": "2009-01-15",
+      "size": 5544419,
+      "sha256": "5cca1078fb265d9a239681f20193938683aa956a2b5ddaae7f65fc65ab6d49f5",
+      "eboot_md5": "b751919c23051ee12b0b0e1b5eb991a2"
+    }
+  ],
+  "tags": [
+    "1000$ pour la sc\u00e8ne (2008/2009)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/space-evader-v-1.0.7z/SPAC01320_00000.jpg"
+    ],
+    "icon": "icons/space_evader.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Catch Those Bubbles",
+  "id": "catch_those_bubbles",
+  "summary": "Homebrew game for PSP.",
+  "author": "DrynnIX",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/ctb-0.2.7z/CTB!0.2.zip",
+      "published_at": "2007-09-24",
+      "size": 814520,
+      "sha256": "2e569b392deb5c27484825c9a46f283975d531ddef317608f6c9d7b1fd182a58",
+      "eboot_md5": "05d2b1c9f578439a310ad2142fd9f66b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ctb-0.2.7z/LPM300335_00000.jpg"
+    ],
+    "icon": "icons/catch_those_bubbles.png"
+  },
+  "languages": []
+}

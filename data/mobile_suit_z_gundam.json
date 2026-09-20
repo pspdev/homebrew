@@ -1,0 +1,29 @@
+{
+  "name": "Mobile Suit Z Gundam",
+  "id": "mobile_suit_z_gundam",
+  "summary": "OpenBOR mod for PSP.",
+  "author": "Nick Pizanias",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Demo",
+      "url": "https://archive.org/download/mobile-suit-zgundam-open-bor-demo.-7z/Mobile_Suit_ZGundam_OpenBOR_demo.zip",
+      "published_at": "2010-07-30",
+      "size": 22341461,
+      "sha256": "879e725b200db18eb172368f06914a19eea49cd62a4002788cb9d479757527e5",
+      "eboot_md5": "6b295f926f465c27c2aedae9e331cd91"
+    }
+  ],
+  "tags": [
+    "OpenBOR"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mobile-suit-zgundam-open-bor-demo.-7z/MOBI03145_00005.png"
+    ],
+    "icon": "icons/mobile_suit_z_gundam.png"
+  },
+  "languages": []
+}

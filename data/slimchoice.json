@@ -1,0 +1,27 @@
+{
+  "name": "slimChoice",
+  "id": "slimchoice",
+  "summary": "UI shell for PSP.",
+  "author": "XArt Software & Designs",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0.4",
+      "url": "https://archive.org/download/slimChoice.7z/slim.zip",
+      "published_at": "2007-10-02",
+      "size": 1964175,
+      "sha256": "13b806557de4885901a6b66ab166a26782d85db1a4fb7035e3abcdf1ace74f4d",
+      "eboot_md5": "746e73240cb921e16aa1148d77bd83ce"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/slimChoice.7z/SLIM01296_00000.jpg"
+    ],
+    "icon": "icons/slimchoice.png"
+  },
+  "languages": []
+}

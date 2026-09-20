@@ -1,0 +1,29 @@
+{
+  "name": "Setgool",
+  "id": "setgool",
+  "summary": "Homebrew game for PSP.",
+  "author": "Pirata Nervo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "3.0",
+      "url": "https://archive.org/download/setgoolv-30-cfingles.-7z/Setgoolv3.0.zip",
+      "published_at": "2007-05-12",
+      "size": 7817560,
+      "sha256": "cae293b7d20ce74400f6424a4bd5ee46b6a6f817df73f0de4990c94dccce89be",
+      "eboot_md5": "ab74694062d48c3b699129f54165e81d"
+    }
+  ],
+  "tags": [
+    "PSP-Hacks Homebrew Competition (2007)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/setgoolv-30-cfingles.-7z/snap.png"
+    ],
+    "icon": "icons/setgool.png"
+  },
+  "languages": []
+}

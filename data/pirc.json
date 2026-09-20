@@ -1,0 +1,27 @@
+{
+  "name": "pIRC",
+  "id": "pirc",
+  "summary": "IRC client for PSP.",
+  "author": "Psilocybeing, Blah^__^",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.5d",
+      "url": "https://archive.org/download/pirc.-7z/PIRC.zip",
+      "published_at": "2005-11-28",
+      "size": 326506,
+      "sha256": "6fcc83f3df61b794062f6634548ccc3964cdd9f548179a4b81f57ba8f4670dae",
+      "eboot_md5": "48fcd8f0452309c400489cbbcbda07ac"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pirc.-7z/PIRC00302_00000.jpg"
+    ],
+    "icon": "icons/pirc.png"
+  },
+  "languages": []
+}

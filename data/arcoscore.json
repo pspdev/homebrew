@@ -1,0 +1,27 @@
+{
+  "name": "ArcoScore",
+  "id": "arcoscore",
+  "summary": "Homebrew game for PSP.",
+  "author": "xXgRaFtSXx",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/arco-score-v-2.0.7z/ArcoScoreV2.0.zip",
+      "published_at": "2009-11-08",
+      "size": 1470578,
+      "sha256": "441f4a79ac3f4cf358a54336716b5ae767c906c5c4f07ac69ee1b700be9dc006",
+      "eboot_md5": "5b6daa975d21212553f9ba3753a44cd7"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/arco-score-v-2.0.7z/ARCO01127_00000.jpg"
+    ],
+    "icon": "icons/arcoscore.png"
+  },
+  "languages": []
+}

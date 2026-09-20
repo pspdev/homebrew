@@ -1,0 +1,27 @@
+{
+  "name": "Star Warsgic",
+  "id": "star_warsgic",
+  "summary": "Star Wars mod of the Wagic card game.",
+  "author": "Wololo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.9.3",
+      "url": "https://archive.org/download/star-warsgic-093.7z/StarWarsgic093.zip",
+      "published_at": "2009-11-10",
+      "size": 10877695,
+      "sha256": "23f6e321326b16644b07ab574732e39442aa6cf6ed0f99ce923eb07059bd14ed",
+      "eboot_md5": "a8749adb8580bb26d066c542ec540458"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/star-warsgic-093.7z/STAR01286_00004.jpg"
+    ],
+    "icon": "icons/star_warsgic.png"
+  },
+  "languages": []
+}

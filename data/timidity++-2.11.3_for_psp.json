@@ -1,0 +1,27 @@
+{
+  "name": "TiMidity++-2.11.3 for PSP",
+  "id": "timidity++-2.11.3_for_psp",
+  "summary": "Midi player for PSP.",
+  "author": "Machiyuta",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "23",
+      "url": "https://archive.org/download/timidity.7z/timidity.zip",
+      "published_at": "2005-11-05",
+      "size": 7819496,
+      "sha256": "e6f8f30f98c10cb3cb9ff1c896cd41a544f0ef761fbfcbf101da4120c4773536",
+      "eboot_md5": "5cd80588fdcbd9808859032178e9339b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/timidity.7z/20210614220954.png"
+    ],
+    "icon": "icons/timidity++-2.11.3_for_psp.png"
+  },
+  "languages": []
+}

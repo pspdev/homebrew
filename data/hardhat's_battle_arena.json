@@ -1,0 +1,29 @@
+{
+  "name": "HardHat's Battle Arena",
+  "id": "hardhat's_battle_arena",
+  "summary": "Homebrew RPG for PSP.",
+  "author": "Team Sushi",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.61",
+      "url": "https://archive.org/download/9battlearena-050.7z_202012/battlearena-061.zip",
+      "published_at": "2009-06-19",
+      "size": 10270131,
+      "sha256": "ef8327de29c600c4ece26fef38555565d253601fd86c1f72d506e7cc1e3c9b01",
+      "eboot_md5": "822c241a4fdd4d5f044ff6499bf025f3"
+    }
+  ],
+  "tags": [
+    "Homebrew Idol 2 (2009)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/9battlearena-050.7z_202012/20210808124023.png"
+    ],
+    "icon": "icons/hardhat's_battle_arena.png"
+  },
+  "languages": []
+}

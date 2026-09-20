@@ -1,0 +1,27 @@
+{
+  "name": "Text 2 Draw",
+  "id": "text_2_draw",
+  "summary": "Text drawing app for PSP.",
+  "author": "J3r3mie",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/text-00966-00000/Text2Draw01.zip",
+      "published_at": "2008-10-09",
+      "size": 44235,
+      "sha256": "5f23662ce961507a26a42988a096f71dc51963268d1eb3323147748cdffb2ed7",
+      "eboot_md5": "137b3d9a608f99ef74f2fcf6d8e6d109"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/text-00966-00000/TEXT01030_00001.png"
+    ],
+    "icon": "icons/text_2_draw.png"
+  },
+  "languages": []
+}

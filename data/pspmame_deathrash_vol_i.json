@@ -1,0 +1,27 @@
+{
+  "name": "pspMame Deathrash Vol I",
+  "id": "pspmame_deathrash_vol_i",
+  "summary": "Version of the MAME emulator for PSP. A list of \"supported\" games is available here .",
+  "author": "Repuken2",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "R2",
+      "url": "https://archive.org/download/psp-mame-deathrash.-7z/pspMame-Deathrash-vol1-RC2.zip",
+      "published_at": "2010-12-12",
+      "size": 2026073,
+      "sha256": "b7930184ed98bc02ba62175ae72c3bc179b6a33c70fa07e085c48732830ab4ea",
+      "eboot_md5": "f75910c5ce0f865588683ae34f5714d1"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-mame-deathrash.-7z/VOL100630_00000.jpg"
+    ],
+    "icon": "icons/pspmame_deathrash_vol_i.png"
+  },
+  "languages": []
+}

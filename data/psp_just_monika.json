@@ -1,0 +1,29 @@
+{
+  "name": "PSP Just Monika",
+  "id": "psp_just_monika",
+  "summary": "PSP port of Monika-AfterStory mod.",
+  "author": "Nathan Bourgeois (IridescentRose)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/psp-just-monika-slim.-7z/PSP-Just-Monika-SLIM.zip",
+      "published_at": "2020-10-05",
+      "size": 40329491,
+      "sha256": "d2d68ca2e1abcce23a69b49dc2d8244bfcebb7d248df80db4dbb01ccdddc39b0",
+      "eboot_md5": "03c4d7efbfc694aa208a4bd7066f29ca"
+    }
+  ],
+  "tags": [
+    "visual novel"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-just-monika-slim.-7z/PSP-01362_00000.jpg"
+    ],
+    "icon": "icons/psp_just_monika.png"
+  },
+  "languages": []
+}

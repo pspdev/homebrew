@@ -1,0 +1,27 @@
+{
+  "name": "OpenTTD PSP",
+  "id": "openttd_psp",
+  "summary": "PSP port of the open-source recreation of Transport Tycoon Deluxe. The demo version of the original game is included.",
+  "author": "Jaime Pe\u00f1alba (jpenalbae)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.5.3",
+      "url": "https://archive.org/download/ottd.7z/ottd.zip",
+      "published_at": "2008-01-17",
+      "size": 22317830,
+      "sha256": "f132144e30c0ac6eeed04b6896f711665f3d24a7119b17b7ad445d2f54f3b918",
+      "eboot_md5": "ebfa99e7bb4448ceffc665166e1d0f76"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ottd.7z/OTTD00443_00000.jpg"
+    ],
+    "icon": "icons/openttd_psp.png"
+  },
+  "languages": []
+}

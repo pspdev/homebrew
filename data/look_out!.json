@@ -1,0 +1,29 @@
+{
+  "name": "Look Out!",
+  "id": "look_out!",
+  "summary": "Dodging game for PSP.",
+  "author": "iLua Team",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.7",
+      "url": "https://archive.org/download/look-out-neo-flash.-7z/LookOutNeoFlash.zip",
+      "published_at": "2008-01-01",
+      "size": 2339131,
+      "sha256": "98909ab4d8f2276a80cbaed608973abb263b52c2d53aa13c2b526d070da704e0",
+      "eboot_md5": "5b40868eb991e74e8803612156a77ec4"
+    }
+  ],
+  "tags": [
+    "NEO Spring Coding Compo 2008"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/look-out-neo-flash.-7z/LOOK01501_00000.jpg"
+    ],
+    "icon": "icons/look_out!.png"
+  },
+  "languages": []
+}

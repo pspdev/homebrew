@@ -1,0 +1,27 @@
+{
+  "name": "PSPSokoban",
+  "id": "pspsokoban",
+  "summary": "Sokoban for PSP.",
+  "author": "Nino",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/pspsokoban-1.0.7z/pspsokoban-1.0.zip",
+      "published_at": "2006-02-20",
+      "size": 122616,
+      "sha256": "9292c904ea1134911ccbbdf11037afd3db52f6618d8c20feda343f89a6895f4f",
+      "eboot_md5": "10652192d0418f10288122f3d27bdf86"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspsokoban-1.0.7z/PSPS01276_00000.jpg"
+    ],
+    "icon": "icons/pspsokoban.png"
+  },
+  "languages": []
+}

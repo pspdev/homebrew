@@ -1,0 +1,27 @@
+{
+  "name": "Treasure Hunt",
+  "id": "treasure_hunt",
+  "summary": "Homebrew game for PSP.",
+  "author": "Zach Meston",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/thunt.7z/thunt.zip",
+      "published_at": "2005-08-15",
+      "size": 1559108,
+      "sha256": "c47d8646c0432ce2ad7b666018d178771202452e7b607e2a402b4e6f27b3c8d6",
+      "eboot_md5": "c0950cdbda507a47757c990ea7a38e25"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/thunt.7z/THUN00563_00000.jpg"
+    ],
+    "icon": "icons/treasure_hunt.png"
+  },
+  "languages": []
+}

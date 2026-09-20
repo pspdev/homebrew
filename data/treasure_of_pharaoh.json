@@ -1,0 +1,27 @@
+{
+  "name": "Treasure of Pharaoh",
+  "id": "treasure_of_pharaoh",
+  "summary": "Homebrew game for PSP.",
+  "author": "snowymydog",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0 Final",
+      "url": "https://archive.org/download/treasureof-pharaoh-150v-10-final.-7z/TreasureofPharaoh150v10Final.zip",
+      "published_at": "2007-01-09",
+      "size": 3182151,
+      "sha256": "fc0290131f1cd3aaafe190532743e8bec781a607972b817d8302f4f424aea5fe",
+      "eboot_md5": "0498653b140b0abd89e365abf04fd369"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/treasureof-pharaoh-150v-10-final.-7z/EBOO00649_00001.png"
+    ],
+    "icon": "icons/treasure_of_pharaoh.png"
+  },
+  "languages": []
+}

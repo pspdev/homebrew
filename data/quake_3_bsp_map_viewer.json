@@ -1,0 +1,29 @@
+{
+  "name": "Quake 3 Bsp Map Viewer",
+  "id": "quake_3_bsp_map_viewer",
+  "summary": "App that lets you view a Quake 3 bsp map file on the PSP.",
+  "author": "PSmonkey",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/bspviewer.-7z/BSPViewer.zip",
+      "published_at": "2005-11-08",
+      "size": 902002,
+      "sha256": "90452139bdc985ba26372beba56f15628114590c6d6616a4a7f55805795f86cc",
+      "eboot_md5": "a7e2eec76e7fd2305d4e69daa6f399d4"
+    }
+  ],
+  "tags": [
+    "PSP NEWS & Lik Sang 30 Day Coding Comp (2005)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/bspviewer.-7z/20220429201107.png"
+    ],
+    "icon": "icons/quake_3_bsp_map_viewer.png"
+  },
+  "languages": []
+}

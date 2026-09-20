@@ -1,0 +1,27 @@
+{
+  "name": "PSP Kanji",
+  "id": "psp_kanji",
+  "summary": "Learning app for PSP.",
+  "author": "Sammy Fatnassi (Aion)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.3",
+      "url": "https://archive.org/download/psp-kanjiv-2-3.7z/PspKanjiv2_3.zip",
+      "published_at": "2008-07-07",
+      "size": 4132122,
+      "sha256": "50f45d312f5474294fc436b3eddebf85450aa28e208f77f149e91380edb1fc93",
+      "eboot_md5": "6632dd87f3c37167e26d3de84454d965"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-kanjiv-2-3.7z/PSPK01579_00001.png"
+    ],
+    "icon": "icons/psp_kanji.png"
+  },
+  "languages": []
+}

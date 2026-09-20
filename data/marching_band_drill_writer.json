@@ -1,0 +1,27 @@
+{
+  "name": "Marching Band Drill Writer",
+  "id": "marching_band_drill_writer",
+  "summary": "Homebrew app for PSP.",
+  "author": "andyauff",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.25",
+      "url": "https://archive.org/download/drill-writer.-7z/DrillWriter.zip",
+      "published_at": "2008-04-28",
+      "size": 844898,
+      "sha256": "ce3ffb6ff08176fd896c2fb9bc82c2d49cfc304ca7c15f7dd477eb52f2dbd8a7",
+      "eboot_md5": "fe8aefe612855d068012625031576506"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/drill-writer.-7z/DRIL01140_00001.jpg"
+    ],
+    "icon": "icons/marching_band_drill_writer.png"
+  },
+  "languages": []
+}

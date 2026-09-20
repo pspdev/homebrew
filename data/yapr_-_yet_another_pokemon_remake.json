@@ -1,0 +1,27 @@
+{
+  "name": "YAPR - Yet Another Pokemon Remake",
+  "id": "yapr_-_yet_another_pokemon_remake",
+  "summary": "Fan game for PSP.",
+  "author": "dragon0010",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.5",
+      "url": "https://archive.org/download/pspokemon/pspokemon.zip",
+      "published_at": "2007-07-22",
+      "size": 1585785,
+      "sha256": "4f56a07fbd489c601844edfcab4eb9c00e556ecf2620400fd911259bbe004f5f",
+      "eboot_md5": "fe3bbfe7824459519044a999f5c42f16"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspokemon/PSPO00988_00000.png"
+    ],
+    "icon": "icons/yapr_-_yet_another_pokemon_remake.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "PSPVista",
+  "id": "pspvista",
+  "summary": "Vista-like shell for PSP.",
+  "author": "Jack118218",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.8",
+      "url": "https://archive.org/download/pspvistav-0.8pourslim.-7z/pspvistav0.3.1.zip",
+      "published_at": "2008-01-01",
+      "size": 5344859,
+      "sha256": "17d061511a2cabb6d6f9449b18f7192b59935cb07241a0e2b007564359b43225",
+      "eboot_md5": "2b5ced7bc84e9e2f63740a305f1845ff"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspvistav-0.8pourslim.-7z/PSPV01953_00000.jpg"
+    ],
+    "icon": "icons/pspvista.png"
+  },
+  "languages": []
+}

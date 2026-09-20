@@ -1,0 +1,27 @@
+{
+  "name": "UMD Net Ripper",
+  "id": "umd_net_ripper",
+  "summary": "Homebrew app to rip a UMD over the network.",
+  "author": "apv",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.1a",
+      "url": "https://archive.org/download/umd-net-ripper.-7z/UmdNetRipper.zip",
+      "published_at": "2006-04-20",
+      "size": 819079,
+      "sha256": "9f772d2417eeb31f239c67bfcb4472a8c0ec6ac6f661cfe9983d47c1ed9c8814",
+      "eboot_md5": "0b239eb75bdb13282104385884b188f4"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/umd-net-ripper.-7z/UMDN01215_00000.jpg"
+    ],
+    "icon": "icons/umd_net_ripper.png"
+  },
+  "languages": []
+}

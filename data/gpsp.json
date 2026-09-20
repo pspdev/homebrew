@@ -1,0 +1,27 @@
+{
+  "name": "GPSP",
+  "id": "gpsp",
+  "summary": "Homebrew app for PSP.",
+  "author": "Brek Martin (Art)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1",
+      "url": "https://archive.org/download/gpsp.-7z/GPSP.zip",
+      "published_at": "2005-11-20",
+      "size": 1992084,
+      "sha256": "e25b8a0503bcd03c44b4f0c610c4b184c58fd575a53c86381372d64d18948208",
+      "eboot_md5": "b6090171db0e988efba05d45f0655c1a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/gpsp.-7z/snap.png"
+    ],
+    "icon": "icons/gpsp.png"
+  },
+  "languages": []
+}

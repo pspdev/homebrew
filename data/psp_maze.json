@@ -1,0 +1,27 @@
+{
+  "name": "PSP Maze",
+  "id": "psp_maze",
+  "summary": "Homebrew game for PSP.",
+  "author": "Raion",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.92",
+      "url": "https://archive.org/download/pspmaze.-7z/PSPMAZE.zip",
+      "published_at": "2006-04-09",
+      "size": 940385,
+      "sha256": "4fe7c7a8b871deace92a44d71fb47ff4ac1c118da8d5e7bb2ccf4528afc8ab4d",
+      "eboot_md5": "7085f18e1ba1674717239c7fc5b52d00"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspmaze.-7z/PSPM00544_00000.jpg"
+    ],
+    "icon": "icons/psp_maze.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,29 @@
+{
+  "name": "RoboTORN3D",
+  "id": "robotorn3d",
+  "summary": "3D FPS homebrew game.",
+  "author": "Matthew Harris (AnonymousTipster)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.6",
+      "url": "https://archive.org/download/rt-3-d-06anonymoustipster.-7z/RT3D06anonymoustipster.zip",
+      "published_at": "2005-10-07",
+      "size": 1923858,
+      "sha256": "a92b18e1fd451791b65d6290140da045b116e4d753520b317f502072d80e40b3",
+      "eboot_md5": "91b81e9090944363b49d032f744dcc68"
+    }
+  ],
+  "tags": [
+    "PSPUpdates Homebrew Contest (2005)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/rt-3-d-06anonymoustipster.-7z/ROBO00748_00000.jpg"
+    ],
+    "icon": "icons/robotorn3d.png"
+  },
+  "languages": []
+}

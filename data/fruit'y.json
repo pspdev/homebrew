@@ -1,0 +1,27 @@
+{
+  "name": "Fruit'Y",
+  "id": "fruit'y",
+  "summary": "Puzzle game for PSP.",
+  "author": "Retroguru",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.00",
+      "url": "https://archive.org/download/fruity.-7z/FRUITY.zip",
+      "published_at": "2015-10-23",
+      "size": 908549,
+      "sha256": "41180ab98f5c713d0377a6188d091a31f9e5bdc45bc9bccd7aa0ee814183ea9f",
+      "eboot_md5": "f9bef5f0b14904526a083d36ab5d76c3"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/fruity.-7z/FRUI00483_00000.png"
+    ],
+    "icon": "icons/fruit'y.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "NP21 For PSP",
+  "id": "np21_for_psp",
+  "summary": "NEC PC-9821 emulator for PSP, developed from Neko Project II. This version emulates an i486 CPU.",
+  "author": "sakahi, \u3072\u3063\u305d\u308a\u3043 (hissorii)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.39",
+      "url": "https://archive.org/download/np-21-for-psp-v-0.39.7z/NP21_for_PSP_v0.39.zip",
+      "published_at": "2011-04-01",
+      "size": 389824,
+      "sha256": "475474b701b485e0089b1eb3bc21358e877eaf144b6834073f665c62940ec7af",
+      "eboot_md5": "333450d3cb903f166650f69f15d1f53b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/np-21-for-psp-v-0.39.7z/NP2101432_00000.jpg"
+    ],
+    "icon": "icons/np21_for_psp.png"
+  },
+  "languages": []
+}

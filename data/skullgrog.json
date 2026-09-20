@@ -1,0 +1,30 @@
+{
+  "name": "SkullGrog",
+  "id": "skullgrog",
+  "summary": "Homebrew game for PSP. Note: version 1.1 came out *after* the version named 'Final'.",
+  "author": "gorglucks",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/skullgrog-final.-7z/SkullGrog1.1.zip",
+      "published_at": "2010-09-28",
+      "size": 5235931,
+      "sha256": "a4d0f170cb4b4c5fc5ebc322ec82981bf3b73923ed9d3f0587d908987683c6f3",
+      "eboot_md5": "19e8c8c3289080a86c794fd4f4c2cb55"
+    }
+  ],
+  "tags": [
+    "Homebrew Idol 3 (2010)",
+    "Scenery Beta 2010"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/skullgrog-final.-7z/pic_0002.jpg"
+    ],
+    "icon": "icons/skullgrog.png"
+  },
+  "languages": []
+}

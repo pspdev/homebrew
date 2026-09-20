@@ -1,0 +1,29 @@
+{
+  "name": "Resonate",
+  "id": "resonate",
+  "summary": "Homebrew game for PSP.",
+  "author": "Team Sushi",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.57",
+      "url": "https://archive.org/download/resonate045.7z/resonate.zip",
+      "published_at": "2008-01-01",
+      "size": 4747335,
+      "sha256": "06b9cf33ddc9cfdb2f251e35b1c118e70fda562d6899ea4c09fe0208dd59dd04",
+      "eboot_md5": "e9f564da1e9a38afd4ebaae44078e0f5"
+    }
+  ],
+  "tags": [
+    "Homebrew Idol (2008)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/resonate045.7z/RESO01018_00000.jpg"
+    ],
+    "icon": "icons/resonate.png"
+  },
+  "languages": []
+}

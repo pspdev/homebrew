@@ -1,0 +1,27 @@
+{
+  "name": "Au Feu",
+  "id": "au_feu",
+  "summary": "Homebrew game for PSP.",
+  "author": "ROmain",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/au-feu.-7z/Au_feu.zip",
+      "published_at": "2006-11-05",
+      "size": 4329235,
+      "sha256": "031933acdecc0f5e195c2199fcec7268a54b514779f0b006644a40543f7b54cf",
+      "eboot_md5": "edfb487e286ca3c58482a422f041c0a9"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/au-feu.-7z/pic_0002.png"
+    ],
+    "icon": "icons/au_feu.png"
+  },
+  "languages": []
+}

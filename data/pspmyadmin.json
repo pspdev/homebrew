@@ -1,0 +1,27 @@
+{
+  "name": "PSPMyAdmin",
+  "id": "pspmyadmin",
+  "summary": "Homebrew app for PSP.",
+  "author": "JustChris",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/pspmyadmin_v1_0.7z/pspmyadmin_v1_0.zip",
+      "published_at": "2007-09-25",
+      "size": 274010,
+      "sha256": "f9bc3cc62b68ac89f6f60cdbff6956de3bb4ed3b125eca7f49e2052d0f031888",
+      "eboot_md5": "78917d082d074f91498c0aa8d69472a3"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspmyadmin_v1_0.7z/EBOO00649_00000.jpg"
+    ],
+    "icon": "icons/pspmyadmin.png"
+  },
+  "languages": []
+}

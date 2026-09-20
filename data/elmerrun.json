@@ -1,0 +1,27 @@
+{
+  "name": "ElmerRun",
+  "id": "elmerrun",
+  "summary": "Homebrew game for PSP.",
+  "author": "Benjamin Feenstra",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/elmer-run.-7z/ElmerRun.zip",
+      "published_at": "2011-10-13",
+      "size": 443523,
+      "sha256": "b1fc7ae8df29ee5686d128600619713a8d880ce12a1fe76d43aceec73c5088f3",
+      "eboot_md5": "7861fd5e17e4632b0318eac67afbc036"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/elmer-run.-7z/20220107044342.png"
+    ],
+    "icon": "icons/elmerrun.png"
+  },
+  "languages": []
+}

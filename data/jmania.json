@@ -1,0 +1,27 @@
+{
+  "name": "JMania",
+  "id": "jmania",
+  "summary": "Rhythm game for PSP.",
+  "author": "Joreofiorio35",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/jmania.-7z/JMANIA.zip",
+      "published_at": "2005-11-13",
+      "size": 1786889,
+      "sha256": "82599900e0bf091285793dc5ea79ddd1db02ead33ef405fd4ec30798fad0cbad",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/jmania.-7z/LUAP01126_00001.jpg"
+    ],
+    "icon": "icons/jmania.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Button Masher Endurance",
+  "id": "button_masher_endurance",
+  "summary": "Homebrew game for PSP.",
+  "author": "PopcOrn DeVil, Dillon",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/button-masher-endurance.-7z/ButtonMasherEndurance.zip",
+      "published_at": "2013-12-18",
+      "size": 1707830,
+      "sha256": "cb0b3f873c3d7b9952347ab9c2e1103215703e042acb32b034cf413545d87752",
+      "eboot_md5": "a704db08803d374a7d8839cb502e187f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/button-masher-endurance.-7z/LUAP01292_00000.png"
+    ],
+    "icon": "icons/button_masher_endurance.png"
+  },
+  "languages": []
+}

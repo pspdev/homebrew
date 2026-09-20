@@ -1,0 +1,27 @@
+{
+  "name": "Phlipple",
+  "id": "phlipple",
+  "summary": "PSP port of the original game.",
+  "author": "Marcin Klimczewski",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.8.5",
+      "url": "https://archive.org/download/phlipple_0.8.5_psp.7z/phlipple_0.8.5_psp.zip",
+      "published_at": "2017-03-10",
+      "size": 3161528,
+      "sha256": "e2ab91953c3de7ef82667a8639e2f38d75694941856e762118fcd14bfd3b83dd",
+      "eboot_md5": "97b839450ea20c4f71ccffb80aee69b6"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/phlipple_0.8.5_psp.7z/pic_0003.png"
+    ],
+    "icon": "icons/phlipple.png"
+  },
+  "languages": []
+}

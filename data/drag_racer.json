@@ -1,0 +1,27 @@
+{
+  "name": "Drag Racer",
+  "id": "drag_racer",
+  "summary": "Homebrew game for PSP.",
+  "author": "Wekilledbambi03",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/dragracer-2.0.7z/DRAGRACER2.0.zip",
+      "published_at": "2007-10-13",
+      "size": 4264725,
+      "sha256": "fa748b95304917a37fa87511bd4dfb10c8992cdcc551e3b7b233fd8fea6091a3",
+      "eboot_md5": "c271e82d6e5c5108d193a7ba4e7035ba"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/dragracer-2.0.7z/pic_0001.png"
+    ],
+    "icon": "icons/drag_racer.png"
+  },
+  "languages": []
+}

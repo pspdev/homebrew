@@ -1,0 +1,27 @@
+{
+  "name": "Shootout",
+  "id": "shootout",
+  "summary": "2D target shooter for PSP.",
+  "author": "Harry",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/shootout-01.7z/Shootout_01.zip",
+      "published_at": "2006-07-06",
+      "size": 1874164,
+      "sha256": "78a3f79404dc4e56528647d1903b8b1d8a81038846bf366c680073ad30d8d135",
+      "eboot_md5": "3fd77c8280ce23fb8cf91b2528f5dd51"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/shootout-01.7z/SHOO00869_00000.jpg"
+    ],
+    "icon": "icons/shootout.png"
+  },
+  "languages": []
+}

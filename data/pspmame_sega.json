@@ -1,0 +1,27 @@
+{
+  "name": "PSPMAME Sega",
+  "id": "pspmame_sega",
+  "summary": "MAME emulator for PSP, based on MAME 0.97. Claims support for 136 games. A compatibility list for an earlier version is available (in Japanese).",
+  "author": "TMK",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.97 r0.6",
+      "url": "https://archive.org/download/sega.7z_202104/sega.zip",
+      "published_at": "2010-03-02",
+      "size": 1393447,
+      "sha256": "75c59cebbccfc51eec922cc71e8a271a306dd9d5640d71f56ecc34a606defc4b",
+      "eboot_md5": "ee523586870a3cff7f45495f1e3c91cc"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/sega.7z_202104/SEGA00416_00000.jpg"
+    ],
+    "icon": "icons/pspmame_sega.png"
+  },
+  "languages": []
+}

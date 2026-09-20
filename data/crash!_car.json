@@ -1,0 +1,27 @@
+{
+  "name": "Crash! Car",
+  "id": "crash!_car",
+  "summary": "Avoid incoming cars.",
+  "author": "pspgarafele, TokioDrift, bAdBoY4eVeR",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "4",
+      "url": "https://archive.org/download/crash-car.-7z/Crash!Car.zip",
+      "published_at": "2008-02-05",
+      "size": 4343375,
+      "sha256": "2cb164ccd69afab7e25a1c782e8e196a0f1f74475eff6dbe18e722e36b2f4746",
+      "eboot_md5": "7209b65cffe71d631e3d5cc8b31a9365"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/crash-car.-7z/CRAS00808_00000.jpg"
+    ],
+    "icon": "icons/crash!_car.png"
+  },
+  "languages": []
+}

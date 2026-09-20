@@ -1,0 +1,27 @@
+{
+  "name": "PSPMud",
+  "id": "pspmud",
+  "summary": "Telnet client for PSP.",
+  "author": "Eelim",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.1.1",
+      "url": "https://archive.org/download/pspmud-0.1.1.7z/PSPMud0.1.1.zip",
+      "published_at": "2008-01-01",
+      "size": 252816,
+      "sha256": "e43d6aa181462c13419964863fbc9b0b94f006a72144d297effe807240e6a8be",
+      "eboot_md5": "1ae62fbf64a08aa98dcefd5c8718e125"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspmud-0.1.1.7z/20210720175738.png"
+    ],
+    "icon": "icons/pspmud.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "SQRXZ 3",
+  "id": "sqrxz_3",
+  "summary": "Homebrew game for PSP.",
+  "author": "Retroguru",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.05r",
+      "url": "https://archive.org/download/sqrxz-3.7z/SQRXZ3.zip",
+      "published_at": "2011-01-01",
+      "size": 936768,
+      "sha256": "3c595564596be67b47a4f79b546a9e01161eee69a705503e2ff5ce12488ff703",
+      "eboot_md5": "c27611ce0d53d6bcb93a7607f7c6e9ba"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/sqrxz-3.7z/SQRX00475_00001.jpg"
+    ],
+    "icon": "icons/sqrxz_3.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Bmp Loader",
+  "id": "bmp_loader",
+  "summary": "Homebrew app for PSP.",
+  "author": "z-rwt",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/bmploader01.7z/bmpLoader02.zip",
+      "published_at": "2005-05-14",
+      "size": 81607,
+      "sha256": "7449906b9dbfbf54659605a79526266035d7d873361d59ad8fa7e7ec97c37114",
+      "eboot_md5": "df8e81956e9587948a198aedf2e3f79e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/bmploader01.7z/BMPL01047_00000.jpg"
+    ],
+    "icon": "icons/bmp_loader.png"
+  },
+  "languages": []
+}

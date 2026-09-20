@@ -1,0 +1,27 @@
+{
+  "name": "Planet Smash",
+  "id": "planet_smash",
+  "summary": "Homebrew game for PSP.",
+  "author": "Jamie Fuller",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.9",
+      "url": "https://archive.org/download/planet-smash.-7z/psmash0-9.zip",
+      "published_at": "2006-10-15",
+      "size": 5367687,
+      "sha256": "d3708e0ef33cc7337fc36c2fa808dff86d3dd75d46a2b7bec39aaf9aa8e1fae2",
+      "eboot_md5": "96b1fbb3c2d077a0dd47095846faf081"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/planet-smash.-7z/PLAN01572_00000.jpg"
+    ],
+    "icon": "icons/planet_smash.png"
+  },
+  "languages": []
+}

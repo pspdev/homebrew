@@ -1,0 +1,27 @@
+{
+  "name": "Gadget",
+  "id": "gadget",
+  "summary": "Homebrew app for PSP.",
+  "author": "Team Bolt",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.2 Beta",
+      "url": "https://archive.org/download/gadget_beta_0.2.7z/Gadget.zip",
+      "published_at": "2011-01-05",
+      "size": 7862790,
+      "sha256": "41087cb886340e7c24b13500f8fecc4919767d38242550b89be0df5f4bddeb9b",
+      "eboot_md5": "da378238781a5ef2da49a38f15924708"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/gadget_beta_0.2.7z/GADG00588_00000.jpg"
+    ],
+    "icon": "icons/gadget.png"
+  },
+  "languages": []
+}

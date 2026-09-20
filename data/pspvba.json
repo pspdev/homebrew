@@ -1,0 +1,27 @@
+{
+  "name": "PSPVBA",
+  "id": "pspvba",
+  "summary": "GameBoy Advance emulator for PSP.",
+  "author": "Ludovic Jacomme (Zx-81)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.2.4",
+      "url": "https://archive.org/download/pspvba.7z/pspvba.zip",
+      "published_at": "2006-08-03",
+      "size": 1300941,
+      "sha256": "fbd9ce6453c0d2416f122d6a0022067e15c89660cb0b30d7b8754c431ca134a7",
+      "eboot_md5": "b588ebf7f244f4d5a1ae9806dfc4840e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspvba.7z/PSPV00652_00000.jpg"
+    ],
+    "icon": "icons/pspvba.png"
+  },
+  "languages": []
+}

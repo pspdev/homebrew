@@ -1,0 +1,29 @@
+{
+  "name": "BGen",
+  "id": "bgen",
+  "summary": "Music game for PSP.",
+  "author": "Okapako, Crystalswordsman",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/bgen-v-0.2-psp.-7z/BGen_v0.2_psp.zip",
+      "published_at": "2011-05-29",
+      "size": 7538606,
+      "sha256": "7051e1902695fbbe469fe014837072f2867abd1d261b6399873b331522c20a78",
+      "eboot_md5": "2c8e87baacd6ce430660fd2dc979f496"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/bgen-v-0.2-psp.-7z/BGEN01139_00001.png"
+    ],
+    "icon": "icons/bgen.png"
+  },
+  "languages": []
+}

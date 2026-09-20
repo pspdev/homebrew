@@ -1,0 +1,27 @@
+{
+  "name": "Apple II Portable",
+  "id": "apple_ii_portable",
+  "summary": "Apple II emulator for PSP, also known as PYAE. Requires BIOS files.",
+  "author": "Team XOS, NHD",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.1-0173",
+      "url": "https://archive.org/download/pyae-0.1-0173.7z/pyae-0.1-0173.zip",
+      "published_at": "2005-09-28",
+      "size": 1094697,
+      "sha256": "3bb38a18238fa9652030be7e373e6f253085c1703b0693bffe5103de445bf09c",
+      "eboot_md5": "19421d8eb8ce13cbab2417cf01ab551f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pyae-0.1-0173.7z/PYAE00867_00000.png"
+    ],
+    "icon": "icons/apple_ii_portable.png"
+  },
+  "languages": []
+}

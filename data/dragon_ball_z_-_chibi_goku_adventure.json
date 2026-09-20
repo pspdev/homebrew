@@ -1,0 +1,27 @@
+{
+  "name": "Dragon Ball Z - Chibi Goku Adventure",
+  "id": "dragon_ball_z_-_chibi_goku_adventure",
+  "summary": "Homebrew game for PSP.",
+  "author": "Naruto93, Cladil",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.3",
+      "url": "https://archive.org/download/0.3-dragon-ball-z-chibi-goku-adventure.-7z/[0.3]Dragon_Ball_Z_Chibi_Goku_Adventure.zip",
+      "published_at": "2007-08-12",
+      "size": 5988484,
+      "sha256": "7d10e95764959da555236a36ad66bf06b57d9f719f7b113c8fd39a0786fa40a4",
+      "eboot_md5": "9ad274a66cbb17dcf4b01f3864fd6235"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/0.3-dragon-ball-z-chibi-goku-adventure.-7z/[0.303703_00001.png"
+    ],
+    "icon": "icons/dragon_ball_z_-_chibi_goku_adventure.png"
+  },
+  "languages": []
+}

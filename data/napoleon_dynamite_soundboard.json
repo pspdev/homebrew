@@ -1,0 +1,27 @@
+{
+  "name": "Napoleon Dynamite Soundboard",
+  "id": "napoleon_dynamite_soundboard",
+  "summary": "App for PSP.",
+  "author": "RyZ_150",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/ndsb.-7z/NDSB.zip",
+      "published_at": "2006-12-19",
+      "size": 2345069,
+      "sha256": "16fe5b6c11f73ce5ef21458082ffed6b2b456670a4fb51fa4a5e220ad8a1d63c",
+      "eboot_md5": "4113999bf75e805c6af8669969431d7e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ndsb.-7z/NDSB00295_00000.jpg"
+    ],
+    "icon": "icons/napoleon_dynamite_soundboard.png"
+  },
+  "languages": []
+}

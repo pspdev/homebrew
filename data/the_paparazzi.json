@@ -1,0 +1,27 @@
+{
+  "name": "The Paparazzi",
+  "id": "the_paparazzi",
+  "summary": "Homebrew game for PSP.",
+  "author": "Nicovideo, Cloos",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "RC1",
+      "url": "https://archive.org/download/the-paparazzi.-7z/The_Paparazzi.zip",
+      "published_at": "2007-09-19",
+      "size": 2796986,
+      "sha256": "0871e55d8a89a9f2effbd7dd6681b5c0a193683f35e3b071968b2b4756ee2d27",
+      "eboot_md5": "074d73df35d93f9d627ea75cf118fa4c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/the-paparazzi.-7z/THE_01330_00000.jpg"
+    ],
+    "icon": "icons/the_paparazzi.png"
+  },
+  "languages": []
+}

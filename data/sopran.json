@@ -1,0 +1,27 @@
+{
+  "name": "Sopran",
+  "id": "sopran",
+  "summary": "Homebrew web browser for PSP.",
+  "author": "Bumuckl",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "R1 WIP 6",
+      "url": "https://archive.org/download/sopran_r1_wip6.7z/sopran_r1_wip6.zip",
+      "published_at": "2008-08-28",
+      "size": 702403,
+      "sha256": "066e18e8e87506e37fdce85ddf796e1396b515e8e9e481c94d87715af0a21c48",
+      "eboot_md5": "eab060bb920b2e90c23ae0031413a729"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/sopran_r1_wip6.7z/SOPR01402_00000.png"
+    ],
+    "icon": "icons/sopran.png"
+  },
+  "languages": []
+}

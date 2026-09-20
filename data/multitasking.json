@@ -1,0 +1,29 @@
+{
+  "name": "MultiTasKing",
+  "id": "multitasking",
+  "summary": "Homebrew app for PSP.",
+  "author": "Carlosgs",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "3.01",
+      "url": "https://archive.org/download/multi-tas-king-v-301by-carlosgs.-7z/MultiTasKingV301byCarlosgs.zip",
+      "published_at": "2010-01-01",
+      "size": 3260931,
+      "sha256": "01c8690f405187d595ea363f7301d4a16c2e9e876d0182078e189ae4fccac88e",
+      "eboot_md5": "87625d44f40ab3de52dc1e09a1fe7cf1"
+    }
+  ],
+  "tags": [
+    "Scenery Beta 2010"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/multi-tas-king-v-301by-carlosgs.-7z/20210620070749.png"
+    ],
+    "icon": "icons/multitasking.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "PSP Simple Calculator",
+  "id": "psp_simple_calculator",
+  "summary": "Homebrew app for PSP.",
+  "author": "the_darkside_986",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/psp-simple-calc-1.0-beta.-7z/PSP_Simple_Calculator_1.1.zip",
+      "published_at": "2006-01-01",
+      "size": 299685,
+      "sha256": "eb12559d7b40acbdeabaa4f7a58bc8ec77ebfc0a17e73a5625d994ec5d8deb02",
+      "eboot_md5": "563e12f692e7f3bc422ce228344b4f82"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-simple-calc-1.0-beta.-7z/PSP 01883_00000.jpg"
+    ],
+    "icon": "icons/psp_simple_calculator.png"
+  },
+  "languages": []
+}

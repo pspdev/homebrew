@@ -1,0 +1,27 @@
+{
+  "name": "Bunny Tetris",
+  "id": "bunny_tetris",
+  "summary": "Version of Tetris for PSP.",
+  "author": "Arnaud (Condense)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.94",
+      "url": "https://archive.org/download/bunny-tetris.-7z/2007_psp_bunnytetris.zip",
+      "published_at": "2007-01-01",
+      "size": 1948223,
+      "sha256": "7c380c5217215d11c2003c343d51e00c671dbbe98bf12f0e4fded6dce1097294",
+      "eboot_md5": "c07cc00497fd9cb52ce2482c84407fdf"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/bunny-tetris.-7z/200701953_00000.jpg"
+    ],
+    "icon": "icons/bunny_tetris.png"
+  },
+  "languages": []
+}

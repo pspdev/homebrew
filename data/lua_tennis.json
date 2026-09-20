@@ -1,0 +1,29 @@
+{
+  "name": "Lua Tennis",
+  "id": "lua_tennis",
+  "summary": "Pong-like game.",
+  "author": "Yahoum",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/luatennis-v-1.1-fw-1.50.7z/LUATennis_v1.1_fw1.50.zip",
+      "published_at": "2006-01-01",
+      "size": 970020,
+      "sha256": "c12ae65291e48ab9f8308abdad5d4a638e1fd752135cdce6de77a8d536d36703",
+      "eboot_md5": "e36f67e1b9a454f9c138660d83bcd08c"
+    }
+  ],
+  "tags": [
+    "XtreamLua/Gx-mod Lua contest (2006)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/luatennis-v-1.1-fw-1.50.7z/LUAT01277_00000.jpg"
+    ],
+    "icon": "icons/lua_tennis.png"
+  },
+  "languages": []
+}

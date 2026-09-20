@@ -1,0 +1,29 @@
+{
+  "name": "PSPSudoku",
+  "id": "pspsudoku",
+  "summary": "PSP version of Sudoku.",
+  "author": "Hpnuts",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/pspsudoku-v-1.0.7z/PSPSudoku_v1.0.zip",
+      "published_at": "2006-08-17",
+      "size": 1642390,
+      "sha256": "bd6788819b844bb83e8cde870fe79c215ea3448a2ebaac29da58d0d13d84b0c9",
+      "eboot_md5": "93463f318b3209fda872c97583b2d957"
+    }
+  ],
+  "tags": [
+    "QJ.NET and Lik-sang Summer Homebrew Competition (2006)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspsudoku-v-1.0.7z/PSPS01234_00000.jpg"
+    ],
+    "icon": "icons/pspsudoku.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Time Traveler",
+  "id": "time_traveler",
+  "summary": "Displays time in selected locations.",
+  "author": "Placo23",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/timeTraveler.7z/timeTraveler.zip",
+      "published_at": "2007-09-30",
+      "size": 593285,
+      "sha256": "7800a67ef3a953b76e1e0da2b350fecfd7055cc632c4852fef39fc16ccbf9ca4",
+      "eboot_md5": "74d38fdd1620dc7d3f11e441c57c95b9"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/timeTraveler.7z/TIME01268_00002.png"
+    ],
+    "icon": "icons/time_traveler.png"
+  },
+  "languages": []
+}

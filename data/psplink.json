@@ -1,0 +1,27 @@
+{
+  "name": "PSPLink",
+  "id": "psplink",
+  "summary": "Loader/development application for PSP.",
+  "author": "TyRaNiD, Julian T, Rasmus B, John_K, 173210",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.0 Fix 6.60",
+      "url": "https://archive.org/download/psplink_0.9f.7z/PSPLINK_20_FIX_660.zip",
+      "published_at": "2014-04-16",
+      "size": 754026,
+      "sha256": "769f76734d715ded71b7b4898ccf157f26e943c7d09b3f1942a506a9dccc04c5",
+      "eboot_md5": "b34c71eecb41fac3d0bbaf5785c200eb"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psplink_0.9f.7z/20210802002600.png"
+    ],
+    "icon": "icons/psplink.png"
+  },
+  "languages": []
+}

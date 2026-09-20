@@ -1,0 +1,27 @@
+{
+  "name": "Super Mini Halo",
+  "id": "super_mini_halo",
+  "summary": "Super Mini Mario mod.",
+  "author": "Xp Max Productions",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.50",
+      "url": "https://archive.org/download/smh.-7z_202103/SMH.zip",
+      "published_at": "2006-11-20",
+      "size": 4888538,
+      "sha256": "8c9040ca022d5b94b4bbaa72140f793f9b7481b33f6f77d6660ecb82cad91f62",
+      "eboot_md5": "8cfcef1a8eee9d43f55e49aa7b82f93e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/smh.-7z_202103/SMHH00232_00000.jpg"
+    ],
+    "icon": "icons/super_mini_halo.png"
+  },
+  "languages": []
+}

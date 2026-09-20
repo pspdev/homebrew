@@ -1,0 +1,29 @@
+{
+  "name": "Vortex Battle Arena",
+  "id": "vortex_battle_arena",
+  "summary": "Homebrew game for PSP.",
+  "author": "Akabane87",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Release 1",
+      "url": "https://archive.org/download/vortexbattlearenar1.7z/vortexbattlearenar1.zip",
+      "published_at": "2007-06-30",
+      "size": 7492256,
+      "sha256": "2ee906a327f9894ac2eaa6e6d62afb2252767f17d86b85d243d65f05fd96971e",
+      "eboot_md5": "0562022760a2d6482b15c9a14c150ad1"
+    }
+  ],
+  "tags": [
+    "Gx-mod/XtreamLua 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/vortexbattlearenar1.7z/pic_0002.png"
+    ],
+    "icon": "icons/vortex_battle_arena.png"
+  },
+  "languages": []
+}

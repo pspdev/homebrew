@@ -1,0 +1,27 @@
+{
+  "name": "PSP Air Hockey",
+  "id": "psp_air_hockey",
+  "summary": "Homebrew game for PSP.",
+  "author": "Carlos Aldana (indianajonesilm)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/hockey.7z/psp_air_hockey.zip",
+      "published_at": "2005-08-23",
+      "size": 1693953,
+      "sha256": "561dad1dc03e2e7dd10779d5847146f155efe0b51e6bea9c6f24a67ff697e0ba",
+      "eboot_md5": "3a0702ca534d0f507336aa79e796554d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/hockey.7z/PSP_01488_00000.png"
+    ],
+    "icon": "icons/psp_air_hockey.png"
+  },
+  "languages": []
+}

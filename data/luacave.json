@@ -1,0 +1,27 @@
+{
+  "name": "LUACave",
+  "id": "luacave",
+  "summary": "Version of SFCave for the PSP.",
+  "author": "mikehaggar99",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/luacave.-7z/LUACave.zip",
+      "published_at": "2005-08-29",
+      "size": 231750,
+      "sha256": "799592f92d78f77ce14219f00cd7dc4c991b6bb95c8e0ba02af16e9a73236f80",
+      "eboot_md5": "5e3d9d183e3ee8bca96cb7a755bb2f4e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/luacave.-7z/LUAC00609_00001.jpg"
+    ],
+    "icon": "icons/luacave.png"
+  },
+  "languages": []
+}

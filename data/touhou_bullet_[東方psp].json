@@ -1,0 +1,27 @@
+{
+  "name": "Touhou Bullet [\u6771\u65b9PSP]",
+  "id": "touhou_bullet_[\u6771\u65b9psp]",
+  "summary": "Touhou Project fan game for PSP.",
+  "author": "Iyou",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "004",
+      "url": "https://archive.org/download/touhou-bullet/TOUHOU_BULLET.zip",
+      "published_at": "2008-01-01",
+      "size": 756720,
+      "sha256": "cb7ed087c41da1f379d7e575efa930855b35b051eb289eec8f495e04d4c7cebf",
+      "eboot_md5": "c4f578a966bc8dac842b2700a41af769"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/touhou-bullet/TOUH01035_00000.png"
+    ],
+    "icon": "icons/touhou_bullet_[\u6771\u65b9psp].png"
+  },
+  "languages": []
+}

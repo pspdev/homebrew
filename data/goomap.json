@@ -1,0 +1,27 @@
+{
+  "name": "GooMap",
+  "id": "goomap",
+  "summary": "Offline map viewer for PSP.",
+  "author": "Avovrepus",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0 Beta",
+      "url": "https://archive.org/download/goomap.7z/goomap.zip",
+      "published_at": "2007-01-01",
+      "size": 240017964,
+      "sha256": "123551868240c3876c8a3916e22b2c03d61dceeabfdd2a58f84da3cb5561d76a",
+      "eboot_md5": "e70ca3cfa5d2b5d3affa81b3b12abb13"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/goomap.7z/GOOM00643_00000.jpg"
+    ],
+    "icon": "icons/goomap.png"
+  },
+  "languages": []
+}

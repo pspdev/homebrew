@@ -1,0 +1,27 @@
+{
+  "name": "PSP Fastloader",
+  "id": "psp_fastloader",
+  "summary": "Homebrew app for PSP.",
+  "author": "Humma Kavula",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.7",
+      "url": "https://archive.org/download/fastloader.-7z/Fastloader.zip",
+      "published_at": "2005-08-21",
+      "size": 362390,
+      "sha256": "e11c69ce004f028f718e468c0cb06271f451d2271229d753da0e28514bad9115",
+      "eboot_md5": "f49f0ec7148c7ceee812413e43c149f2"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/fastloader.-7z/snap.png"
+    ],
+    "icon": "icons/psp_fastloader.png"
+  },
+  "languages": []
+}

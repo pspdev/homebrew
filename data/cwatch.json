@@ -1,0 +1,27 @@
+{
+  "name": "cWatch",
+  "id": "cwatch",
+  "summary": "Homebrew app for PSP.",
+  "author": "Daniel CJ Cruz Chan",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.00",
+      "url": "https://archive.org/download/cWatch.7z/cWatch.zip",
+      "published_at": "2008-06-20",
+      "size": 1511052,
+      "sha256": "eeb51dbfb65f3263ef76be4a320a4b28e6da309de77ea431b867584b1b35cf26",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/cWatch.7z/CWAT00602_00000.jpg"
+    ],
+    "icon": "icons/cwatch.png"
+  },
+  "languages": []
+}

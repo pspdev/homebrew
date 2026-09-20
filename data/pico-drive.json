@@ -1,0 +1,27 @@
+{
+  "name": "Pico-drive",
+  "id": "pico-drive",
+  "summary": "Sega Genesis (Megadrive) emulator for PSP.",
+  "author": "\uff30\uff33\uff30\u958b\u767a\u5e7c\u7a1a\u5712",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "A14",
+      "url": "https://archive.org/download/picodrivea14.7z/picodrivea14.zip",
+      "published_at": "2006-08-01",
+      "size": 355371,
+      "sha256": "7f56ea7039de4328ee78a809757957fdc327c9325ee896cc7549d4e88c974eed",
+      "eboot_md5": "f589b10aa15c4a12f37b2e6cacd99b97"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/picodrivea14.7z/20210815203326.png"
+    ],
+    "icon": "icons/pico-drive.png"
+  },
+  "languages": []
+}

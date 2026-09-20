@@ -1,0 +1,27 @@
+{
+  "name": "Ubuntu Portable",
+  "id": "ubuntu_portable",
+  "summary": "UI shell for PSP.",
+  "author": "moikop, stupidmf1",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/ubuntu-portable-v-1.0.7z/UbuntuPortableV1.0.zip",
+      "published_at": "2009-12-19",
+      "size": 5947371,
+      "sha256": "d7c396c258c71921485c541ae94310dc82b01265a823b8a83248baa89651b412",
+      "eboot_md5": "ec57b3d03bd9d6e47e349b3e4690db78"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ubuntu-portable-v-1.0.7z/snap.png"
+    ],
+    "icon": "icons/ubuntu_portable.png"
+  },
+  "languages": []
+}

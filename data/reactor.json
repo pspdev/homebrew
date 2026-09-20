@@ -1,0 +1,29 @@
+{
+  "name": "Reactor",
+  "id": "reactor",
+  "summary": "Homebrew puzzle game for PSP.",
+  "author": "Studio Kagato",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.3",
+      "url": "https://archive.org/download/reactor.-7z/reactor_1.3_eboot.zip",
+      "published_at": "2006-08-30",
+      "size": 1684185,
+      "sha256": "6fa9d0c6a85ab93c68fb4f8b278c1c44e93257e7180743cde96ebe801239ae3b",
+      "eboot_md5": "5c60199c7b40c9a5e1e1bfa8d2ba52e5"
+    }
+  ],
+  "tags": [
+    "NEO Summer Coding Compo 2006"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/reactor.-7z/20210722215009.png"
+    ],
+    "icon": "icons/reactor.png"
+  },
+  "languages": []
+}

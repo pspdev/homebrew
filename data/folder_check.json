@@ -1,0 +1,29 @@
+{
+  "name": "Folder Check",
+  "id": "folder_check",
+  "summary": "Utility to create folders missing from your Memory Stick.",
+  "author": "Shaplayer",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/folder-check.-7z/FolderCheck.zip",
+      "published_at": "2011-01-01",
+      "size": 1509466,
+      "sha256": "0e26a4eab49d8327d50fa6d279f4a8020d58d6678f98dffb5cc9efa63856d059",
+      "eboot_md5": "dad16b9d8f553b7ee752109ab2cd42d5"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/folder-check.-7z/FOLD01082_00000.jpg"
+    ],
+    "icon": "icons/folder_check.png"
+  },
+  "languages": []
+}

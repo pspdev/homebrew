@@ -1,0 +1,27 @@
+{
+  "name": "Tetris Portable",
+  "id": "tetris_portable",
+  "summary": "Version of Tetris for PSP.",
+  "author": "Weak, Pimpot",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.3",
+      "url": "https://archive.org/download/tetrisportable03_eboot.7z/tetrisportable03_eboot.zip",
+      "published_at": "2005-05-16",
+      "size": 84519,
+      "sha256": "1710719bde887c77cfe4b17ad7e2a1200ba24ce888225d17224a0a6f0f84cde4",
+      "eboot_md5": "38c2cca60748593f89adfdf16f350433"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/tetrisportable03_eboot.7z/TETR02255_00000.jpg"
+    ],
+    "icon": "icons/tetris_portable.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Sinobi [\u5fcd\u30ce\u8005PSP]",
+  "id": "sinobi_[\u5fcd\u30ce\u8005psp]",
+  "summary": "Homebrew game for PSP.",
+  "author": "\u3076\u30fc\u306b\u3083\u3093",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/sinobi.7z/sinobi.zip",
+      "published_at": "2005-06-19",
+      "size": 116225,
+      "sha256": "29e160988a849c4119df11ee53917bcdfaed7172e684efc08667513435c92e44",
+      "eboot_md5": "94b03a8fa99c80993d5bd6d0619889aa"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/sinobi.7z/SINO00644_00000.png"
+    ],
+    "icon": "icons/sinobi_[\u5fcd\u30ce\u8005psp].png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Metroid Life",
+  "id": "metroid_life",
+  "summary": "Version of Game of Life for PSP.",
+  "author": "Dragula96",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.03",
+      "url": "https://archive.org/download/metroid_life003.7z/metroid_life003.zip",
+      "published_at": "2008-02-11",
+      "size": 1649407,
+      "sha256": "92ddc65011b4ce3db140939d9574e4237f5b1f3189a158ee188564b95087445d",
+      "eboot_md5": "b06bdf756fea9176e9771d60d31c6b89"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/metroid_life003.7z/METR01414_00002.png"
+    ],
+    "icon": "icons/metroid_life.png"
+  },
+  "languages": []
+}

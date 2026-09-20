@@ -1,0 +1,27 @@
+{
+  "name": "PSP GO",
+  "id": "psp_go",
+  "summary": "Game of Go for PSP.",
+  "author": "sai",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.6\u03b2",
+      "url": "https://archive.org/download/pspgo.-7z/PSPGO.zip",
+      "published_at": "2005-07-17",
+      "size": 430047,
+      "sha256": "ae22873d05d6f32be4e11c15da7ddd2c2ac92f4b80d8720b8da5ad9eef4acd93",
+      "eboot_md5": "7580c118539ab239f54fa8a2e2b0db78"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspgo.-7z/PSPG00393_00000.png"
+    ],
+    "icon": "icons/psp_go.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Vice-PSP",
+  "id": "vice-psp",
+  "summary": "Commodore 64 emulator for PSP.",
+  "author": "Akop Karapetyan",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "2.2.15",
+      "url": "https://archive.org/download/pspvice_3.2.5.7z/vice-2.2.15-1.0.zip",
+      "published_at": "2011-01-16",
+      "size": 809607,
+      "sha256": "6858e5710752ec1b0c5bec2ad96d6264e23fbcb9719aba9a9bebfab0f8dda899",
+      "eboot_md5": "ba23c2f1d7ebcd616b9c618ab0f24b04"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspvice_3.2.5.7z/VICE00950_00010.png"
+    ],
+    "icon": "icons/vice-psp.png"
+  },
+  "languages": []
+}

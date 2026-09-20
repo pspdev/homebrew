@@ -1,0 +1,29 @@
+{
+  "name": "Ping-PSP",
+  "id": "ping-psp",
+  "summary": "Homebrew game for PSP.",
+  "author": "A-Einstein",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.5",
+      "url": "https://archive.org/download/ping-psp/Ping-PSP.zip",
+      "published_at": "2009-09-02",
+      "size": 6192981,
+      "sha256": "fe0c3540c5e53499109bd53253a50a22e7569dc1eded370d4bd35f8e66e5b4be",
+      "eboot_md5": "42d1af3f7c20ee9ce6f6f3a308cd045f"
+    }
+  ],
+  "tags": [
+    "Scenery Beta 2009"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ping-psp/PING00686_00000.png"
+    ],
+    "icon": "icons/ping-psp.png"
+  },
+  "languages": []
+}

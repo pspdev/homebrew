@@ -1,0 +1,29 @@
+{
+  "name": "PSP Tower Defense",
+  "id": "psp_tower_defense",
+  "summary": "Homebrew game for PSP.",
+  "author": "TacticalPenguin",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/psptdv-0.1.7z/PSPTDv0.1.zip",
+      "published_at": "2007-01-01",
+      "size": 1131944,
+      "sha256": "e3fb44cea6f3150e4d5134a2468584468b3445a0674c58799897d7b01c62c117",
+      "eboot_md5": "f27cf378b4fbaf52490ee6c6797324c1"
+    }
+  ],
+  "tags": [
+    "NEO Summer Coding Compo 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psptdv-0.1.7z/20210620071555.png"
+    ],
+    "icon": "icons/psp_tower_defense.png"
+  },
+  "languages": []
+}

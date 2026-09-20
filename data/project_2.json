@@ -1,0 +1,27 @@
+{
+  "name": "Project 2",
+  "id": "project_2",
+  "summary": "Homebrew game for PSP.",
+  "author": "Sonicadvance1",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/project-2-v-2-0330.7z/Project2_v2_0330.zip",
+      "published_at": "2006-03-29",
+      "size": 64113,
+      "sha256": "b1155a20577d0c4c3041ffef69b40bfdb2af736e8cf37e9ed54d4ae0212ffb91",
+      "eboot_md5": "ecc00ab30fcbb75ac467304aaf4d3a99"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/project-2-v-2-0330.7z/PROJ01333_00000.jpg"
+    ],
+    "icon": "icons/project_2.png"
+  },
+  "languages": []
+}

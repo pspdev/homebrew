@@ -1,0 +1,27 @@
+{
+  "name": "X-Moto-PSP",
+  "id": "x-moto-psp",
+  "summary": "Port of X-Moto 0.4.2 for the PSP.",
+  "author": "Antoine Jacquet (Royale)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/x-moto-psp-0.2.7z/X-Moto-PSP-0.2.zip",
+      "published_at": "2008-12-28",
+      "size": 24341571,
+      "sha256": "1f4c0d974a50210fbef175a8ca9a055b1050c1601a8f65ae5acbf4b926fbbf17",
+      "eboot_md5": "6ba3fe4df38ecff48639c22b99b7084f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/x-moto-psp-0.2.7z/X-MO00836_00000.png"
+    ],
+    "icon": "icons/x-moto-psp.png"
+  },
+  "languages": []
+}

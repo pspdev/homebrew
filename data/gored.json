@@ -1,0 +1,27 @@
+{
+  "name": "Gored",
+  "id": "gored",
+  "summary": "Homebrew game for PSP.",
+  "author": "XteticX",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Beta",
+      "url": "https://archive.org/download/gored.-7z/Gored.zip",
+      "published_at": "2005-09-23",
+      "size": 1167370,
+      "sha256": "5490135add12f652588199f4913a373e682dcece79b80d03b1968d28e63c1717",
+      "eboot_md5": "a73a390ce654cca0b7d447576571d0e3"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/gored.-7z/GORE00497_00001.jpg"
+    ],
+    "icon": "icons/gored.png"
+  },
+  "languages": []
+}

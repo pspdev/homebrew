@@ -1,0 +1,27 @@
+{
+  "name": "xReader",
+  "id": "xreader",
+  "summary": "Document reader for PSP.",
+  "author": "\u91ce\u8537\u8587\u4e4b\u5fc3",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.3.0 1528",
+      "url": "https://archive.org/download/xReader.7z/xReader_1.3.0_1528.zip",
+      "published_at": "2012-06-22",
+      "size": 3655142,
+      "sha256": "82d4ece97f676b6bf84653dba81b2c2241f9435b45c83bad4b2974745df2a487",
+      "eboot_md5": "1815292a8c4f3134d9283543713bc8b1"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/xReader.7z/20210726053052.png"
+    ],
+    "icon": "icons/xreader.png"
+  },
+  "languages": []
+}

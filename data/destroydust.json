@@ -1,0 +1,29 @@
+{
+  "name": "DestroyDust",
+  "id": "destroydust",
+  "summary": "Homebrew game for PSP.",
+  "author": "Cl\u00e9ment Slempkes (Shadow77340)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.4+",
+      "url": "https://archive.org/download/destroy-dust-v-04-cffr.-7z/DestroyDustV04CFfr.zip",
+      "published_at": "2007-01-01",
+      "size": 5632337,
+      "sha256": "e4ea4e052bb766e2d475230743e2ef3e3b80a13a3a6673baa22f75d6c4599041",
+      "eboot_md5": "ac6516ee022fb8bf57177eb49c133118"
+    }
+  ],
+  "tags": [
+    "Gx-mod/XtreamLua 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/destroy-dust-v-04-cffr.-7z/DEST01701_00001.jpg"
+    ],
+    "icon": "icons/destroydust.png"
+  },
+  "languages": []
+}

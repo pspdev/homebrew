@@ -1,0 +1,27 @@
+{
+  "name": "PSP Lua Connect 4",
+  "id": "psp_lua_connect_4",
+  "summary": "Homebrew game for PSP.",
+  "author": "qwikrazor87",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/pspconnect-4ver.-2.7z/PSPConnect4ver.2.zip",
+      "published_at": "2009-04-09",
+      "size": 591903,
+      "sha256": "60d1fcaf7c95fdfa93543d160de143c3c9d68c2d92fb2291f91536179ac64d47",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspconnect-4ver.-2.7z/LUAP01126_00000.png"
+    ],
+    "icon": "icons/psp_lua_connect_4.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "PSPoste",
+  "id": "psposte",
+  "summary": "Email client for PSP.",
+  "author": "bbiron, daveyc",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "Beta 7",
+      "url": "https://archive.org/download/psposte-beta-7-fw-4x.-7z/PSPoste_Beta7_FW4x.zip",
+      "published_at": "2008-10-11",
+      "size": 3860472,
+      "sha256": "6ba0a21ec782307fecce9a617faeaeb9cf3a9b6253e131a48128fe772deb217a",
+      "eboot_md5": "53c359153a76b1ea68169235229f5bf9"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psposte-beta-7-fw-4x.-7z/20210802014917.png"
+    ],
+    "icon": "icons/psposte.png"
+  },
+  "languages": []
+}

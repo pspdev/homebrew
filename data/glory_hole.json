@@ -1,0 +1,27 @@
+{
+  "name": "Glory Hole",
+  "id": "glory_hole",
+  "summary": "Navigate the labyrinth; homebrew game for PSP.",
+  "author": "kronicali",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.01b",
+      "url": "https://archive.org/download/glorylholev0.01b.7z/glorylholev0.01b.zip",
+      "published_at": "2009-06-23",
+      "size": 954927,
+      "sha256": "41f216323959f475adcbdb18275418cab54fb0023e402daf2c90d47c85038341",
+      "eboot_md5": "19a8347ba76365a42c1e03e7d750e856"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/glorylholev0.01b.7z/GLOR01496_00000.png"
+    ],
+    "icon": "icons/glory_hole.png"
+  },
+  "languages": []
+}

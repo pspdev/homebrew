@@ -1,0 +1,27 @@
+{
+  "name": "VDJ Table",
+  "id": "vdj_table",
+  "summary": "Music app for PSP.",
+  "author": "Team MS",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/vdjtable.-7z/VDJTable.zip",
+      "published_at": "2007-11-15",
+      "size": 2744867,
+      "sha256": "07e9e1fd03fa459438d71324759687b1bde7cdcceec9b0da31b15d889c7f611e",
+      "eboot_md5": "66b7811fb86618225ad518c47f77e6ca"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/vdjtable.-7z/VDJT00716_00000.jpg"
+    ],
+    "icon": "icons/vdj_table.png"
+  },
+  "languages": []
+}

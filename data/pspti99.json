@@ -1,0 +1,27 @@
+{
+  "name": "PSPTI99",
+  "id": "pspti99",
+  "summary": "TI-99/4 emulator for PSP.",
+  "author": "Ludovic Jacomme (Zx-81)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.0.3",
+      "url": "https://archive.org/download/pspti99-v1.0.3-fw3x.7z/pspti99-v1.0.3-fw3x.zip",
+      "published_at": "2008-03-11",
+      "size": 1165787,
+      "sha256": "c96c17825e5acb5cd7ed89a5edb1f5b5e7182bbc98e019f305a31e3c265e673b",
+      "eboot_md5": "5e2ba745924aa07eb21cf8e286a82c95"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspti99-v1.0.3-fw3x.7z/PSPT01514_00000.jpg"
+    ],
+    "icon": "icons/pspti99.png"
+  },
+  "languages": []
+}

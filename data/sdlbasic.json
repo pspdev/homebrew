@@ -1,0 +1,27 @@
+{
+  "name": "sdlBasic",
+  "id": "sdlbasic",
+  "summary": "sdlBasic interpreter for PSP, with some sample games included.",
+  "author": "Denis Televnyy (Deniska), Chilly Willy",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.7",
+      "url": "https://archive.org/download/sdlBasic.7z/sdlBasic_psp_v07.zip",
+      "published_at": "2008-06-16",
+      "size": 2708825,
+      "sha256": "b141b012f712b9260b9645d8947cb901e167d19b75cf9b37f33f6ef7980ca8a7",
+      "eboot_md5": "ff0712a23f55e2b2f37962db51a3be36"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/sdlBasic.7z/SDLB00805_00000.jpg"
+    ],
+    "icon": "icons/sdlbasic.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Laboko [\u3089\u307c\u3053]",
+  "id": "laboko_[\u3089\u307c\u3053]",
+  "summary": "Save data decrypter for PSP.",
+  "author": "\u30b2\u30fc\u30e0\u30e9\u30dc",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.01.00",
+      "url": "https://archive.org/download/laboko.-7z/laboko101.zip",
+      "published_at": "2007-02-24",
+      "size": 4410363,
+      "sha256": "6799559db9e01ceae86fcd2599c907531eaf6fa3f75970d635da4603e5858b47",
+      "eboot_md5": "31e7da65602466cc974c206fe66ae28f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/laboko.-7z/20210804192926.png"
+    ],
+    "icon": "icons/laboko_[\u3089\u307c\u3053].png"
+  },
+  "languages": []
+}

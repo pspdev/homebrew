@@ -1,0 +1,27 @@
+{
+  "name": "PSPedict",
+  "id": "pspedict",
+  "summary": "Language learning app for PSP.",
+  "author": "PixelDragon, Batanen, Nakano",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.6",
+      "url": "https://archive.org/download/pspedict.-7z/PSPedict.zip",
+      "published_at": "2010-08-19",
+      "size": 65079446,
+      "sha256": "609b2753c8c620109cac43e7d13b8028b3f6c3e19635ba3f6e6198f5937136b6",
+      "eboot_md5": "bd2837ce94727387572d2a0fcbbbd584"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspedict.-7z/EBOO00649_00000.jpg"
+    ],
+    "icon": "icons/pspedict.png"
+  },
+  "languages": []
+}

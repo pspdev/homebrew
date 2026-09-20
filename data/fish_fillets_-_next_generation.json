@@ -1,0 +1,27 @@
+{
+  "name": "Fish Fillets - Next Generation",
+  "id": "fish_fillets_-_next_generation",
+  "summary": "PSP version of the open-source game.",
+  "author": "filip.zigo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0.1",
+      "url": "https://archive.org/download/fish-fillets.-7z/FishFillets.zip",
+      "published_at": "2011-12-27",
+      "size": 100639737,
+      "sha256": "bdb0fa06688d29599be6f70a407d63581c9eed5071c4de22abf2e2eeeee613e2",
+      "eboot_md5": "3cbe654eca01f33ce8506a96be95c673"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/fish-fillets.-7z/FILL02549_00004.png"
+    ],
+    "icon": "icons/fish_fillets_-_next_generation.png"
+  },
+  "languages": []
+}

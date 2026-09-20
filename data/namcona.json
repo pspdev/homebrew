@@ -1,0 +1,27 @@
+{
+  "name": "NamcoNA",
+  "id": "namcona",
+  "summary": "Namco System NA1 / Namco System NA2 emulator for PSP. Fork of PSPMAME.",
+  "author": "\uff30\uff33\uff30\u958b\u767a\u5e7c\u7a1a\u5712",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "A10",
+      "url": "https://archive.org/download/namcoNA.7z/namcoNA_A10.zip",
+      "published_at": "2006-11-05",
+      "size": 457494,
+      "sha256": "cf8a25c6b2c1094b558377e1f18a37e1042a88940c2bf8f317ba0ed65481b9d6",
+      "eboot_md5": "93c852ef3f1df7bfb3634cef37c416d0"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/namcoNA.7z/NAMC00926_00005.jpg"
+    ],
+    "icon": "icons/namcona.png"
+  },
+  "languages": []
+}

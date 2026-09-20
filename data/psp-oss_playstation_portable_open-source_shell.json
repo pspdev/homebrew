@@ -1,0 +1,30 @@
+{
+  "name": "PSP-OSS: PlayStation Portable Open-Source Shell",
+  "id": "psp-oss_playstation_portable_open-source_shell",
+  "summary": "UI shell for PSP.",
+  "author": "PSP-OSS Team",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.3",
+      "url": "https://archive.org/download/psp-oss-0.3-neo-flash.-7z/PSP-OSS_0.3_NeoFlash.zip",
+      "published_at": "2006-03-17",
+      "size": 6855944,
+      "sha256": "1c31834ed1fcfcec6addc3706165986f6670e33097ee2aaeeb8ab68bfcb8b85a",
+      "eboot_md5": "9f28bccab108c2830e6a475732829c0b"
+    }
+  ],
+  "tags": [
+    "PSP 30 Day Coding Competition #2 (2005-2006)",
+    "NEO Spring 2006"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-oss-0.3-neo-flash.-7z/EBOO00649_00000.jpg"
+    ],
+    "icon": "icons/psp-oss_playstation_portable_open-source_shell.png"
+  },
+  "languages": []
+}

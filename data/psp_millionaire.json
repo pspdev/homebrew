@@ -1,0 +1,27 @@
+{
+  "name": "PSP Millionaire",
+  "id": "psp_millionaire",
+  "summary": "Quiz game for PSP.",
+  "author": "PSPMillionaire",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.10",
+      "url": "https://archive.org/download/pspmillionaire.-7z/PSPMillionaire.zip",
+      "published_at": "2007-12-23",
+      "size": 6184381,
+      "sha256": "a0111371c4a61f193d00cd812fc00cf2f6f19fce0b796852a5ee78cb68c0425b",
+      "eboot_md5": "7d340bef1c92cc867ad02e72510b6894"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspmillionaire.-7z/PSPM01384_00000.jpg"
+    ],
+    "icon": "icons/psp_millionaire.png"
+  },
+  "languages": []
+}

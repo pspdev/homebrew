@@ -1,0 +1,27 @@
+{
+  "name": "PSPXTI",
+  "id": "pspxti",
+  "summary": "TI-92 Calculator emulator.",
+  "author": "Ludovic Jacomme (Zx-81)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.3.0",
+      "url": "https://archive.org/download/pspxti-v1.3.0-fw5x.7z/pspxti-v1.3.0-fw5x.zip",
+      "published_at": "2009-04-19",
+      "size": 1958094,
+      "sha256": "1dc5303a83e555ebbdeffb4fb393eccb4c82f77b2c08180e722f41e7d49cc35d",
+      "eboot_md5": "aaba4a014cba7f8e23611ef8f78f5fdc"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspxti-v1.3.0-fw5x.7z/PSPX01522_00000.jpg"
+    ],
+    "icon": "icons/pspxti.png"
+  },
+  "languages": []
+}

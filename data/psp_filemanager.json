@@ -1,0 +1,27 @@
+{
+  "name": "PSP FileManager",
+  "id": "psp_filemanager",
+  "summary": "Homebrew app for PSP.",
+  "author": "Cpasjuste, Dbase",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.3b2",
+      "url": "https://archive.org/download/pfm.-7z/PspFileManager_v.03b2.zip",
+      "published_at": "2005-07-07",
+      "size": 540495,
+      "sha256": "605b94f045d384612bbaeb66ba6212657f5c2162ffb6e58da425bf5109d46f59",
+      "eboot_md5": "505c024b568224a8bc0e357b2d5dfc8c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pfm.-7z/PFMH00227_00000.jpg"
+    ],
+    "icon": "icons/psp_filemanager.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Be Happy",
+  "id": "be_happy",
+  "summary": "Music game for PSP.",
+  "author": "Dungeon",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.4",
+      "url": "https://archive.org/download/be-happy.-7z/Be_Happy.zip",
+      "published_at": "2008-03-21",
+      "size": 2940425,
+      "sha256": "1d673532a4999cde1e861065de0ac6881c8275dccca5bf411b1c1247cf18e35e",
+      "eboot_md5": "b961ecf0c0b91d502488e928a15b5245"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/be-happy.-7z/BE_H00776_00000.jpg"
+    ],
+    "icon": "icons/be_happy.png"
+  },
+  "languages": []
+}

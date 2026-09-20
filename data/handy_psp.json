@@ -1,0 +1,27 @@
+{
+  "name": "Handy PSP",
+  "id": "handy_psp",
+  "summary": "Atari Lynx emulator for PlayStation Portable.",
+  "author": "Akop Karapetyan",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.95.1",
+      "url": "https://archive.org/download/handypsp.7z/handypsp.zip",
+      "published_at": "2007-10-17",
+      "size": 331447,
+      "sha256": "38cb55028ca8ec2e59562cd52f417681ba1ce460a40c73da96c85d6f9e848fd3",
+      "eboot_md5": "44757cc4a1844d69542f855239ef202a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/handypsp.7z/HAND00871_00000.png"
+    ],
+    "icon": "icons/handy_psp.png"
+  },
+  "languages": []
+}

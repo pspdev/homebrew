@@ -1,0 +1,27 @@
+{
+  "name": "Wolfenstein 3D",
+  "id": "wolfenstein_3d",
+  "summary": "PSP port of the game. Includes shareware version.",
+  "author": "Zack, Chilly Willy",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "6.0",
+      "url": "https://archive.org/download/wolf-3-d-v-6.0.7z/Wolf3D_V6.0.zip",
+      "published_at": "2009-05-10",
+      "size": 8043837,
+      "sha256": "926e05a54dac2d434f53e24e23c2ca13dfc1763fb9d6d9dfc8576958de0df6fc",
+      "eboot_md5": "c5069c25cc38a3e9db2a5df67622a3aa"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/wolf-3-d-v-6.0.7z/WOLF00856_00000.png"
+    ],
+    "icon": "icons/wolfenstein_3d.png"
+  },
+  "languages": []
+}

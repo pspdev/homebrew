@@ -1,0 +1,27 @@
+{
+  "name": "Tux Blocks",
+  "id": "tux_blocks",
+  "summary": "Homebrew game for PSP.",
+  "author": "Jared",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/tux-blocks-0.1.7z/TuxBlocks-0.1.zip",
+      "published_at": "2006-06-04",
+      "size": 3658056,
+      "sha256": "7f827513250e4adebc5f73d75a8c87a172be534ec14abe4803db03da6f709fc3",
+      "eboot_md5": "34ddc4eeb18cc5556573b310311edab4"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/tux-blocks-0.1.7z/TUXB01115_00000.jpg"
+    ],
+    "icon": "icons/tux_blocks.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "PSP Quran",
+  "id": "psp_quran",
+  "summary": "Religious text for PSP.",
+  "author": "Nassime",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "4.8c",
+      "url": "https://archive.org/download/pspquranv-4.0.7z/QURANPSPv4.8c.zip",
+      "published_at": "2008-09-23",
+      "size": 43158447,
+      "sha256": "239440879b6248de0250b5570e7948f99ac037a5b3dc9a03506650634ed68688",
+      "eboot_md5": "2af0014f16dfab9ed1b3c6d000381dd4"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspquranv-4.0.7z/PSPQ00898_00000.jpg"
+    ],
+    "icon": "icons/psp_quran.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Super Mario Coins",
+  "id": "super_mario_coins",
+  "summary": "Fan game for PSP.",
+  "author": "Ney Estrabelli",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/mario-coinsv-2.0.7z/MarioCoinsv2.0.zip",
+      "published_at": "2007-01-28",
+      "size": 1724549,
+      "sha256": "ca0a51b9a84577a359a0f6d4acad527ef14e5cd9ad7433615d32756179cb54c2",
+      "eboot_md5": "5168fbe74fe72b66bf966afaa480e0f2"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mario-coinsv-2.0.7z/MARI01274_00000.jpg"
+    ],
+    "icon": "icons/super_mario_coins.png"
+  },
+  "languages": []
+}

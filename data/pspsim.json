@@ -1,0 +1,27 @@
+{
+  "name": "PSPSIM",
+  "id": "pspsim",
+  "summary": "Sam Coup\u00e9 emulator for PSP.",
+  "author": "Ludovic Jacomme (Zx-81)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.2.1",
+      "url": "https://archive.org/download/pspsim-v1.2.1-fw3x.7z/pspsim-v1.2.1-fw3x.zip",
+      "published_at": "2008-01-27",
+      "size": 1535871,
+      "sha256": "18f09db3abad3cb66c6d4f31afc20c9d221b51aa199f14ccf993e45787895f7e",
+      "eboot_md5": "2f26313a625dab9e9e5dbf7e88c4d1fa"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspsim-v1.2.1-fw3x.7z/PSPS01508_00000.jpg"
+    ],
+    "icon": "icons/pspsim.png"
+  },
+  "languages": []
+}

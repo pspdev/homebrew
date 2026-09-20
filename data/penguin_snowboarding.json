@@ -1,0 +1,27 @@
+{
+  "name": "Penguin Snowboarding",
+  "id": "penguin_snowboarding",
+  "summary": "Obstacle-dodging game for PSP.",
+  "author": "CoderX",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "3.0",
+      "url": "https://archive.org/download/peng-snow.-7z/PengSnow.zip",
+      "published_at": "2012-11-03",
+      "size": 2792207,
+      "sha256": "205b16813b110ed9bbe5845c6ab70314ef4bab06ee7436d19e2625cbf505a435",
+      "eboot_md5": "ed4bdaf1fc26240064b5a8ea2c5295c8"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/peng-snow.-7z/PENG00817_00001.png"
+    ],
+    "icon": "icons/penguin_snowboarding.png"
+  },
+  "languages": []
+}

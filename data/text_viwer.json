@@ -1,0 +1,27 @@
+{
+  "name": "Text Viwer",
+  "id": "text_viwer",
+  "summary": "Text viewer app for PSP.",
+  "author": "Osakana",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.5",
+      "url": "https://archive.org/download/text-viwer-05.7z/TextViwer05.zip",
+      "published_at": "2005-05-15",
+      "size": 118874,
+      "sha256": "161074f9c1858551b648b9d4bb5969dd13c1adcd883c2b4eec27de098e8809c4",
+      "eboot_md5": "bd125079bdcef261af8b6b1d3a534374"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/text-viwer-05.7z/TEXT01047_00002.jpg"
+    ],
+    "icon": "icons/text_viwer.png"
+  },
+  "languages": []
+}

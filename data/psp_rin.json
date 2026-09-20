@@ -1,0 +1,27 @@
+{
+  "name": "PSP RIN",
+  "id": "psp_rin",
+  "summary": "Game Boy / Game Boy Color emulator with rewind support.",
+  "author": "Davex, Maciej Barczak",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.32 RM v2.0",
+      "url": "https://archive.org/download/rin-1-32-rm.-7z/RIN_1_32_RM.zip",
+      "published_at": "2019-01-05",
+      "size": 321061,
+      "sha256": "59791633ec3044b6def48493fc56f3cd767628e3997885aa97be920f7a6f3634",
+      "eboot_md5": "35bfc828b41a80ac4aedfeaae31950f8"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/rin-1-32-rm.-7z/RIN_00827_00000.png"
+    ],
+    "icon": "icons/psp_rin.png"
+  },
+  "languages": []
+}

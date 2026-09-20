@@ -1,0 +1,27 @@
+{
+  "name": "TaitoAX",
+  "id": "taitoax",
+  "summary": "Taito Asuka and Taito X System emulator for PSP. Fork of PSPMAME.",
+  "author": "\uff30\uff33\uff30\u958b\u767a\u5e7c\u7a1a\u5712",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "Z04",
+      "url": "https://archive.org/download/taitoAX.7z/taitoAX.zip",
+      "published_at": "2006-10-23",
+      "size": 548772,
+      "sha256": "a789a58a5656accfdf64a5e284063ab42428b46629425ec2355863d3bdc77587",
+      "eboot_md5": "b4915d93c5cb49de0221fe9b26b9f13c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/taitoAX.7z/TAIT00698_00001.jpg"
+    ],
+    "icon": "icons/taitoax.png"
+  },
+  "languages": []
+}

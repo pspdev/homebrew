@@ -1,0 +1,27 @@
+{
+  "name": "Blob Wars: Metal Blob Solid",
+  "id": "blob_wars_metal_blob_solid",
+  "summary": "Run n' gun game starring blobs.",
+  "author": "Parallel Realities, Denis Televnyy (Deniska)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.04",
+      "url": "https://archive.org/download/blob.7z/blob.zip",
+      "published_at": "2008-03-10",
+      "size": 11143723,
+      "sha256": "efcb53701b3763d2392143040854949dbebefc6391162eb1decc0feee6c5fc0d",
+      "eboot_md5": "207156aed055dee48d247a69f8793c66"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/blob.7z/BLOB00415_00001.png"
+    ],
+    "icon": "icons/blob_wars_metal_blob_solid.png"
+  },
+  "languages": []
+}

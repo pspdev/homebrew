@@ -1,0 +1,27 @@
+{
+  "name": "PianoStationPortable",
+  "id": "pianostationportable",
+  "summary": "Piano app for PSP.",
+  "author": "Ecule Watt",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/pianosp2.7z/pianosp2.zip",
+      "published_at": "2007-09-01",
+      "size": 1246429,
+      "sha256": "4d5ffc5bf066f99b14d92b7727cff4ce9f3dd58f8c1b0097fce6ff7c85db6526",
+      "eboot_md5": "5f6d6b4f91a0526cf0891848a299c13a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pianosp2.7z/EBOO00649_00000.jpg"
+    ],
+    "icon": "icons/pianostationportable.png"
+  },
+  "languages": []
+}

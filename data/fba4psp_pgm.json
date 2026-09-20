@@ -1,0 +1,27 @@
+{
+  "name": "FBA4PSP PGM",
+  "id": "fba4psp_pgm",
+  "summary": "This version of FinalBurn Alpha for PSP claims support for several games designed for the PolyGame Master (PGM) arcade board created by the Taiwanese company IGS.",
+  "author": "OopsWare, Lbicelyne",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "12.4.0",
+      "url": "https://archive.org/download/pgm.7z/pgm.zip",
+      "published_at": "2009-03-15",
+      "size": 321466,
+      "sha256": "60539e103577b5f69a4090dca2cb547dc38ddf4c6134be4cc6500975b4939a80",
+      "eboot_md5": "b4cdeec5a811e41f8dee6bdfaf499f5f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pgm.7z/PGMH00324_00000.jpg"
+    ],
+    "icon": "icons/fba4psp_pgm.png"
+  },
+  "languages": []
+}

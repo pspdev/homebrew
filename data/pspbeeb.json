@@ -1,0 +1,27 @@
+{
+  "name": "PSPBEEB",
+  "id": "pspbeeb",
+  "summary": "BBC Micro Emulator for PSP",
+  "author": "Ludovic Jacomme (Zx-81)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.1.0",
+      "url": "https://archive.org/download/pspbeeb.7z/pspbeeb.zip",
+      "published_at": "2007-12-29",
+      "size": 1616859,
+      "sha256": "6f0e9f4f391b1af176fb871467a41c100f323fb168b05f707ec593fefc0d9961",
+      "eboot_md5": "f99d846e3161453ea964ec0125a031df"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspbeeb.7z/PSPB00737_00000.jpg"
+    ],
+    "icon": "icons/pspbeeb.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Fishguts",
+  "id": "fishguts",
+  "summary": "Homebrew roguelike game for PSP.",
+  "author": "Mega Tokyo Software",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1.6055/1",
+      "url": "https://archive.org/download/fishguts.7z/fishguts.zip",
+      "published_at": "2008-03-11",
+      "size": 567817,
+      "sha256": "48546557d3e07ba97e7bf5fa68d4c04a579d5f39e25c6903997eaadd3af8f58a",
+      "eboot_md5": "77925e37f39a33c60a4a729272ed2573"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/fishguts.7z/FISH00877_00000.png"
+    ],
+    "icon": "icons/fishguts.png"
+  },
+  "languages": []
+}

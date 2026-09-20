@@ -1,0 +1,27 @@
+{
+  "name": "Freeze Owata+1 [\u30d5\u30ea\u30fc\u30ba\u30aa\u30ef\u30bf]",
+  "id": "freeze_owata+1_[\u30d5\u30ea\u30fc\u30ba\u30aa\u30ef\u30bf]",
+  "summary": "Browser for the defunct Japanese forum, 2ch.",
+  "author": "KMA, toyo, \u6751\u4e2d \u662d\u96c4 (STEAR)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.10 Alpha",
+      "url": "https://archive.org/download/freeze1_130109.7z/freeze+1_130109.zip",
+      "published_at": "2013-01-09",
+      "size": 1399929,
+      "sha256": "6da821a8a1f3717500d652045643ad2a6d1b1e9ebe4dab11134bb24bb764a383",
+      "eboot_md5": "61da584630dbcf4910f965756694d87f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/freeze1_130109.7z/FREE01130_00001.png"
+    ],
+    "icon": "icons/freeze_owata+1_[\u30d5\u30ea\u30fc\u30ba\u30aa\u30ef\u30bf].png"
+  },
+  "languages": []
+}

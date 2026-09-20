@@ -1,0 +1,27 @@
+{
+  "name": "Chess Clock aka Game Clock PSP",
+  "id": "chess_clock_aka_game_clock_psp",
+  "summary": "Chess clock for the PSP.",
+  "author": "David Perry (InsertWittyName), MK2k",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/chessclock-psp.-7z/ChessclockPSP.zip",
+      "published_at": "2008-12-02",
+      "size": 702191,
+      "sha256": "614bf7ea16ef814822ededc27b7b7c992dd4448f05571028193cfc32bf68339a",
+      "eboot_md5": "ff64796022bec960c06e55d405ce1369"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/chessclock-psp.-7z/CHES01269_00001.png"
+    ],
+    "icon": "icons/chess_clock_aka_game_clock_psp.png"
+  },
+  "languages": []
+}

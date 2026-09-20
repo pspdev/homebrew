@@ -1,0 +1,27 @@
+{
+  "name": "COGEEP",
+  "id": "cogeep",
+  "summary": "3D shooting game for PSP.",
+  "author": "240-185",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/cogeep.7z/cogeep.zip",
+      "published_at": "2016-01-01",
+      "size": 13987381,
+      "sha256": "5d028e16f03de02d72b1d0e04a6412800a0e5f04fdc888154462a36ced4bf094",
+      "eboot_md5": "3a9915a07106bbb819792ef940559d51"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/cogeep.7z/COGE00627_00001.png"
+    ],
+    "icon": "icons/cogeep.png"
+  },
+  "languages": []
+}

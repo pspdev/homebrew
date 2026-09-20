@@ -1,0 +1,27 @@
+{
+  "name": "Biohazard 2",
+  "id": "biohazard_2",
+  "summary": "Homebrew 2D game for PSP.",
+  "author": "Eskema",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0 Final",
+      "url": "https://archive.org/download/biohazard2.7z/biohazard2.zip",
+      "published_at": "2007-02-04",
+      "size": 3068124,
+      "sha256": "866b6ef99d6896cd81248e6b74761756fa7a1dee9df5114e4c442923bbc819d1",
+      "eboot_md5": "8b0da3fb7ed42dee545579621d196c69"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/biohazard2.7z/EBOO00649_00000.jpg"
+    ],
+    "icon": "icons/biohazard_2.png"
+  },
+  "languages": []
+}

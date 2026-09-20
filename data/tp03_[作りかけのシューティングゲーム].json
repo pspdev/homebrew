@@ -1,0 +1,27 @@
+{
+  "name": "TP03 [\u4f5c\u308a\u304b\u3051\u306e\u30b7\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0\u30b2\u30fc\u30e0]",
+  "id": "tp03_[\u4f5c\u308a\u304b\u3051\u306e\u30b7\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0\u30b2\u30fc\u30e0]",
+  "summary": "2D shooter Touhou Project fan game for PSP.",
+  "author": "osakana",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.3",
+      "url": "https://archive.org/download/tp-03.7z/TP03.zip",
+      "published_at": "2005-06-17",
+      "size": 1808153,
+      "sha256": "2f4fb5993cace6fdfca5dc135b9a341a66dfe070c551b1b84da68ad8f03597b7",
+      "eboot_md5": "9944662c418af16bc2a5dc4dcf998b0e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/tp-03.7z/TP0300263_00001.png"
+    ],
+    "icon": "icons/tp03_[\u4f5c\u308a\u304b\u3051\u306e\u30b7\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0\u30b2\u30fc\u30e0].png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Chinese Chess PSP [\u4e2d\u56fd\u8c61\u68cbPSP]",
+  "id": "chinese_chess_psp_[\u4e2d\u56fd\u8c61\u68cbpsp]",
+  "summary": "Homebrew game for PSP.",
+  "author": "newcreat, joemaster",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/cchessv1.1.7z/cchessv1.1.zip",
+      "published_at": "2007-01-09",
+      "size": 5258933,
+      "sha256": "f29a9bcaf4ab91b04673c8f9de9192fbd51c9d0790348846c6bf4d5b937cf5ed",
+      "eboot_md5": "27d0a676762c064e2aa545f3b1beebc4"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/cchessv1.1.7z/CCHE00895_00001.jpg"
+    ],
+    "icon": "icons/chinese_chess_psp_[\u4e2d\u56fd\u8c61\u68cbpsp].png"
+  },
+  "languages": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Captain Justice",
+  "id": "captain_justice",
+  "summary": "Superman game with static sprites.",
+  "author": "Leo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1 beta",
+      "url": "https://archive.org/download/supe-00875-00000/superman.zip",
+      "published_at": "2009-01-13",
+      "size": 1267082,
+      "sha256": "ee5fcc2cf85803caf998b130a480087090553882974ab844cf4126855e4262db",
+      "eboot_md5": "05d2b1c9f578439a310ad2142fd9f66b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/supe-00875-00000/SUPE00875_00000.png"
+    ],
+    "icon": "icons/captain_justice.png"
+  },
+  "languages": []
+}

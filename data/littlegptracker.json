@@ -1,0 +1,27 @@
+{
+  "name": "LittleGPTracker",
+  "id": "littlegptracker",
+  "summary": "Music tracker for PSP.",
+  "author": "Marc Resibois",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.1h_043",
+      "url": "https://archive.org/download/lgpt_PSP.7z/lgpt_PSP.zip",
+      "published_at": "2011-11-06",
+      "size": 904000,
+      "sha256": "c6ca384b2605258639dcc42c9a7deb80a27cacdf748fa0944f4850f7907d3256",
+      "eboot_md5": "e4fa82ea4778e58524197e84595014d3"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lgpt_PSP.7z/LGPT00777_00002.png"
+    ],
+    "icon": "icons/littlegptracker.png"
+  },
+  "languages": []
+}

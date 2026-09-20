@@ -1,0 +1,27 @@
+{
+  "name": "Baseball Trivia",
+  "id": "baseball_trivia",
+  "summary": "Quiz app for PSP.",
+  "author": "Bronx",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Beta 0.2",
+      "url": "https://archive.org/download/baseball-trivia.-7z/baseball_trivia_2.zip",
+      "published_at": "2006-06-23",
+      "size": 748462,
+      "sha256": "9685fddbd733a57f791ed470fedab08a7936ac09f07dd8dd4cbf07b5ac6535da",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/baseball-trivia.-7z/LUAP01126_00000.jpg"
+    ],
+    "icon": "icons/baseball_trivia.png"
+  },
+  "languages": []
+}

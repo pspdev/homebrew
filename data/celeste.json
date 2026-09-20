@@ -1,0 +1,27 @@
+{
+  "name": "Celeste",
+  "id": "celeste",
+  "summary": "Celeste Classic C source port for PSP.",
+  "author": "aggressivepixels",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/celeste.-7z/Celeste.zip",
+      "published_at": "2021-02-15",
+      "size": 1883685,
+      "sha256": "6534e04ec0288d7a2dc373375085761898763471c620499f2d2b183624578725",
+      "eboot_md5": "5e8baec72a123d0193ab36a57a574f22"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/celeste.-7z/CELE00709_00000.jpg"
+    ],
+    "icon": "icons/celeste.png"
+  },
+  "languages": []
+}

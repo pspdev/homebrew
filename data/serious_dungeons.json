@@ -1,0 +1,27 @@
+{
+  "name": "Serious Dungeons",
+  "id": "serious_dungeons",
+  "summary": "3D shooter for PSP.",
+  "author": "Be3f",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.5",
+      "url": "https://archive.org/download/serious-dungeons-v-0.5.7z/Serious_Dungeons_v0.5.zip",
+      "published_at": "2007-05-06",
+      "size": 25258501,
+      "sha256": "a1a7f6079e44ff0dfa3432617706ba8b76dbf4b56f6a4d3afb792444f17b025b",
+      "eboot_md5": "2f8d76ef2687f10e6fea188db21f9e73"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/serious-dungeons-v-0.5.7z/SERI02036_00000.jpg"
+    ],
+    "icon": "icons/serious_dungeons.png"
+  },
+  "languages": []
+}

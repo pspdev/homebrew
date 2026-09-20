@@ -1,0 +1,27 @@
+{
+  "name": "PSP Phone Dialer",
+  "id": "psp_phone_dialer",
+  "summary": "Homebrew app for PSP.",
+  "author": "dragula96",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.02",
+      "url": "https://archive.org/download/pspdialer.7z/psp_dialer_002.zip",
+      "published_at": "2008-02-01",
+      "size": 1778128,
+      "sha256": "87caa6f044f3bd785fb98a0f4bea6cf573456703a8518c11ce564dff9d89d9fb",
+      "eboot_md5": "fae2e2e0bae7831e4e8cf4ff116eeca2"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspdialer.7z/PSP_01300_00000.png"
+    ],
+    "icon": "icons/psp_phone_dialer.png"
+  },
+  "languages": []
+}

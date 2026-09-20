@@ -1,0 +1,27 @@
+{
+  "name": "Love Calculator PSP",
+  "id": "love_calculator_psp",
+  "summary": "Algorithm that calculates the probability of positive outcomes in a romantic pairship based on names alone.",
+  "author": "J3r3mie",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/love-calculator-pspv-2.7z/LoveCalculatorPSPV2.zip",
+      "published_at": "2008-08-23",
+      "size": 2488310,
+      "sha256": "bdfb0e837ed9cd52385f0ae1b64d0e2f716a6f31eb138e3d0bdcdca6e1eedf48",
+      "eboot_md5": "ca05a202b4eae10c91e035b629aab085"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/love-calculator-pspv-2.7z/LOVE01819_00000.jpg"
+    ],
+    "icon": "icons/love_calculator_psp.png"
+  },
+  "languages": []
+}

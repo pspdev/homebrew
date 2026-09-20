@@ -1,0 +1,27 @@
+{
+  "name": "Zombie Infections",
+  "id": "zombie_infections",
+  "summary": "Homebrew game for PSP.",
+  "author": "Zharikov Vitaliy (Vittach)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/zombie-infections.-7z/ZombiesInf2.zip",
+      "published_at": "2012-07-23",
+      "size": 12020984,
+      "sha256": "4564a57293325042cd7f7fab36b806217d28f14ab3b25f7aeeee2a1af5af8e88",
+      "eboot_md5": "f7c9a78c80a7e1f2653cc4dbf46f76d0"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/zombie-infections.-7z/vlcsnap-2021-12-24-11h42m21s773.png"
+    ],
+    "icon": "icons/zombie_infections.png"
+  },
+  "languages": []
+}

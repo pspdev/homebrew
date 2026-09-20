@@ -1,0 +1,27 @@
+{
+  "name": "PSPFun",
+  "id": "pspfun",
+  "summary": "Collection of jokes/riddles.",
+  "author": "MK2k",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/pspfun.-7z/PSPFun.zip",
+      "published_at": "2007-08-27",
+      "size": 425245,
+      "sha256": "de746091b38ae5f3710d9ae50f921312485b1d23b6301e6e46ddfe759f9bcdde",
+      "eboot_md5": "0615b487ab46394bb1d822aca32fe4af"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspfun.-7z/EBOO00649_00001.jpg"
+    ],
+    "icon": "icons/pspfun.png"
+  },
+  "languages": []
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Kobo Deluxe",
+  "id": "kobo_deluxe",
+  "summary": "PSP port of the enhanced version of Akira Higuchi's game, XKobo. This version has no sound.",
+  "author": "Riviera71",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.5.1",
+      "url": "https://archive.org/download/kobo-deluxe.-7z/KoboDeluxe.zip",
+      "published_at": "2011-01-01",
+      "size": 2333367,
+      "sha256": "5b73e946db8063f338687fcaa8d42abd4655d4007dd619709749abadb2361056",
+      "eboot_md5": "24e251ed5df963bc57475c1a7276157b"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/kobo-deluxe.-7z/KOBO01010_00001.png"
+    ],
+    "icon": "icons/kobo_deluxe.png"
+  },
+  "languages": []
+}

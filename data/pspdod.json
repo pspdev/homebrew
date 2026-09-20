@@ -1,0 +1,27 @@
+{
+  "name": "pspdod",
+  "id": "pspdod",
+  "summary": "PSP port of Dungeons of Daggorath.",
+  "author": "Trevor Gerbrand",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.7",
+      "url": "https://archive.org/download/pspdod.7z/pspdod.zip",
+      "published_at": "2008-12-12",
+      "size": 1000555,
+      "sha256": "18395155af6f915fd6c41555a8858c8c271baf154c68ad95ee2a21c17c10e93b",
+      "eboot_md5": "9d7b2d20455e9f317cdf4bab343ce950"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspdod.7z/PSPD00650_00000.png"
+    ],
+    "icon": "icons/pspdod.png"
+  },
+  "languages": []
+}

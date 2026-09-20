@@ -1,0 +1,27 @@
+{
+  "name": "FruitsDay",
+  "id": "fruitsday",
+  "summary": "Homebrew game for PSP.",
+  "author": "Miroslaw Zielinski",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.00",
+      "url": "https://archive.org/download/fruitsday.7z/fruitsday.zip",
+      "published_at": "2008-12-14",
+      "size": 2747357,
+      "sha256": "1ab5dd06eb573bec9b7c64e1544a7a2af389863abf972102ef99533cca43db4f",
+      "eboot_md5": "46b35f0ca8a1ee2ccb7bca2049a1bf33"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/fruitsday.7z/FRUI00987_00000.png"
+    ],
+    "icon": "icons/fruitsday.png"
+  },
+  "languages": []
+}

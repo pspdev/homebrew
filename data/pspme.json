@@ -1,0 +1,27 @@
+{
+  "name": "pspME",
+  "id": "pspme",
+  "summary": "A PSP porting of SUN's phoneMEAdvanced project to enable MIDP/PBP/JavaME applications running on PSP.",
+  "author": "M@x",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.2.1",
+      "url": "https://archive.org/download/pspME-bin-0.2.1/pspME-bin-0.2.1.zip",
+      "published_at": "2008-02-08",
+      "size": 2375275,
+      "sha256": "9d383081d065d31b428caf9525a46950b4f2077147fbfff464b1d6bfbff19e25",
+      "eboot_md5": "d4a835d4375062fd635568b8510b7873"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspME-bin-0.2.1/PSPM01127_00000.png"
+    ],
+    "icon": "icons/pspme.png"
+  },
+  "languages": []
+}

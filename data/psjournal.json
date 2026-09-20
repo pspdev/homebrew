@@ -1,0 +1,27 @@
+{
+  "name": "PsJournal",
+  "id": "psjournal",
+  "summary": "Homebrew app for PSP. The original password to access the application is the nickname set for the PSP.",
+  "author": "TheCraziness1",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "Beta 0.1",
+      "url": "https://archive.org/download/ps-journal.-7z/PsJournal.zip",
+      "published_at": "2009-06-16",
+      "size": 2089966,
+      "sha256": "bf431f75ec41662737bc836a26e164136b915767b0cf9f04124786331bc88a2a",
+      "eboot_md5": "71e67de0f1a04a6920ea7740ef144d01"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ps-journal.-7z/20210725015628.png"
+    ],
+    "icon": "icons/psjournal.png"
+  },
+  "languages": []
+}

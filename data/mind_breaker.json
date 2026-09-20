@@ -1,0 +1,27 @@
+{
+  "name": "Mind Breaker",
+  "id": "mind_breaker",
+  "summary": "Homebrew game for PSP.",
+  "author": "Cyril92",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/pspmind-breakerv-1.0.7z/PSPMindBreakerv1.0.zip",
+      "published_at": "2008-04-30",
+      "size": 770895,
+      "sha256": "2f45eb789cd159b5e2c2287883f270cadf18d9563365ad998b1073c02f4d0878",
+      "eboot_md5": "63a92466ec895cf2fe791b94bd9e757b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspmind-breakerv-1.0.7z/PSPM01596_00000.jpg"
+    ],
+    "icon": "icons/mind_breaker.png"
+  },
+  "languages": []
+}

@@ -22,6 +22,5 @@
       "https://archive.org/download/psp-bootloader/PSP-02020_00001.png"
     ],
     "icon": "icons/psp_bootloader.png"
-  },
-  "languages": []
+  }
 }

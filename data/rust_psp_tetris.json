@@ -22,6 +22,5 @@
       "https://archive.org/download/rust-psp-tetris.7z/rust-psp-tetris.png"
     ],
     "icon": "icons/rust_psp_tetris.png"
-  },
-  "languages": []
+  }
 }

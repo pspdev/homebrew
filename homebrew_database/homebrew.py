@@ -100,7 +100,7 @@ class Homebrew:
             return_dict["license"] = self.license
         if self.icon is not None:
             return_dict["media"]["icon"] = self.icon
-        if self.languages is not None:
+        if len(self.languages) > 0:
             return_dict["languages"] = self.languages
         
         self.releases.sort(reverse=True)

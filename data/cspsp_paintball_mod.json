@@ -1,0 +1,26 @@
+{
+  "name": "CSPSP PaintBall MoD",
+  "id": "cspsp_paintball_mod",
+  "summary": "Mod of the homebrew game, CSPSP.",
+  "author": "Omnitrix",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.82",
+      "url": "https://archive.org/download/cspsp-paint-ball-mo-d.-7z/CSPSP%20PaintBall%20MoD.zip",
+      "published_at": "2011-01-01",
+      "size": 8127249,
+      "sha256": "78eb1008b9c069f9dd2f7975720a2ad77c5160a0abb3dd29feed62055855d9d8",
+      "eboot_md5": "c0880893c66e6f6bc1fb249b6494f32b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/cspsp-paint-ball-mo-d.-7z/CSPS01600_00000.jpg"
+    ],
+    "icon": "icons/cspsp_paintball_mod.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Bejeweled Keeper",
+  "id": "bejeweled_keeper",
+  "summary": "Puzzle game for PSP.",
+  "author": "N64Francois",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/bejeweled-keeper/Bejeweled%20Keeper.zip",
+      "published_at": "2009-01-01",
+      "size": 9993404,
+      "sha256": "0c5339060037dd7598e655804ab07f2c00c753ae22536d2f17199c57abcb9fef",
+      "eboot_md5": "99666ce9b0c1e2948afc0c85bb70ad82"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/bejeweled-keeper/BEJE01539_00001.png"
+    ],
+    "icon": "icons/bejeweled_keeper.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Kwizz PSP",
+  "id": "kwizz_psp",
+  "summary": "Quiz game for PSP.",
+  "author": "Jy98, Wassgha",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/kwizz-psp-1.2.7z/Kwizz%20PSP%201.2.zip",
+      "published_at": "2010-02-28",
+      "size": 2087653,
+      "sha256": "cc24b18a1cb3e98c44735b58d54615137fc6a70cf2e27e2f957d46b7f347dc77",
+      "eboot_md5": "0c5ef056213ebde88e44dfc0f8196286"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/kwizz-psp-1.2.7z/KWIZ00995_00000.jpg"
+    ],
+    "icon": "icons/kwizz_psp.png"
+  }
+}

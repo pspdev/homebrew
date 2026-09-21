@@ -1,0 +1,26 @@
+{
+  "name": "Road Dog",
+  "id": "road_dog",
+  "summary": "WiFi connection sniffer.",
+  "author": "Brek Martin (Art)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2d",
+      "url": "https://archive.org/download/road-dog-v-2c.-7z/Road%20Dog%20V2d.zip",
+      "published_at": "2008-01-03",
+      "size": 2328880,
+      "sha256": "24cb8abb1a9600bb03e53d2636466c971d907460d09102141eeaf9bb2ef7e823",
+      "eboot_md5": "3510d704caf7fb76a5fdd7debcb7efd1"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/road-dog-v-2c.-7z/snap001.bmp.png"
+    ],
+    "icon": "icons/road_dog.png"
+  }
+}

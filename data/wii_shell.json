@@ -1,0 +1,26 @@
+{
+  "name": "Wii Shell",
+  "id": "wii_shell",
+  "summary": "UI shell for PSP.",
+  "author": "CoDnX",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/wii-shell-v-0.2.7z/Wii%20Shell%20v0.2.zip",
+      "published_at": "2008-09-01",
+      "size": 5004195,
+      "sha256": "070d48398b0e3fea3705faae5423eabe2ff01f27d2eda8d28d1ad20c93131707",
+      "eboot_md5": "f37f67c303ce0285c685d7ca01548738"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/wii-shell-v-0.2.7z/WII%2001127_00000.png"
+    ],
+    "icon": "icons/wii_shell.png"
+  }
+}

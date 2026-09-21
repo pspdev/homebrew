@@ -1,0 +1,26 @@
+{
+  "name": "Battlegrounds",
+  "id": "battlegrounds",
+  "summary": "Homebrew game for PSP.",
+  "author": "Alex Wickes (Xfacter)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.5",
+      "url": "https://archive.org/download/battlegrounds.-7z/Old%20Versions/Battlegrounds.zip",
+      "published_at": "2007-01-01",
+      "size": 1698326,
+      "sha256": "fb1aa62152f1d7ba85cec2ed574d90e4e4f9627e5c6a9d35d8ba8c665bdf1461",
+      "eboot_md5": "e9f2a68ffebcee9719d375cb7e2dac2b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/battlegrounds.-7z/BATT01374_00000.jpg"
+    ],
+    "icon": "icons/battlegrounds.png"
+  }
+}

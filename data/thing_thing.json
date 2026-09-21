@@ -1,0 +1,26 @@
+{
+  "name": "Thing Thing",
+  "id": "thing_thing",
+  "summary": "PSP remake of the Flash game.",
+  "author": "Scorpus",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.9.2",
+      "url": "https://archive.org/download/thing-thing.-7z/Thing%20Thing.zip",
+      "published_at": "2008-12-20",
+      "size": 1173969,
+      "sha256": "bf125d9e9da52a7dbfcfea74e0d08d7cd79261e358d0fde07226b2dbbea5d789",
+      "eboot_md5": "60ab44243087598fa971c4f874430fd1"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/thing-thing.-7z/THIN01044_00000.jpg"
+    ],
+    "icon": "icons/thing_thing.png"
+  }
+}

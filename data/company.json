@@ -1,0 +1,29 @@
+{
+  "name": "Company",
+  "id": "company",
+  "summary": "Card game for PSP.",
+  "author": "Nakano, Motuk",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/company-card-game-v-1.1.7z/Company%20%28Card%20Game%29%20v1.1.zip",
+      "published_at": "2011-09-16",
+      "size": 10891316,
+      "sha256": "6ddb7f020cf7ae73f2d2600086fbc74d59e687596d564f4a3569d4529ee99c29",
+      "eboot_md5": "0738fd7d73485bb6d4a80df3d4706c04"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011",
+    "NEO Retro Coding Compo 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/company-card-game-v-1.1.7z/COMP01922_00001.png"
+    ],
+    "icon": "icons/company.png"
+  }
+}

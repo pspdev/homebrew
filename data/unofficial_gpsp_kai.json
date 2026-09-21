@@ -1,0 +1,26 @@
+{
+  "name": "Unofficial gpSP Kai",
+  "id": "unofficial_gpsp_kai",
+  "summary": "Fork of gpSP, the GameBoy Advance emulator for PSP. Requires a gba_bios.bin file to launch (not included).",
+  "author": "takka",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "3.4 Test 3 Build 152",
+      "url": "https://archive.org/download/uo-gp-sp-kai-3.4-test-3-build-152/UO%20gpSP%20kai%203.4%20test%203%20Build%20152.zip",
+      "published_at": "2009-09-11",
+      "size": 1047885,
+      "sha256": "6523854af4d2b0da4fa52729c02191c88b134eb2b7ea2cb21dc53cb3753c104b",
+      "eboot_md5": "b0db3d34ce8a87cb8d7d24d670fb1115"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/uo-gp-sp-kai-3.4-test-3-build-152/UO%20G02371_00001.png"
+    ],
+    "icon": "icons/unofficial_gpsp_kai.png"
+  }
+}

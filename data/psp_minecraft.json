@@ -1,0 +1,26 @@
+{
+  "name": "PSP Minecraft",
+  "id": "psp_minecraft",
+  "summary": "Unofficial PSP port of the game.",
+  "author": "Invisibros",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "3.0.0",
+      "url": "https://archive.org/download/psp-minecraft.-7z/PSP%20Minecraft%20%2864mb%29.zip",
+      "published_at": "2020-10-20",
+      "size": 92711338,
+      "sha256": "684c66c9026052ca237eadc94fb09c6c4e0f721178da0fe8af7a67090b4d1d21",
+      "eboot_md5": "18701538fb95293a32ae2d614b1f428f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-minecraft.-7z/PSP%2001617_00000.jpg"
+    ],
+    "icon": "icons/psp_minecraft.png"
+  }
+}

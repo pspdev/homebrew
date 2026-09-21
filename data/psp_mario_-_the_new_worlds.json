@@ -1,0 +1,26 @@
+{
+  "name": "PSP Mario - The New Worlds",
+  "id": "psp_mario_-_the_new_worlds",
+  "summary": "Homebrew game for PSP.",
+  "author": "dan369",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.03",
+      "url": "https://archive.org/download/pspmario-the-new-worldsv-003.7z/PSP%20Mario%20-%20The%20New%20Worlds%20v0.03.zip",
+      "published_at": "2010-04-04",
+      "size": 4616086,
+      "sha256": "c99729c929eae3a2d8d56d5b43029d9ee2235946541f3971362e091fbfdf7f8c",
+      "eboot_md5": "7785204988d957ff7ee3d9484e910537"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspmario-the-new-worldsv-003.7z/snap002.bmp.png"
+    ],
+    "icon": "icons/psp_mario_-_the_new_worlds.png"
+  }
+}

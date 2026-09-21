@@ -1,0 +1,26 @@
+{
+  "name": "The Game of Life - The Sound of Life",
+  "id": "the_game_of_life_-_the_sound_of_life",
+  "summary": "Game of Life implementation for PSP.",
+  "author": "Maxence Ardouin",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "RC2",
+      "url": "https://archive.org/download/gol-02013-00000/Old%20Versions/GoL_The_Sound_Of_Life.zip",
+      "published_at": "2009-02-17",
+      "size": 224269,
+      "sha256": "b819c19ccaae549db4913a44e78a7fe111c54bcea7c3862247a5eb2969226dfe",
+      "eboot_md5": "0a444ab4c5f123e9ff77d6d0ff02494f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/gol-02013-00000/GOL_00758_00000.png"
+    ],
+    "icon": "icons/the_game_of_life_-_the_sound_of_life.png"
+  }
+}

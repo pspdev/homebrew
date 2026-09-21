@@ -1,0 +1,26 @@
+{
+  "name": "Lua Player by YuliaTeam",
+  "id": "lua_player_by_yuliateam",
+  "summary": "Lua interpreter for PSP.",
+  "author": "YuliaTeam",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "Beta 0.1",
+      "url": "https://archive.org/download/lpb-yt-beta-0.1/LPbYT%20beta%200.1.zip",
+      "published_at": "2023-10-13",
+      "size": 49496258,
+      "sha256": "8f5672e6ba10f6d3afc57fd0182ff6e6196a9e0f3b5bcc1fb86d111a49eac6dc",
+      "eboot_md5": "05034f19bfc4293c261490c1fd55b3ba"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lpb-yt-beta-0.1/LPBY01046_00000.png"
+    ],
+    "icon": "icons/lua_player_by_yuliateam.png"
+  }
+}

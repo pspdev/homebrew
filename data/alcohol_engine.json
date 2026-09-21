@@ -1,0 +1,26 @@
+{
+  "name": "Alcohol Engine",
+  "id": "alcohol_engine",
+  "summary": "Homebrew app for PSP.",
+  "author": "Dark_World",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1",
+      "url": "https://archive.org/download/alcohol-engine.-7z/Alcohol%20Engine.zip",
+      "published_at": "2009-01-27",
+      "size": 425755,
+      "sha256": "d6cca39d89799436d1425b2bf46583daca3fe28609e269a2f16637c10c42fee9",
+      "eboot_md5": "18abdaad2f76835cc597b6da7320f0c7"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/alcohol-engine.-7z/ALCO01336_00000.jpg"
+    ],
+    "icon": "icons/alcohol_engine.png"
+  }
+}

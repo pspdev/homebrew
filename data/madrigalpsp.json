@@ -1,0 +1,26 @@
+{
+  "name": "MADrigalPSP",
+  "id": "madrigalpsp",
+  "summary": "Collection of old handheld games recreated for modern devices.",
+  "author": "HCF Retrocoder",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/madrigal-psp-v-1.0.7z/MADrigalPSP%20v1.0.zip",
+      "published_at": "2017-11-13",
+      "size": 65069930,
+      "sha256": "0103efcf2083260c3ed94068be140ec867f665e38fdd161f9ae904c4e78431c2",
+      "eboot_md5": "bd5306d04ddb04b5bcfe3fbf8fa3fcb9"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/madrigal-psp-v-1.0.7z/MADR01273_00000.jpg"
+    ],
+    "icon": "icons/madrigalpsp.png"
+  }
+}

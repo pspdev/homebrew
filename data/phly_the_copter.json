@@ -1,0 +1,26 @@
+{
+  "name": "Phly The Copter",
+  "id": "phly_the_copter",
+  "summary": "Homebrew game for PSP.",
+  "author": "PearLBLacK",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/phly-the-copter-v-2.0.7z/Phly%20the%20Copter%20v2.0.zip",
+      "published_at": "2011-06-08",
+      "size": 7515104,
+      "sha256": "0124e550d6efc0e57798463707edefd6cbbed64a2ba71b998fabfd8bd14d3d8c",
+      "eboot_md5": "12d1cee4df2bbfbb0b7b5c887f91f2c6"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/phly-the-copter-v-2.0.7z/PHLY01713_00000.png"
+    ],
+    "icon": "icons/phly_the_copter.png"
+  }
+}

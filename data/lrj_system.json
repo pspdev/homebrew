@@ -1,0 +1,26 @@
+{
+  "name": "LRJ System",
+  "id": "lrj_system",
+  "summary": "UI shell for PSP.",
+  "author": "LRJ Team",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/lrj-system-v-1.2.7z/LRJ%20System%20v1.2.zip",
+      "published_at": "2008-05-11",
+      "size": 4937656,
+      "sha256": "c97d0d767dfb56b465e0d7d60edc670fe19e07d8b36d3d76f56e065d3ca759f1",
+      "eboot_md5": "fae91dbe26a8ac210442fc5aab1b06f6"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lrj-system-v-1.2.7z/LRJ%2001204_00000.jpg"
+    ],
+    "icon": "icons/lrj_system.png"
+  }
+}

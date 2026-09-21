@@ -1,0 +1,28 @@
+{
+  "name": "DGEN RX",
+  "id": "dgen_rx",
+  "summary": "Fork of the Sega Genesis (Megadrive) emulator for PSP created by syn-k.",
+  "author": "\u732b\u5c71\u732b\u5b97 (Nekomune)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.70 Lite",
+      "url": "https://archive.org/download/dgen-170-rx.-7z/DGEN%20170%20RX.zip",
+      "published_at": "2011-08-16",
+      "size": 4797112,
+      "sha256": "c0dc63cf3000f257f7cc0f31cd82c76ab08a0f1337068bc121fdd8062a730acb",
+      "eboot_md5": "bd8db8a334e78c77326e63ea9d4dae63"
+    }
+  ],
+  "tags": [
+    "ad-hoc support"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/dgen-170-rx.-7z/UCJS10041_00000.jpg"
+    ],
+    "icon": "icons/dgen_rx.png"
+  }
+}

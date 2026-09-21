@@ -1,0 +1,26 @@
+{
+  "name": "iPhone Simulator",
+  "id": "iphone_simulator",
+  "summary": "Custom OS/Shell for PSP",
+  "author": "J3r3mie",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "t-2",
+      "url": "https://archive.org/download/i-phone-simulator-vt-2.7z/iPhone%20Simulator.zip",
+      "published_at": "2008-04-16",
+      "size": 2854872,
+      "sha256": "acd2ec4ed82208c92b08103d10c9f9a5a1e656318e5b41e44b51e29feb09a9fb",
+      "eboot_md5": "33e84ff5b99b97fcc29c96fbfa4e188f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/i-phone-simulator-vt-2.7z/iphone.jpg"
+    ],
+    "icon": "icons/iphone_simulator.png"
+  }
+}

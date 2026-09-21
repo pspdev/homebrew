@@ -1,0 +1,26 @@
+{
+  "name": "Flying Aces",
+  "id": "flying_aces",
+  "summary": "2D plane shooter; homebrew game.",
+  "author": "WayWardSon",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/flying-aces-v-1.0.7z/Flying%20Aces%20V1.0.zip",
+      "published_at": "2008-10-09",
+      "size": 1253417,
+      "sha256": "b561c066162840459f477c52466f1e19c3c3993687596d41a536c10894cc916c",
+      "eboot_md5": "46e04bcccbbc8b7e2c93dd256151c5dd"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/flying-aces-v-1.0.7z/FLYI01290_00001.png"
+    ],
+    "icon": "icons/flying_aces.png"
+  }
+}

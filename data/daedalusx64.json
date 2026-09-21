@@ -1,0 +1,27 @@
+{
+  "name": "DaedalusX64",
+  "id": "daedalusx64",
+  "summary": "Nintendo 64 emulator for PSP",
+  "description": "Nintendo 64 emulator for PSP. Credits: kreationz, salvy6735, Corn, Chilly Willy: Original DaedalusX64 code Wally: Optimizations, improvements and ports z2442: Compilation improvements and updating, optimizations mrneo240: Optimizations, compilation help TheMrIron2: Optimizations, wiki maintenance",
+  "author": "kreationz, salvy6735, Corn, Chilly Willy, Wally, z2442",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.1.8",
+      "url": "https://archive.org/download/daedalus-x-64.7z/Old%20Versions/DaedalusX64%20%5BR1909%5D.zip",
+      "published_at": "2019-10-23",
+      "size": 39933621,
+      "sha256": "6666bb08bc3cbe648990922c14638e6cc4de9fa4e12664a84deae964fb3cb8ab",
+      "eboot_md5": "89423048fb93a43f0713ef73f9860f0d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/daedalus-x-64.7z/pic_0000.jpg"
+    ],
+    "icon": "icons/daedalusx64.png"
+  }
+}

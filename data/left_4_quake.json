@@ -1,0 +1,26 @@
+{
+  "name": "Left 4 Quake",
+  "id": "left_4_quake",
+  "summary": "3D survival shooter for PSP.",
+  "author": "Ribcaged Entertainment",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.8",
+      "url": "https://archive.org/download/left-4-quake.-7z/Left%204%20Quake.zip",
+      "published_at": "2011-10-31",
+      "size": 56716800,
+      "sha256": "32ae5a2cad43669a70aec4659705c2a9f37688eea8cefeda36abe2c843095c14",
+      "eboot_md5": "1dd44d3e9cd68855d0693f4b7187e448"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/left-4-quake.-7z/LEFT01014_00000.jpg"
+    ],
+    "icon": "icons/left_4_quake.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Lethal Enforcer II",
+  "id": "lethal_enforcer_ii",
+  "summary": "The classic arcade game remade for PSP.",
+  "author": "Dark Killer",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Preview Build 2",
+      "url": "https://archive.org/download/lethal-enforcer.-7z/lethal%20enforcer.zip",
+      "published_at": "2005-10-09",
+      "size": 1031741,
+      "sha256": "f53b955ef65930812fe7847c9574ea14621c9828527d76b594c7cd75b58310d8",
+      "eboot_md5": "84e57b4302aa1ed3acc39391ae8b973c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lethal-enforcer.-7z/LETH00639_00000.jpg"
+    ],
+    "icon": "icons/lethal_enforcer_ii.png"
+  }
+}

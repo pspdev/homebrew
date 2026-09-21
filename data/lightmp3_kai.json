@@ -1,0 +1,26 @@
+{
+  "name": "LightMP3 Kai",
+  "id": "lightmp3_kai",
+  "summary": "Music player for PSP.",
+  "author": "Sakya, Hide, mascii",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.7.3 Japanese 19i",
+      "url": "https://archive.org/download/light-mp-3v-1.7.3-japanese-kai-19i.-7z/LightMP3v1.7.3Japanese%20kai19i.zip",
+      "published_at": "2008-05-18",
+      "size": 978127,
+      "sha256": "6ded92dd5f6356dabb115f9011fa959789c48b1a403ce64a3397d766e103ecc7",
+      "eboot_md5": "15730042f0c344590b875366a1efea83"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/light-mp-3v-1.7.3-japanese-kai-19i.-7z/pic_0002.jpg"
+    ],
+    "icon": "icons/lightmp3_kai.png"
+  }
+}

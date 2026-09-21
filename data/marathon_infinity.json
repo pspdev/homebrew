@@ -1,0 +1,26 @@
+{
+  "name": "Marathon Infinity",
+  "id": "marathon_infinity",
+  "summary": "AlephOne port for the PSP, packed with Marathon Infinity data.",
+  "author": "Mk (BarrySoft)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/a-1-psp-minf.-7z/A1PSP-MINF.zip",
+      "published_at": "2008-12-12",
+      "size": 41502865,
+      "sha256": "3fcbd8bfeed3c7eeb0241aebad4450054f921ca1ef3b2778cf8010a4c77e28b6",
+      "eboot_md5": "627e7d2a5cde6880afc19457b5bdaa5c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/a-1-psp-minf.-7z/20110101001529.png"
+    ],
+    "icon": "icons/marathon_infinity.png"
+  }
+}

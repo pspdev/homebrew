@@ -1,0 +1,28 @@
+{
+  "name": "VGS Online",
+  "id": "vgs_online",
+  "summary": "Homebrew game for PSP.",
+  "author": "Mikapsp",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/vgs-online.-7z/VGS%20Online.zip",
+      "published_at": "2009-01-14",
+      "size": 7039832,
+      "sha256": "7ac51736d5ce5aecae042d5c3c9b492d277aecae86ff655bfae957a41e564e6e",
+      "eboot_md5": "7aee0501a09ea7eb5498584ffcd36ecb"
+    }
+  ],
+  "tags": [
+    "1000$ pour la sc\u00e8ne (2008/2009)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/vgs-online.-7z/pic_0002.png"
+    ],
+    "icon": "icons/vgs_online.png"
+  }
+}

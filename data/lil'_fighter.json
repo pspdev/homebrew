@@ -1,0 +1,28 @@
+{
+  "name": "Lil' Fighter",
+  "id": "lil'_fighter",
+  "summary": "Homebrew fighting game for PSP.",
+  "author": "Yongobongo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/lil-fighter.-7z/Lil%27%20Fighter.zip",
+      "published_at": "2007-01-01",
+      "size": 4334473,
+      "sha256": "bfe68091981e54ef4e79d3f1ecfac45290a91ef5bfb9dbb724e115029d7150bd",
+      "eboot_md5": "99cbd6146c9cef0ddb5c8bf22e17728e"
+    }
+  ],
+  "tags": [
+    "PxP Homebrew Competition (2007)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lil-fighter.-7z/LIL%2701073_00000.jpg"
+    ],
+    "icon": "icons/lil'_fighter.png"
+  }
+}

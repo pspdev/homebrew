@@ -1,0 +1,26 @@
+{
+  "name": "iPlay Arkanoid",
+  "id": "iplay_arkanoid",
+  "summary": "Homebrew game for PSP.",
+  "author": "J3r3mie",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1",
+      "url": "https://archive.org/download/i-play-arkanoid.-7z/iPlay%20Arkanoid.zip",
+      "published_at": "2009-01-20",
+      "size": 1165896,
+      "sha256": "7266f6e86ee23223cd9b6e1491b9d6422592d449c5a3af4a3d6477fb26c26328",
+      "eboot_md5": "a560ffa6476a9deabc44c7f1180aaf84"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/i-play-arkanoid.-7z/IPLA01352_00000.jpg"
+    ],
+    "icon": "icons/iplay_arkanoid.png"
+  }
+}

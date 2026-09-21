@@ -1,0 +1,26 @@
+{
+  "name": "Minecraft PSP FanVersion",
+  "id": "minecraft_psp_fanversion",
+  "summary": "Mod of the Minecraft fan game.",
+  "author": "joseph730",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0.7 beta",
+      "url": "https://archive.org/download/minecraft-psp-2.0.7fan-beta/Old%20Versions/Minecraft%20PSP%202.0.5fan.zip",
+      "published_at": "2018-01-01",
+      "size": 75092448,
+      "sha256": "5134efb0d499ec37aec94b6e1d29ccf1d1810f105983ad75f3f743324de946c0",
+      "eboot_md5": "046981540d1c36d0dc86a374109908e3"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/minecraft-psp-2.0.7fan-beta/snap.png"
+    ],
+    "icon": "icons/minecraft_psp_fanversion.png"
+  }
+}

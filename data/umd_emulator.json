@@ -1,0 +1,26 @@
+{
+  "name": "UMD Emulator",
+  "id": "umd_emulator",
+  "summary": "Homebrew app for PSP.",
+  "author": "Humma Kavula",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.8C",
+      "url": "https://archive.org/download/umd-01103-00000/UMD%20Emulator%20V0.8C.zip",
+      "published_at": "2005-09-18",
+      "size": 272777,
+      "sha256": "782cf9b4582753ca02a494ca6303ecdc38e3714626b26dfcfb34efd38c244d63",
+      "eboot_md5": "aa45fae29fe2fed2f160981352e6fec3"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/umd-01103-00000/UMDE00847_00001.jpg"
+    ],
+    "icon": "icons/umd_emulator.png"
+  }
+}

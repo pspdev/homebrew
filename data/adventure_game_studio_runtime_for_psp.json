@@ -1,0 +1,28 @@
+{
+  "name": "Adventure Game Studio Runtime for PSP",
+  "id": "adventure_game_studio_runtime_for_psp",
+  "summary": "Port of the AGS engine to the PSP.",
+  "author": "Jochen Schleu (JJS)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "3.21.1115",
+      "url": "https://archive.org/download/ags-runtime.-7z/Old%20Versions/AGS_Runtime.zip",
+      "published_at": "2013-10-24",
+      "size": 1930589,
+      "sha256": "c5ae88858ddc4e18b9a50fc98f44bf6f7bbf7d77b529dedd357fdc96133b5dbe",
+      "eboot_md5": "41fd920cc1f23478c708412588a0e0a1"
+    }
+  ],
+  "tags": [
+    "PSP-2000+ only"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ags-runtime.-7z/AGS_01054_00000.jpg"
+    ],
+    "icon": "icons/adventure_game_studio_runtime_for_psp.png"
+  }
+}

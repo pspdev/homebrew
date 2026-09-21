@@ -1,0 +1,26 @@
+{
+  "name": "Maelstrom",
+  "id": "maelstrom",
+  "summary": "Space shooter game for PSP.",
+  "author": "MadMax11",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Alpha 4",
+      "url": "https://archive.org/download/maelstrom-alpha-4.7z/Maelstrom%20Alpha4.zip",
+      "published_at": "2008-08-01",
+      "size": 3279659,
+      "sha256": "2ed786ed5b54f737e0d1e030218020c17f0a266d860ef51f8114da0b2daaeffa",
+      "eboot_md5": "c2226cc27bfc17425866c1f410ac163a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/maelstrom-alpha-4.7z/MAEL01518_00002.png"
+    ],
+    "icon": "icons/maelstrom.png"
+  }
+}

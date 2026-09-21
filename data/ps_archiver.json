@@ -1,0 +1,26 @@
+{
+  "name": "PS Archiver",
+  "id": "ps_archiver",
+  "summary": "Homebrew app for PSP.",
+  "author": "vista200",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.14",
+      "url": "https://archive.org/download/ps-archiver.-7z/PS%20Archiver.zip",
+      "published_at": "2008-10-02",
+      "size": 362379,
+      "sha256": "7822e626da3a7c38ade95bf986c73123ada4e4630571c859774b6f322926a067",
+      "eboot_md5": "22f98077b71d9aaccad4aae540946cc9"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ps-archiver.-7z/FILE00628_00000.jpg"
+    ],
+    "icon": "icons/ps_archiver.png"
+  }
+}

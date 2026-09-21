@@ -1,0 +1,26 @@
+{
+  "name": "Zombie Search",
+  "id": "zombie_search",
+  "summary": "Homebrew game for PSP. Only the tutorial was ever completed.",
+  "author": "Moxo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Alpha 3.5",
+      "url": "https://archive.org/download/zombie-search-alpha-ver-3.5.7z/Zombie%20search%20alpha%20ver%203.5.zip",
+      "published_at": "2010-06-24",
+      "size": 11061161,
+      "sha256": "057724097dc4b1aee6d6fb23ffa3130a35723e2f5120628e3fe5e46807fc686a",
+      "eboot_md5": "38de10f76a363f3519f8297504287ee7"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/zombie-search-alpha-ver-3.5.7z/ZOMB02373_00002.png"
+    ],
+    "icon": "icons/zombie_search.png"
+  }
+}

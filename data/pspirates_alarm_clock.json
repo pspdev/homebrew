@@ -1,0 +1,26 @@
+{
+  "name": "PSPirates Alarm Clock",
+  "id": "pspirates_alarm_clock",
+  "summary": "Alarm app for PSP.",
+  "author": "MexicanSnake",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/pspirates-alarm-clock-v-0.2.7z/PSPirates%20Alarm%20Clock%20V0.2.zip",
+      "published_at": "2007-01-01",
+      "size": 2158422,
+      "sha256": "643e4d82c26ea249a0411286a698df9de33e9745f0ad26e9cfa9801ffea70ece",
+      "eboot_md5": "3db05b70a131432bdfceb5c02d8ac661"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspirates-alarm-clock-v-0.2.7z/PSPI02202_00001.jpg"
+    ],
+    "icon": "icons/pspirates_alarm_clock.png"
+  }
+}

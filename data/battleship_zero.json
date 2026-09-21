@@ -1,0 +1,26 @@
+{
+  "name": "BattleShip Zero",
+  "id": "battleship_zero",
+  "summary": "PSP homebrew game by Jorge_97.",
+  "author": "Jorge_97",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1",
+      "url": "https://archive.org/download/battleshipzero/BattleShip%20Zero%20v1.zip",
+      "published_at": "2011-12-28",
+      "size": 1015323,
+      "sha256": "57fafc429a04ef85568641b834d450cce02aa3967707c66fd10ee419a5b01583",
+      "eboot_md5": "c361d8ca2dbd3f9e11e49e119dfeac9d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/battleshipzero/BATT01655_00002.png"
+    ],
+    "icon": "icons/battleship_zero.png"
+  }
+}

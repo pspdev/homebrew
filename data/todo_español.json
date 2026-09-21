@@ -1,0 +1,26 @@
+{
+  "name": "Todo Espa\u00f1ol",
+  "id": "todo_espa\u00f1ol",
+  "summary": "Homebrew app for PSP.",
+  "author": "andyauff",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.05",
+      "url": "https://archive.org/download/todo-espanol.-7z/TodoEspanol%20V.%200.05.zip",
+      "published_at": "2007-02-27",
+      "size": 2041000,
+      "sha256": "1c308eda69eb9cfe1ed9001a498aab99daab1364acf0e5c09e758b4a0fafceea",
+      "eboot_md5": "228c946f182834b1f7ff69e8e2f2c742"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/todo-espanol.-7z/TODO01128_00000.jpg"
+    ],
+    "icon": "icons/todo_espa\u00f1ol.png"
+  }
+}

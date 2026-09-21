@@ -1,0 +1,26 @@
+{
+  "name": "Legend of Zelda - Portable Adventures",
+  "id": "legend_of_zelda_-_portable_adventures",
+  "summary": "Fan game for PSP.",
+  "author": "Dan369, Adas123",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Beta",
+      "url": "https://archive.org/download/legend-of-zelda.-7z/Legend%20of%20Zelda.zip",
+      "published_at": "2008-07-23",
+      "size": 4437038,
+      "sha256": "52ef9611734df8dedf253569e119a1acaf1bdc5a2fef15294ccb9afe9a313252",
+      "eboot_md5": "2db0dabb4489b8e4e17e8eb59833ace6"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/legend-of-zelda.-7z/LEGE01364_00000.jpg"
+    ],
+    "icon": "icons/legend_of_zelda_-_portable_adventures.png"
+  }
+}

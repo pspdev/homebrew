@@ -1,0 +1,28 @@
+{
+  "name": "Guitar Star",
+  "id": "guitar_star",
+  "summary": "Rhythm game for PSP.",
+  "author": "Festi",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.99",
+      "url": "https://archive.org/download/guitarstar.7z/Old%20Versions/guitarstar.zip",
+      "published_at": "2009-01-01",
+      "size": 8830639,
+      "sha256": "8bb897889aea76a38196993566cb235af34ea9f32f41b0528aa47c2a3dfc55d8",
+      "eboot_md5": "9473101fabd5efa47c9ba7629cb50d8c"
+    }
+  ],
+  "tags": [
+    "1000$ pour la sc\u00e8ne (2008/2009)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/guitarstar.7z/GUIT01458_00000.png"
+    ],
+    "icon": "icons/guitar_star.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Mario Masochism",
+  "id": "mario_masochism",
+  "summary": "2D platform game for PSP.",
+  "author": "Liquid Pro Quo, Joshua Speight",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/mario-masochismv-015.7z/Old%20Versions/MarioMasochismv015.zip",
+      "published_at": "2010-08-19",
+      "size": 19295351,
+      "sha256": "d75262ffb6b4127aadff782842b99447542821edfe70beb4e97a4555c8263cf0",
+      "eboot_md5": "0ea55cb4dca67eaa4a93a5c230451d08"
+    }
+  ],
+  "tags": [
+    "NEO Retro Coding Compo 2010"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mario-masochismv-015.7z/MARI01436_00001.png"
+    ],
+    "icon": "icons/mario_masochism.png"
+  }
+}

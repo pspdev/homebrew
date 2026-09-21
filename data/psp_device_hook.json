@@ -1,0 +1,26 @@
+{
+  "name": "PSP Device Hook",
+  "id": "psp_device_hook",
+  "summary": "Homebrew app for PSP. Also known as DevHook.",
+  "author": "BOOSTER",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.52.0000",
+      "url": "https://archive.org/download/psp-device-hook-v-0.22.7z/Old%20Versions/devhook045_0000.zip",
+      "published_at": "2006-12-28",
+      "size": 333801,
+      "sha256": "20865eaeb22ae45e1d815612dc8885e100f08f8a0d729f4d85ea3f52514dece5",
+      "eboot_md5": "0e538a50635aca765fe605a61153a83f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-device-hook-v-0.22.7z/DH0500483_00000.png"
+    ],
+    "icon": "icons/psp_device_hook.png"
+  }
+}

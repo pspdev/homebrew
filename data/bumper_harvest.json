@@ -1,0 +1,29 @@
+{
+  "name": "Bumper Harvest",
+  "id": "bumper_harvest",
+  "summary": "Puzzle game for PSP.",
+  "author": "Studio Kagato",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/bumper-harvest.-7z/Bumper%20Harvest.zip",
+      "published_at": "2008-03-20",
+      "size": 2525999,
+      "sha256": "1f61342818afbd504ac4cee6f39b2d8b9065b73f34faef751dd2aa649b02bb87",
+      "eboot_md5": "ff8611ad46ed203aa2f8030aea42a92a"
+    }
+  ],
+  "tags": [
+    "NEO Spring Coding Compo 2008"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/bumper-harvest.-7z/20210722222017.png",
+      "https://archive.org/download/bumper-harvest.-7z/___ia_thumb.jpg"
+    ],
+    "icon": "icons/bumper_harvest.png"
+  }
+}

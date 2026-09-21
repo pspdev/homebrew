@@ -1,0 +1,26 @@
+{
+  "name": "Usopp Labyrinth",
+  "id": "usopp_labyrinth",
+  "summary": "Maze game for PSP.",
+  "author": "Dougl45",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/usopp-labyrinth-v-0.1.7z/Usopp%20Labyrinth%20v0.1.zip",
+      "published_at": "2009-08-24",
+      "size": 3313016,
+      "sha256": "6c27704a48a039c36dc6b6af9d6505491e4cc84ce953e64519368845070cd0b6",
+      "eboot_md5": "bb74f0f78c12e055751d7444745ab1d2"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/usopp-labyrinth-v-0.1.7z/USOP01801_00000.jpg"
+    ],
+    "icon": "icons/usopp_labyrinth.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Lowser",
+  "id": "lowser",
+  "summary": "Lua file browser for PSP.",
+  "author": "Joachim Bengtsson (Nevyn)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.12",
+      "url": "https://archive.org/download/lua-player-0.5-with-lowser-0.12/LuaPlayer%200.5%20with%20Lowser%200.12.zip",
+      "published_at": "2005-08-05",
+      "size": 1230149,
+      "sha256": "159f18301df8f3da622a46cf4fea586a863f9c4f649e2f76f42f8cce1b0a367e",
+      "eboot_md5": "02841d4350b3f356d2d0d091af07c0fa"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lua-player-0.5-with-lowser-0.12/LUAP02459_00000.png"
+    ],
+    "icon": "icons/lowser.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Naruto Pocket",
+  "id": "naruto_pocket",
+  "summary": "Homebrew game for PSP.",
+  "author": "Kalog Dev Team",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/naruto-packet.-7z/Naruto%20Packet.zip",
+      "published_at": "2007-09-19",
+      "size": 11908717,
+      "sha256": "a82f8525a9e1b5dfa61f2d0c2347ddf4ab452fa8353963a0da075377569d1b86",
+      "eboot_md5": "854d4b95a170ba6d29b53c2f313087ee"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/naruto-packet.-7z/NARU01265_00001.jpg"
+    ],
+    "icon": "icons/naruto_pocket.png"
+  }
+}

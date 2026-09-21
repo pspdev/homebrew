@@ -1,0 +1,28 @@
+{
+  "name": "PSPQuarium",
+  "id": "pspquarium",
+  "summary": "Fish tank simulator for PSP.",
+  "author": "puffo83",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/pspquarium-0-1.7z/PSPQuarium%200-1.zip",
+      "published_at": "2005-09-09",
+      "size": 1146754,
+      "sha256": "d3995119b4c102d42b727850879b7eec4080e507186e8c8c3d001b620d883445",
+      "eboot_md5": "f80768369b761b4757f96c9b9777179a"
+    }
+  ],
+  "tags": [
+    "PSPUpdates Homebrew Contest (2005)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspquarium-0-1.7z/EBOO00649_00000.jpg"
+    ],
+    "icon": "icons/pspquarium.png"
+  }
+}

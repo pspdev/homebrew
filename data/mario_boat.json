@@ -1,0 +1,26 @@
+{
+  "name": "Mario Boat",
+  "id": "mario_boat",
+  "summary": "Very short dodging game.",
+  "author": "FouadtjuhMaster",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/mario-boat-1.1.7z/Mario%20Boat%201.1.zip",
+      "published_at": "2012-11-04",
+      "size": 2344484,
+      "sha256": "07921619a4cd0e6546df447476d4ca99f14551376f5599dfedf16c3b64b67799",
+      "eboot_md5": "1efca439e64999fd89cd84606bfefc82"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mario-boat-1.1.7z/MARI01102_00000.png"
+    ],
+    "icon": "icons/mario_boat.png"
+  }
+}

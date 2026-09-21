@@ -1,0 +1,26 @@
+{
+  "name": "Ants4PSP",
+  "id": "ants4psp",
+  "summary": "Card game - PSP homebrew.",
+  "author": "Joppy Furr",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "3",
+      "url": "https://archive.org/download/ants-4-psp.-7z/Old%20Versions/Ants4PSP.zip",
+      "published_at": "2008-02-27",
+      "size": 223289,
+      "sha256": "6317e432dba2e3bc834485e8a8cd959d88ae7690be6ff01e1b01175c4df670bf",
+      "eboot_md5": "adc6f7cf8a243e0f36e0b8cc061cbd63"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ants-4-psp.-7z/20210722023104.png"
+    ],
+    "icon": "icons/ants4psp.png"
+  }
+}

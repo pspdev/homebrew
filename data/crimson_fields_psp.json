@@ -1,0 +1,26 @@
+{
+  "name": "Crimson Fields PSP",
+  "id": "crimson_fields_psp",
+  "summary": "PSP port of the PC tactical game.",
+  "author": "Michal Skorupka",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/crimson-fields.-7z/Old%20Versions/CrimsonFields_PSP_0.1.zip",
+      "published_at": "2014-01-12",
+      "size": 2086647,
+      "sha256": "58e7e37ce154908e1f209a2b60c17b93c2c25a81984e28edf257d07fbdfacb35",
+      "eboot_md5": "0f24a062b08946550c07512c2a03c24e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/crimson-fields.-7z/CRIM01330_00000.jpg"
+    ],
+    "icon": "icons/crimson_fields_psp.png"
+  }
+}

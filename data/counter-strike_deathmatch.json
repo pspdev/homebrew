@@ -1,0 +1,26 @@
+{
+  "name": "Counter-Strike DeathMatch",
+  "id": "counter-strike_deathmatch",
+  "summary": "Adaptation of the DM mod for PSP on the ADQuake engine.",
+  "author": "st1x51",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.55",
+      "url": "https://archive.org/download/csdm-0.55.7z/CSDM%200.55.zip",
+      "published_at": "2018-12-08",
+      "size": 123471390,
+      "sha256": "acb1e8f88a4b614536a7b4127fefbe0cb13581e02492eea9ec02b41ef2667ca0",
+      "eboot_md5": "2fcea27520bd65c38037c5328f6fcfef"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/csdm-0.55.7z/CSDM00527_00001.jpg"
+    ],
+    "icon": "icons/counter-strike_deathmatch.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "F.O.S.K.",
+  "id": "f.o.s.k.",
+  "summary": "Text editor for PSP.",
+  "author": "mrn",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.240",
+      "url": "https://archive.org/download/024-f.-o.-s.-k.-7z/024-%20F.O.S.K.zip",
+      "published_at": "2005-12-18",
+      "size": 626762,
+      "sha256": "395994cb69a2b0711e30d1ee1535e922bbf6caeff7b6690ceafb1ae263c7dc73",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/024-f.-o.-s.-k.-7z/LUAP01126_00000.jpg"
+    ],
+    "icon": "icons/f.o.s.k..png"
+  }
+}

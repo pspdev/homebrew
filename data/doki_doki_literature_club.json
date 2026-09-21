@@ -1,0 +1,28 @@
+{
+  "name": "Doki Doki Literature Club",
+  "id": "doki_doki_literature_club",
+  "summary": "Port of the PC game.",
+  "author": "MasterMen",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Alpha 1.0",
+      "url": "https://archive.org/download/doki-doki-alpha-1.0/Doki%20Doki%20Alpha%201.0.zip",
+      "published_at": "2018-09-22",
+      "size": 22286152,
+      "sha256": "81a3437d4a86e75c302bc64586d2c2d0de0a09ff5c6218fd13d874a4aaaa8af2",
+      "eboot_md5": "fab9e8a639e2dce946463ebd957b3d78"
+    }
+  ],
+  "tags": [
+    "visual novel"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/doki-doki-alpha-1.0/DOKI01507_00000.png"
+    ],
+    "icon": "icons/doki_doki_literature_club.png"
+  }
+}

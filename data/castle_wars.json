@@ -1,0 +1,28 @@
+{
+  "name": "Castle Wars",
+  "id": "castle_wars",
+  "summary": "Homebrew card game for PSP.",
+  "author": "k0sA Creations",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Beta 2 update",
+      "url": "https://archive.org/download/castle-wars.-7z/Castle%20Wars.zip",
+      "published_at": "2008-01-01",
+      "size": 541525,
+      "sha256": "d22455758d5fb906615af4bc0b949e51fa968512ceded09062b75f357a574c73",
+      "eboot_md5": "5b72f2cf0639cc4e1cd62689b5fafc5a"
+    }
+  ],
+  "tags": [
+    "Homebrew Idol (2008)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/castle-wars.-7z/20210723013014.png"
+    ],
+    "icon": "icons/castle_wars.png"
+  }
+}

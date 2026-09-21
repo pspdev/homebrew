@@ -1,0 +1,26 @@
+{
+  "name": "Ball Revamped Clone",
+  "id": "ball_revamped_clone",
+  "summary": "Homebrew game for PSP.",
+  "author": "M&M Team",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/br-clone.-7z/BR%20Clone.zip",
+      "published_at": "2007-01-01",
+      "size": 421150,
+      "sha256": "58786beb0388cea58cd4685139bcbd0fe7d1d61268c1c67f9299e6ca4d936a81",
+      "eboot_md5": "b92e8aa3dd70c0152e48c0648b1a6e78"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/br-clone.-7z/BR%20C00677_00002.png"
+    ],
+    "icon": "icons/ball_revamped_clone.png"
+  }
+}

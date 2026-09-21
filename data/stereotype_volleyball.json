@@ -1,0 +1,26 @@
+{
+  "name": "Stereotype Volleyball",
+  "id": "stereotype_volleyball",
+  "summary": "Homebrew game for PSP.",
+  "author": "Hippie",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/stereotype-volleyball.-7z/Stereotype%20Volleyball.zip",
+      "published_at": "2007-09-24",
+      "size": 411074,
+      "sha256": "7f50a9403dd4b3c04db9b8aaeb2e4743b4915216da6f67be7bceab9e016a6fd1",
+      "eboot_md5": "05d2b1c9f578439a310ad2142fd9f66b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/stereotype-volleyball.-7z/LPM300335_00000.jpg"
+    ],
+    "icon": "icons/stereotype_volleyball.png"
+  }
+}

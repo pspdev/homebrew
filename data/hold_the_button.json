@@ -1,0 +1,26 @@
+{
+  "name": "Hold The Button",
+  "id": "hold_the_button",
+  "summary": "Hold the button as long as possible.",
+  "author": "zeroXorXdieXskater",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/hold-the-button.-7z/Hold%20The%20Button.zip",
+      "published_at": "2009-03-28",
+      "size": 522170,
+      "sha256": "27559b1103d0479d573b4d2475de23cde02837f0a33281d9cbf277222feadfdc",
+      "eboot_md5": "8d73fe2dfee6b4bc27d34382196fcff1"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/hold-the-button.-7z/HOLD01380_00000.jpg"
+    ],
+    "icon": "icons/hold_the_button.png"
+  }
+}

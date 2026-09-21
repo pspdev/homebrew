@@ -1,0 +1,26 @@
+{
+  "name": "Minecraft PSP",
+  "id": "minecraft_psp",
+  "summary": "PSP version of the game.",
+  "author": "Marcin Ploska (Drakon), Kirill Skibin (Woolio)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0.1",
+      "url": "https://archive.org/download/minecraft-psp.-7z/Old%20Versions/MpspE_Rus.zip",
+      "published_at": "2017-07-11",
+      "size": 22130460,
+      "sha256": "e4007fc714dd41984a1d92f7e2447acf225daccd3c64a6e1580cf2a86733df1e",
+      "eboot_md5": "a34339f9e0ffd527b6c86ff3b971d232"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/minecraft-psp.-7z/MINE01292_00001.jpg"
+    ],
+    "icon": "icons/minecraft_psp.png"
+  }
+}

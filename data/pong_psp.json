@@ -1,0 +1,26 @@
+{
+  "name": "Pong PSP",
+  "id": "pong_psp",
+  "summary": "Pong for PSP.",
+  "author": "BafS",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Alpha 5",
+      "url": "https://archive.org/download/pong-psp-alpha-5.7z/Pong%20PSP%20alpha%205.zip",
+      "published_at": "2009-01-01",
+      "size": 894091,
+      "sha256": "4087c6a8ed4c07dcfad93ff907f3e35010021f6c59e42155260e33cc1efc159f",
+      "eboot_md5": "f9012265832086031976d84e05032430"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pong-psp-alpha-5.7z/PONG01314_00001.jpg"
+    ],
+    "icon": "icons/pong_psp.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Lonpos",
+  "id": "lonpos",
+  "summary": "Homebrew puzzle game for PSP.",
+  "author": "XArt Software & Design",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1C007",
+      "url": "https://archive.org/download/lonpos-100256.7z/Old%20Versions/Lonpos.zip",
+      "published_at": "2008-10-19",
+      "size": 432281,
+      "sha256": "dee194421749282766e69a5b72e4aa3052dcf59dcfdfa8183240d96800d4ece9",
+      "eboot_md5": "4274dfc39dda0861969c60353cc6cadc"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lonpos-100256.7z/20210703185408.png"
+    ],
+    "icon": "icons/lonpos.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Fractal Universe",
+  "id": "fractal_universe",
+  "summary": "Fractal viewer for PSP.",
+  "author": "Brek Martin (Art)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "5",
+      "url": "https://archive.org/download/fractal-universe.-7z/Fractal%20Universe.zip",
+      "published_at": "2009-07-08",
+      "size": 755526,
+      "sha256": "2ba7853eb7b3b863d357398643960318554326f41899f8d77223712dc69fec9e",
+      "eboot_md5": "a0f15cb943eaf6358401abfca07c9934"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/fractal-universe.-7z/FRAC01582_00000.jpg"
+    ],
+    "icon": "icons/fractal_universe.png"
+  }
+}

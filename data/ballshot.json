@@ -1,0 +1,28 @@
+{
+  "name": "Ballshot",
+  "id": "ballshot",
+  "summary": "Homebrew game for PSP.",
+  "author": "D!S",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.13",
+      "url": "https://archive.org/download/ballshot-v-0.1-by-d-s.-7z/Old%20Versions/Ballshot-v0.1_by-D%21S.zip",
+      "published_at": "2011-03-01",
+      "size": 2179306,
+      "sha256": "ae1dbeddf182436d11ce0dca5df92f15a1049dbd61be10e6a03518b66f169f4d",
+      "eboot_md5": "2c9c0e843276605361e2e1e8d3e62f16"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ballshot-v-0.1-by-d-s.-7z/UCJS10041_00001.jpg"
+    ],
+    "icon": "icons/ballshot.png"
+  }
+}

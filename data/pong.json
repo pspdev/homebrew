@@ -1,0 +1,28 @@
+{
+  "name": "Pong",
+  "id": "pong",
+  "summary": "Pong for PSP.",
+  "author": "Digikid13",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.5.1",
+      "url": "https://archive.org/download/pong-v-0.5.1.7z/Pong%20v0.5.1.zip",
+      "published_at": "2009-03-20",
+      "size": 5733103,
+      "sha256": "383632ddeb8f2ca8bf5a8547dbb914d3424a1e852c6ab9cb42b23c1bddd1468c",
+      "eboot_md5": "4aeae5c6aea0f28d3b34b1ca2d515379"
+    }
+  ],
+  "tags": [
+    "NEO Spring Coding Compo 2009"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pong-v-0.5.1.7z/20210620071225.png"
+    ],
+    "icon": "icons/pong.png"
+  }
+}

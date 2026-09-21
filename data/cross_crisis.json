@@ -1,0 +1,28 @@
+{
+  "name": "Cross Crisis",
+  "id": "cross_crisis",
+  "summary": "2D shooter; PSP homebrew game.",
+  "author": "PSPKOR",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0.0",
+      "url": "https://archive.org/download/cross-crisis.v-1.0.0.7z/CrossCrisis.v1.0.0.zip",
+      "published_at": "2010-12-23",
+      "size": 11069035,
+      "sha256": "ec44594649c7f3d1c1c2f4d33b3b274cddaf1fd8229a5e21aee5782f8f86c00e",
+      "eboot_md5": "3972168b83f91ccff70bdd7776143417"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/cross-crisis.v-1.0.0.7z/20210723014050.png"
+    ],
+    "icon": "icons/cross_crisis.png"
+  }
+}

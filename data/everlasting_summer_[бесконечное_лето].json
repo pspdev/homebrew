@@ -1,0 +1,26 @@
+{
+  "name": "Everlasting Summer [\u0411\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u043e\u0435 \u041b\u0435\u0442\u043e]",
+  "id": "everlasting_summer_[\u0431\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u043e\u0435_\u043b\u0435\u0442\u043e]",
+  "summary": "PSP port of the Russian visual novel.",
+  "author": "sergo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.9 beta",
+      "url": "https://archive.org/download/everlasting-summer.-7z/Everlasting%20Summer.zip",
+      "published_at": "2020-12-31",
+      "size": 461561466,
+      "sha256": "35aa15ef3959e6c93da271c81f1e882c2dc09db6550018c19f7f06b6d289318d",
+      "eboot_md5": "b1ccdeb275f16b0ebdb7dc7d1ca03767"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/everlasting-summer.-7z/pic_0000.jpg"
+    ],
+    "icon": "icons/everlasting_summer_[\u0431\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u043e\u0435_\u043b\u0435\u0442\u043e].png"
+  }
+}

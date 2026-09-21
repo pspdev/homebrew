@@ -1,0 +1,26 @@
+{
+  "name": "ASTC - Another Stupid Tetris Clone",
+  "id": "astc_-_another_stupid_tetris_clone",
+  "summary": "Tetris for PSP.",
+  "author": "Elka",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.00",
+      "url": "https://archive.org/download/another-silly-tetris-clone.-7z/Another%20Silly%20Tetris%20Clone.zip",
+      "published_at": "2005-10-27",
+      "size": 1167121,
+      "sha256": "eeff3bd2099c9be21d3e1c0926eb51421e8a0c2bdeefeca86281404c74cf805c",
+      "eboot_md5": "62ca8e46ed7c815e570ae4da3b7415ae"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/another-silly-tetris-clone.-7z/ANOT02474_00000.jpg"
+    ],
+    "icon": "icons/astc_-_another_stupid_tetris_clone.png"
+  }
+}

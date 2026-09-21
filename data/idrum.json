@@ -1,0 +1,28 @@
+{
+  "name": "iDrum",
+  "id": "idrum",
+  "summary": "Drums simulator for PSP.",
+  "author": "Benjamin999",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/i-drum-v-2.0.7z/iDrum%20v2.0.zip",
+      "published_at": "2011-04-08",
+      "size": 6871504,
+      "sha256": "aca0993382c2713838ea83fae381d6cbeecf5dfd8c66c7f64ed96b9c05ea0ee9",
+      "eboot_md5": "b42343288b0730c6ef23be31ac489eba"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/i-drum-v-2.0.7z/IDRU00807_00000.png"
+    ],
+    "icon": "icons/idrum.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Ball Collision",
+  "id": "ball_collision",
+  "summary": "Homebrew game for PSP.",
+  "author": "Barney77",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/ball-collision-v-2.7z/Ball%20Collision%20V2.zip",
+      "published_at": "2011-07-11",
+      "size": 2421444,
+      "sha256": "df6d13ba305a03460029442bac6752f459a8c83efc31adac65840bfbf2183337",
+      "eboot_md5": "bbd10e1be50a4471507665dc0f943a56"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ball-collision-v-2.7z/BALL01519_00000.jpg"
+    ],
+    "icon": "icons/ball_collision.png"
+  }
+}

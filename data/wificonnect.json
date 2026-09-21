@@ -1,0 +1,26 @@
+{
+  "name": "WifiConnect",
+  "id": "wificonnect",
+  "summary": "Homebrew app for PSP.",
+  "author": "CouaC",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1",
+      "url": "https://archive.org/download/wifi-connect-v-1.7z/WifiConnect%20v1.zip",
+      "published_at": "2007-06-22",
+      "size": 1307335,
+      "sha256": "e752cb68033d1dc4354b9cd043820c4714b48504020bc19d498df917cc2f8cf4",
+      "eboot_md5": "f7c666c33d844f8db5c217609c4f71fd"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/wifi-connect-v-1.7z/20210806071415.png"
+    ],
+    "icon": "icons/wificonnect.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PSP Klappe",
+  "id": "psp_klappe",
+  "summary": "Homebrew app for PSP.",
+  "author": "Lukas Meisterhofer (Fujah)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/psp-klappe.-7z/PSP%20Klappe.zip",
+      "published_at": "2007-11-29",
+      "size": 1029296,
+      "sha256": "6251ca727180b126d9e3197fc05e79fe893226f3369bffed6b15c44c04189a96",
+      "eboot_md5": "a71fc99b1e9870dd288085a2f0d7d73a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-klappe.-7z/PSP%2000880_00007.jpg"
+    ],
+    "icon": "icons/psp_klappe.png"
+  }
+}

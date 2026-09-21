@@ -1,0 +1,28 @@
+{
+  "name": "Asterz",
+  "id": "asterz",
+  "summary": "Asteroids clone in 3D; PSP homebrew game.",
+  "author": "Team Duck",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/asterz.-7z/Old%20Versions/Asterz.zip",
+      "published_at": "2009-01-01",
+      "size": 3457481,
+      "sha256": "7a4e1b4c61a0fc7aa51ee9a51de90f17c6ad0f88adc9a2cc401a2020134df67f",
+      "eboot_md5": "423cc69f3aad02ae2f0d4df2567d255d"
+    }
+  ],
+  "tags": [
+    "NEO Spring Coding Compo 2009"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/asterz.-7z/ASTE01584_00001.jpg"
+    ],
+    "icon": "icons/asterz.png"
+  }
+}

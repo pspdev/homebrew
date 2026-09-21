@@ -1,0 +1,26 @@
+{
+  "name": "Melody",
+  "id": "melody",
+  "summary": "Music player for PSP.",
+  "author": "XArt Software & Designs",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0.4",
+      "url": "https://archive.org/download/melody.7z/Old%20Versions/melody.zip",
+      "published_at": "2007-01-01",
+      "size": 349295,
+      "sha256": "26bab6666334809d3c6ee204a6636e5efd9fae960576690c71c74fe31800ec0d",
+      "eboot_md5": "dc80daf9ee2333efccdbf8ade8980b4d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/melody.7z/20221009130716.png"
+    ],
+    "icon": "icons/melody.png"
+  }
+}

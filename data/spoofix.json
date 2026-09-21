@@ -1,0 +1,26 @@
+{
+  "name": "Spoofix",
+  "id": "spoofix",
+  "summary": "spoofix is a PSP homebrew that fixes the \"The system version of your PSP\u2122 system version is 9.90.",
+  "author": "rreha",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/spoofix-v-0.1/spoofix%20v0.1.zip",
+      "published_at": "2023-06-11",
+      "size": 64088,
+      "sha256": "64c277273de6944e92c1bfa83cfd1129dbd84097c4d305a28c996c2e10b6710e",
+      "eboot_md5": "145e0a434b74e0c22fb4706e768c115f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/spoofix-v-0.1/SPOO01069_00000.png"
+    ],
+    "icon": "icons/spoofix.png"
+  }
+}

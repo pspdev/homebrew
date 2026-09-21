@@ -1,0 +1,26 @@
+{
+  "name": "NP2 for PSP",
+  "id": "np2_for_psp",
+  "summary": "PSP port of Neko Project II, a NEC PC-9801 emulator. This version emulates V30 and 80286 CPUs.",
+  "author": "sakahi, \u3072\u3063\u305d\u308a\u3043 (hissorii)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.39",
+      "url": "https://archive.org/download/np-2-for-psp-v-0.39.7z/Old%20Versions/NP2_for_PSP_v0.33.zip",
+      "published_at": "2011-04-01",
+      "size": 263096,
+      "sha256": "0bae8a299e897acd841a7a39a7202a0030867ee486ad17ccf4864ac2ff2cd8d7",
+      "eboot_md5": "f0469874886f9a1c52810bf5f4cc27eb"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/np-2-for-psp-v-0.39.7z/NP2_01383_00000.jpg"
+    ],
+    "icon": "icons/np2_for_psp.png"
+  }
+}

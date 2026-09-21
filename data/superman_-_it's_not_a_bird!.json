@@ -1,0 +1,26 @@
+{
+  "name": "Superman - It's Not A Bird!",
+  "id": "superman_-_it's_not_a_bird!",
+  "summary": "Flappy Man, or Super Bird.",
+  "author": "MadZiontist",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.5",
+      "url": "https://archive.org/download/superman-its-not-a-birdv-1.5.-7z/Superman-Its%20Not%20A%20Bird%21%5Bv1.5%5D.zip",
+      "published_at": "2014-05-24",
+      "size": 2400365,
+      "sha256": "3db3613af86c2edb560366e986c51902425b6fb6f8dfa4131f161d1cf28dc13c",
+      "eboot_md5": "918fab66e31351808d8f463eb3a7d3d4"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/superman-its-not-a-birdv-1.5.-7z/pic_0008.png"
+    ],
+    "icon": "icons/superman_-_it's_not_a_bird!.png"
+  }
+}

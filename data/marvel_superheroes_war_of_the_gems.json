@@ -1,0 +1,28 @@
+{
+  "name": "Marvel Superheroes: War Of The Gems",
+  "id": "marvel_superheroes_war_of_the_gems",
+  "summary": "OpenBOR mod for PSP.",
+  "author": "rafhot, msmalik681",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Light 4",
+      "url": "https://archive.org/download/marvel-war-of-the-gems-light-v-4.7z/Marvel%20War%20of%20the%20Gems%20Light%20v4.zip",
+      "published_at": "2021-03-04",
+      "size": 47607475,
+      "sha256": "a3ed9e421f7162806c519708c756e90b299a2080f1b23774c9b52a315c5c0767",
+      "eboot_md5": "6b295f926f465c27c2aedae9e331cd91"
+    }
+  ],
+  "tags": [
+    "OpenBOR"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/marvel-war-of-the-gems-light-v-4.7z/MARV02709_00004.jpg"
+    ],
+    "icon": "icons/marvel_superheroes_war_of_the_gems.png"
+  }
+}

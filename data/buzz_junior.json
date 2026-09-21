@@ -1,0 +1,28 @@
+{
+  "name": "Buzz Junior",
+  "id": "buzz_junior",
+  "summary": "Quiz game for PSP.",
+  "author": "Recoco",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/buzz-junior.-7z/Buzz%20Junior.zip",
+      "published_at": "2008-08-18",
+      "size": 4744519,
+      "sha256": "4291e3d7499143544d45f3355be257cc2773375ec875726dcd4abf73944b3851",
+      "eboot_md5": "1b8368ddf5a263fdea6b32c7aedeee24"
+    }
+  ],
+  "tags": [
+    "Scenery Beta 2008"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/buzz-junior.-7z/BUZZ01090_00000.jpg"
+    ],
+    "icon": "icons/buzz_junior.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PGCD Calculator",
+  "id": "pgcd_calculator",
+  "summary": "Calculator app for PSP.",
+  "author": "Stifpsp",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/cl-pgcd-calculator/CL%20-%20PGCD%20Calculator.zip",
+      "published_at": "2009-10-24",
+      "size": 335142,
+      "sha256": "bf9b6b0471956f6a71eae993b927c517f71f9c13b4439cf7e68a3413212a1253",
+      "eboot_md5": "15ef8729f3c0942a744cac63ab7a728c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/cl-pgcd-calculator/CL%20-01604_00001.png"
+    ],
+    "icon": "icons/pgcd_calculator.png"
+  }
+}

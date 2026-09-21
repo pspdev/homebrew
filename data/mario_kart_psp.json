@@ -1,0 +1,26 @@
+{
+  "name": "Mario Kart PSP",
+  "id": "mario_kart_psp",
+  "summary": "Fan game for PSP.",
+  "author": "Dark Momo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/mario-kart-psp-v-1.0.7z/Mario%20Kart%20PSP%20V1.0.zip",
+      "published_at": "2008-03-25",
+      "size": 1755587,
+      "sha256": "ea119051b96c7b2de4db0d47696f198d96e0a0bcc9c4386f559b3927dbb13573",
+      "eboot_md5": "88131892cbf086d62e1ad62afaa6ad3a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mario-kart-psp-v-1.0.7z/MARI01474_00002.png"
+    ],
+    "icon": "icons/mario_kart_psp.png"
+  }
+}

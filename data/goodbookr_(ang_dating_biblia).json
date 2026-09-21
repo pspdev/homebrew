@@ -1,0 +1,26 @@
+{
+  "name": "Goodbookr (Ang Dating Biblia)",
+  "id": "goodbookr_(ang_dating_biblia)",
+  "summary": "Tagalog-language version of the Bible.",
+  "author": "phosphorous",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.2.1",
+      "url": "https://archive.org/download/goodbookr-1.2.1-tagalog.-7z/goodbookr-1.2.1%20%5BTagalog%5D.zip",
+      "published_at": "2012-01-01",
+      "size": 6278549,
+      "sha256": "72297180935f443413d47c005c5d904db57e0e6a7a9dda2e049c298a05a6f13d",
+      "eboot_md5": "7359af903ebd4c887230610e43b51022"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/goodbookr-1.2.1-tagalog.-7z/GOOD02170_00000.jpg"
+    ],
+    "icon": "icons/goodbookr_(ang_dating_biblia).png"
+  }
+}

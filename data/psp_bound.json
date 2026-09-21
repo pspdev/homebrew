@@ -1,0 +1,26 @@
+{
+  "name": "PSP Bound",
+  "id": "psp_bound",
+  "summary": "Homebrew game for PSP.",
+  "author": "Slasher",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1a",
+      "url": "https://archive.org/download/psp-bound-v-1a.-7z/PSP%20Bound%20V1a.zip",
+      "published_at": "2006-08-28",
+      "size": 2237453,
+      "sha256": "2474c4dabd5efecbc86c19d019df7563d77013e219dd93cd38bb22ae656f12bd",
+      "eboot_md5": "0d3e5e4565692d52acebb675451f6107"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-bound-v-1a.-7z/BOUN00504_00000.jpg"
+    ],
+    "icon": "icons/psp_bound.png"
+  }
+}

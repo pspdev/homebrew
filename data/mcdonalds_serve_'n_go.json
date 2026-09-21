@@ -1,0 +1,26 @@
+{
+  "name": "McDonalds Serve 'n Go",
+  "id": "mcdonalds_serve_'n_go",
+  "summary": "Homebrew game for PSP.",
+  "author": "Sousanator",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1",
+      "url": "https://archive.org/download/mc-donalds-serve-n-go.-7z/McDonalds%20Serve%20N%20Go.zip",
+      "published_at": "2006-05-03",
+      "size": 1401961,
+      "sha256": "6d9ffc4f93ab4ab0277279c7f55c2b425dc3ec34123152adc69b676842b845b0",
+      "eboot_md5": "05d2b1c9f578439a310ad2142fd9f66b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mc-donalds-serve-n-go.-7z/LPM300335_00001.jpg"
+    ],
+    "icon": "icons/mcdonalds_serve_'n_go.png"
+  }
+}

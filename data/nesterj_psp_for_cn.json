@@ -1,0 +1,26 @@
+{
+  "name": "NesterJ PSP for CN",
+  "id": "nesterj_psp_for_cn",
+  "summary": "This version of the NES emulator for PSP contains additional mappers to support Chinese bootleg games.",
+  "author": "temryu",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.3",
+      "url": "https://archive.org/download/nester-j-0.3cn.-7z/Old%20Versions/NESTERJX.zip",
+      "published_at": "2008-05-12",
+      "size": 671292,
+      "sha256": "ac23704750f72e33283383b250aaeb02662145217add9e9faa9f3d50a090bd58",
+      "eboot_md5": "2b322406578b96b6907a6c46c0f18944"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/nester-j-0.3cn.-7z/DISC_ID_00000.jpg"
+    ],
+    "icon": "icons/nesterj_psp_for_cn.png"
+  }
+}

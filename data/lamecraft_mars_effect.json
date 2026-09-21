@@ -1,0 +1,26 @@
+{
+  "name": "LameCraft Mars Effect",
+  "id": "lamecraft_mars_effect",
+  "summary": "Mod of the Minecraft fan game.",
+  "author": "Genetik57",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.98",
+      "url": "https://archive.org/download/lame-craft-mars-effect-source/LameCraft%20Mars%20Effect.zip",
+      "published_at": "2013-01-01",
+      "size": 19463780,
+      "sha256": "a675f4a1bdc814ba014b35a5fd286a15d7d81f1daaef824a272b3a85deb44577",
+      "eboot_md5": "859baf7183346f4b972c1f669300b841"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lame-craft-mars-effect-source/LAME01935_00000.png"
+    ],
+    "icon": "icons/lamecraft_mars_effect.png"
+  }
+}

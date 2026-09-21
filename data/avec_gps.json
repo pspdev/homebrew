@@ -1,0 +1,29 @@
+{
+  "name": "AVEC GPS",
+  "id": "avec_gps",
+  "summary": "Vector map viewer for PSP.",
+  "author": "Brek Martin (Art)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "8",
+      "url": "https://archive.org/download/avec-gps-v-8.7z/AVEC%20GPS%20v8.zip",
+      "published_at": "2009-01-01",
+      "size": 1779104,
+      "sha256": "3ce035d515c5132bbc5dfa22d00e9d938f00d5292de0e86f24ef11ccd7fa34f4",
+      "eboot_md5": "338b5586afac35e7de65ee078555b7f0"
+    }
+  ],
+  "tags": [
+    "Go!Explore",
+    "NEO 2009 Summer Compo"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/avec-gps-v-8.7z/pic_0001.jpg"
+    ],
+    "icon": "icons/avec_gps.png"
+  }
+}

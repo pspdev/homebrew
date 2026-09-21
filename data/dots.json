@@ -1,0 +1,26 @@
+{
+  "name": "Dots",
+  "id": "dots",
+  "summary": "Homebrew game for PSP.",
+  "author": "Nicko01",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.4",
+      "url": "https://archive.org/download/dots-ver-0.4.7z/DOTS%20Ver%200.4.zip",
+      "published_at": "2006-10-28",
+      "size": 1394317,
+      "sha256": "e523aaa985c0fcfec2a68a8163b4a14184b574f9aa33fa3b9e92c2981058911d",
+      "eboot_md5": "d20b6d5727fae83da0f95ac5a5361605"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/dots-ver-0.4.7z/DOTS00825_00000.jpg"
+    ],
+    "icon": "icons/dots.png"
+  }
+}

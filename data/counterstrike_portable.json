@@ -1,0 +1,26 @@
+{
+  "name": "CounterStrike Portable",
+  "id": "counterstrike_portable",
+  "summary": "3D shooter for PSP.",
+  "author": "Stealth Kill",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.8 Beta 2",
+      "url": "https://archive.org/download/csportable-0.8.7z/Old%20Versions/CSPortable%200.8.zip",
+      "published_at": "2009-08-02",
+      "size": 27713978,
+      "sha256": "8d8875a8e5c06d3f6c08c2d60b8d6faf94941ee8962e8077fe99490af8cd38c1",
+      "eboot_md5": "2f7a61b3bfde655cec99866e36e26e89"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/csportable-0.8.7z/20220112081933.png"
+    ],
+    "icon": "icons/counterstrike_portable.png"
+  }
+}

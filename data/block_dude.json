@@ -1,0 +1,26 @@
+{
+  "name": "Block Dude",
+  "id": "block_dude",
+  "summary": "Homebrew game for PSP.",
+  "author": "cools",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/block-dude-v.-1.7z/Old%20Versions/Block_Dude_v.1.zip",
+      "published_at": "2007-06-18",
+      "size": 1375631,
+      "sha256": "3cb269435584323288d4f1cf6c49d1b1948ab0e1853ccd1807521a3445f38b4a",
+      "eboot_md5": "2cf4989c138b8afb42ac5b387c9f0219"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/block-dude-v.-1.7z/BLOC00909_00000.jpg"
+    ],
+    "icon": "icons/block_dude.png"
+  }
+}

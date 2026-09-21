@@ -1,0 +1,28 @@
+{
+  "name": "Platform Portable",
+  "id": "platform_portable",
+  "summary": "Homebrew game for PSP.",
+  "author": "Benjamin99",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/platform-portable.-7z/Platform%20Portable.zip",
+      "published_at": "2011-01-01",
+      "size": 553734,
+      "sha256": "9f638ba1b53e1787cc1c3306b2628e47fe5c4284a91da5cdfdcc8d48a34325b7",
+      "eboot_md5": "8223f3fa49520eb0510f96fae7994d78"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/platform-portable.-7z/PLAT01694_00001.png"
+    ],
+    "icon": "icons/platform_portable.png"
+  }
+}

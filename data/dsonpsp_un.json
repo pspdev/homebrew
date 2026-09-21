@@ -1,0 +1,26 @@
+{
+  "name": "DSonPSP Un",
+  "id": "dsonpsp_un",
+  "summary": "Nintendo DS emulator for PSP.",
+  "author": "tumugi",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.3",
+      "url": "https://archive.org/download/dson-psp-un-1.3/DSonPSP%20Un1.3.zip",
+      "published_at": "2010-08-02",
+      "size": 267407,
+      "sha256": "660aaccbb9acebf718404f723b235988eb8cde7fa6333b656387ccb7169138f7",
+      "eboot_md5": "a4fb3aa204873ca32778b3650e052570"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/dson-psp-un-1.3/DSON00988_00001.png"
+    ],
+    "icon": "icons/dsonpsp_un.png"
+  }
+}

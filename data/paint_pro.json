@@ -1,0 +1,26 @@
+{
+  "name": "Paint Pro",
+  "id": "paint_pro",
+  "summary": "Image editor for PSP.",
+  "author": "MasterMen",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "Pre-Alpha 0.1",
+      "url": "https://archive.org/download/paint-pro-0.1-pre-alpha/Paint%20Pro%200.1%20%28Pre-Alpha%29.zip",
+      "published_at": "2019-12-31",
+      "size": 703994,
+      "sha256": "08c6dd19d1dcfd9262bc32323fd22260567d1966a210b5045dc013909f42c115",
+      "eboot_md5": "d27b7cb0427e0adcd3c641b180c22bb8"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/paint-pro-0.1-pre-alpha/PAIN01959_00001.png"
+    ],
+    "icon": "icons/paint_pro.png"
+  }
+}

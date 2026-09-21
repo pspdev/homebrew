@@ -1,0 +1,26 @@
+{
+  "name": "Notepad for PSP",
+  "id": "notepad_for_psp",
+  "summary": "Text editor for PSP.",
+  "author": "ema, Kris",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "3",
+      "url": "https://archive.org/download/notepad-for-psp-v-3.7z/Old%20Versions/NotepadForPspV3_FIXED.zip",
+      "published_at": "2006-04-14",
+      "size": 1047804,
+      "sha256": "197d9f4d883bc7ed5962243f1ec2b27e5bc775589c4724fce9b0194e6c0334cc",
+      "eboot_md5": "1764c09ad2bc34926a1d68ed74e0610d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/notepad-for-psp-v-3.7z/NOTE01349_00000.jpg"
+    ],
+    "icon": "icons/notepad_for_psp.png"
+  }
+}

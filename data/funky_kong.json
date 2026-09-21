@@ -1,0 +1,26 @@
+{
+  "name": "Funky Kong",
+  "id": "funky_kong",
+  "summary": "Homebrew game for PSP.",
+  "author": "Zora_182",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.00",
+      "url": "https://archive.org/download/funky-kong.-7z/Old%20Versions/FunkyKong.zip",
+      "published_at": "2008-01-08",
+      "size": 9339182,
+      "sha256": "88ccdffec3ab97e5817f208ba2eb35e2121753e05cebce27d634461f62d2163a",
+      "eboot_md5": "09a26e7183db563caa948a15e9c4ffed"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/funky-kong.-7z/pic_0003.png"
+    ],
+    "icon": "icons/funky_kong.png"
+  }
+}

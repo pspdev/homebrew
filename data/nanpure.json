@@ -1,0 +1,26 @@
+{
+  "name": "Nanpure",
+  "id": "nanpure",
+  "summary": "Sudoku for PSP.",
+  "author": "EvilDooinz",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "R5",
+      "url": "https://archive.org/download/nanpure.-7z/Old%20Versions/Nanpure.zip",
+      "published_at": "2007-01-20",
+      "size": 595119,
+      "sha256": "38bbf009b5e512750d399c809e052996f1755d7a51aed217b101f220c8e08e2e",
+      "eboot_md5": "3acee25ce1bb6aefb221d8f17cb35a9a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/nanpure.-7z/NANP00729_00000.jpg"
+    ],
+    "icon": "icons/nanpure.png"
+  }
+}

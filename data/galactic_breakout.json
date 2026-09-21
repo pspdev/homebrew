@@ -1,0 +1,28 @@
+{
+  "name": "Galactic BreakOut",
+  "id": "galactic_breakout",
+  "summary": "Breakout for PSP.",
+  "author": "Nino van Hooff (The Underminer)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.3",
+      "url": "https://archive.org/download/gbo-1.3.7z/Old%20Versions/GBO_1.1.zip",
+      "published_at": "2008-08-13",
+      "size": 58525490,
+      "sha256": "841f1ef098e210c2ac39a13c308b35e46ef4283a11cea926807e99962f9c8049",
+      "eboot_md5": "cb61185bf65e30adc36afcef78f5d853"
+    }
+  ],
+  "tags": [
+    "Gx-mod/XtreamLua 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/gbo-1.3.7z/20210725024500.png"
+    ],
+    "icon": "icons/galactic_breakout.png"
+  }
+}

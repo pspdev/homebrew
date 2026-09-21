@@ -1,0 +1,26 @@
+{
+  "name": "NewTube",
+  "id": "newtube",
+  "summary": "Video player app for PSP.",
+  "author": "Rikuran2001, Rukmio",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.30",
+      "url": "https://archive.org/download/new-tube.-7z/Old%20Versions/NewTube%20F0.zip",
+      "published_at": "2009-10-25",
+      "size": 4962813,
+      "sha256": "7f7bb59b83a5ec59c6defcc164229b97e3c13c2d2d3235b5e9dfafd99544b4cf",
+      "eboot_md5": "731f638cb90b19d72bbb9079c360bae1"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/new-tube.-7z/pic_0000.png"
+    ],
+    "icon": "icons/newtube.png"
+  }
+}

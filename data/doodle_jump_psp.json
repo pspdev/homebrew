@@ -1,0 +1,26 @@
+{
+  "name": "Doodle Jump PSP",
+  "id": "doodle_jump_psp",
+  "summary": "PSP version of the game.",
+  "author": "emink123, James Cutter",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.4",
+      "url": "https://archive.org/download/doodle-jump-psp-v-1.4.7z/Old%20Versions/Doodle_Jump_PSP13.zip",
+      "published_at": "2011-05-31",
+      "size": 16719038,
+      "sha256": "8f6417d5c40422dcb560a6e46e8a802e342b526a16f185b98a256e0c995cf625",
+      "eboot_md5": "902a6db40dbee7ba726101cfec84b897"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/doodle-jump-psp-v-1.4.7z/DOOD01615_00001.png"
+    ],
+    "icon": "icons/doodle_jump_psp.png"
+  }
+}

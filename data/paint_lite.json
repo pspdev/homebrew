@@ -1,0 +1,26 @@
+{
+  "name": "Paint Lite",
+  "id": "paint_lite",
+  "summary": "Image editing app for PSP.",
+  "author": "MasterMen",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.3 b0001",
+      "url": "https://archive.org/download/paint-lite-0.3-b-0001/Paint%20Lite%200.3%20b0001.zip",
+      "published_at": "2020-08-10",
+      "size": 1846293,
+      "sha256": "ccbb0902dc62b2d91a8f8c29d859ebf0b99a46975a721286b888eb84645b2632",
+      "eboot_md5": "27d16c6924fd399cc0d449a0d53e7421"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/paint-lite-0.3-b-0001/PAIN01438_00000.png"
+    ],
+    "icon": "icons/paint_lite.png"
+  }
+}

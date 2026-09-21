@@ -1,0 +1,26 @@
+{
+  "name": "Eliminated",
+  "id": "eliminated",
+  "summary": "Homebrew game for PSP.",
+  "author": "Emeric Baveux (Emeric0101)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Finale",
+      "url": "https://archive.org/download/eliminated.-7z/Old%20Versions/ELIMINATED.zip",
+      "published_at": "2007-11-05",
+      "size": 5007518,
+      "sha256": "67dc0250d3506ce8c0af5493daa802d87eaee0b1856ff56e8566ea9d266502a6",
+      "eboot_md5": "4755c750260c70fa5582b958d0536c1a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/eliminated.-7z/20210623205310.png"
+    ],
+    "icon": "icons/eliminated.png"
+  }
+}

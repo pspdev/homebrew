@@ -1,0 +1,28 @@
+{
+  "name": "Lock the Folder",
+  "id": "lock_the_folder",
+  "summary": "App to set folder passwords.",
+  "author": "Knopper",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/lock-the-folder-1.1.7z/LockTheFolder1.1.zip",
+      "published_at": "2011-05-24",
+      "size": 1764649,
+      "sha256": "2e052366742cc46a05e89c79297a8d7157720a48cf9805dab9b677ec75a603a6",
+      "eboot_md5": "a0fc6bdd7e3cedd9ef0f2d010a799e5c"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lock-the-folder-1.1.7z/LOCK01430_00000.jpg"
+    ],
+    "icon": "icons/lock_the_folder.png"
+  }
+}

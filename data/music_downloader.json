@@ -1,0 +1,26 @@
+{
+  "name": "Music Downloader",
+  "id": "music_downloader",
+  "summary": "Homebrew app for PSP.",
+  "author": "jorge_97",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "3",
+      "url": "https://archive.org/download/music-downloader-v-3.7z/Music%20Downloader%20v3.zip",
+      "published_at": "2012-12-27",
+      "size": 1348540,
+      "sha256": "37cfeb509df4d18b2401e08d0f323e0280fc0a0a7ec9c8e521c109c16e0c7e24",
+      "eboot_md5": "e6e9dbb6c41ff5dbc0ff3bbb888a0461"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/music-downloader-v-3.7z/pic_0000.png"
+    ],
+    "icon": "icons/music_downloader.png"
+  }
+}

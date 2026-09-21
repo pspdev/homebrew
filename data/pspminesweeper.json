@@ -1,0 +1,28 @@
+{
+  "name": "PSPMinesweeper",
+  "id": "pspminesweeper",
+  "summary": "Minesweeper for PSP.",
+  "author": "Ryp",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.11",
+      "url": "https://archive.org/download/minesweeper.-7z_202101/PSPMinesweeper%20v2.11.zip",
+      "published_at": "2012-02-27",
+      "size": 822102,
+      "sha256": "b965de6ff99efb1725e79ad93237483716170cd36c653645d5664db0e2d63c8b",
+      "eboot_md5": "0fbd64305484a6ebea4cf2e9fc9038d2"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/minesweeper.-7z_202101/PSPM02163_00001.png"
+    ],
+    "icon": "icons/pspminesweeper.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PSP Evasion",
+  "id": "psp_evasion",
+  "summary": "Dodge the blue balls.",
+  "author": "Sunny (Sebastian M.)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "5",
+      "url": "https://archive.org/download/psp-evasion.-7z/PSPEvasion%205%20by%20Sunny.zip",
+      "published_at": "2013-04-07",
+      "size": 4957768,
+      "sha256": "c7642651609e9a3f0c35536e083f97bd517d8eeb3236bdb7d1651f692e5f4666",
+      "eboot_md5": "574f7ba01c3232b4d771bbd66f020289"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-evasion.-7z/PSPE01877_00001.jpg"
+    ],
+    "icon": "icons/psp_evasion.png"
+  }
+}

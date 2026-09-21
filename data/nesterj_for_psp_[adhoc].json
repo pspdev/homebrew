@@ -1,0 +1,28 @@
+{
+  "name": "NesterJ for PSP [Adhoc]",
+  "id": "nesterj_for_psp_[adhoc]",
+  "summary": "NES emulator for PSP, a port of the NNNesterJ emulator. This version of NesterJ claims to support ad-hoc multiplayer games.",
+  "author": "ruka",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.20 Beta 2",
+      "url": "https://archive.org/download/nester-j-v-1-20beta-2.7z/Old%20Versions/NesterJ_v0_01.zip",
+      "published_at": "2006-07-09",
+      "size": 298385,
+      "sha256": "639186af09913af0f2268ade1ddd032b3ea25433750f522a6803c79ffc0303f0",
+      "eboot_md5": "0f38a0dfb6f5e4be1031370e704b2885"
+    }
+  ],
+  "tags": [
+    "ad-hoc support"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/nester-j-v-1-20beta-2.7z/20220124184000.png"
+    ],
+    "icon": "icons/nesterj_for_psp_[adhoc].png"
+  }
+}

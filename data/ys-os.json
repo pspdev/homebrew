@@ -1,0 +1,26 @@
+{
+  "name": "YS-OS",
+  "id": "ys-os",
+  "summary": "UI shell for PSP.",
+  "author": "Yossi Starz",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.8",
+      "url": "https://archive.org/download/ys-os-public-v-1.8.7z/YS-OS%20public%20V1.8.zip",
+      "published_at": "2006-04-17",
+      "size": 5346796,
+      "sha256": "0c17f4a1d91e4c7efbd6ebbce2403782bb275b5463735f95820cee5a25ab8042",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ys-os-public-v-1.8.7z/LUAP01126_00001.jpg"
+    ],
+    "icon": "icons/ys-os.png"
+  }
+}

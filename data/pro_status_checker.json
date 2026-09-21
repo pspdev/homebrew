@@ -1,0 +1,26 @@
+{
+  "name": "PRO Status Checker",
+  "id": "pro_status_checker",
+  "summary": "Homebrew app for PSP.",
+  "author": "asl97",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.3.9",
+      "url": "https://archive.org/download/pro-status-checker-v-0.3.9.7z/PRO%20status%20checker%20v0.3.9.zip",
+      "published_at": "2013-11-05",
+      "size": 5918956,
+      "sha256": "b07c92b6f87af3c61d5ed0bc28dc7c8b9bee46663c6f723dbe64876a73e4e2a2",
+      "eboot_md5": "b24362401e7ca8439247a8f8548935fd"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pro-status-checker-v-0.3.9.7z/20210723225059.png"
+    ],
+    "icon": "icons/pro_status_checker.png"
+  }
+}

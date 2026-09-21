@@ -1,0 +1,26 @@
+{
+  "name": "Agar.io",
+  "id": "agar.io",
+  "summary": "Homebrew game for PSP.",
+  "author": "Camxpspx123",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/agar.io-psp-v-2.0.7z/agar.io%20psp%20v2.0.zip",
+      "published_at": "2015-01-01",
+      "size": 1332042,
+      "sha256": "d7b58012245c7a1805ec128a3d73880263a31db6f515b2b38b8f4edb5689158b",
+      "eboot_md5": "ead36aeb9f9f6720f8b3b1ccbb10288c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/agar.io-psp-v-2.0.7z/AGAR01338_00000.jpg"
+    ],
+    "icon": "icons/agar.io.png"
+  }
+}

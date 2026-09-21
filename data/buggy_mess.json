@@ -1,0 +1,28 @@
+{
+  "name": "Buggy Mess",
+  "id": "buggy_mess",
+  "summary": "Your friend want you to go buy the new game that just came out, you will need to get out of your cave (litteraly) to go touch grass uh\u2026 i mean go buy the game at the store.",
+  "author": "MEGAgameBoy",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/buggy-mess/Old%20Versions/BuggyMess.zip",
+      "published_at": "2022-10-29",
+      "size": 4184931,
+      "sha256": "33f2d35a2bf051c27608f7751c34f0f6b66660c176267f95850729671d1b384f",
+      "eboot_md5": "4d2bda8ec756017c34e6259eefe66b44"
+    }
+  ],
+  "tags": [
+    "RE:Start Game Jam 2022"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/buggy-mess/BGMS00001_00000.png"
+    ],
+    "icon": "icons/buggy_mess.png"
+  }
+}

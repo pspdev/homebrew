@@ -1,0 +1,26 @@
+{
+  "name": "Falling Buttons",
+  "id": "falling_buttons",
+  "summary": "Button-pressing game.",
+  "author": "to\u00f1os, kinze",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/falling-buttons-v-2.0.7z/Falling%20Buttons%20v2.0.zip",
+      "published_at": "2010-01-15",
+      "size": 4153757,
+      "sha256": "afdf12274a3beb04b7e631860332faebc0c2351f71e508ad3cc0c5c523b9cb75",
+      "eboot_md5": "5104c313346150a717e00ca51814db94"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/falling-buttons-v-2.0.7z/FALL01778_00000.jpg"
+    ],
+    "icon": "icons/falling_buttons.png"
+  }
+}

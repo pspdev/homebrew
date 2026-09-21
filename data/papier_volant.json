@@ -1,0 +1,26 @@
+{
+  "name": "Papier Volant",
+  "id": "papier_volant",
+  "summary": "Homebrew game for PSP.",
+  "author": "Dark_thib",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "3",
+      "url": "https://archive.org/download/papier-volant-v-2.7z/Papier%20volant.zip",
+      "published_at": "2010-07-06",
+      "size": 3998964,
+      "sha256": "14c0e84ff6fdbfb1d267032c49c997b299579ddfebb5cd852fea33ad23894d60",
+      "eboot_md5": "b609145aad3096fe20d6b643587babae"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/papier-volant-v-2.7z/PAPI01301_00000.jpg"
+    ],
+    "icon": "icons/papier_volant.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Chao Rush",
+  "id": "chao_rush",
+  "summary": "Homebrew game for PSP. Early versions are known as Chao Maze.",
+  "author": "HEDZX",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/chao-rush-v-0.2.7z/Old%20Versions/Chao_Maze_v06.zip",
+      "published_at": "2006-05-13",
+      "size": 1988401,
+      "sha256": "4f63eddeead2f26f6ce230fb57895eba06e05cd468182d7b4ddf6933a7f61cb9",
+      "eboot_md5": "5ace42157ea2f5021adcc2deffaf977b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/chao-rush-v-0.2.7z/LPM300335_00000.jpg"
+    ],
+    "icon": "icons/chao_rush.png"
+  }
+}

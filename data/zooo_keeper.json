@@ -1,0 +1,26 @@
+{
+  "name": "Zooo Keeper",
+  "id": "zooo_keeper",
+  "summary": "Puzzle game for PSP.",
+  "author": "N64Francois",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/zooo-keeper/Zooo%20Keeper.zip",
+      "published_at": "2009-01-01",
+      "size": 9544206,
+      "sha256": "c91fcd6e8c1077ffe69cf7d798c0de4b2424d35121396962b412f8cf9db93ab5",
+      "eboot_md5": "e812c91807c1c21285fa3b9c3a53348d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/zooo-keeper/ZOOO01059_00000.png"
+    ],
+    "icon": "icons/zooo_keeper.png"
+  }
+}

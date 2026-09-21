@@ -1,0 +1,28 @@
+{
+  "name": "Pilota",
+  "id": "pilota",
+  "summary": "Homebrew game inspired by Pilotwings.",
+  "author": "Gadam",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/pilota-1.2.7z/Pilota%201.2.zip",
+      "published_at": "2011-01-01",
+      "size": 1461269,
+      "sha256": "547224f273ea0f63c5dda338dc9307a9078d0753b59f1b61e0f4e7d7b7c8342a",
+      "eboot_md5": "90490f9cf7313a8d10756e7edb7aba50"
+    }
+  ],
+  "tags": [
+    "XTreamContest Summer 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pilota-1.2.7z/PILO00794_00000.jpg"
+    ],
+    "icon": "icons/pilota.png"
+  }
+}

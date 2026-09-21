@@ -1,0 +1,28 @@
+{
+  "name": "Chicken Invaders",
+  "id": "chicken_invaders",
+  "summary": "Space invaders, with chickens.",
+  "author": "CoderX, Kerey, Eclipse",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.4 Beta",
+      "url": "https://archive.org/download/chicken-invaders.-7z/chicken%20invaders%201.4%20beta.zip",
+      "published_at": "2010-12-10",
+      "size": 10165484,
+      "sha256": "598ccf8e84447690c1faee92ed6039f573cea377f7c4a57c59f27d655999c80b",
+      "eboot_md5": "41333ce63405b65454fa3deb393cf6e2"
+    }
+  ],
+  "tags": [
+    "ITA's Winter Contest (2009)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/chicken-invaders.-7z/20220112091320.png"
+    ],
+    "icon": "icons/chicken_invaders.png"
+  }
+}

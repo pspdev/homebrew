@@ -1,0 +1,26 @@
+{
+  "name": "Winrar, Winzip Extractor",
+  "id": "winrar,_winzip_extractor",
+  "summary": "Homebrew app for PSP.",
+  "author": "Ayrton990",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.3",
+      "url": "https://archive.org/download/winrar-winzip-extractor-v-0.3.7z/Winrar%2C%20Winzip%20Extractor%20v0.3.zip",
+      "published_at": "2011-03-25",
+      "size": 5880139,
+      "sha256": "bdb69a48eeca3a62667a987ce6ce684c3342e117f486b187088bc168ed38fdf4",
+      "eboot_md5": "3e867357ab32ba587234d229e26b7e11"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/winrar-winzip-extractor-v-0.3.7z/pic_0000.png"
+    ],
+    "icon": "icons/winrar,_winzip_extractor.png"
+  }
+}

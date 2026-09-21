@@ -1,0 +1,26 @@
+{
+  "name": "PSP Keys Test",
+  "id": "psp_keys_test",
+  "summary": "Button tester app for PSP.",
+  "author": "DedDinO_94",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "3.0",
+      "url": "https://archive.org/download/psp-keys-test.-7z_202101/PSP%20Keys%20Test.zip",
+      "published_at": "2010-01-02",
+      "size": 1674258,
+      "sha256": "4e5fc6825bbd9e815105ebbb0267614e3f63747fbb40f33d01a7b4c260629001",
+      "eboot_md5": "6143bda98b229a3be47138ba02cfbf94"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-keys-test.-7z_202101/PSP%2001135_00000.jpg"
+    ],
+    "icon": "icons/psp_keys_test.png"
+  }
+}

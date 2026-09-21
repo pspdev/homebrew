@@ -1,0 +1,26 @@
+{
+  "name": "Counter Strike",
+  "id": "counter_strike",
+  "summary": "Doom mod for PSP.",
+  "author": "Sujo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.5",
+      "url": "https://archive.org/download/counter-strike.-7z/Counter%20Strike.zip",
+      "published_at": "2006-01-23",
+      "size": 7374444,
+      "sha256": "ecdf164ed127510f37bd502bdadb4127dde6264cdbaa3323728223a61ea246f9",
+      "eboot_md5": "e2a5d8b05979d43f4afa33ea26cab481"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/counter-strike.-7z/COUN01394_00001.jpg"
+    ],
+    "icon": "icons/counter_strike.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Music Quiz",
+  "id": "music_quiz",
+  "summary": "Music game for PSP.",
+  "author": "Xevious78",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.5",
+      "url": "https://archive.org/download/music-quiz.-7z/Old%20Versions/MusicQuiz.zip",
+      "published_at": "2007-12-19",
+      "size": 1407281,
+      "sha256": "869acbb51016f71124b6835e6a18f6aea57f4f1dccba9e0afce3693656128ac5",
+      "eboot_md5": "3844109fe1493a3bfc03f6ff04827a94"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/music-quiz.-7z/MUSI00938_00000.jpg"
+    ],
+    "icon": "icons/music_quiz.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GameMusicGear MX",
+  "id": "gamemusicgear_mx",
+  "summary": "Video game music player for PSP.",
+  "author": "gama, maxo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.5",
+      "url": "https://archive.org/download/gmgear-mx.-7z/Old%20Versions/GameMusicGear_2.0.zip",
+      "published_at": "2010-12-22",
+      "size": 4908280,
+      "sha256": "6c6314aa626f17db902b0ef4c9d0ffd37b9eff23086adecbdca74fb08f2ad19a",
+      "eboot_md5": "0e9ec467fbb310d5f2f0c93f7da7b313"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/gmgear-mx.-7z/pic_0005.png"
+    ],
+    "icon": "icons/gamemusicgear_mx.png"
+  }
+}

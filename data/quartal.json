@@ -1,0 +1,28 @@
+{
+  "name": "Quartal",
+  "id": "quartal",
+  "summary": "3D game based on Portal, and built with the Quake engine.",
+  "author": "Team Unsilenced",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Beta 2.5",
+      "url": "https://archive.org/download/quartal-beta-2.5.-7z/Quartal%20%5BBeta%202.5%5D.zip",
+      "published_at": "2012-06-09",
+      "size": 81833586,
+      "sha256": "4140e471185becc1769b1be5d88cb8881e87d0ae430ca79fd4a33b08db1dfaaa",
+      "eboot_md5": "f6c085a332504556421b42fea0320e36"
+    }
+  ],
+  "tags": [
+    "PSP Homebrew Game Competition 2013"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/quartal-beta-2.5.-7z/QUAR01507_00000.jpg"
+    ],
+    "icon": "icons/quartal.png"
+  }
+}

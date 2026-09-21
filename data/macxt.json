@@ -1,0 +1,28 @@
+{
+  "name": "MACXT",
+  "id": "macxt",
+  "summary": "UI shell for PSP.",
+  "author": "Luaacro",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "4",
+      "url": "https://archive.org/download/macxt-2.7z/Old%20Versions/MACXT2.zip",
+      "published_at": "2008-05-24",
+      "size": 2412746,
+      "sha256": "40a000d3c555cf932e3e5d1d5d7cdfb3be2fc09ef0f33ce793520d8dc1bc8035",
+      "eboot_md5": "d370e0eac11fe6bc1c3b86f875448838"
+    }
+  ],
+  "tags": [
+    "Gx-mod/XtreamLua 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/macxt-2.7z/MACX00433_00000.png"
+    ],
+    "icon": "icons/macxt.png"
+  }
+}

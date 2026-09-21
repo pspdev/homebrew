@@ -1,0 +1,26 @@
+{
+  "name": "Goear PSP",
+  "id": "goear_psp",
+  "summary": "Music downloader for PSP. As the server it depends on is permanently offline, the app will not work.",
+  "author": "Gcrew",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/goear-psp-2.0.7z/Goear%20PSP%202.0.zip",
+      "published_at": "2009-12-31",
+      "size": 1037905,
+      "sha256": "cbf836d8779189f850abc1b29b381d427e44404335dc38b32230c458f40e4027",
+      "eboot_md5": "0ff76ce33e21422482c9c963f452cac3"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/goear-psp-2.0.7z/20210802001926.png"
+    ],
+    "icon": "icons/goear_psp.png"
+  }
+}

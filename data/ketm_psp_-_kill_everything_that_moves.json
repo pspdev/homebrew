@@ -1,0 +1,28 @@
+{
+  "name": "KETM PSP - Kill Everything That Moves",
+  "id": "ketm_psp_-_kill_everything_that_moves",
+  "summary": "PSP adoptation of KETM (studio-grey/badblocks), fast paced tyrian style 2D shooter.",
+  "author": "Denis Televnyy (Deniska), bourbon_bot, wally4000",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.9 Wallyfied",
+      "url": "https://archive.org/download/ketm-v-0.9.7z/Old%20Versions/KETM_v0.9.zip",
+      "published_at": "2008-07-03",
+      "size": 9044780,
+      "sha256": "f7dd1bc4c5661a708b3180a3ebb0d185abc7f32899a2ff0f95458415fbd3739c",
+      "eboot_md5": "8b49c34cbca06de1060eed83aa5345ae"
+    }
+  ],
+  "tags": [
+    "PSP 30 Day Coding Competition #2 (2005-2006)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ketm-v-0.9.7z/KETM01449_00000.jpg"
+    ],
+    "icon": "icons/ketm_psp_-_kill_everything_that_moves.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PSP Mandel Explorer",
+  "id": "psp_mandel_explorer",
+  "summary": "Mandelbrot set explorer for PSP.",
+  "author": "GoatSucker",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/psp-mandel-explorer.-7z/PSP%20Mandel%20Explorer.zip",
+      "published_at": "2005-07-22",
+      "size": 242929,
+      "sha256": "789b233c4f1e4740d2745391a59be0b143e682b96b705952f8af73058c070b15",
+      "eboot_md5": "0b1ae71abb54f5611c965106a04c45b0"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-mandel-explorer.-7z/PSP%2001749_00000.jpg"
+    ],
+    "icon": "icons/psp_mandel_explorer.png"
+  }
+}

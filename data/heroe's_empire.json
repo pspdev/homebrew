@@ -1,0 +1,26 @@
+{
+  "name": "Heroe's Empire",
+  "id": "heroe's_empire",
+  "summary": "Homebrew game for PSP. Early builds are titled 'Trops of Empires'.",
+  "author": "Seeken Production",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/heroes-empire.-7z/Old%20Versions/trops-of-empires.zip",
+      "published_at": "2012-08-24",
+      "size": 3738675,
+      "sha256": "c3d141c51a2a381e1dd93e0a33e96bdc70747252bd063677563de03f5ea892c3",
+      "eboot_md5": "e0b059998b87a93e52022155ac9453bd"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/heroes-empire.-7z/HERO01327_00001.png"
+    ],
+    "icon": "icons/heroe's_empire.png"
+  }
+}

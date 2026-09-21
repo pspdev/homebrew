@@ -1,0 +1,28 @@
+{
+  "name": "PSPChessGame",
+  "id": "pspchessgame",
+  "summary": "Game of chess programmed in Python.",
+  "author": "Germano Fabio (Gefa)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0.0",
+      "url": "https://archive.org/download/pspchess-game-v-1.0.0.7z/PSPChessGame%20v1.0.0.zip",
+      "published_at": "2009-04-25",
+      "size": 3193102,
+      "sha256": "1e8ce12f77e9b24824ecef8bf9e38e04e379894165c391fe151d8b63c2bf51c1",
+      "eboot_md5": "fce8dd32127bdde2e1d0a69e1136584b"
+    }
+  ],
+  "tags": [
+    "python"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspchess-game-v-1.0.0.7z/PSPC01510_00000.png"
+    ],
+    "icon": "icons/pspchessgame.png"
+  }
+}

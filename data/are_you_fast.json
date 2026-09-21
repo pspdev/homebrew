@@ -1,0 +1,26 @@
+{
+  "name": "Are you Fast",
+  "id": "are_you_fast",
+  "summary": "Button-mashing game.",
+  "author": "fede94boss",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/are-you-fast.-7z/Are%20you%20FAST.zip",
+      "published_at": "2011-06-14",
+      "size": 3671914,
+      "sha256": "d77b6c04f347cc43484cf1468fc87956b9992f90ff494443a411371910cf67b4",
+      "eboot_md5": "88ba041cb8e5dfac7c0a92975c0ac652"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/are-you-fast.-7z/ARE%2000995_00000.jpg"
+    ],
+    "icon": "icons/are_you_fast.png"
+  }
+}

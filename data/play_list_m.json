@@ -1,0 +1,26 @@
+{
+  "name": "Play List M",
+  "id": "play_list_m",
+  "summary": "Play List M is an application that serves to play playlists in .plm format. Playlists must be created with Play List M for PC (Windows only).",
+  "author": "mpm88",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.1",
+      "url": "https://archive.org/download/play-list-m/Play%20List%20M.zip",
+      "published_at": "2012-03-15",
+      "size": 4239323,
+      "sha256": "f2cdb9bce2febcff171da1f746956006b7e9bf636492d9340cc9e34e945624c0",
+      "eboot_md5": "ffbbfa5712b831edb4eab8f1aca10670"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/play-list-m/UCJS10041_00000.png"
+    ],
+    "icon": "icons/play_list_m.png"
+  }
+}

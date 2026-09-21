@@ -1,0 +1,26 @@
+{
+  "name": "Colditz Escape",
+  "id": "colditz_escape",
+  "summary": "PSP port of the game Escape From Colditz.",
+  "author": "Aperture Software",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/colditz-escape.-7z/Colditz%20Escape.zip",
+      "published_at": "2017-06-14",
+      "size": 778226,
+      "sha256": "76cef2d3573968916edbe82b3227fc88ed998f9930a1bf91aa7cfa6eaaad3c1b",
+      "eboot_md5": "b8bc83f15a7f5b9b355908c2b7831f8d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/colditz-escape.-7z/COLD01354_00000.jpg"
+    ],
+    "icon": "icons/colditz_escape.png"
+  }
+}

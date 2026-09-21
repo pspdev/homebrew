@@ -1,0 +1,26 @@
+{
+  "name": "PSP Royal Casino",
+  "id": "psp_royal_casino",
+  "summary": "Collection of gambling games.",
+  "author": "dark-jey",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/psp-royal-casino-v-1-en.-7z/Psp%20royal%20casino%20v2.zip",
+      "published_at": "2008-10-07",
+      "size": 20671243,
+      "sha256": "21d7e5eb8aa45e28b9a1e93cacac42b41124e01c9e6092cc9641269773602184",
+      "eboot_md5": "7f4192e7d35b0d7f23f682dfbe92f44b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-royal-casino-v-1-en.-7z/PSP%2002033_00000.jpg"
+    ],
+    "icon": "icons/psp_royal_casino.png"
+  }
+}

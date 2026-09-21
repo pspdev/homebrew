@@ -1,0 +1,26 @@
+{
+  "name": "Playlist Manager",
+  "id": "playlist_manager",
+  "summary": "Playlist creator for PSP.",
+  "author": "Mervsduh",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/playlist-manager.-7z/Playlist%20Manager.zip",
+      "published_at": "2007-07-15",
+      "size": 204413,
+      "sha256": "c90f1e93524ceb5bed8e8e5418eb944fdbe31bfb99443509edf0778fd99d3046",
+      "eboot_md5": "4d502dd01c29334edd8e634a561126af"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/playlist-manager.-7z/EBOO00649_00000.jpg"
+    ],
+    "icon": "icons/playlist_manager.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Mega Man Armada",
+  "id": "mega_man_armada",
+  "summary": "OpenBOR mod for PSP.",
+  "author": "NickyP",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1.4",
+      "url": "https://archive.org/download/mega-man-armada.-7z/Mega%20Man%20Armada.zip",
+      "published_at": "2019-12-25",
+      "size": 55385813,
+      "sha256": "7791d45afbc4463d4be317a9589377484909d80a358127ebb86c6f65a4f53e04",
+      "eboot_md5": "92f9b415183b173aff84bc2453e3a218"
+    }
+  ],
+  "tags": [
+    "OpenBOR"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mega-man-armada.-7z/OPEN00629_00000.jpg"
+    ],
+    "icon": "icons/mega_man_armada.png"
+  }
+}

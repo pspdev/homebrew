@@ -1,0 +1,26 @@
+{
+  "name": "MDX Player for PSP",
+  "id": "mdx_player_for_psp",
+  "summary": "Music player for PSP. It plays MDX music files from the Sharp X68000.",
+  "author": "BouKiCHi (\u67d0\u5409)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.01",
+      "url": "https://archive.org/download/mdx-player-for-psp-0.01.7z/MDX%20PLAYER%20for%20PSP%200.01.zip",
+      "published_at": "2009-04-27",
+      "size": 269733,
+      "sha256": "0fa6e2d954b5d17f8f907f40ff2a45fd4b1c9b66e27d0cb51369c1abb3dd8221",
+      "eboot_md5": "213b5fe2e8b605d841a5eedbbf60ad6c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mdx-player-for-psp-0.01.7z/MDX%2001583_00000.jpg"
+    ],
+    "icon": "icons/mdx_player_for_psp.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "LuaKalender",
+  "id": "luakalender",
+  "summary": "Calendar app for PSP.",
+  "author": "Blutelf",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "11",
+      "url": "https://archive.org/download/luakalenderv9.7z/Old%20Versions/luakalenderv9.zip",
+      "published_at": "2009-03-29",
+      "size": 1295104,
+      "sha256": "1cc80eaa914bc9ebc2a8c37f9417b1a0e2cd630239c8f56c6359778f580267ae",
+      "eboot_md5": "580163b9176c5bed49a2f61806aac578"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/luakalenderv9.7z/LUAK01407_00002.png"
+    ],
+    "icon": "icons/luakalender.png"
+  }
+}

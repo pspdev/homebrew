@@ -1,0 +1,28 @@
+{
+  "name": "AIP - Auto Instalador de Plugins",
+  "id": "aip_-_auto_instalador_de_plugins",
+  "summary": "Homebrew app for PSP.",
+  "author": "moikop",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "3.10",
+      "url": "https://archive.org/download/aip-v-3.10-scenery-beta/AIP%20v3.10%20Scenery%20Beta.zip",
+      "published_at": "2010-08-12",
+      "size": 1138307,
+      "sha256": "3433a8aca8eccf5d9a2d6ebf0dce24e916a81a9cff5ad737e335e919f4a2f353",
+      "eboot_md5": "66493515af1ae9e3bf1f9b21fe9a19d4"
+    }
+  ],
+  "tags": [
+    "Scenery Beta 2010"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/aip-v-3.10-scenery-beta/AIP%2001735_00000.png"
+    ],
+    "icon": "icons/aip_-_auto_instalador_de_plugins.png"
+  }
+}

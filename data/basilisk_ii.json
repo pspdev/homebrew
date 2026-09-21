@@ -1,0 +1,26 @@
+{
+  "name": "Basilisk II",
+  "id": "basilisk_ii",
+  "summary": "Mac OS Classic emulator for PSP.",
+  "author": "Chilly Willy",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.1.1",
+      "url": "https://archive.org/download/b2test22.7z/Old%20Versions/b2test22.zip",
+      "published_at": "2008-07-31",
+      "size": 869332,
+      "sha256": "fa2e5f62a3c1723a7b9dc9501cd13ea83d8b7d58c9fb0eb2549d93e9d4ea54ee",
+      "eboot_md5": "2621b4fd39eb47aa2b56ec66beebb761"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/b2test22.7z/20210607160204.png"
+    ],
+    "icon": "icons/basilisk_ii.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Lua Hanging",
+  "id": "lua_hanging",
+  "summary": "Homebrew game for PSP.",
+  "author": "Rinnegatamante",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/lua-hanging.-7z/LUA%20Hanging.zip",
+      "published_at": "2011-07-28",
+      "size": 1115630,
+      "sha256": "33c18f9bb55e67778a89f1ed79863f4a00dae8a42a4e4eacafebe8bc57bacd41",
+      "eboot_md5": "857d8a50dc8f1bfdf02406abad7c00b1"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lua-hanging.-7z/LUA%2000958_00000.jpg"
+    ],
+    "icon": "icons/lua_hanging.png"
+  }
+}

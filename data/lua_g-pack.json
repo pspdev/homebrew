@@ -1,0 +1,26 @@
+{
+  "name": "Lua G-Pack",
+  "id": "lua_g-pack",
+  "summary": "Collection of PSP homebrew games.",
+  "author": "SuperbatXS",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/lua-g-pack-v.-2/Lua%20G-Pack%20v.2.zip",
+      "published_at": "2007-01-16",
+      "size": 14521553,
+      "sha256": "693a43050f08884bfca78410ee624d3f9d60e0c72f3276989469c53b8a86b134",
+      "eboot_md5": "68abbda42a6a1af6dbb07d738ee0e5c9"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lua-g-pack-v.-2/LUA%2001067_00000.png"
+    ],
+    "icon": "icons/lua_g-pack.png"
+  }
+}

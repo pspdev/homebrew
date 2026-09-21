@@ -1,0 +1,26 @@
+{
+  "name": "2P Pong",
+  "id": "2p_pong",
+  "summary": "Homebrew game for PSP.",
+  "author": "Spiderjames",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1",
+      "url": "https://archive.org/download/2-p-pong.-7z/2P%20Pong.zip",
+      "published_at": "2006-01-01",
+      "size": 775342,
+      "sha256": "c0e2a97fc26cc9e77213a9e667abd7720774c6821d02f16d12666bf17ed92952",
+      "eboot_md5": "05d2b1c9f578439a310ad2142fd9f66b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/2-p-pong.-7z/LPM300335_00001.jpg"
+    ],
+    "icon": "icons/2p_pong.png"
+  }
+}

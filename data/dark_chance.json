@@ -1,0 +1,26 @@
+{
+  "name": "Dark Chance",
+  "id": "dark_chance",
+  "summary": "Lotto numbers generators.",
+  "author": "Hakuryu188",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1",
+      "url": "https://archive.org/download/dark-chance-1.7z/DarkChance1.zip",
+      "published_at": "2010-01-03",
+      "size": 479684,
+      "sha256": "ac66881bb4840e6386ad2b6a4b06b88d6f1cdb88722b1a491a28f9391bb056cb",
+      "eboot_md5": "ea1072b7a62606ad8d75f2328f56a564"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/dark-chance-1.7z/pic_0000.jpg"
+    ],
+    "icon": "icons/dark_chance.png"
+  }
+}

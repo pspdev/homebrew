@@ -1,0 +1,26 @@
+{
+  "name": "The World",
+  "id": "the_world",
+  "summary": "Fact-viewing app for PSP.",
+  "author": "Urbano25",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/the-world-2.0.7z/The%20World%202.0.zip",
+      "published_at": "2010-03-02",
+      "size": 2757380,
+      "sha256": "81b1cda06b2f37e72964a51d75c9c9ef954d0dcb45483e1ec8d19e68fdd6ae97",
+      "eboot_md5": "0e4c4db25eb67621967ca03127c9a819"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/the-world-2.0.7z/THE%2001017_00000.jpg"
+    ],
+    "icon": "icons/the_world.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Lightning",
+  "id": "lightning",
+  "summary": "Simple dodging game for PSP.",
+  "author": "Yosh",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.02 Final",
+      "url": "https://archive.org/download/lightningv11_signed.7z/Old%20Versions/lightningv11_signed.zip",
+      "published_at": "2011-05-30",
+      "size": 8286199,
+      "sha256": "554a6d15cdc1efc1baeddbc02ae8364fa0d33b4526327c5991539859f3e4a9ae",
+      "eboot_md5": "250e994bd94f2d164ab4b75394428aeb"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lightningv11_signed.7z/LIGH01849_00001.jpg"
+    ],
+    "icon": "icons/lightning.png"
+  }
+}

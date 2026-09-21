@@ -1,0 +1,26 @@
+{
+  "name": "Cygne for PSP",
+  "id": "cygne_for_psp",
+  "summary": "Wonderswan emulator for PSP.",
+  "author": "REi",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.00",
+      "url": "https://archive.org/download/cygne-000.7z/Old%20Versions/Cygne000.zip",
+      "published_at": "2005-06-12",
+      "size": 305758,
+      "sha256": "44451f85c9d402f3f46d6ec07f11f25e9975d70e890894d095c53681123392c4",
+      "eboot_md5": "280b666a40587b0ae30a1cb9bfd94868"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/cygne-000.7z/20210817222333.png"
+    ],
+    "icon": "icons/cygne_for_psp.png"
+  }
+}

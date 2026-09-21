@@ -1,0 +1,28 @@
+{
+  "name": "MyWindows",
+  "id": "mywindows",
+  "summary": "UI shell for PSP.",
+  "author": "LordVisaris, Playa93, Cobra77380, Aghio, Kiscool",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.XX.01.2",
+      "url": "https://archive.org/download/my-windows-v-1.01.2.7z/MyWindows%20V1.01.2.zip",
+      "published_at": "2008-09-27",
+      "size": 11336045,
+      "sha256": "ef749dec860f5e527065f517130f97f3836b68d9b0f437abfca7d4fb7e267917",
+      "eboot_md5": "520658b8e26e1108f357b37f05e54faa"
+    }
+  ],
+  "tags": [
+    "1000$ pour la sc\u00e8ne (2008/2009)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/my-windows-v-1.01.2.7z/20210603184017.png"
+    ],
+    "icon": "icons/mywindows.png"
+  }
+}

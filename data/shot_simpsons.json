@@ -1,0 +1,26 @@
+{
+  "name": "Shot Simpsons",
+  "id": "shot_simpsons",
+  "summary": "Simple homebrew for PSP. Earlier versions are titled \"Shot Bart\".",
+  "author": "Moxo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "3.3.0",
+      "url": "https://archive.org/download/shot-simpsons-ver-3.3.7z/Shot%20Simpsons%20VER%203.3.zip",
+      "published_at": "2010-01-03",
+      "size": 1637671,
+      "sha256": "ffa38f9037f9962d9b6638bc7118176677f5040116fdc04123f1161abff49dfe",
+      "eboot_md5": "c4aeb02980e71d8b4d4f6ec9b48dbbaa"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/shot-simpsons-ver-3.3.7z/SHOT01755_00000.jpg"
+    ],
+    "icon": "icons/shot_simpsons.png"
+  }
+}

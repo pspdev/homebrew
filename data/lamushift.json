@@ -1,0 +1,26 @@
+{
+  "name": "Lamushift",
+  "id": "lamushift",
+  "summary": "Mod of Lamecraft, the Minecraft fan game for PSP.",
+  "author": "Hantyuuzin",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.6",
+      "url": "https://archive.org/download/lamushift-v-1.5-02.7z/Old%20Versions/Lamushift%20v1.5_02.zip",
+      "published_at": "2012-01-01",
+      "size": 11673093,
+      "sha256": "dba255a5f050fc14b61de62745d1cf8502a3ceda253c90470b7dad3371e174cc",
+      "eboot_md5": "64e028e057f9e20390ad8301d2012edf"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lamushift-v-1.5-02.7z/LAMU01432_00001.jpg"
+    ],
+    "icon": "icons/lamushift.png"
+  }
+}

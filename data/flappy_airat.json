@@ -1,0 +1,26 @@
+{
+  "name": "Flappy Airat",
+  "id": "flappy_airat",
+  "summary": "Homebrew game for PSP.",
+  "author": "SIG, Gears, A12T Games",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/flappy-airat-rus-v-2.0.7z/Flappy%20Airat%20RUS%20v2.0.zip",
+      "published_at": "2020-08-29",
+      "size": 5139197,
+      "sha256": "f8f493dd5d385f992f0a0282bed3875cfb8bbcad44cf842efdcb8fd3517899af",
+      "eboot_md5": "8656a45172d609a08318359602a766c3"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/flappy-airat-rus-v-2.0.7z/FLAP01693_00003.jpg"
+    ],
+    "icon": "icons/flappy_airat.png"
+  }
+}

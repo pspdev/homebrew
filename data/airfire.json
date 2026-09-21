@@ -1,0 +1,26 @@
+{
+  "name": "AirFire",
+  "id": "airfire",
+  "summary": "Homebrew game for PSP.",
+  "author": "Leo, Alexis112, Napster23",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.59",
+      "url": "https://archive.org/download/air-fire-beta.-7z/AirFire%20BETA.zip",
+      "published_at": "2010-04-14",
+      "size": 3590211,
+      "sha256": "90843388ab382453e3d22a160cb85e57e5d7917885ac921eeeb532c542a85071",
+      "eboot_md5": "18d78b0cdfd9997d2b2f7639ee0b0d8b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/air-fire-beta.-7z/20220107065736.png"
+    ],
+    "icon": "icons/airfire.png"
+  }
+}

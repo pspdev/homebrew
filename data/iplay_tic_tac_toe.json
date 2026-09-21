@@ -1,0 +1,26 @@
+{
+  "name": "iPlay Tic Tac Toe",
+  "id": "iplay_tic_tac_toe",
+  "summary": "Noughts and Crosses for PSP.",
+  "author": "Spimort, J3r3mie, Nono4012",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "4",
+      "url": "https://archive.org/download/i-play-tic-tac-toe-v-3.7z/iPlay%20TicTacToe%20V4.zip",
+      "published_at": "2008-01-01",
+      "size": 2132262,
+      "sha256": "f21725db37d9ef674a7bc36b0e9d44ce78f5aae92f5bc50c020d36eabb301743",
+      "eboot_md5": "1c02d332421e73aae9eb4ba5eb5f2add"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/i-play-tic-tac-toe-v-3.7z/IPLA01577_00000.png"
+    ],
+    "icon": "icons/iplay_tic_tac_toe.png"
+  }
+}

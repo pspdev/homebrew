@@ -1,0 +1,26 @@
+{
+  "name": "BPPE - Best Painting Program Ever",
+  "id": "bppe_-_best_painting_program_ever",
+  "summary": "Drawing app for PSP.",
+  "author": "Glynnder",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.95",
+      "url": "https://archive.org/download/bppe-v-099.7z/BPPE%20v099.zip",
+      "published_at": "2007-09-24",
+      "size": 451917,
+      "sha256": "c9448e180603a30e4b311a16a3653edfd80aa82033e8782d61e9e1238ae6d315",
+      "eboot_md5": "05d2b1c9f578439a310ad2142fd9f66b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/bppe-v-099.7z/LPM300335_00000.jpg"
+    ],
+    "icon": "icons/bppe_-_best_painting_program_ever.png"
+  }
+}

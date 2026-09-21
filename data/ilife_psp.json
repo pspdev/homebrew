@@ -1,0 +1,28 @@
+{
+  "name": "iLife PSP",
+  "id": "ilife_psp",
+  "summary": "Homebrew app for PSP. Login password: ilifepsp.",
+  "author": "Nikocronaldo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "3",
+      "url": "https://archive.org/download/iLife_PSP_v2.7z/iLife%20PSP.zip",
+      "published_at": "2008-01-01",
+      "size": 2840251,
+      "sha256": "5a8ba59301f529b9c2969ec583683cdfb1b67606258d204cf6dd9f17b358a3d3",
+      "eboot_md5": "3313cda1e1f85d19ff2f7172b56b99a4"
+    }
+  ],
+  "tags": [
+    "Concurso TodoPSP (2008)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/iLife_PSP_v2.7z/ILIF00764_00001.png"
+    ],
+    "icon": "icons/ilife_psp.png"
+  }
+}

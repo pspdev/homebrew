@@ -1,0 +1,26 @@
+{
+  "name": "Pokemon Obsidian",
+  "id": "pokemon_obsidian",
+  "summary": "Fan game for PSP.",
+  "author": "IeUaN",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/pokemon-obsidian-v-2/Pokemon%20Obsidian%20V2.zip",
+      "published_at": "2014-04-17",
+      "size": 6929254,
+      "sha256": "b0ad0dd7fdaa4a068ae44b21a81654d94e79ccc0b4950fad210f322af478130e",
+      "eboot_md5": "5c4008bca7bc1186c93e7d215b685b6f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pokemon-obsidian-v-2/POKE01738_00000.png"
+    ],
+    "icon": "icons/pokemon_obsidian.png"
+  }
+}

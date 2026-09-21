@@ -1,0 +1,29 @@
+{
+  "name": "CarroPX",
+  "id": "carropx",
+  "summary": "Remake of the car-dodging game found in cheap '999 games in 1' handhelds.",
+  "author": "Chus",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.5",
+      "url": "https://archive.org/download/carro-px-1.2.7z/Old%20Versions/CarroPX%201.2.zip",
+      "published_at": "2013-06-15",
+      "size": 5715778,
+      "sha256": "17b8e55ca6f0925c5a63d18c5cde44909ed004bb84822e8692acddc59cb6b8f6",
+      "eboot_md5": "16ff43a5bda977fb4475116ad1c61de2"
+    }
+  ],
+  "tags": [
+    "PSP Homebrew Game Competition 2013",
+    "Scenery Beta 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/carro-px-1.2.7z/CARR00851_00001.jpg"
+    ],
+    "icon": "icons/carropx.png"
+  }
+}

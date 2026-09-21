@@ -1,0 +1,28 @@
+{
+  "name": "Light Cycle 3D",
+  "id": "light_cycle_3d",
+  "summary": "Virtual game of chicken between luminescent motorbikes. The game won first place at the Homebrew Idol 2 coding competition of June 2009.",
+  "author": "Jordan Rehn (SG57)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "3.01",
+      "url": "https://archive.org/download/light-cycle-3-d.-7z/Light%20Cycle%203D.zip",
+      "published_at": "2009-06-20",
+      "size": 4656692,
+      "sha256": "7bd7c9f3d5dd9595e127db9b114e6184ef503ac99ee23456a0039abc4a0d4eea",
+      "eboot_md5": "9832c6cd0d2c2e12c40a807de46bf43f"
+    }
+  ],
+  "tags": [
+    "Homebrew Idol 2 (2009)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/light-cycle-3-d.-7z/20210619050955.png"
+    ],
+    "icon": "icons/light_cycle_3d.png"
+  }
+}

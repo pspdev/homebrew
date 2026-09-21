@@ -1,0 +1,26 @@
+{
+  "name": "LUAtris",
+  "id": "luatris",
+  "summary": "Version of Tetris for PSP.",
+  "author": "mikehaggar99",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/luatris-0.1-psp-1.0.7z/LUAtris%200.1%20PSP%201.0.zip",
+      "published_at": "2005-08-23",
+      "size": 254526,
+      "sha256": "a09bf7560d1633a8c5113a2909fbfccde8c285266ac43bd6d291f6dbea30ed4a",
+      "eboot_md5": "195b7a20c1a1f52736139997d145a0ad"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/luatris-0.1-psp-1.0.7z/LUAT01301_00000.jpg"
+    ],
+    "icon": "icons/luatris.png"
+  }
+}

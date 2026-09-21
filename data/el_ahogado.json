@@ -1,0 +1,28 @@
+{
+  "name": "El Ahogado",
+  "id": "el_ahogado",
+  "summary": "Homebrew game for PSP.",
+  "author": "el_QAT",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.5",
+      "url": "https://archive.org/download/el-ahogado-v-2.5.7z/El%20Ahogado%20v2.5.zip",
+      "published_at": "2009-01-01",
+      "size": 2725441,
+      "sha256": "23853fcbd22d9c855946929d204342096c19beec7ecf67c1184f116a86d1d33a",
+      "eboot_md5": "06ad5356c10ad69c82a63373a2df2ff8"
+    }
+  ],
+  "tags": [
+    "Scenery Beta 2009"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/el-ahogado-v-2.5.7z/EL%20A01199_00000.jpg"
+    ],
+    "icon": "icons/el_ahogado.png"
+  }
+}

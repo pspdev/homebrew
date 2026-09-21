@@ -1,0 +1,26 @@
+{
+  "name": "PSP Monopoly",
+  "id": "psp_monopoly",
+  "summary": "Homebrew version of the tabletop game.",
+  "author": "Greg Tourville (XiGency), LiquiFire, cools",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Public Beta 2",
+      "url": "https://archive.org/download/psp-monopoly.-7z/Old%20Versions/PSP%20Monopoly.zip",
+      "published_at": "2006-12-29",
+      "size": 3493419,
+      "sha256": "00cd5169b444562090a76a308da2615faf425c69815a6961a06724a82098b5c0",
+      "eboot_md5": "793906b675681850c7de1677d0b80944"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-monopoly.-7z/PSP%2001136_00000.jpg"
+    ],
+    "icon": "icons/psp_monopoly.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Choice 2",
+  "id": "choice_2",
+  "summary": "UI shell for PSP.",
+  "author": "XArt Software & Designs",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.0.1.1",
+      "url": "https://archive.org/download/1-a-021.7z/Old%20Versions/choice_v20_final.zip",
+      "published_at": "2007-12-24",
+      "size": 249650,
+      "sha256": "81f8cb3a201179212f0e7dcdc3db5f2ed7a17ed127a4af93adf8910305bd524e",
+      "eboot_md5": "c3f1a06e4dd1737edf2ddecce99eae94"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/1-a-021.7z/pic_0000.png"
+    ],
+    "icon": "icons/choice_2.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PSP Drum",
+  "id": "psp_drum",
+  "summary": "Homebrew app for PSP.",
+  "author": "psphacker101",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.5",
+      "url": "https://archive.org/download/psp-drum-v-1.5.7z/psp%20drum%20v1.5.zip",
+      "published_at": "2008-04-09",
+      "size": 2701229,
+      "sha256": "a18df56b3f97a9765873a38bcdbad7c556088d7b617e5fc2ba43bb2054c24285",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-drum-v-1.5.7z/LUAP01126_00000.png"
+    ],
+    "icon": "icons/psp_drum.png"
+  }
+}

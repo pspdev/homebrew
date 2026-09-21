@@ -1,0 +1,26 @@
+{
+  "name": "PSP Roulette",
+  "id": "psp_roulette",
+  "summary": "Homebrew game for PSP.",
+  "author": "FrankDeath",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/psp-roulette.-7z/PSP%20Roulette.zip",
+      "published_at": "2005-09-19",
+      "size": 1873830,
+      "sha256": "dad540a66b5d4c41121992f1097b3e96ba01aaba0f830f4790e764d76b647acd",
+      "eboot_md5": "05d2b1c9f578439a310ad2142fd9f66b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-roulette.-7z/PSP%2001127_00000.jpg"
+    ],
+    "icon": "icons/psp_roulette.png"
+  }
+}

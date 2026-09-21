@@ -1,0 +1,26 @@
+{
+  "name": "PSP Telefonbuch",
+  "id": "psp_telefonbuch",
+  "summary": "Homebrew app for PSP.",
+  "author": "All.4.ONE, Shadow-Fox",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/psp-telefonbuch-v.-1.7z/PSP%20Telefonbuch%20v.1.zip",
+      "published_at": "2008-04-14",
+      "size": 2153610,
+      "sha256": "c19be69ab1c7764d301fd04121ca47e955e4ce2d496090adb0b41be0bbef42ce",
+      "eboot_md5": "245cf15f7e035064fdcc8a275239aed5"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-telefonbuch-v.-1.7z/PSP%2001655_00001.jpg"
+    ],
+    "icon": "icons/psp_telefonbuch.png"
+  }
+}

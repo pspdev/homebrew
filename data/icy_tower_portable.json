@@ -1,0 +1,28 @@
+{
+  "name": "Icy Tower Portable",
+  "id": "icy_tower_portable",
+  "summary": "PSP version of the game.",
+  "author": "BlackCode Studio",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.21",
+      "url": "https://archive.org/download/icy-tower-portable.-7z/IcyTower%20Portable.zip",
+      "published_at": "2011-05-29",
+      "size": 3527256,
+      "sha256": "09683445406ab79120104d3eb116a93cd2337a64c01e4d30fe48408149882364",
+      "eboot_md5": "bf5f2b14301ababa2351ae0ba490b250"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/icy-tower-portable.-7z/ICYT01679_00000.png"
+    ],
+    "icon": "icons/icy_tower_portable.png"
+  }
+}

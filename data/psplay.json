@@ -1,0 +1,26 @@
+{
+  "name": "PSPlay",
+  "id": "psplay",
+  "summary": "Virtual guitar for PSP.",
+  "author": "Amrcidiot",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/psplay-0.2.7z/psplay%20v1.0.zip",
+      "published_at": "2009-11-14",
+      "size": 15337987,
+      "sha256": "d38c5add0bdddb0448e681877e089e55a4db72508ae81683be094e3d19e49688",
+      "eboot_md5": "9b48adb4cbe285b16f9ff681d021556a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psplay-0.2.7z/PSPL00665_00000.jpg"
+    ],
+    "icon": "icons/psplay.png"
+  }
+}

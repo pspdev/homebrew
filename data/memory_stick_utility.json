@@ -1,0 +1,26 @@
+{
+  "name": "Memory Stick Utility",
+  "id": "memory_stick_utility",
+  "summary": "Homebrew app for PSP.",
+  "author": "raing3",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.6",
+      "url": "https://archive.org/download/memory-stick-utility.-7z/Memory%20Stick%20Utility.zip",
+      "published_at": "2008-11-18",
+      "size": 1377215,
+      "sha256": "5adccfdc0882444871f5aa573adf19c25634de5da6c92db69dc4756d86b97294",
+      "eboot_md5": "a400fac85ded4cf1150006593c6661cd"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/memory-stick-utility.-7z/pic_0001.png"
+    ],
+    "icon": "icons/memory_stick_utility.png"
+  }
+}

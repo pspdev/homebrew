@@ -1,0 +1,26 @@
+{
+  "name": "JPEG Viewer for PSP",
+  "id": "jpeg_viewer_for_psp",
+  "summary": "Software for viewing JPEG images, also known as JVIEW.",
+  "author": "maman_jv",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.53",
+      "url": "https://archive.org/download/jpg.7z/Old%20Versions/jpg.zip",
+      "published_at": "2005-07-20",
+      "size": 481762,
+      "sha256": "3b074c693341c4955838310c21c0533846f7e4426c4cccf1e3203658b20031b8",
+      "eboot_md5": "db194abad118e4e2d263fe6ad8ec27e8"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/jpg.7z/JPGH00321_00000.jpg"
+    ],
+    "icon": "icons/jpeg_viewer_for_psp.png"
+  }
+}

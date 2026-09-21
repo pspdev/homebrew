@@ -1,0 +1,29 @@
+{
+  "name": "AnyLanguageStudy",
+  "id": "anylanguagestudy",
+  "summary": "Language-learning application.",
+  "author": "Nakano, Passingby",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "3.0 U2",
+      "url": "https://archive.org/download/any-language-study-v-0.6.7z/Old%20Versions/AnyLanguageStudy%20v0.6.zip",
+      "published_at": "2012-03-28",
+      "size": 9714206,
+      "sha256": "9779b4f77e9ca011146f40a727af8f6bfb5e4522e3266bf999207fbeb8e3ff6d",
+      "eboot_md5": "f4eae57ef6ea750dda48d1275f5be108"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011",
+    "NEO Retro Coding Compo 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/any-language-study-v-0.6.7z/pic_0000.jpg"
+    ],
+    "icon": "icons/anylanguagestudy.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PSPick",
+  "id": "pspick",
+  "summary": "This app will generate a list of the 100 possible combinations for a Masterlock combination lock given the last digit in the code.",
+  "author": "Brad Dwyer (Yeldarb)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/pspick-v-02/PSPick%20v02.zip",
+      "published_at": "2005-07-20",
+      "size": 301969,
+      "sha256": "a449faca3410aa837670c1916193cf851f88fdd41d7e6baa7a80900816368349",
+      "eboot_md5": "dddbd75674bb1470320383371bf3c303"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspick-v-02/PSPI00802_00002.png"
+    ],
+    "icon": "icons/pspick.png"
+  }
+}

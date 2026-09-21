@@ -1,0 +1,28 @@
+{
+  "name": "Air Hockey PSP",
+  "id": "air_hockey_psp",
+  "summary": "Air hockey for PSP.",
+  "author": "K\u00e9nium",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/air-hockey-psp-en-v-1.0.7z/Air%20Hockey%20PSP%20%28en%29%20v1.0.zip",
+      "published_at": "2008-07-05",
+      "size": 1945908,
+      "sha256": "5e5edb6e768c0b3b080e7d8a438f6b37992c898d20b6641097ea926c23d6192d",
+      "eboot_md5": "f53b12cd82463a5f865be6a3cede03ce"
+    }
+  ],
+  "tags": [
+    "Scenery Beta 2008"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/air-hockey-psp-en-v-1.0.7z/AIR%2001819_00000.png"
+    ],
+    "icon": "icons/air_hockey_psp.png"
+  }
+}

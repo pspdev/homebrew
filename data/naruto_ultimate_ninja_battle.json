@@ -1,0 +1,28 @@
+{
+  "name": "Naruto Ultimate Ninja Battle",
+  "id": "naruto_ultimate_ninja_battle",
+  "summary": "Mod of the homebrew game Batalla Ninja, originally by To\u00f1os.",
+  "author": "Shaplayer",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "3.6",
+      "url": "https://archive.org/download/naruto-ultimate-ninja-battle.-7z/Naruto%20Ultimate%20Ninja%20Battle.zip",
+      "published_at": "2011-04-01",
+      "size": 24307391,
+      "sha256": "e377ff4cac4b484fbaae20e6a3f1b3533c49183e9adff7c1feb2600ed3499a8c",
+      "eboot_md5": "0e339b4a6ae42278706e83c36164f982"
+    }
+  ],
+  "tags": [
+    "PSP Homebrew Game Competition 2013"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/naruto-ultimate-ninja-battle.-7z/NARU02666_00000.png"
+    ],
+    "icon": "icons/naruto_ultimate_ninja_battle.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Homebrew Sorter for Game Categories Revised",
+  "id": "homebrew_sorter_for_game_categories_revised",
+  "summary": "Application to sort homebrews, with support for categories.",
+  "author": "Sakya, Hide, mascii",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/homebrew-sorter-for-gcr-v-02.7z/Homebrew%20Sorter%20for%20GCR%20v02.zip",
+      "published_at": "2009-11-02",
+      "size": 76168,
+      "sha256": "854980dfdd365071c9465b6b1ab88d27b356b940ea610494504f06a17f8dcaac",
+      "eboot_md5": "5d71dab04c7cdc7c923c331b5a0d47ec"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/homebrew-sorter-for-gcr-v-02.7z/HOME02355_00000.jpg"
+    ],
+    "icon": "icons/homebrew_sorter_for_game_categories_revised.png"
+  }
+}

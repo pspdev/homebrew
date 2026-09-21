@@ -1,0 +1,28 @@
+{
+  "name": "PHYN3D",
+  "id": "phyn3d",
+  "summary": "Homebrew game for PSP.",
+  "author": "Walar",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.4b",
+      "url": "https://archive.org/download/phyn-3-d-v-0.4b.-7z/PHYN3D%20v0.4b.zip",
+      "published_at": "2009-08-31",
+      "size": 1906389,
+      "sha256": "fa88427505dd0424dff92404c82be0aa9146cdd0624b2c6f9c50c6502fdb1ff2",
+      "eboot_md5": "086c40eb35381500128c24b814664470"
+    }
+  ],
+  "tags": [
+    "Scenery Beta 2009"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/phyn-3-d-v-0.4b.-7z/PHYN00832_00001.png"
+    ],
+    "icon": "icons/phyn3d.png"
+  }
+}

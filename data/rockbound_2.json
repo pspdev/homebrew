@@ -1,0 +1,26 @@
+{
+  "name": "Rockbound 2",
+  "id": "rockbound_2",
+  "summary": "A maze game for the PSP.",
+  "author": "Anton Lamberth (Treemaster134)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/rbpspV1.0/rbpspV1.0.zip",
+      "published_at": "2023-05-10",
+      "size": 62093315,
+      "sha256": "4422aa88d3c707a27914d2d520b36a3e1b8b9292769dcc0ebcd13ad49e6e626f",
+      "eboot_md5": "50da12d5c5345f142ec87eafe2e0f887"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/rbpspV1.0/RBPS00780_00001.png"
+    ],
+    "icon": "icons/rockbound_2.png"
+  }
+}

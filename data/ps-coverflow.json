@@ -1,0 +1,26 @@
+{
+  "name": "PS-CoverFlow",
+  "id": "ps-coverflow",
+  "summary": "Homebrew app for PSP.",
+  "author": "animefreak345",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "3",
+      "url": "https://archive.org/download/ps-cover-flow-v-3.7z/PS-CoverFlow%20v3.zip",
+      "published_at": "2008-06-13",
+      "size": 1111044,
+      "sha256": "b604fe99ba5d1fc801ed9e34c803ea3880c901640cb8ba908717e2a0720befcf",
+      "eboot_md5": "51f8e3878712fd4a5d92a2f248ab43b6"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ps-cover-flow-v-3.7z/PS-C01328_00000.jpg"
+    ],
+    "icon": "icons/ps-coverflow.png"
+  }
+}

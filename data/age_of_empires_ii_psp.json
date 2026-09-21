@@ -1,0 +1,26 @@
+{
+  "name": "Age of Empires II PSP",
+  "id": "age_of_empires_ii_psp",
+  "summary": "Test demo for a Lua fan game.",
+  "author": "MasterMen",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2 b0002",
+      "url": "https://archive.org/download/aoe-ii-0.2-indev-b-0002/AOE%20II%200.2%20indev%20b0002.zip",
+      "published_at": "2020-10-03",
+      "size": 2748107,
+      "sha256": "ff3e489bf4848aa4f5b0270f294cc4de02492a40775968d004d99d6434c5edd0",
+      "eboot_md5": "1955e8c42d6f274dda0fe0639d611e04"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/aoe-ii-0.2-indev-b-0002/AOE%2001457_00000.png"
+    ],
+    "icon": "icons/age_of_empires_ii_psp.png"
+  }
+}

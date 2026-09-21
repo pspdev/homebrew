@@ -1,0 +1,26 @@
+{
+  "name": "Way of the Samurai - 47 Ronin",
+  "id": "way_of_the_samurai_-_47_ronin",
+  "summary": "Homebrew game for PSP.",
+  "author": "Scorpsoft Entertainment",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Beta 1",
+      "url": "https://archive.org/download/wot-s-47-ronin-beta-01.7z/WotS%2047%20Ronin%20Beta%2001.zip",
+      "published_at": "2009-12-31",
+      "size": 5820660,
+      "sha256": "33cfc77331d36728a4fb75034fe6efa38ce48a4a99140e41473d235336c63b19",
+      "eboot_md5": "a96330d78a584ad8a83f6209ce367661"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/wot-s-47-ronin-beta-01.7z/LUAP01211_00000.jpg"
+    ],
+    "icon": "icons/way_of_the_samurai_-_47_ronin.png"
+  }
+}

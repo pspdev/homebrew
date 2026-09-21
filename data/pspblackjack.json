@@ -1,0 +1,26 @@
+{
+  "name": "PSPBlackJack",
+  "id": "pspblackjack",
+  "summary": "Card game for PSP.",
+  "author": "CraVavr3",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2b4",
+      "url": "https://archive.org/download/pspblackjack-0.2b-4/PSPBlackjack%200.2b4.zip",
+      "published_at": "2005-07-06",
+      "size": 1654789,
+      "sha256": "3c1822e07112295b304105bf2fbbcfc39cef9399c088d4ce4b04799815565440",
+      "eboot_md5": "e113871aa65d944667c572f475143ab5"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspblackjack-0.2b-4/PSPB01455_00000.png"
+    ],
+    "icon": "icons/pspblackjack.png"
+  }
+}

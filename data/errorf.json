@@ -1,0 +1,28 @@
+{
+  "name": "ErrorF",
+  "id": "errorf",
+  "summary": "Provides definitions for PSP error codes.",
+  "author": "Coco1230, Said0011",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.60",
+      "url": "https://archive.org/download/errorf-2.7z/Old%20Versions/errorf-2.zip",
+      "published_at": "2008-01-01",
+      "size": 1990484,
+      "sha256": "124fed8dcf6d8635f58d153e765346b5c37800b214b85eeb71c2b6188d5c6591",
+      "eboot_md5": "a0dee668622ded6715bdd048becd6953"
+    }
+  ],
+  "tags": [
+    "1000$ pour la sc\u00e8ne (2008/2009)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/errorf-2.7z/20210623204758.png"
+    ],
+    "icon": "icons/errorf.png"
+  }
+}

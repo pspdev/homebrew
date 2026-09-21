@@ -1,0 +1,26 @@
+{
+  "name": "Edward Nigma: Fantastic Fanboy",
+  "id": "edward_nigma_fantastic_fanboy",
+  "summary": "Homebrew game for PSP.",
+  "author": "Luke Ryan, Phantoma",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "POC R1",
+      "url": "https://archive.org/download/edward-nigma-pocr-1.7z/Edward%20Nigma%20POCr1.zip",
+      "published_at": "2009-09-06",
+      "size": 39780640,
+      "sha256": "2458b4a5ae4957daf17bea4777e8206a11d80094d173f70c7a433356ab3f5ce8",
+      "eboot_md5": "74b4c477b2bb893030ac22c06d1d0794"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/edward-nigma-pocr-1.7z/EDWA01544_00001.jpg"
+    ],
+    "icon": "icons/edward_nigma_fantastic_fanboy.png"
+  }
+}

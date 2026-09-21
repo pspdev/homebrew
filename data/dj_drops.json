@@ -1,0 +1,26 @@
+{
+  "name": "DJ Drops",
+  "id": "dj_drops",
+  "summary": "Rhythm puzzle game for PSP.",
+  "author": "Kern David (daaa)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Demo 5",
+      "url": "https://archive.org/download/djdrops-demo-5-fixed.-7z/dj%20drops_%20last.zip",
+      "published_at": "2009-05-25",
+      "size": 169527720,
+      "sha256": "208bbeb2891877529a47326c92efb84709ec0e847a2fa96779f56fdf080feeee",
+      "eboot_md5": "c0833a9501ae39051e876d340c812c97"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/djdrops-demo-5-fixed.-7z/DJ%20D01353_00000.png"
+    ],
+    "icon": "icons/dj_drops.png"
+  }
+}

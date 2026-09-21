@@ -1,0 +1,26 @@
+{
+  "name": "PSPInfos",
+  "id": "pspinfos",
+  "summary": "Utility app for PSP.",
+  "author": "Mapsp95",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.00",
+      "url": "https://archive.org/download/infos-psp.-7z/INFOS%20PSP.zip",
+      "published_at": "2009-02-01",
+      "size": 2030147,
+      "sha256": "29c9723543f67e28e1d29cbd67b93fc65d829c4d2d6b0b4756771fbd3daa7430",
+      "eboot_md5": "010bd85393ddb5f0fa6ba4e8a5d78c2a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/infos-psp.-7z/INFO00658_00000.jpg"
+    ],
+    "icon": "icons/pspinfos.png"
+  }
+}

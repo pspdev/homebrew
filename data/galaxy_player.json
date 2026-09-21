@@ -1,0 +1,26 @@
+{
+  "name": "Galaxy Player",
+  "id": "galaxy_player",
+  "summary": "Homebrew app for PSP.",
+  "author": "UserXY",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/galaxy-player.-7z/Galaxy%20Player.zip",
+      "published_at": "2007-01-01",
+      "size": 965444,
+      "sha256": "f517aedb3335dbbb24898e56aeaae13f1cbbec6281055d78d9b5b49889a9280f",
+      "eboot_md5": "90c0b686277c39925a4dfc7d0fb59587"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/galaxy-player.-7z/GALA01267_00000.jpg"
+    ],
+    "icon": "icons/galaxy_player.png"
+  }
+}

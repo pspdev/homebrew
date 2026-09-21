@@ -1,0 +1,26 @@
+{
+  "name": "Gods Defense",
+  "id": "gods_defense",
+  "summary": "Tower defense homebrew game for PSP. The last release appears to be broken, but the second-to-last (0.4) works.",
+  "author": "Diogo Autilio, Hideaki Morohashi, Luca Watanabe, Julio Sena",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.4.1",
+      "url": "https://archive.org/download/gods-defense-0.4.1.7z/Old%20Versions/GodsDefense.zip",
+      "published_at": "2011-01-10",
+      "size": 11181613,
+      "sha256": "769db6d4c4ed266b77feb54f1419c83d0377da901cdbb3e13854c701acd45f89",
+      "eboot_md5": "00371a62e217c07ddb088a4cfb78df74"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/gods-defense-0.4.1.7z/20210723135646.png"
+    ],
+    "icon": "icons/gods_defense.png"
+  }
+}

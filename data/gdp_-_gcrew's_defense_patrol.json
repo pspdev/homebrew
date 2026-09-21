@@ -1,0 +1,28 @@
+{
+  "name": "GDP - Gcrew's Defense Patrol",
+  "id": "gdp_-_gcrew's_defense_patrol",
+  "summary": "3D homebrew game for PSP.",
+  "author": "DeViaNTe",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/gdp.-7z/Old%20Versions/GDP_v0.1.zip",
+      "published_at": "2011-05-28",
+      "size": 9420662,
+      "sha256": "7638c6dfed1180583fd84b005626efefe6c4b1472bf53ccd2cb1b5645bb74932",
+      "eboot_md5": "55923a8fab0e79da123f7f9f541045bf"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/gdp.-7z/20210627160102.png"
+    ],
+    "icon": "icons/gdp_-_gcrew's_defense_patrol.png"
+  }
+}

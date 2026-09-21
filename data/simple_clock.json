@@ -1,0 +1,26 @@
+{
+  "name": "Simple Clock",
+  "id": "simple_clock",
+  "summary": "Homebrew app for PSP.",
+  "author": "satoshifukusima (Blazing Illusion)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.01",
+      "url": "https://archive.org/download/simple-clock.-7z/Simple%20Clock.zip",
+      "published_at": "2013-04-10",
+      "size": 199999,
+      "sha256": "4a786c7ef72d8bfe976bd1018a85c498a72649b6f88247a1e6bdb7112c415bfa",
+      "eboot_md5": "70b505df110820f025e380892dd35ab4"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/simple-clock.-7z/SIMP01142_00000.jpg"
+    ],
+    "icon": "icons/simple_clock.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "System Trouble (Geometry World)",
+  "id": "system_trouble_(geometry_world)",
+  "summary": "2D platformer homebrew.",
+  "author": "Jaklub",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Release 5",
+      "url": "https://archive.org/download/system-trouble-r-4.7z/System%20Trouble%20r5.zip",
+      "published_at": "2009-05-25",
+      "size": 7467760,
+      "sha256": "9aeee9b9dc226a296842e76418f7c5f6e4b53c76412e4bdc740429bab3631c9d",
+      "eboot_md5": "7dcd178701f9f32be2f22315c558f6db"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/system-trouble-r-4.7z/20210725024946.png"
+    ],
+    "icon": "icons/system_trouble_(geometry_world).png"
+  }
+}

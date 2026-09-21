@@ -1,0 +1,26 @@
+{
+  "name": "ColEm PSP",
+  "id": "colem_psp",
+  "summary": "ColecoVision emulator for PlayStation Portable",
+  "author": "Akop Karapetyan",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "2.6.1",
+      "url": "https://archive.org/download/col-em-psp.-7z/ColEm%20PSP.zip",
+      "published_at": "2010-09-12",
+      "size": 251958,
+      "sha256": "f7fa63ff51fb99477136b61991807e722e2edab8d0a149ac092081f41320c463",
+      "eboot_md5": "971989a10478c97639c6577cfeb45363"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/col-em-psp.-7z/COLE00739_00001.png"
+    ],
+    "icon": "icons/colem_psp.png"
+  }
+}

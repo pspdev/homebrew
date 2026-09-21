@@ -1,0 +1,26 @@
+{
+  "name": "SlenderCraft",
+  "id": "slendercraft",
+  "summary": "Slender/Minecraft fan game based on Lamecraft.",
+  "author": "IT_Skino",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/slen-01388-00000/SlenderCraft%200.1.zip",
+      "published_at": "2012-01-01",
+      "size": 9657507,
+      "sha256": "74684c6db2dfa7277d571f9a5ba78752dfaab2b1fe9d354a8a220feb792e6b5d",
+      "eboot_md5": "2f1d6c7acc561341acf84559bb4dedf9"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/slen-01388-00000/SLEN01388_00000.png"
+    ],
+    "icon": "icons/slendercraft.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "FNaF 1 PSP",
+  "id": "fnaf_1_psp",
+  "summary": "PSP version of Five Nights at Freddy's.",
+  "author": "FreDEV",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.3.1 Fix 1",
+      "url": "https://archive.org/download/fna-f-1-psp.-7z/FNaF%201%20PSP.zip",
+      "published_at": "2021-05-13",
+      "size": 21110320,
+      "sha256": "91e92e393f36032bfa1ec0524ab885faedbff4e36f14b50e4ba4691b2f0a7eed",
+      "eboot_md5": "226838b0771602672487e6b4d869d44b"
+    }
+  ],
+  "tags": [
+    "PSP-2000+ only"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/fna-f-1-psp.-7z/FNAF00889_00000.jpg"
+    ],
+    "icon": "icons/fnaf_1_psp.png"
+  }
+}

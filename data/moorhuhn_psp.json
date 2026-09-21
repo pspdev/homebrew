@@ -1,0 +1,29 @@
+{
+  "name": "Moorhuhn PSP",
+  "id": "moorhuhn_psp",
+  "summary": "Homebrew game for PSP.",
+  "author": "sony psp player",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "3.0",
+      "url": "https://archive.org/download/moorhun-v-3.7z/Moorhun%20v3.zip",
+      "published_at": "2008-01-01",
+      "size": 3401367,
+      "sha256": "156c0d3fcdd0dd3d9eff83d20cd4d272cd7f799e1310069ac87a308b6cef7d8b",
+      "eboot_md5": "017043ad0c41488804e68179722e4161"
+    }
+  ],
+  "tags": [
+    "PSPUpdates Summer Homebrew Contest (2008)",
+    "PSPSource Summer Coding Compo 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/moorhun-v-3.7z/MOOR00945_00000.jpg"
+    ],
+    "icon": "icons/moorhuhn_psp.png"
+  }
+}

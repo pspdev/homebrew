@@ -1,0 +1,26 @@
+{
+  "name": "PSP-Hexen",
+  "id": "psp-hexen",
+  "summary": "PSP port of the game. Shareware version included.",
+  "author": "Nitr8",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "R5",
+      "url": "https://archive.org/download/psp-hexen.7z/psp-hexen.zip",
+      "published_at": "2014-01-01",
+      "size": 8291201,
+      "sha256": "f3089bd75d27884cd72f62bc689f5dc100e7397bf924e9aa783b5b980e666bcd",
+      "eboot_md5": "c4050ccb6fedf78414187c07836badd0"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-hexen.7z/PSP-00920_00000.png"
+    ],
+    "icon": "icons/psp-hexen.png"
+  }
+}

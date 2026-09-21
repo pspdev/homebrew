@@ -1,0 +1,26 @@
+{
+  "name": "Goodbookr (Reina Valera)",
+  "id": "goodbookr_(reina_valera)",
+  "summary": "Spanish-language version of the Bible.",
+  "author": "phosphorous",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.2.1",
+      "url": "https://archive.org/download/goodbookr-1.2.1-spanish.-7z/goodbookr-1.2.1%20%5BSpanish%5D.zip",
+      "published_at": "2012-01-01",
+      "size": 6072215,
+      "sha256": "a66ee648f63e7c1450777c160f2b3613c5dc215c36a3090baebeaf00583fa912",
+      "eboot_md5": "7359af903ebd4c887230610e43b51022"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/goodbookr-1.2.1-spanish.-7z/GOOD02193_00000.jpg"
+    ],
+    "icon": "icons/goodbookr_(reina_valera).png"
+  }
+}

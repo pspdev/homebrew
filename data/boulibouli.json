@@ -1,0 +1,26 @@
+{
+  "name": "BouliBouli",
+  "id": "boulibouli",
+  "summary": "Platform game for PSP.",
+  "author": "urbano25, BlackSun",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/bouli-bouli-v-1.0.7z/Bouli%20Bouli%20v1.0.zip",
+      "published_at": "2010-03-11",
+      "size": 6487042,
+      "sha256": "c201d13a1281f5849beb85c59a311e17388f79bd183f94c37ff82953ce18298b",
+      "eboot_md5": "1dc780ca8e1bb689831acc352ef9355c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/bouli-bouli-v-1.0.7z/BOUL01339_00000.jpg"
+    ],
+    "icon": "icons/boulibouli.png"
+  }
+}

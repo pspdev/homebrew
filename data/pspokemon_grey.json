@@ -1,0 +1,26 @@
+{
+  "name": "PSPokemon Grey",
+  "id": "pspokemon_grey",
+  "summary": "Pokemon fan game for PSP, a modified version of PSPokemon White by Bixu and Davmon (itself a mod of PSPokemon by mrfyda and D4NnY).",
+  "author": "Shaplayer",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Beta r3",
+      "url": "https://archive.org/download/pspokemon-grey.-7z/PSPokemon%20Grey.zip",
+      "published_at": "2012-07-02",
+      "size": 11297217,
+      "sha256": "20b9dc75f2906da4d2753307a875ba9aa7b671c7196ee7033fbb81252c23e47d",
+      "eboot_md5": "10782a179758b73c5819acdb2eff29c9"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspokemon-grey.-7z/PSPO01331_00000.jpg"
+    ],
+    "icon": "icons/pspokemon_grey.png"
+  }
+}

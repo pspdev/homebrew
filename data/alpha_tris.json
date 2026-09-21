@@ -1,0 +1,26 @@
+{
+  "name": "Alpha Tris",
+  "id": "alpha_tris",
+  "summary": "Tic-tac-toe for PSP; homebrew game.",
+  "author": "Alpha D3vTeam",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "3.0",
+      "url": "https://archive.org/download/14-alpha-tr-isv-2.0.7z/Old%20Versions/AlphaTrIsv2.0.zip",
+      "published_at": "2011-01-10",
+      "size": 3652939,
+      "sha256": "2893f174fd24ee5ee18e94f7850e7c6b6c7922d214d1c45b4332d7e46b49cf92",
+      "eboot_md5": "148a115c4e43bc2251e8e37a06527585"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/14-alpha-tr-isv-2.0.7z/ALPH01325_00000.png"
+    ],
+    "icon": "icons/alpha_tris.png"
+  }
+}

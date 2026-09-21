@@ -1,0 +1,28 @@
+{
+  "name": "Pro Foosball",
+  "id": "pro_foosball",
+  "summary": "Homebrew game for PSP.",
+  "author": "Madcupid",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/pro-foosball.-7z/PRO%20FOOSBALL.zip",
+      "published_at": "2007-03-20",
+      "size": 7354614,
+      "sha256": "4fcbe8b7fdd31a45072da74259637dddf923f3b9024dcfb00d0d76024072f677",
+      "eboot_md5": "41c7f75bc4e8e333423a357fea4d49a7"
+    }
+  ],
+  "tags": [
+    "NEO Spring Compo 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pro-foosball.-7z/PRO%2000867_00000.jpg"
+    ],
+    "icon": "icons/pro_foosball.png"
+  }
+}

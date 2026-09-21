@@ -1,0 +1,26 @@
+{
+  "name": "Gateway",
+  "id": "gateway",
+  "summary": "Quake mod for PSP.",
+  "author": "PortableSrce Team",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Alpha 0.1.1",
+      "url": "https://archive.org/download/gateway-alpha-0.1.1.7z/Gateway%20Alpha%200.1.1.zip",
+      "published_at": "2011-01-01",
+      "size": 99725385,
+      "sha256": "a1d889dc382def8d93215a9ea75ae6929d8c3dedfec732dc4613c8b60ca1eb9c",
+      "eboot_md5": "0dca15a28e169beba03b4d462ecd145b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/gateway-alpha-0.1.1.7z/EBOO00649_00000.jpg"
+    ],
+    "icon": "icons/gateway.png"
+  }
+}

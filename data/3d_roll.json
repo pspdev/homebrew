@@ -1,0 +1,28 @@
+{
+  "name": "3D Roll",
+  "id": "3d_roll",
+  "summary": "Homebrew puzzle game for the PlayStation Portable.",
+  "author": "Chimecho, DeViaNTe",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.3D",
+      "url": "https://archive.org/download/3-d-roll/3D%20Roll.zip",
+      "published_at": "2011-05-04",
+      "size": 3783448,
+      "sha256": "8cbc63eed732d821cda0f74f67d703a10723ca12cf22d10d0aa3284926a5a63e",
+      "eboot_md5": "79daa4884f7f08a8027f52d558813db7"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/3-d-roll/20210808065421.png"
+    ],
+    "icon": "icons/3d_roll.png"
+  }
+}

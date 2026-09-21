@@ -1,0 +1,26 @@
+{
+  "name": "TOME - The Troubles of Middle Earth",
+  "id": "tome_-_the_troubles_of_middle_earth",
+  "summary": "Homebrew roguelike game for PSP.",
+  "author": "Gendal, daddy32",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.3.5",
+      "url": "https://archive.org/download/tome-2.3.5.7z/Tome%202.3.5.zip",
+      "published_at": "2012-03-06",
+      "size": 5594561,
+      "sha256": "161eb2b646c063dc8cecc8d7c7b45534cff0022449bff0e4bf1f26adc6ca173f",
+      "eboot_md5": "f75775cb414d505638582dd086709088"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/tome-2.3.5.7z/TOME00683_00001.png"
+    ],
+    "icon": "icons/tome_-_the_troubles_of_middle_earth.png"
+  }
+}

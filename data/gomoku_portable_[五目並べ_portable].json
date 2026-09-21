@@ -1,0 +1,26 @@
+{
+  "name": "Gomoku Portable [\u4e94\u76ee\u4e26\u3079 Portable]",
+  "id": "gomoku_portable_[\u4e94\u76ee\u4e26\u3079_portable]",
+  "summary": "Homebrew version of Go for PSP.",
+  "author": "Dadrfy",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/gomoku-portable-ver-1.2.7z/GOMOKU%20Portable%20Ver%201.2.zip",
+      "published_at": "2011-12-23",
+      "size": 1377960,
+      "sha256": "8c5c8656930f861d5cb2f1f714796c01a5924fc84d5519e49eb0e576f339219e",
+      "eboot_md5": "2372818c14b4eaec75ceab379b551ad3"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/gomoku-portable-ver-1.2.7z/GOMO01833_00000.jpg"
+    ],
+    "icon": "icons/gomoku_portable_[\u4e94\u76ee\u4e26\u3079_portable].png"
+  }
+}

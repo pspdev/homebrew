@@ -1,0 +1,26 @@
+{
+  "name": "Billie PSP",
+  "id": "billie_psp",
+  "summary": "Puzzle game for PSP.",
+  "author": "BafS",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Alpha 4",
+      "url": "https://archive.org/download/bille-psp-b-4.7z/BillePSP%20b4.zip",
+      "published_at": "2009-01-01",
+      "size": 1114789,
+      "sha256": "702ef1ca33ae81955ee583191db44b45b12782a6610a7483e97556b9f921bc34",
+      "eboot_md5": "ac40b658452a3db411ff9225fdb9069d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/bille-psp-b-4.7z/20210814172335.png"
+    ],
+    "icon": "icons/billie_psp.png"
+  }
+}

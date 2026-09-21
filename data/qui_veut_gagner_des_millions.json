@@ -1,0 +1,26 @@
+{
+  "name": "Qui veut gagner des Millions",
+  "id": "qui_veut_gagner_des_millions",
+  "summary": "PSP Millionaire in French.",
+  "author": "Gadloy",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "3",
+      "url": "https://archive.org/download/qui-veut-gagner-des-millions-v-3.7z/Qui%20veut%20gagner%20des%20millions%20V3.zip",
+      "published_at": "2009-11-04",
+      "size": 3126299,
+      "sha256": "ffa897d864b8d822e2f2732d06f1c4e9b96e1ec388d3f20e9eb6ddef9d289016",
+      "eboot_md5": "c314bb9a590273330023d645d3558c25"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/qui-veut-gagner-des-millions-v-3.7z/QUI%2002867_00000.jpg"
+    ],
+    "icon": "icons/qui_veut_gagner_des_millions.png"
+  }
+}

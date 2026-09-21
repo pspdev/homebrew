@@ -1,0 +1,26 @@
+{
+  "name": "SmashGpsp",
+  "id": "smashgpsp",
+  "summary": "Homebrew game for PSP.",
+  "author": "mATkEUpON",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2b",
+      "url": "https://archive.org/download/smash-gpsp.-7z/Smash%20GPSP.zip",
+      "published_at": "2005-09-06",
+      "size": 6602844,
+      "sha256": "b6270da42d998a9e239ea4093f6e3ae596725d40288e4706d5b91ae183baf596",
+      "eboot_md5": "7ca4b0354b5eb558b45c379450a4b328"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/smash-gpsp.-7z/SMAS02284_00000.jpg"
+    ],
+    "icon": "icons/smashgpsp.png"
+  }
+}

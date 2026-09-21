@@ -1,0 +1,28 @@
+{
+  "name": "Birdman's Shooter",
+  "id": "birdman's_shooter",
+  "summary": "Shoot 'em up for PSP.",
+  "author": "theb1rdm4n",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/birdmans-shooter.-7z/Birdmans%20Shooter.zip",
+      "published_at": "2007-11-02",
+      "size": 1100816,
+      "sha256": "0856f8b64429bc4e0dd97db5966f4aefdbd534d99644925ea04c396ece8e626f",
+      "eboot_md5": "84a583425829cd0875242f7085fdf783"
+    }
+  ],
+  "tags": [
+    "Homebrew Idol (2008)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/birdmans-shooter.-7z/BIRD01588_00000.jpg"
+    ],
+    "icon": "icons/birdman's_shooter.png"
+  }
+}

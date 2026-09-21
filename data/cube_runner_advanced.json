@@ -1,0 +1,28 @@
+{
+  "name": "Cube Runner Advanced",
+  "id": "cube_runner_advanced",
+  "summary": "Follow-up to Cube Runner, with extra levels.",
+  "author": "Zix",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.4",
+      "url": "https://archive.org/download/cube-runner-advanced.-7z/Cube%20Runner%20Advanced.zip",
+      "published_at": "2013-05-27",
+      "size": 6160085,
+      "sha256": "73db1fcdcd74e2c0a1a4fda9f9477452309c5b13875aba5f36556a06fc6f8de2",
+      "eboot_md5": "f75038a0d5d822e777abac8d76bf6b34"
+    }
+  ],
+  "tags": [
+    "PSP Homebrew Game Competition 2013"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/cube-runner-advanced.-7z/CUBE01871_00000.png"
+    ],
+    "icon": "icons/cube_runner_advanced.png"
+  }
+}

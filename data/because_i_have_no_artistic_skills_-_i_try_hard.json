@@ -1,0 +1,26 @@
+{
+  "name": "Because I Have No Artistic Skills - I Try Hard",
+  "id": "because_i_have_no_artistic_skills_-_i_try_hard",
+  "summary": "First part of the homebrew game series.",
+  "author": "Jonathan Muller",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1a",
+      "url": "https://archive.org/download/because-i-have-no-artistic-skills-part-01-02-0.1a.-7z/BIHNAS%20I%20Try%20Hard.zip",
+      "published_at": "2013-03-25",
+      "size": 554180,
+      "sha256": "d04780278a1ae50ab1d21879086520c81b3835399acc00d0ca74dfdf3f43cd96",
+      "eboot_md5": "9fb64e0674e75be39e710830eebc23c7"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/because-i-have-no-artistic-skills-part-01-02-0.1a.-7z/BIHN01308_00000.jpg"
+    ],
+    "icon": "icons/because_i_have_no_artistic_skills_-_i_try_hard.png"
+  }
+}

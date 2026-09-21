@@ -1,0 +1,26 @@
+{
+  "name": "VLF",
+  "id": "vlf",
+  "summary": "Lua library providing the Look and Feel of the official VSH.",
+  "author": "LXD",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.3",
+      "url": "https://archive.org/download/vlf-v-0.3.7z/VLF%20v0.3.zip",
+      "published_at": "2009-04-29",
+      "size": 1710308,
+      "sha256": "475967872459ba9d4c127f6b09671364c74396ff4c8c7feee7bee14464208d3f",
+      "eboot_md5": "95b64d0e739a640070b8b17076c11fe2"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/vlf-v-0.3.7z/VLF%2000527_00002.jpg"
+    ],
+    "icon": "icons/vlf.png"
+  }
+}

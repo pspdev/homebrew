@@ -1,0 +1,26 @@
+{
+  "name": "NID Changer",
+  "id": "nid_changer",
+  "summary": "Utility app for PSP.",
+  "author": "_HellDashX_",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/nid-00755-00000/NID%20CHANGER.zip",
+      "published_at": "2007-10-13",
+      "size": 66874,
+      "sha256": "a2fedd925857e5d986729b6a0bda7dbf9b080fd3bd4b4d5f763503430b3b2a08",
+      "eboot_md5": "7934f949d39485976e33d067cc6cc33f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/nid-00755-00000/NID%2000755_00000.jpg"
+    ],
+    "icon": "icons/nid_changer.png"
+  }
+}

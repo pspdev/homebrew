@@ -1,0 +1,28 @@
+{
+  "name": "El Gran Quiz",
+  "id": "el_gran_quiz",
+  "summary": "Quiz game for PSP.",
+  "author": "Yeah Producciones",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.85",
+      "url": "https://archive.org/download/el-gran-quiz-v-1.85.7z/ElGranQuiz%20v1.85.zip",
+      "published_at": "2008-01-01",
+      "size": 3044162,
+      "sha256": "ef5a8264a34654dea487c6ac18ba3fc1706e1f13e778bea1ac224af15aa5df26",
+      "eboot_md5": "0469b13ba20f0ac8a2c3f057550de317"
+    }
+  ],
+  "tags": [
+    "Scenery Beta 2008"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/el-gran-quiz-v-1.85.7z/ELGR01348_00000.jpg"
+    ],
+    "icon": "icons/el_gran_quiz.png"
+  }
+}

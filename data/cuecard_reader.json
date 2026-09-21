@@ -1,0 +1,26 @@
+{
+  "name": "CueCard Reader",
+  "id": "cuecard_reader",
+  "summary": "Homebrew app for PSP.",
+  "author": "Homemister",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.001 beta",
+      "url": "https://archive.org/download/cue-card-reader-0.001-beta.-7z/CueCard%20Reader%200.001%20beta.zip",
+      "published_at": "2009-10-27",
+      "size": 1011589,
+      "sha256": "ef5842cf2fb0efb52b2aae52ff0205fa500c81d73f78ce9e021bca38a6a61ae1",
+      "eboot_md5": "dc0a6ce021ab1682ff27688aba6d4a36"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/cue-card-reader-0.001-beta.-7z/CUEC02005_00000.jpg"
+    ],
+    "icon": "icons/cuecard_reader.png"
+  }
+}

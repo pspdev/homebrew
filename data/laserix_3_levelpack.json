@@ -1,0 +1,26 @@
+{
+  "name": "Laserix 3 Levelpack",
+  "id": "laserix_3_levelpack",
+  "summary": "Homebrew game for PSP.",
+  "author": "Sunny",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "3.0",
+      "url": "https://archive.org/download/laserix-3-lp-1.7z/Old%20Versions/Laserix%203%20LP%202%20by%20Sunny.zip",
+      "published_at": "2011-05-30",
+      "size": 6007724,
+      "sha256": "89c365c4308ade9cab403abe5be1e1f8883045cd65d9961f7211aee6d76e1cea",
+      "eboot_md5": "4a559fc13f747c8d39268e45b0980272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/laserix-3-lp-1.7z/LASE01080_00000.jpg"
+    ],
+    "icon": "icons/laserix_3_levelpack.png"
+  }
+}

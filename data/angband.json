@@ -1,0 +1,26 @@
+{
+  "name": "Angband",
+  "id": "angband",
+  "summary": "PSP port of the roguelike game.",
+  "author": "abszero, Gendal, daddy32",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "3.0.95",
+      "url": "https://archive.org/download/angband-3.0.9-psp.-7z/Old%20Versions/Angband_3.0.6.4.zip",
+      "published_at": "2010-10-01",
+      "size": 3087132,
+      "sha256": "718de80861636f3f99a5f91fdf9209ffab2285a579bf7018a8ad87de9b14ff58",
+      "eboot_md5": "ef0e3b787bbe2bf496eb201e01136efa"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/angband-3.0.9-psp.-7z/ANGB01364_00000.png"
+    ],
+    "icon": "icons/angband.png"
+  }
+}

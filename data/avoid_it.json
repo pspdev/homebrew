@@ -1,0 +1,28 @@
+{
+  "name": "Avoid It",
+  "id": "avoid_it",
+  "summary": "Homebrew game for PSP.",
+  "author": "Carlos Desseno",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/avoid-it-v.-02.7z/Avoid%20It%20v.02.zip",
+      "published_at": "2008-03-17",
+      "size": 720654,
+      "sha256": "fd50f1d9a50d56627a6e2edaea6d3f18afc8b22e0d1ecb791bfd29c61825aaec",
+      "eboot_md5": "2a2b6d653789107ffd3be285b57d57fc"
+    }
+  ],
+  "tags": [
+    "NEO Spring Coding Compo 2008"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/avoid-it-v.-02.7z/AVOI01014_00001.jpg"
+    ],
+    "icon": "icons/avoid_it.png"
+  }
+}

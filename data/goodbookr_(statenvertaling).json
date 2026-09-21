@@ -1,0 +1,26 @@
+{
+  "name": "Goodbookr (Statenvertaling)",
+  "id": "goodbookr_(statenvertaling)",
+  "summary": "Dutch-language version of the Bible.",
+  "author": "phosphorous",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.2.1",
+      "url": "https://archive.org/download/goodbookr-1.2.1-dutch.-7z/goodbookr-1.2.1%20%5BDutch%5D.zip",
+      "published_at": "2012-01-01",
+      "size": 6330376,
+      "sha256": "c48237901449d974ffb005b39a80c18273e359834c8b1ab63b117ad208eceb1d",
+      "eboot_md5": "7359af903ebd4c887230610e43b51022"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/goodbookr-1.2.1-dutch.-7z/GOOD01251_00000.jpg"
+    ],
+    "icon": "icons/goodbookr_(statenvertaling).png"
+  }
+}

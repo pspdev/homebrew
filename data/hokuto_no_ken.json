@@ -1,0 +1,26 @@
+{
+  "name": "Hokuto no Ken",
+  "id": "hokuto_no_ken",
+  "summary": "Homebrew game for PSP.",
+  "author": "Davide Montani",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0 Demo",
+      "url": "https://archive.org/download/h-project.-7z/H%20project.zip",
+      "published_at": "2005-12-21",
+      "size": 1771194,
+      "sha256": "5f61da8ac5b57be7b702c44ce1731a42b9ceb846c8f7ebe6bd84fa28eaa5c901",
+      "eboot_md5": "70e0512ff2cb116df4c93716ebdfdceb"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/h-project.-7z/H%20PR00863_00000.jpg"
+    ],
+    "icon": "icons/hokuto_no_ken.png"
+  }
+}

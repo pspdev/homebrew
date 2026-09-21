@@ -1,0 +1,26 @@
+{
+  "name": "Lua Shell",
+  "id": "lua_shell",
+  "summary": "PSP shell created in Lua.",
+  "author": "DarK_Shark",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/ls-2.7z/LS2.zip",
+      "published_at": "2008-06-20",
+      "size": 4866675,
+      "sha256": "735cce51065d10923be4d5fc5e95e31cf49c18516a23204d3a04cc4fa31e10d6",
+      "eboot_md5": "23c690afbca863535be15f3b9e1acaf4"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ls-2.7z/20210703185551.png"
+    ],
+    "icon": "icons/lua_shell.png"
+  }
+}

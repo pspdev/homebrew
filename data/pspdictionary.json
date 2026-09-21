@@ -1,0 +1,30 @@
+{
+  "name": "PSPDictionary",
+  "id": "pspdictionary",
+  "summary": "Dictonary app for PSP.",
+  "author": "Germano Fabio (Gefa)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "3.1.0",
+      "url": "https://archive.org/download/pspdictionary-v-3.1.0.7z/PSPDictionary_v3.1.0.zip",
+      "published_at": "2010-08-20",
+      "size": 3625997,
+      "sha256": "1cdad37ec69551b1b3f0c4422298345aa7fea46c7defa80b57d4085d345f0e98",
+      "eboot_md5": "b73e4d73bc0085d2c6d4add62be7fa63"
+    }
+  ],
+  "tags": [
+    "python",
+    "NEO Spring Coding Compo 2009",
+    "NEO Retro Coding Compo 2010"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspdictionary-v-3.1.0.7z/PSPD01742_00000.png"
+    ],
+    "icon": "icons/pspdictionary.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Jenova's Resistance",
+  "id": "jenova's_resistance",
+  "summary": "Fan game for PSP.",
+  "author": "ShaSha",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Beta 1",
+      "url": "https://archive.org/download/jenovasresistance.7z/jenova'sresistance.zip",
+      "published_at": "2007-10-07",
+      "size": 5806121,
+      "sha256": "0574521027b0ef1d1b381765fa1ea5c34c57cb677a125d77005db2ae79aab03a",
+      "eboot_md5": "deba5aad1e47bc93237eb3e789433c7c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/jenovasresistance.7z/JENO01870_00000.jpg"
+    ],
+    "icon": "icons/jenova's_resistance.png"
+  }
+}

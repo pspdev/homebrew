@@ -1,0 +1,26 @@
+{
+  "name": "LuaStation",
+  "id": "luastation",
+  "summary": "IDE for Lua scripts.",
+  "author": "Samy",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.5",
+      "url": "https://archive.org/download/lua-stationv-13-fr.-7z/Old%20Versions/LuaStationv13-FR.zip",
+      "published_at": "2008-08-20",
+      "size": 2901095,
+      "sha256": "b610cd1bbf8ba78e64dde78d15c2efbf87c81706fa5121a3d864d4abba2cc65a",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lua-stationv-13-fr.-7z/LUAS01343_00000.png"
+    ],
+    "icon": "icons/luastation.png"
+  }
+}

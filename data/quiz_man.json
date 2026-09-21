@@ -1,0 +1,26 @@
+{
+  "name": "Quiz Man",
+  "id": "quiz_man",
+  "summary": "Quiz app for PSP.",
+  "author": "Team Chilt",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1",
+      "url": "https://archive.org/download/quiz-manv-1.7z/QuizManv1.zip",
+      "published_at": "2008-06-24",
+      "size": 314637,
+      "sha256": "1dc280b8a2e2c4068face3b418100996989002797a4097564f56f0eed586f36c",
+      "eboot_md5": "8dcb7c5d935c099fe13cdb94c0dc50b6"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/quiz-manv-1.7z/QUIZ00876_00000.jpg"
+    ],
+    "icon": "icons/quiz_man.png"
+  }
+}

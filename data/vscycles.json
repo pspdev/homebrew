@@ -1,0 +1,26 @@
+{
+  "name": "VSCycles",
+  "id": "vscycles",
+  "summary": "Homebrew game for PSP.",
+  "author": "NGDesigns",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/vscycles-v-100.7z/VSCycles_v100.zip",
+      "published_at": "2006-06-02",
+      "size": 931912,
+      "sha256": "e228393559c87cdc6dcb61cc684798ba1d9a832c71cbcaa2ba1ae668b4deff2b",
+      "eboot_md5": "dfe64530c65a99b2504d8120308e6fb4"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/vscycles-v-100.7z/LUAP01126_00000.png"
+    ],
+    "icon": "icons/vscycles.png"
+  }
+}

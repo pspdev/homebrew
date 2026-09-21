@@ -1,0 +1,29 @@
+{
+  "name": "Xplora",
+  "id": "xplora",
+  "summary": "Shell replacement for PSP.",
+  "author": "ne0h",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.06",
+      "url": "https://archive.org/download/xplora-2-03.7z/Xplora_v2.06.zip",
+      "published_at": "2011-08-14",
+      "size": 3476042,
+      "sha256": "2945db0eeed787439154bb6450596abf714566c2c22a07e7c7ce74c4b181dfa7",
+      "eboot_md5": "c276cbe96bc31a9ceecf8fd8824a525e"
+    }
+  ],
+  "tags": [
+    "NEO 2008 Summer Compo",
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/xplora-2-03.7z/pic_0010.png"
+    ],
+    "icon": "icons/xplora.png"
+  }
+}

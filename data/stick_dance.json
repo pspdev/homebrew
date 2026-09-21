@@ -1,0 +1,26 @@
+{
+  "name": "Stick Dance",
+  "id": "stick_dance",
+  "summary": "Homebrew game for PSP.",
+  "author": "Greenskull",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/stick-dance-v-2.7z/Stick%20Dance%20V2.zip",
+      "published_at": "2006-01-01",
+      "size": 6170331,
+      "sha256": "aa04fd02eedc7c68652b5f92b5b3c2568ffbd8a4ee7d0fbb70f42f60e1d5dd51",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/stick-dance-v-2.7z/LUAP01126_00001.jpg"
+    ],
+    "icon": "icons/stick_dance.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PMP Mod",
+  "id": "pmp_mod",
+  "summary": "Media player for PSP.",
+  "author": "jonny",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.02",
+      "url": "https://archive.org/download/pmp_mod_2_02.7z/pmp_mod_2_02.zip",
+      "published_at": "2006-07-17",
+      "size": 1913001,
+      "sha256": "eac409891aa0a7c2b47dd95da64123b428aee1d87623bea31d151c0bc1c0e7cf",
+      "eboot_md5": "f9271ff830bc970c84250806e78e84f9"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pmp_mod_2_02.7z/PMP_01086_00000.jpg"
+    ],
+    "icon": "icons/pmp_mod.png"
+  }
+}

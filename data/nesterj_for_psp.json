@@ -1,0 +1,26 @@
+{
+  "name": "NesterJ for PSP",
+  "id": "nesterj_for_psp",
+  "summary": "NES emulator for PSP. Despite the version number, it was released later than the build with ad-hoc support.",
+  "author": "ruka",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.13 Beta 2",
+      "url": "https://archive.org/download/nester-j-v-113beta-2/Old%20Versions/NesterJ_v1_11.zip",
+      "published_at": "2010-06-04",
+      "size": 411908,
+      "sha256": "f4e5004f6f63f0ffd390a5206225cb63e7a94bc7f8545349bfa247731a81c03c",
+      "eboot_md5": "681c0f611958a9617be411319eb2280a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/nester-j-v-113beta-2/20220121234342.png"
+    ],
+    "icon": "icons/nesterj_for_psp.png"
+  }
+}

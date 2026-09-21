@@ -1,0 +1,26 @@
+{
+  "name": "Goodbookr (Schlachter)",
+  "id": "goodbookr_(schlachter)",
+  "summary": "German-language version of the Bible.",
+  "author": "phosphorous",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.2.1",
+      "url": "https://archive.org/download/goodbookr-1.2.1-german.-7z/goodbookr-1.2.1%20%5BGerman%5D.zip",
+      "published_at": "2012-01-01",
+      "size": 6418647,
+      "sha256": "d6b4da1c620022ea1fe1adafce26d8cf47184ca2724e56cb787a6f61d8b57710",
+      "eboot_md5": "7359af903ebd4c887230610e43b51022"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/goodbookr-1.2.1-german.-7z/GOOD02069_00000.jpg"
+    ],
+    "icon": "icons/goodbookr_(schlachter).png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Aereo Team Mex",
+  "id": "aereo_team_mex",
+  "summary": "2D shooter for PSP.",
+  "author": "Team Mex",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Beta 1",
+      "url": "https://archive.org/download/aereo-team-mex-beta-1.7z/Aereo_TeamMex_BETA_1.zip",
+      "published_at": "2011-01-01",
+      "size": 16311574,
+      "sha256": "50e2b9ce11d089d29175462b8a55fad3b932aa44ad0213ff15e97e58914550cc",
+      "eboot_md5": "b353230df2060f4422cc2bd65470b18e"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011",
+    "Scenery Beta 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/aereo-team-mex-beta-1.7z/AERE01799_00003.png"
+    ],
+    "icon": "icons/aereo_team_mex.png"
+  }
+}

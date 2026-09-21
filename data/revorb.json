@@ -1,0 +1,26 @@
+{
+  "name": "Revorb",
+  "id": "revorb",
+  "summary": "File-based Ogg/Vorbis player for the PSP, built as a companion piece to Vorbo.",
+  "author": "A. Milne",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "001",
+      "url": "https://archive.org/download/revorbinstall.7z/revorbinstall.zip",
+      "published_at": "2009-02-26",
+      "size": 319219,
+      "sha256": "f58670b2e750d208219b5b3fe8237a4fcd1403333316ed59749aa88bfa284497",
+      "eboot_md5": "d8789d6470a6f28dfc5e13e4f40e4094"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/revorbinstall.7z/REVO01415_00000.jpg"
+    ],
+    "icon": "icons/revorb.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "NPaint",
+  "id": "npaint",
+  "summary": "Drawing app for PSP.",
+  "author": "NIGathan",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.4",
+      "url": "https://archive.org/download/npaint-v-2.4.7z/NPaint%20v2.4.zip",
+      "published_at": "2007-01-01",
+      "size": 12945539,
+      "sha256": "0fd92788e3a0d2f80b055e8392b03a8988b79a8144c6cc98af055f6c0e3f5695",
+      "eboot_md5": "5c5e13c0ef5c1d7e6d6ab8140efa3533"
+    }
+  ],
+  "tags": [
+    "PSP-Hacks Homebrew Competition (2007)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/npaint-v-2.4.7z/NPAI00884_00000.jpg"
+    ],
+    "icon": "icons/npaint.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Big LuaPlayer",
+  "id": "big_luaplayer",
+  "summary": "Lua interpreter for PSP.",
+  "author": "M4MSOFT",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.10",
+      "url": "https://archive.org/download/big-lua-player-v-1.10.7z/Big%20LuaPlayer_v1.10.zip",
+      "published_at": "2014-09-24",
+      "size": 2483658,
+      "sha256": "566627248ed8a48304dd2d68477dbbef4cd46ebbdea2602c524d2755628d2b16",
+      "eboot_md5": "434d5e53c9db08659cc84cdd4691c428"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/big-lua-player-v-1.10.7z/BIG%2001622_00000.jpg"
+    ],
+    "icon": "icons/big_luaplayer.png"
+  }
+}

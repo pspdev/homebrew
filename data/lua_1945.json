@@ -1,0 +1,26 @@
+{
+  "name": "Lua 1945",
+  "id": "lua_1945",
+  "summary": "The arcade game remade in Lua.",
+  "author": "Pipagerardo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1",
+      "url": "https://archive.org/download/lua-1945-pge-v-1.7z/LUA-1945-PGE_v1.zip",
+      "published_at": "2008-01-01",
+      "size": 21196472,
+      "sha256": "fce71cbb52108858bc36baccd81ad80133ec96633301ee7e4a90d94b532d6429",
+      "eboot_md5": "590d17d20e59a89709a1e6b08873c9dc"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lua-1945-pge-v-1.7z/LUA-01009_00004.png"
+    ],
+    "icon": "icons/lua_1945.png"
+  }
+}

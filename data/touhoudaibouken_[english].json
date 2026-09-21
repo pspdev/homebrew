@@ -1,0 +1,26 @@
+{
+  "name": "Touhoudaibouken [English]",
+  "id": "touhoudaibouken_[english]",
+  "summary": "English-language version of the Japanese Touhou Project fan game.",
+  "author": "satoshifukusima, naki-the-curious",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0 Beta 16-14",
+      "url": "https://archive.org/download/thd.-7z_202105/THD.zip",
+      "published_at": "2012-01-01",
+      "size": 10973925,
+      "sha256": "d9cc9d4c5059ea9766fe851e5fff03ca95f47d37a24604bd66849e47aec25721",
+      "eboot_md5": "f37f997e31b23f3ad31c47e7260db47e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/thd.-7z_202105/pic_0003.png"
+    ],
+    "icon": "icons/touhoudaibouken_[english].png"
+  }
+}

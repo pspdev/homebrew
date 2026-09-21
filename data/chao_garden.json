@@ -1,0 +1,26 @@
+{
+  "name": "Chao Garden",
+  "id": "chao_garden",
+  "summary": "Homebrew digital pet game for PSP.",
+  "author": "c5cha7",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.6 Beta",
+      "url": "https://archive.org/download/chao-garden.-7z/ChaoGarden.zip",
+      "published_at": "2006-01-01",
+      "size": 2624940,
+      "sha256": "5d364816728bd9ab1819ab69bb820e4bef21016c550f07dbc86e153d10cb3201",
+      "eboot_md5": "fda942ad0f357b9e73e899fc24f4905d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/chao-garden.-7z/CHAO00972_00000.jpg"
+    ],
+    "icon": "icons/chao_garden.png"
+  }
+}

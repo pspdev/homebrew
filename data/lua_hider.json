@@ -1,0 +1,26 @@
+{
+  "name": "Lua Hider",
+  "id": "lua_hider",
+  "summary": "Homebrew app to hide PSP folders.",
+  "author": "Shaplayer",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/lua-hider-by-shaplayer.-7z/LuaHider%20by%20Shaplayer.zip",
+      "published_at": "2011-05-07",
+      "size": 1634376,
+      "sha256": "9b315d41b1a26c62e34cff0ede381e1c7aa84e45a2e1ad54e7e34cb374f3b898",
+      "eboot_md5": "9a7ded3ca2b5761a79e0ba637db01e22"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lua-hider-by-shaplayer.-7z/LUAH02002_00002.jpg"
+    ],
+    "icon": "icons/lua_hider.png"
+  }
+}

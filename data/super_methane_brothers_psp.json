@@ -1,0 +1,28 @@
+{
+  "name": "Super Methane Brothers PSP",
+  "id": "super_methane_brothers_psp",
+  "summary": "2D platform game for PSP.",
+  "author": "Denis Televnyy (Deniska)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.4.8",
+      "url": "https://archive.org/download/smb-psp.-7z/SMB_PSP.zip",
+      "published_at": "2008-08-12",
+      "size": 3701498,
+      "sha256": "5b94bf851cda7871280abebc9b49eff3362e906765d45c7187ee281ba8bbfe74",
+      "eboot_md5": "3f63b022f915d74f5296c68e81616f3b"
+    }
+  ],
+  "tags": [
+    "NEO 2008 Summer Compo"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/smb-psp.-7z/SMB_00564_00002.png"
+    ],
+    "icon": "icons/super_methane_brothers_psp.png"
+  }
+}

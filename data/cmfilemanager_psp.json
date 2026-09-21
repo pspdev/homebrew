@@ -1,0 +1,26 @@
+{
+  "name": "CMFileManager PSP",
+  "id": "cmfilemanager_psp",
+  "summary": "A multi-purpose file manager for the PSP, heavily inspired by the CM file manager design. There are two releases: one is for a regular PSPs and other is for PSP Go with an external SD (M2) card.",
+  "author": "Joel16",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "4.10",
+      "url": "https://archive.org/download/cmfile-manager-psp-go.-7z/Old%20Versions/CMFileManager-PSP-GO-4.01.zip",
+      "published_at": "2021-12-26",
+      "size": 982986,
+      "sha256": "db179102dd2cd29700bbc6246f07e27b49a6e933fd60b79e62894b5fa4a81aa1",
+      "eboot_md5": "5b0fede8cca42062ab994f8d2786c5a4"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/cmfile-manager-psp-go.-7z/20210607160056.png"
+    ],
+    "icon": "icons/cmfilemanager_psp.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Mod Bookr",
+  "id": "mod_bookr",
+  "summary": "Mod of Bookr, the document reader for PSP.",
+  "author": "SD6719, F.L.A.M",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0.629",
+      "url": "https://archive.org/download/bookr-flam-sd-6719-1.0.629-4xx/Old%20Versions/Mod_Bookr_ver_071_rev_051_kernel_4xx.zip",
+      "published_at": "2011-01-21",
+      "size": 1592093,
+      "sha256": "100431cc8a777f37d62a60199440ba3aefda92c916bc1f4b69c4ec3bcb1c5442",
+      "eboot_md5": "e097bccc4d9d147687f3a1d3e7874f9c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/bookr-flam-sd-6719-1.0.629-4xx/BOOK02276_00000.png"
+    ],
+    "icon": "icons/mod_bookr.png"
+  }
+}

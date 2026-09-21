@@ -1,0 +1,26 @@
+{
+  "name": "PSPGBA",
+  "id": "pspgba",
+  "summary": "GameBoy Advance emulator for PSP.",
+  "author": "psp298, Slasher",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/pspgba-v-1.2.7z/PSPGBA_v1.1.zip",
+      "published_at": "2006-06-27",
+      "size": 934879,
+      "sha256": "20620a1958009692cc460aa66caf1a94e7e145999b0c90a90c9f91c7a62e4647",
+      "eboot_md5": "4aac81c62862e825ef2cdcd86d3e5b28"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspgba-v-1.2.7z/20210619083012.png"
+    ],
+    "icon": "icons/pspgba.png"
+  }
+}

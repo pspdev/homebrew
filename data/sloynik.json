@@ -1,0 +1,28 @@
+{
+  "name": "Sloynik",
+  "id": "sloynik",
+  "summary": "Russian-English dictionary for PSP.",
+  "author": "Cy-4AH",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/sloynik-v-1.1.7z/Sloynik_v1.1.zip",
+      "published_at": "2007-05-30",
+      "size": 5390669,
+      "sha256": "d7ad9128b04b1574ff11f641d0f7bca832c8c74130f52a58d824df1101e45439",
+      "eboot_md5": "6a0ba78054a39dcdd59ebfda3d40c23b"
+    }
+  ],
+  "tags": [
+    "PSP-Hacks Homebrew Competition (2007)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/sloynik-v-1.1.7z/__SC01344_00000.jpg"
+    ],
+    "icon": "icons/sloynik.png"
+  }
+}

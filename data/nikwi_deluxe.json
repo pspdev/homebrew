@@ -1,0 +1,28 @@
+{
+  "name": "Nikwi Deluxe",
+  "id": "nikwi_deluxe",
+  "summary": "PSP version of the platform game.",
+  "author": "Denis Televnyy (Deniska)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/nikwi_deluxe_psp.7z/nikwi_deluxe_psp.zip",
+      "published_at": "2008-01-01",
+      "size": 2425398,
+      "sha256": "f3acf89479dc3c81051ffd82874394e79905ff2404e456ab4c031d2cc8c9f6a1",
+      "eboot_md5": "ae6c8a1b0cec93acf0e36f9cfb3bac33"
+    }
+  ],
+  "tags": [
+    "NEO Spring Coding Compo 2008"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/nikwi_deluxe_psp.7z/NIKW01722_00000.jpg"
+    ],
+    "icon": "icons/nikwi_deluxe.png"
+  }
+}

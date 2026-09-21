@@ -1,0 +1,28 @@
+{
+  "name": "Musikr",
+  "id": "musikr",
+  "summary": "Music game for PSP.",
+  "author": "moikop",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0.2.6",
+      "url": "https://archive.org/download/musikr.-7z/Musikr.zip",
+      "published_at": "2011-01-01",
+      "size": 3991264,
+      "sha256": "6fd07b2825f2a7d5188de6f193687eae78f217dbefaecf4d8d3de4721fd55df3",
+      "eboot_md5": "13c3c0ffba78102328bde27c5cb6f8fa"
+    }
+  ],
+  "tags": [
+    "Scenery Beta 2010"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/musikr.-7z/MUSI00635_00000.jpg"
+    ],
+    "icon": "icons/musikr.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PSP-FTPD",
+  "id": "psp-ftpd",
+  "summary": "FTP file transfer on PSP.",
+  "author": "PSPKrazy, Rafael Cabezas (Raf), Ludovic Jacomme (Zx-81)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.5.0",
+      "url": "https://archive.org/download/psp-ftpd.7z/pspftpd-v0.5.0.zip",
+      "published_at": "2008-10-01",
+      "size": 608714,
+      "sha256": "f34b90ecbf03629d11aba1a62a92972457391f07b68fd05de128cd9c26a00068",
+      "eboot_md5": "50755d9cfa0c851d85eca7a53bcf9cc9"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-ftpd.7z/20211224205644.png"
+    ],
+    "icon": "icons/psp-ftpd.png"
+  }
+}

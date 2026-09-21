@@ -1,0 +1,26 @@
+{
+  "name": "Calculator",
+  "id": "calculator",
+  "summary": "Simple multiplications app for PSP.",
+  "author": "roel (HALLO007)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.01 Beta",
+      "url": "https://archive.org/download/calculator.-7z_202103/Calculator.zip",
+      "published_at": "2006-10-07",
+      "size": 706383,
+      "sha256": "bca440cd84b05e6710ddf3ced401e0137058494998935eb7d8c31d1fbab8d39e",
+      "eboot_md5": "8165472b311ad7b10a5420335e7cf751"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/calculator.-7z_202103/CALC01034_00000.jpg"
+    ],
+    "icon": "icons/calculator.png"
+  }
+}

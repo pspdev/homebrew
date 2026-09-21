@@ -1,0 +1,26 @@
+{
+  "name": "Polygun Wars Mission: Astero\u00eede",
+  "id": "polygun_wars_mission_astero\u00eede",
+  "summary": "Homebrew game for PSP.",
+  "author": "Fullarms",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.1",
+      "url": "https://archive.org/download/polywarsmissionasteroide.-7z/POLYWARS%20mission%20asteroide.zip",
+      "published_at": "2010-09-01",
+      "size": 6712175,
+      "sha256": "2738ee8f2a0f0093252d2ced8a9c8df622fc6c6854abda2199bcde2535b3c4ff",
+      "eboot_md5": "2e58dcc10cb0584eceb682c0d7c7e718"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/polywarsmissionasteroide.-7z/POLY02435_00002.png"
+    ],
+    "icon": "icons/polygun_wars_mission_astero\u00eede.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Heart Rate Monitor",
+  "id": "heart_rate_monitor",
+  "summary": "Heart rate monitor program for the PSP.",
+  "author": "Brek Martin (Art)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/hrm.-7z/HRM.zip",
+      "published_at": "2007-08-26",
+      "size": 1676148,
+      "sha256": "2623a97dc9fc5606816157140723e7f931f1e48dc55f1d9088f0df23fe169845",
+      "eboot_md5": "77c2bd540d9ba3fe5f33a70158e650cb"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/hrm.-7z/EBOO00649_00001.jpg"
+    ],
+    "icon": "icons/heart_rate_monitor.png"
+  }
+}

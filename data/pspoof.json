@@ -1,0 +1,26 @@
+{
+  "name": "PSPoof",
+  "id": "pspoof",
+  "summary": "Homebrew app for PSP.",
+  "author": "Cleatus of Troy AL, modsyn",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/pspoof.-7z/PSpoof.zip",
+      "published_at": "2007-09-24",
+      "size": 464238,
+      "sha256": "acae179ab6a5be69c375956ce3ef817fa8efde5b8c01d4416363143d6bce0909",
+      "eboot_md5": "05d2b1c9f578439a310ad2142fd9f66b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspoof.-7z/LPM300335_00000.jpg"
+    ],
+    "icon": "icons/pspoof.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PSP MEMO [PSP\u30e1\u30e2\u5e33]",
+  "id": "psp_memo_[psp\u30e1\u30e2\u5e33]",
+  "summary": "Text editor for PSP that supports Japanese characters.",
+  "author": "\u6751\u4e2d \u662d\u96c4 (STEAR)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.10",
+      "url": "https://archive.org/download/smemo.-7z/SMEMO.zip",
+      "published_at": "2011-04-17",
+      "size": 6286824,
+      "sha256": "1f3ec177d094106c4dfde6568dfe4dc858849023dbcc617d0ffae4a8414092ca",
+      "eboot_md5": "4081b2cf9f412debeef5107cc8208d99"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/smemo.-7z/SMEM00385_00000.jpg"
+    ],
+    "icon": "icons/psp_memo_[psp\u30e1\u30e2\u5e33].png"
+  }
+}

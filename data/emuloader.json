@@ -1,0 +1,28 @@
+{
+  "name": "EmuLoader",
+  "id": "emuloader",
+  "summary": "Frontend for several emulators for PSP, also known as 'Hedda's Emu Pack'. The emulators contained in this package are out of date.",
+  "author": "PSPFreak.de Dev Team",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1",
+      "url": "https://archive.org/download/emu-loader-cfplusv-1en.-7z/EmuLoaderCFPlusv1en.zip",
+      "published_at": "2008-03-20",
+      "size": 49624213,
+      "sha256": "35d281fa99ae7cee116cb86760748395f6ea57e7749ad3e7d5007d209885b650",
+      "eboot_md5": "ae620700839987438a10ef57334198c4"
+    }
+  ],
+  "tags": [
+    "NEO Spring Coding Compo 2008"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/emu-loader-cfplusv-1en.-7z/EMUL01829_00001.png"
+    ],
+    "icon": "icons/emuloader.png"
+  }
+}

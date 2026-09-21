@@ -1,0 +1,28 @@
+{
+  "name": "Legend of Hyrule: Linken's Quest",
+  "id": "legend_of_hyrule_linken's_quest",
+  "summary": "Homebrew game for PSP.",
+  "author": "Zion, PSPdemon",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.1",
+      "url": "https://archive.org/download/legend-of-hyrule.-7z/Legend%20Of%20Hyrule.zip",
+      "published_at": "2006-10-30",
+      "size": 6859256,
+      "sha256": "068610c0f608ea350c34c4b792b54ae6a1be718f95ae88c5bcb4b9a691d4d680",
+      "eboot_md5": "45725db5568a9ea5334a37438f7ab723"
+    }
+  ],
+  "tags": [
+    "DCEmu Dream Coding Grand Prix 2006"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/legend-of-hyrule.-7z/LEGE01469_00001.jpg"
+    ],
+    "icon": "icons/legend_of_hyrule_linken's_quest.png"
+  }
+}

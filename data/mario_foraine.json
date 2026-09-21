@@ -1,0 +1,26 @@
+{
+  "name": "Mario Foraine",
+  "id": "mario_foraine",
+  "summary": "Collection of minigames.",
+  "author": "TonyBoy10",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/mario-foraine-v-0.2.7z/Mario%20Foraine%20v0.2.zip",
+      "published_at": "2008-08-16",
+      "size": 1464628,
+      "sha256": "ca393d2bade6c7bd1230f36901589f1258395112ca157395cc1afac1736db28f",
+      "eboot_md5": "843c608a3a6e3bbc4976c2b856e8f04c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mario-foraine-v-0.2.7z/MARI01538_00000.png"
+    ],
+    "icon": "icons/mario_foraine.png"
+  }
+}

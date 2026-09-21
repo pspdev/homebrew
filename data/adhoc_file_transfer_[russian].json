@@ -1,0 +1,28 @@
+{
+  "name": "Adhoc File Transfer [Russian]",
+  "id": "adhoc_file_transfer_[russian]",
+  "summary": "Russian-language version of the PSP homebrew app.",
+  "author": "ErikPshat",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.7",
+      "url": "https://archive.org/download/adhoc-file-transfer.-7z_202107/AdhocFileTransfer.zip",
+      "published_at": "2009-08-11",
+      "size": 539387,
+      "sha256": "fc18ba36771ef8147d43bf45729e846be5c75051501c4d174fd633ae1ed4a1c9",
+      "eboot_md5": "929d9d5df6ac8759886821ab6a43febc"
+    }
+  ],
+  "tags": [
+    "ad-hoc support"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/adhoc-file-transfer.-7z_202107/ADHO01700_00001.png"
+    ],
+    "icon": "icons/adhoc_file_transfer_[russian].png"
+  }
+}

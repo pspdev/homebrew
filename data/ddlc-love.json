@@ -1,0 +1,28 @@
+{
+  "name": "DDLC-LOVE",
+  "id": "ddlc-love",
+  "summary": "Unofficial port of Doki Doki Literature Club.",
+  "author": "LukeZGD",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.2.3",
+      "url": "https://archive.org/download/ddlc-love.-7z/Old%20Versions/DDLC-LOVE_1.1.9.zip",
+      "published_at": "2021-09-16",
+      "size": 103543107,
+      "sha256": "16df46b488c1f24c4a1a45cad5bd6b8f20d36c464db3fe0be11d3a10c9739a4b",
+      "eboot_md5": "54852692d652176ed2d7ab5f17f0b1ee"
+    }
+  ],
+  "tags": [
+    "visual novel"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ddlc-love.-7z/DDLC00634_00000.png"
+    ],
+    "icon": "icons/ddlc-love.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Jump Gunnar Jump",
+  "id": "jump_gunnar_jump",
+  "summary": "Homebrew platform game for PSP.",
+  "author": "PSPSMM Coder Team",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/jumpgunnarjump1_2.7z/jumpgunnarjump1_2.zip",
+      "published_at": "2006-07-03",
+      "size": 4525078,
+      "sha256": "3d040e326a816eee45482d013cc1d5c8e1e35e9a185691fa7224d7c57db8caa0",
+      "eboot_md5": "dccc9d9e795a1552912b53bfd922545a"
+    }
+  ],
+  "tags": [
+    "PS2DEV The Fourth Creation 2006"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/jumpgunnarjump1_2.7z/EBOO00649_00000.jpg"
+    ],
+    "icon": "icons/jump_gunnar_jump.png"
+  }
+}

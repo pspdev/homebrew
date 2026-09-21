@@ -1,0 +1,26 @@
+{
+  "name": "Smoove",
+  "id": "smoove",
+  "summary": "Pixel, tile and sprite-editor for the PSP.",
+  "author": "Martin Wisniowski",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.92",
+      "url": "https://archive.org/download/smoove-v-092.7z/SmooveV092.zip",
+      "published_at": "2006-01-01",
+      "size": 590144,
+      "sha256": "bdcdd0f6fbc776e16bfd208f5e1f86fc9cb1386255867469ba6f2204f5bb882d",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/smoove-v-092.7z/LUAP01126_00000.png"
+    ],
+    "icon": "icons/smoove.png"
+  }
+}

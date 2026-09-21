@@ -1,0 +1,26 @@
+{
+  "name": "Abilities",
+  "id": "abilities",
+  "summary": "Button-pressing game.",
+  "author": "Gunner54",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/abillities.-7z/Abillities.zip",
+      "published_at": "2007-07-08",
+      "size": 451393,
+      "sha256": "1394cbc0a0394dcc936989cc768666caf8572dbd17d50f40805cc16d85a51ce8",
+      "eboot_md5": "e2836c426ea53af2b9a3696726bcb21f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/abillities.-7z/ABIL01026_00000.jpg"
+    ],
+    "icon": "icons/abilities.png"
+  }
+}

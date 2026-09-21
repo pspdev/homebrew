@@ -1,0 +1,26 @@
+{
+  "name": "uo Snes9x",
+  "id": "uo_snes9x",
+  "summary": "SNES emulator for PSP.",
+  "author": "Andon",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.02pd2",
+      "url": "https://archive.org/download/uo_Snes9x-0.02pd2-20050728.7z/uo_Snes9x-0.02pd2-20050728.zip",
+      "published_at": "2005-07-28",
+      "size": 545026,
+      "sha256": "78d8cb06e96c69fdcc4ea37108b4de73265d1cfea8620622f09f547322444b5f",
+      "eboot_md5": "d506b5c9c5e436f396ed3c197da7b4da"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/uo_Snes9x-0.02pd2-20050728.7z/20210609162216.png"
+    ],
+    "icon": "icons/uo_snes9x.png"
+  }
+}

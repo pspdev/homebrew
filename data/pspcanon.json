@@ -1,0 +1,26 @@
+{
+  "name": "PSPcanon",
+  "id": "pspcanon",
+  "summary": "Homebrew game for PSP.",
+  "author": "Arknais_14",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Beta 0.1",
+      "url": "https://archive.org/download/pspcanon.-7z/PSPcanon.zip",
+      "published_at": "2011-12-05",
+      "size": 984813,
+      "sha256": "b558c0df0b15e5552f78bc3a83580448929a6fc83303ab3492be84dbae5cdc2e",
+      "eboot_md5": "5ccfeb0fbae02dc957f91546181dd029"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspcanon.-7z/PSPC00770_00000.jpg"
+    ],
+    "icon": "icons/pspcanon.png"
+  }
+}

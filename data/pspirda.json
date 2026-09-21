@@ -1,0 +1,28 @@
+{
+  "name": "PspIrDA",
+  "id": "pspirda",
+  "summary": "Homebrew app for PSP.",
+  "author": "Mathieu Albinet (Mathieu17)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.0.2",
+      "url": "https://archive.org/download/pspirda0.0.2beta4.7z/PspIrdav0.0.2Debug.zip",
+      "published_at": "2007-02-19",
+      "size": 465729,
+      "sha256": "9684b8fd306355ceef4632121cd47f214849ee2ca4aa06fc534fbf1fb7835210",
+      "eboot_md5": "336c1db4e228d31da2a89e9c0e3c5708"
+    }
+  ],
+  "tags": [
+    "IrDA"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspirda0.0.2beta4.7z/PSPI00755_00002.jpg"
+    ],
+    "icon": "icons/pspirda.png"
+  }
+}

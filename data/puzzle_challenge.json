@@ -1,0 +1,26 @@
+{
+  "name": "Puzzle Challenge",
+  "id": "puzzle_challenge",
+  "summary": "Puzzle game for PSP.",
+  "author": "Thepixelatedpoo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/puzzlechallenge_v20.7z/puzzlechallenge_v20.zip",
+      "published_at": "2008-02-23",
+      "size": 3971629,
+      "sha256": "de42516d231930b31192010b23ab5a033fb26b6b32f2bed8962a8cdb61ad7f04",
+      "eboot_md5": "1d16f2311d26d7b7230f27cc8bb1988a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/puzzlechallenge_v20.7z/pic_0000.png"
+    ],
+    "icon": "icons/puzzle_challenge.png"
+  }
+}

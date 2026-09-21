@@ -1,0 +1,26 @@
+{
+  "name": "PSPSource.de Portable Lexikon",
+  "id": "pspsource.de_portable_lexikon",
+  "summary": "Homebrew app for PSP.",
+  "author": "bumuckl, _.-noel-._, Basti93",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/pspslx-2.7z/PSPSLX2.zip",
+      "published_at": "2008-12-23",
+      "size": 1451619,
+      "sha256": "9e9a294fa46933b4510ab83648bd4c2ee0e6b4016f6fcba0135e1c097ced4195",
+      "eboot_md5": "96235a16901df80ac72077295ce7fd33"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspslx-2.7z/PSPS00540_00000.jpg"
+    ],
+    "icon": "icons/pspsource.de_portable_lexikon.png"
+  }
+}

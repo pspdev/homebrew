@@ -1,0 +1,26 @@
+{
+  "name": "PSPong",
+  "id": "pspong",
+  "summary": "Version of Pong for PSP.",
+  "author": "SPZ",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/pong.7z_202104/PSP_Pong.zip",
+      "published_at": "2005-05-16",
+      "size": 50374,
+      "sha256": "916b0e2d245fd5493d43a054c7ab86cc5ea2d6793a8d5cf606c36f437755c8d1",
+      "eboot_md5": "0b65e4fb0a66688e1d483a5268c50426"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pong.7z_202104/PONG00436_00000.jpg"
+    ],
+    "icon": "icons/pspong.png"
+  }
+}

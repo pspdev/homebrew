@@ -1,0 +1,26 @@
+{
+  "name": "Dragonball Black (Blackballs)",
+  "id": "dragonball_black_(blackballs)",
+  "summary": "Fighting homebrew game for PSP.",
+  "author": "SIM sk",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.29.1",
+      "url": "https://archive.org/download/beta-0.262.7z/Old%20Versions/BETA%200.27.zip",
+      "published_at": "2014-03-21",
+      "size": 4420781,
+      "sha256": "144b2f5b133eae449a60a4050fb71893dbfcb2a850f458f48b06b71942f081e3",
+      "eboot_md5": "4062d1922746db4a3f90d4728b53fb65"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/beta-0.262.7z/BETA00515_00000.jpg"
+    ],
+    "icon": "icons/dragonball_black_(blackballs).png"
+  }
+}

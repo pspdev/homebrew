@@ -1,0 +1,26 @@
+{
+  "name": "HuE for PSP",
+  "id": "hue_for_psp",
+  "summary": "PC Engine/TurboGrafx-16 emulator for PSP. Early builds are known as 'XPCE for PSP'.",
+  "author": "T. Kawamorita (e)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.70",
+      "url": "https://archive.org/download/hu-epsp-070.7z/Old%20Versions/xpce4psp0003.zip",
+      "published_at": "2005-11-24",
+      "size": 309253,
+      "sha256": "57c41b8ec5112b344904c2574bc7bb0edcdb447cfc74c94647b63fdeebd4f69a",
+      "eboot_md5": "0d43c171f6c80dfa4475f7cc2d10eb54"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/hu-epsp-070.7z/HUEP00652_00000.jpg"
+    ],
+    "icon": "icons/hue_for_psp.png"
+  }
+}

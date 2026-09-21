@@ -1,0 +1,26 @@
+{
+  "name": "Balloon Invasion",
+  "id": "balloon_invasion",
+  "summary": "Homebrew game for PSP.",
+  "author": "Team Cheytac (James Cutter, TH3_H!TCH3R)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.02",
+      "url": "https://archive.org/download/ballon-invasion.-7z/Ballon_Invasion.zip",
+      "published_at": "2011-05-22",
+      "size": 2446226,
+      "sha256": "2b63238bb1f04c30c50295cff56339a371eed0723e6c969c4d888db070fb32c2",
+      "eboot_md5": "3c53939c569edad54f1e9e821fdddb92"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ballon-invasion.-7z/BALL01534_00000.png"
+    ],
+    "icon": "icons/balloon_invasion.png"
+  }
+}

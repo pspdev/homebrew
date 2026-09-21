@@ -1,0 +1,26 @@
+{
+  "name": "Dragon Fighter",
+  "id": "dragon_fighter",
+  "summary": "Homebrew game for PSP.",
+  "author": "Gary Schilling (Gary13579)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.3",
+      "url": "https://archive.org/download/psp-rpg.-7z/PSP-RPG.zip",
+      "published_at": "2006-04-14",
+      "size": 3365591,
+      "sha256": "f2d052566a4ea6f93a72bfbe29d38ed6badc6289e774b1a0368f9aef0f2dad24",
+      "eboot_md5": "a40bd37301cab21b0a0691ec29bc3a13"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-rpg.-7z/PSP-00521_00000.jpg"
+    ],
+    "icon": "icons/dragon_fighter.png"
+  }
+}

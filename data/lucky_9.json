@@ -1,0 +1,26 @@
+{
+  "name": "Lucky 9",
+  "id": "lucky_9",
+  "summary": "Card game for PSP.",
+  "author": "Yeoj Vandal Basaghari",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1",
+      "url": "https://archive.org/download/lucky-9-portable.-7z/Lucky9_Portable.zip",
+      "published_at": "2007-06-18",
+      "size": 766008,
+      "sha256": "d7ec9601ab8d38ab6ba0aca7498fa17ec4683008a1a3395b586c8774b066da1a",
+      "eboot_md5": "68d0a9f3aad9469bd4c81b8f2c246158"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lucky-9-portable.-7z/LUCK00449_00000.jpg"
+    ],
+    "icon": "icons/lucky_9.png"
+  }
+}

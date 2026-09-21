@@ -1,0 +1,26 @@
+{
+  "name": "Pong Portable",
+  "id": "pong_portable",
+  "summary": "Pong for PSP.",
+  "author": "Wiz (1989studio.com)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.3.1",
+      "url": "https://archive.org/download/pong.-7z/PONG.zip",
+      "published_at": "2005-05-23",
+      "size": 73499,
+      "sha256": "d166c08c526a1eaade5d2800c4ac7ab8086800cc4a020c731d437f4054106582",
+      "eboot_md5": "7c8fa27371fb1a4be0a86c64e4cdca58"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pong.-7z/PONG00308_00000.jpg"
+    ],
+    "icon": "icons/pong_portable.png"
+  }
+}

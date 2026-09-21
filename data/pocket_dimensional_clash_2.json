@@ -1,0 +1,28 @@
+{
+  "name": "Pocket Dimensional Clash 2",
+  "id": "pocket_dimensional_clash_2",
+  "summary": "OpenBOR mod for PSP.",
+  "author": "Douglas Baldan",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2.5",
+      "url": "https://archive.org/download/pocket-dimensional-clash-2-psp.-7z/PocketDimensionalClash2-PSP.zip",
+      "published_at": "2016-10-16",
+      "size": 15686398,
+      "sha256": "3901e7fe2214f6e4e870bcadf76b43aacf9ba11f81c0574ad9a900d9857b2546",
+      "eboot_md5": "2c2aefb3ecdc5334fabdf6f7b34a20d7"
+    }
+  ],
+  "tags": [
+    "OpenBOR"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pocket-dimensional-clash-2-psp.-7z/POCK02582_00002.png"
+    ],
+    "icon": "icons/pocket_dimensional_clash_2.png"
+  }
+}

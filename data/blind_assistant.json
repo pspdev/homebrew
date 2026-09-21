@@ -1,0 +1,28 @@
+{
+  "name": "Blind Assistant",
+  "id": "blind_assistant",
+  "summary": "Application created to assist the blind or visually impaired, built on the Nanodesktop framework.",
+  "author": "Filippo Battaglia",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "CFW0006",
+      "url": "https://archive.org/download/blind-assistant-cfw-006.7z/BlindAssistant_CFW_006.zip",
+      "published_at": "2010-04-22",
+      "size": 99841363,
+      "sha256": "c29bf85c56770e279e7ab3857427a8e2536dbd8e9fbc94ba4ffeb6a1f3a4c0c9",
+      "eboot_md5": "606cd18161b5fee7662e38e874d7a8bf"
+    }
+  ],
+  "tags": [
+    "Go!Cam"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/blind-assistant-cfw-006.7z/CORE00297_00000.jpg"
+    ],
+    "icon": "icons/blind_assistant.png"
+  }
+}

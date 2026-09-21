@@ -1,0 +1,28 @@
+{
+  "name": "Leviaman Zero",
+  "id": "leviaman_zero",
+  "summary": "Homebrew game for PSP.",
+  "author": "Leviadragon",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Beta 1",
+      "url": "https://archive.org/download/leviaman-zero-neo.-7z/Leviaman%20Zero%20Neo.zip",
+      "published_at": "2007-03-20",
+      "size": 3520200,
+      "sha256": "d4704bfb5b3d6bbf3502372b97ed5ff74433e7167431662e601e6cc8b46859e2",
+      "eboot_md5": "01583098be015dd9197422edd20fe2d5"
+    }
+  ],
+  "tags": [
+    "NEO Spring Compo 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/leviaman-zero-neo.-7z/LEVI01583_00000.jpg"
+    ],
+    "icon": "icons/leviaman_zero.png"
+  }
+}

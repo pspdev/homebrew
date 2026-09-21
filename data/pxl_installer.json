@@ -1,0 +1,26 @@
+{
+  "name": "Pxl_Installer",
+  "id": "pxl_installer",
+  "summary": "Theme installer for PSP.",
+  "author": "Pxl Team",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.3",
+      "url": "https://archive.org/download/pxl-installer-1.3.7z/Pxl_Installer_1.3.zip",
+      "published_at": "2008-06-30",
+      "size": 1810239,
+      "sha256": "541d3c4d9d1e0e05624cd4db60301b086a0401079d510692b3770c1ddd03b541",
+      "eboot_md5": "a156fcaa40b0d8d44ed9a060b61be30d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pxl-installer-1.3.7z/PXL_01586_00000.jpg"
+    ],
+    "icon": "icons/pxl_installer.png"
+  }
+}

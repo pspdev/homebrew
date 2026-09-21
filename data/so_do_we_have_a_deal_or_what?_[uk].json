@@ -1,0 +1,26 @@
+{
+  "name": "So Do We Have a Deal or What? [UK]",
+  "id": "so_do_we_have_a_deal_or_what?_[uk]",
+  "summary": "Homebrew game for PSP.",
+  "author": "Quinnsoft (darkshadow88)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.40",
+      "url": "https://archive.org/download/dealuk.-7z/Dealuk.zip",
+      "published_at": "2006-01-01",
+      "size": 1004740,
+      "sha256": "a016a70c85fd46e282492c7d9b31c616b2250436666d08a14beb733a33b1a015",
+      "eboot_md5": "05d2b1c9f578439a310ad2142fd9f66b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/dealuk.-7z/LPM300948_00000.jpg"
+    ],
+    "icon": "icons/so_do_we_have_a_deal_or_what?_[uk].png"
+  }
+}

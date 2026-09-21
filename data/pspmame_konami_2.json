@@ -1,0 +1,26 @@
+{
+  "name": "PSPMAME Konami 2",
+  "id": "pspmame_konami_2",
+  "summary": "Version of the MAME emulator for PSP. Compatibility list available (in Japanese).",
+  "author": "Takka, TMK",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.97 r0.4",
+      "url": "https://archive.org/download/pspmame-0.97-konami-2.7z/PSPMAME-0.97-konami2.zip",
+      "published_at": "2009-12-31",
+      "size": 1179385,
+      "sha256": "78700764635e0be08bfda14c5389b515e22aa174c514d62519882dd881418afd",
+      "eboot_md5": "2e1266d1d142e5f843b98890a098a07c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspmame-0.97-konami-2.7z/PSPM01516_00000.png"
+    ],
+    "icon": "icons/pspmame_konami_2.png"
+  }
+}

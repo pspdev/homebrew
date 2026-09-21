@@ -1,0 +1,26 @@
+{
+  "name": "PSPMaster",
+  "id": "pspmaster",
+  "summary": "Sega Master System and Game Gear emulator for PSP.",
+  "author": "[Bo]Trops",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.0.9 Beta 4",
+      "url": "https://archive.org/download/pspm.-7z/pspmaster009_beta4_fw10.zip",
+      "published_at": "2006-09-18",
+      "size": 388599,
+      "sha256": "51207945b0fcbcaa2eef636d993ef77778f21d4b2e92c9e0fdf6508f2ebef07d",
+      "eboot_md5": "80db7151b80bf9cd02ab58fbd6dc8e30"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspm.-7z/PSPM02116_00000.jpg"
+    ],
+    "icon": "icons/pspmaster.png"
+  }
+}

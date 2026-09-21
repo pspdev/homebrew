@@ -1,0 +1,26 @@
+{
+  "name": "Quake 1 for PSP",
+  "id": "quake_1_for_psp",
+  "summary": "PSP port of the game. The shareware version is included.",
+  "author": "Juraj Styk, Peter Mackay, Chris Swindle",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/psp-quake-1-v-11.0-slim.-7z/PSP_Quake1_SW.zip",
+      "published_at": "2008-01-14",
+      "size": 9023076,
+      "sha256": "d8720fc1619988f7b5ba65d49447f065053401628fb18213ff77abd714ccd9ba",
+      "eboot_md5": "bc580b7fb982860e81a13e04ddbcf614"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-quake-1-v-11.0-slim.-7z/PSP_01144_00000.jpg"
+    ],
+    "icon": "icons/quake_1_for_psp.png"
+  }
+}

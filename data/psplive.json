@@ -1,0 +1,26 @@
+{
+  "name": "PSPLive",
+  "id": "psplive",
+  "summary": "Homebrew app for PSP.",
+  "author": "fard0che",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.01",
+      "url": "https://archive.org/download/psplive-ov-1.01.7z/PSPLive_ov1.01.zip",
+      "published_at": "2007-07-04",
+      "size": 1593497,
+      "sha256": "30f6c9ee7070ac20aa60b97de92e6eff919b2813634861b116c2fff52b015d65",
+      "eboot_md5": "c713b880f51739602095995b5c56ace9"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psplive-ov-1.01.7z/20210720175127.png"
+    ],
+    "icon": "icons/psplive.png"
+  }
+}

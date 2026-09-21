@@ -1,0 +1,26 @@
+{
+  "name": "Generator PSP",
+  "id": "generator_psp",
+  "summary": "Sega Genesis (Megadrive) emulator for PSP. It will only open a file named 'GEN.BIN' placed in the same folder.",
+  "author": "Hotoke (\u4ecf\u69d8\u6c0f), PSP Wiki",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.01.1",
+      "url": "https://archive.org/download/genpsp0_01_11.7z/genpsp0_01_11.zip",
+      "published_at": "2005-06-13",
+      "size": 240948,
+      "sha256": "4262e1d955862055160a559de6e0337bf373c4705f4e6e695e9868c945aff62c",
+      "eboot_md5": "0696fdc2aa6cff77cab9562ef6fa2d72"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/genpsp0_01_11.7z/GENP01086_00000.jpg"
+    ],
+    "icon": "icons/generator_psp.png"
+  }
+}

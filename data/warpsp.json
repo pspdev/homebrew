@@ -1,0 +1,26 @@
+{
+  "name": "warPSP",
+  "id": "warpsp",
+  "summary": "Homebrew app for PSP.",
+  "author": "Ben Saraceno (caliFrag)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0 Beta",
+      "url": "https://archive.org/download/warPSP.7z/warPSP^installer.zip",
+      "published_at": "2007-09-05",
+      "size": 230876,
+      "sha256": "1d1084d4c95d8969a5b7ea455842e4b4271787119c6af856b5cc98678c9a1ee1",
+      "eboot_md5": "999ea1d79cb61f9928c30e97ce84e07a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/warPSP.7z/20210728221803.png"
+    ],
+    "icon": "icons/warpsp.png"
+  }
+}

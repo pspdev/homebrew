@@ -1,0 +1,26 @@
+{
+  "name": "Vokabeltrainer",
+  "id": "vokabeltrainer",
+  "summary": "Homebrew app for PSP.",
+  "author": "PSP-Tools",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/vokabeltrainer-2.0.7z/Vokabeltrainer%202.0.zip",
+      "published_at": "2010-05-04",
+      "size": 4118911,
+      "sha256": "ee3bdb9c7e380b476aad96663dd861509fcd2b658c7c12c88f40801ed74b5fed",
+      "eboot_md5": "87fcf0bd6725901aa1bfa2b3cf811bd6"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/vokabeltrainer-2.0.7z/VOKA01641_00000.jpg"
+    ],
+    "icon": "icons/vokabeltrainer.png"
+  }
+}

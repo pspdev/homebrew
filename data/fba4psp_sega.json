@@ -1,0 +1,26 @@
+{
+  "name": "FBA4PSP Sega",
+  "id": "fba4psp_sega",
+  "summary": "This version of FinalBurn Alpha for PSP claims support for Sega arcade games.",
+  "author": "OopsWare, Lbicelyne",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "12.4.0",
+      "url": "https://archive.org/download/sega.7z/sega.zip",
+      "published_at": "2009-03-15",
+      "size": 680249,
+      "sha256": "da83ded36e8b4d5ab9269d72e7d82ca9cc3d81fa3ec1d926cb1e4658955ca2bc",
+      "eboot_md5": "5334b1242762c369e269ed1fb75ede63"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/sega.7z/SEGA00416_00000.jpg"
+    ],
+    "icon": "icons/fba4psp_sega.png"
+  }
+}

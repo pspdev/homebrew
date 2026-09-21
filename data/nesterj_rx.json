@@ -1,0 +1,26 @@
+{
+  "name": "NesterJ RX",
+  "id": "nesterj_rx",
+  "summary": "A signed version of Takka's fork of NesterJ, the NES emulator for PSP.",
+  "author": "\u732b\u5c71\u732b\u5b97 (Nekomune)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.12",
+      "url": "https://archive.org/download/nester-j-112-rx/NesterJ%20112%20RX.zip",
+      "published_at": "2012-01-07",
+      "size": 445369,
+      "sha256": "f7f7d02d9e26d8fb8fb5c9e728964437fa8c3480b9a21a9efa69c08713ec55c5",
+      "eboot_md5": "3fa8bef5edea2f04563a544aa2655a96"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/nester-j-112-rx/UCJS10041_00000.png"
+    ],
+    "icon": "icons/nesterj_rx.png"
+  }
+}

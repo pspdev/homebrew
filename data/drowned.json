@@ -1,0 +1,28 @@
+{
+  "name": "Drowned",
+  "id": "drowned",
+  "summary": "Survive the rising water level by jumping from block to block.",
+  "author": "HardHat",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.10",
+      "url": "https://archive.org/download/drowned110.7z/drowned110.zip",
+      "published_at": "2010-01-01",
+      "size": 10729849,
+      "sha256": "9c50910c7a543c72401377b6fe70fad83cbc8a8f000a0219ae8499fb3b9f5d79",
+      "eboot_md5": "ccf7d252f71dec98628dd40999f49a96"
+    }
+  ],
+  "tags": [
+    "Homebrew Idol 3 (2010)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/drowned110.7z/EBOO00649_00001.jpg"
+    ],
+    "icon": "icons/drowned.png"
+  }
+}

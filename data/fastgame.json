@@ -1,0 +1,26 @@
+{
+  "name": "FastGAME",
+  "id": "fastgame",
+  "summary": "Button-mashing game.",
+  "author": "fede94boss",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/fast-game.-7z/FastGAME.zip",
+      "published_at": "2011-06-01",
+      "size": 5065244,
+      "sha256": "49e1a5cae75adac90613af4ea1ecc6662c2a11d66a0b4408cbe621d9ea448706",
+      "eboot_md5": "7b9f113189a2f6c295de0789eeea3833"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/fast-game.-7z/FAST00680_00000.jpg"
+    ],
+    "icon": "icons/fastgame.png"
+  }
+}

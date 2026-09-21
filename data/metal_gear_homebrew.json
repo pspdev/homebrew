@@ -1,0 +1,26 @@
+{
+  "name": "Metal Gear Homebrew",
+  "id": "metal_gear_homebrew",
+  "summary": "Fan game for PSP.",
+  "author": "The Game",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Final",
+      "url": "https://archive.org/download/mgh.-7z/MGH.zip",
+      "published_at": "2011-01-01",
+      "size": 4302324,
+      "sha256": "8e5a3341de25cc985eafc850f16f56621d69f48b51f2ced2ace876fc46e193e7",
+      "eboot_md5": "fee862275342d9455f9fe12bdb5aa38b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mgh.-7z/MGHH00220_00000.jpg"
+    ],
+    "icon": "icons/metal_gear_homebrew.png"
+  }
+}

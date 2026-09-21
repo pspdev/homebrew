@@ -1,0 +1,26 @@
+{
+  "name": "South Park Robotron",
+  "id": "south_park_robotron",
+  "summary": "Fan game for PSP.",
+  "author": "LiquidIce",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Demo",
+      "url": "https://archive.org/download/sprobotron.7z/sprobotron.zip",
+      "published_at": "2005-09-07",
+      "size": 956265,
+      "sha256": "5054cbc322508e52c598a73c9ebba2bbbec836facfbf03c11f9d3b145549140c",
+      "eboot_md5": "fa30630ed700b1c849644f74eaa997ae"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/sprobotron.7z/SPRO01112_00000.jpg"
+    ],
+    "icon": "icons/south_park_robotron.png"
+  }
+}

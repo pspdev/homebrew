@@ -1,0 +1,26 @@
+{
+  "name": "Freedroid",
+  "id": "freedroid",
+  "summary": "Homebrew game for PSP.",
+  "author": "CodeXFan",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0.2",
+      "url": "https://archive.org/download/freedroid.-7z/Freedroid.zip",
+      "published_at": "2009-03-07",
+      "size": 1800808,
+      "sha256": "442600f21123c4bf435635866f455ebcb2753a13d3f3c41ad5711726d9fc0c2a",
+      "eboot_md5": "9e883bbbfc332738819d10215835df77"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/freedroid.-7z/FREE00916_00000.jpg"
+    ],
+    "icon": "icons/freedroid.png"
+  }
+}

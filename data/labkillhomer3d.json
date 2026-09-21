@@ -1,0 +1,28 @@
+{
+  "name": "labKillHomer3D",
+  "id": "labkillhomer3d",
+  "summary": "Find the yellow character in the maze and shoot him.",
+  "author": "pspflashsystem",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/labKillHomer3D.7z/labKillHomer3D.zip",
+      "published_at": "2009-06-12",
+      "size": 16345169,
+      "sha256": "9596c01e8d21b354fea965ac95af9489bc558d73ec48083bede93897f87d612b",
+      "eboot_md5": "44e2f43100fdc4d5bbc94bf0bb2a82b8"
+    }
+  ],
+  "tags": [
+    "Homebrew Idol 2 (2009)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/labKillHomer3D.7z/pic_0001.jpg"
+    ],
+    "icon": "icons/labkillhomer3d.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Quake-PSP",
+  "id": "quake-psp",
+  "summary": "PSP port of the game. The shareware version is included.",
+  "author": "Steve Hernandez (PacManFan)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "04",
+      "url": "https://archive.org/download/quake-psp.-7z/QUAKE-PSP.zip",
+      "published_at": "2005-07-23",
+      "size": 10313609,
+      "sha256": "709d061d176e4e3456d651e3c35171a8a435d7d467e15d74ab623ab0f943cdb7",
+      "eboot_md5": "1b32798f43be7aa521e027d956b496b2"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/quake-psp.-7z/QUAK00663_00000.jpg"
+    ],
+    "icon": "icons/quake-psp.png"
+  }
+}

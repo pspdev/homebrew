@@ -1,0 +1,26 @@
+{
+  "name": "PSPeriodic",
+  "id": "psperiodic",
+  "summary": "Periodic table for PSP.",
+  "author": "Propel",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/psperiodic-v-1.0.7z/PSPeriodic%20v1.0.zip",
+      "published_at": "2006-11-04",
+      "size": 754684,
+      "sha256": "5e93ad12ad5aaed4f89170c84f0cb14282f1d0a8c4e32f271f974d6c60d20b40",
+      "eboot_md5": "a4ba9dfcdf4e170fd884ab757776eaec"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psperiodic-v-1.0.7z/PSPE01271_00000.jpg"
+    ],
+    "icon": "icons/psperiodic.png"
+  }
+}

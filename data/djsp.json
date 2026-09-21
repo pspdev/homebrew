@@ -1,0 +1,28 @@
+{
+  "name": "DJSP",
+  "id": "djsp",
+  "summary": "Music player app for PSP.",
+  "author": "Lok Tai Fung (DJ Epitome)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.14a",
+      "url": "https://archive.org/download/djsp.-7z/Old%20Versions/djsp13.zip",
+      "published_at": "2005-08-25",
+      "size": 1264332,
+      "sha256": "d9aa0ab48a52c9ab03e11280964c6da1d3685e882dfd2f43d59543e1a9fe6e8b",
+      "eboot_md5": "f7fd9ec7c294bb34c8cae3c92463d6d5"
+    }
+  ],
+  "tags": [
+    "PSPUpdates Homebrew Contest (2005)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/djsp.-7z/pic_0021.png"
+    ],
+    "icon": "icons/djsp.png"
+  }
+}

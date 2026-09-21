@@ -1,0 +1,26 @@
+{
+  "name": "Jazz Jackrabbit",
+  "id": "jazz_jackrabbit",
+  "summary": "PSP port of the game; the shareware version is included.",
+  "author": "Denis Televnyy (Deniska)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2 Alpha",
+      "url": "https://archive.org/download/jazz3xx.7z/jazz3xx.zip",
+      "published_at": "2008-04-15",
+      "size": 4505421,
+      "sha256": "694301fb4ab9ec952edd7f87f3873569011170bb27684fb545ba08d010a999da",
+      "eboot_md5": "2d921161c71c930a74d72e3f08658073"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/jazz3xx.7z/JAZZ00868_00002.png"
+    ],
+    "icon": "icons/jazz_jackrabbit.png"
+  }
+}

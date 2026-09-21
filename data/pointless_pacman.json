@@ -1,0 +1,26 @@
+{
+  "name": "Pointless Pacman",
+  "id": "pointless_pacman",
+  "summary": "Homebrew game for PSP.",
+  "author": "Brek Martin (Art)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1f",
+      "url": "https://archive.org/download/pointless-pacman.-7z/Pointless%20Pacman.zip",
+      "published_at": "2008-04-21",
+      "size": 986762,
+      "sha256": "c759d1b22f04ddf6da0b61d46867b2a8268d48f197838f11b04b05dcaeb0ae32",
+      "eboot_md5": "0dcadb22bc6a138c066aafc6a8e6b70b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pointless-pacman.-7z/POIN01585_00015.png"
+    ],
+    "icon": "icons/pointless_pacman.png"
+  }
+}

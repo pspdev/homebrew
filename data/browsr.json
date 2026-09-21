@@ -1,0 +1,26 @@
+{
+  "name": "Browsr",
+  "id": "browsr",
+  "summary": "File browser for PSP.",
+  "author": "Yongobongo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.096",
+      "url": "https://archive.org/download/browsr.7z/browsr.zip",
+      "published_at": "2007-01-01",
+      "size": 2189906,
+      "sha256": "42ff7265564e8eefe50aee50786ff6fc95ccfd765ed4b4b98479bf60bf4febc2",
+      "eboot_md5": "ea627a23ed778bac61391473d6d86f41"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/browsr.7z/LUAP00975_00000.jpg"
+    ],
+    "icon": "icons/browsr.png"
+  }
+}

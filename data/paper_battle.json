@@ -1,0 +1,28 @@
+{
+  "name": "Paper Battle",
+  "id": "paper_battle",
+  "summary": "Homebrew game for PSP.",
+  "author": "MitchellJM",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/paper-battle.-7z/PaperBattle.zip",
+      "published_at": "2007-11-01",
+      "size": 3451829,
+      "sha256": "18a1cb3edb0b8514dee90ddbc6b8c2234d407fd19929dd3cdc0eece6adb906be",
+      "eboot_md5": "910ef402f9ba30c3e0ff380b499da974"
+    }
+  ],
+  "tags": [
+    "NEO Spring Coding Compo 2008"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/paper-battle.-7z/pic_0000.jpg"
+    ],
+    "icon": "icons/paper_battle.png"
+  }
+}

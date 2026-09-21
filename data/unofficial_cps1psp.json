@@ -1,0 +1,26 @@
+{
+  "name": "Unofficial CPS1PSP",
+  "id": "unofficial_cps1psp",
+  "summary": "CPS1 emulator for PSP. Romset: MAME 0.152 and HBMAME (for the ROM hacks).",
+  "author": "NJ, 173210, phoe-nix",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "2.3.5",
+      "url": "https://archive.org/download/uo_cps1psp_2.3.1_1.5_kernel_mod_r5.7z/Old%20Versions/uo_cps1psp_2.3.1_mod_r5.zip",
+      "published_at": "2018-05-11",
+      "size": 853122,
+      "sha256": "135635a3b71b73c5ff7de6d1f102962ac99588e93b46ca045150d3f7bfd104dd",
+      "eboot_md5": "d460a23780f2899226d1acddaf7848cb"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/uo_cps1psp_2.3.1_1.5_kernel_mod_r5.7z/CPS100768_00000.jpg"
+    ],
+    "icon": "icons/unofficial_cps1psp.png"
+  }
+}

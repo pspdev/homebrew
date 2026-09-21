@@ -1,0 +1,26 @@
+{
+  "name": "Der [PSP] Entscheider",
+  "id": "der_[psp]_entscheider",
+  "summary": "Homebrew app for PSP.",
+  "author": "ThaProducer",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.00-Beta",
+      "url": "https://archive.org/download/psp-entscheider.-7z/%5BPSP%5D%20Entscheider.zip",
+      "published_at": "2010-01-01",
+      "size": 728224,
+      "sha256": "f1782ab90d5d94d1c38866ea3b3197a8cfae720bfbc3ed50757b6c99f1ebca05",
+      "eboot_md5": "053156dec464cffd0e58ff4ebeecce0c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-entscheider.-7z/%5BPSP01593_00000.jpg"
+    ],
+    "icon": "icons/der_[psp]_entscheider.png"
+  }
+}

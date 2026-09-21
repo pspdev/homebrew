@@ -1,0 +1,26 @@
+{
+  "name": "Project 3",
+  "id": "project_3",
+  "summary": "Homebrew game for PSP.",
+  "author": "Sonicadvance1",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/project-3v-2.7z/Project3v2.zip",
+      "published_at": "2006-04-01",
+      "size": 261243,
+      "sha256": "29f72b6c1cb29c544a4986d9d6ccbd88656822c55ae42a6462fec945abf58e12",
+      "eboot_md5": "821d6f43640e2c5e2beaf1a02d6234ff"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/project-3v-2.7z/PROJ00946_00000.jpg"
+    ],
+    "icon": "icons/project_3.png"
+  }
+}

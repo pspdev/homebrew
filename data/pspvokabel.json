@@ -1,0 +1,26 @@
+{
+  "name": "PSPVokabel",
+  "id": "pspvokabel",
+  "summary": "Homebrew app for PSP.",
+  "author": "Sunny",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.5",
+      "url": "https://archive.org/download/pspvokabel-v-0.5.7z/PSPVokabel%20v0.5.zip",
+      "published_at": "2010-05-02",
+      "size": 993851,
+      "sha256": "8e621f1cc144d1a57c99b9c5c5b6d086917d41e52a19317a29dad874105e6c47",
+      "eboot_md5": "12c1876939227b88e5c9489bf887e84b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspvokabel-v-0.5.7z/PSPV01248_00000.jpg"
+    ],
+    "icon": "icons/pspvokabel.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Optique Memory",
+  "id": "optique_memory",
+  "summary": "Homebrew game for PSP.",
+  "author": "Pilout",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/optique-memory.-7z/Optique%20Memory.zip",
+      "published_at": "2007-09-05",
+      "size": 8065596,
+      "sha256": "63d832955620ea30ae3ea25151e8bf81e10c9bef68632b147ec861f82f15f9a9",
+      "eboot_md5": "65b5cde5b51745c40b5a6bef89482dab"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/optique-memory.-7z/OPTI01408_00000.jpg"
+    ],
+    "icon": "icons/optique_memory.png"
+  }
+}

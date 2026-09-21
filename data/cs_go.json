@@ -1,0 +1,28 @@
+{
+  "name": "CS: GO",
+  "id": "cs_go",
+  "summary": "3D shooter for PSP.",
+  "author": "St1x51",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "7",
+      "url": "https://archive.org/download/csgo.-7z_202101/Old%20Versions/CSGO%20v6.zip",
+      "published_at": "2022-07-08",
+      "size": 183194612,
+      "sha256": "4f5c825ab220a8719f3fc16393b9b0c7590a6a8ffe30ef4b462669a12a241dbb",
+      "eboot_md5": "5ce63ec486007b21a74af39c5850cfb9"
+    }
+  ],
+  "tags": [
+    "PSP-2000+ only"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/csgo.-7z_202101/CSGO00505_00002.png"
+    ],
+    "icon": "icons/cs_go.png"
+  }
+}

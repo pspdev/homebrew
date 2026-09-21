@@ -1,0 +1,28 @@
+{
+  "name": "YAPM",
+  "id": "yapm",
+  "summary": "Plugin manager for PSP.",
+  "author": "Strangelove",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.60",
+      "url": "https://archive.org/download/yapm-psp.7z/yapm-psp.zip",
+      "published_at": "2011-01-01",
+      "size": 659731,
+      "sha256": "171a522174df5982ed1fc2cad4f356f8d63ca3f2ad05075fa522ed660b96b5c5",
+      "eboot_md5": "8c6f7b955063080fa851fafa4a0033b4"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/yapm-psp.7z/pic_0001.png"
+    ],
+    "icon": "icons/yapm.png"
+  }
+}

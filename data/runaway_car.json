@@ -1,0 +1,28 @@
+{
+  "name": "Runaway Car",
+  "id": "runaway_car",
+  "summary": "3D obstacle-dodging game for PSP.",
+  "author": "frankdrey, 10$man",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/runaway-car.-7z/RunawayCar.zip",
+      "published_at": "2012-09-06",
+      "size": 11233347,
+      "sha256": "f163419d6ae0a0fa31c4da99a76b1aaf1269306ed7efcac6cc38965a121b068e",
+      "eboot_md5": "48268d474a2a389dbd3ca65c764b3462"
+    }
+  ],
+  "tags": [
+    "NEO Retro Coding Compo 2012"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/runaway-car.-7z/RUNA01021_00000.png"
+    ],
+    "icon": "icons/runaway_car.png"
+  }
+}

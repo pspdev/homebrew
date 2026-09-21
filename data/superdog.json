@@ -1,0 +1,26 @@
+{
+  "name": "SuperDog",
+  "id": "superdog",
+  "summary": "Homebrew game for PSP.",
+  "author": "lui2603",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/super-dog-2-improved-.-7z/superdog2_better.zip",
+      "published_at": "2006-03-23",
+      "size": 927756,
+      "sha256": "d950ae853e08daeeac64680c680dc69a1d52591d36c82cb1a4fd5e24f8c080d6",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/super-dog-2-improved-.-7z/LUAP01126_00002.png"
+    ],
+    "icon": "icons/superdog.png"
+  }
+}

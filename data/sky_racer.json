@@ -1,0 +1,28 @@
+{
+  "name": "Sky Racer",
+  "id": "sky_racer",
+  "summary": "Homebrew game for PSP.",
+  "author": "Musky44",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/sky-racer.-7z/sky%20racer.zip",
+      "published_at": "2013-01-01",
+      "size": 1636477,
+      "sha256": "107798241cab61c911e6db29df605c2f60a4082724ebd93fef189f24c951291c",
+      "eboot_md5": "3066ac24b9e6e5238b7123b7d9f96c4d"
+    }
+  ],
+  "tags": [
+    "NEO Retro Coding Compo 2013"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/sky-racer.-7z/SKY%2000900_00000.jpg"
+    ],
+    "icon": "icons/sky_racer.png"
+  }
+}

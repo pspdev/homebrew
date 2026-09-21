@@ -1,0 +1,26 @@
+{
+  "name": "Lua File Manager and Extraction Wizard",
+  "id": "lua_file_manager_and_extraction_wizard",
+  "summary": "Homebrew app for PSP.",
+  "author": "corytheidiot",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/extraction-gui.-7z/ExtractionGUI.zip",
+      "published_at": "2009-01-01",
+      "size": 1041548,
+      "sha256": "282589d9843ef8145e52a233b904a847587a767875a1f408845d9eefdec2a1e9",
+      "eboot_md5": "8e3096356e33d3fbc751e442a1357cb7"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/extraction-gui.-7z/20210611185021.png"
+    ],
+    "icon": "icons/lua_file_manager_and_extraction_wizard.png"
+  }
+}

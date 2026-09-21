@@ -1,0 +1,26 @@
+{
+  "name": "Snes9x Unofficial",
+  "id": "snes9x_unofficial",
+  "summary": "SNES emulator for PSP.",
+  "author": "Yoshihiro",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.2b",
+      "url": "https://archive.org/download/snes-9-x-yoshihiro-optimized.-7z/Snes9X_yoshihiro_optimized.zip",
+      "published_at": "2005-06-02",
+      "size": 1575896,
+      "sha256": "b48b1120a832da039d8c518bb4019ba26fedcd6ae76dbeb3e7b1c556eddeb654",
+      "eboot_md5": "6089baaf008cc8bbe4cd61134df761ec"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/snes-9-x-yoshihiro-optimized.-7z/SNES02715_00000.jpg"
+    ],
+    "icon": "icons/snes9x_unofficial.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "The Way",
+  "id": "the_way",
+  "summary": "Homebrew game for PSP.",
+  "author": "PSPfreak2007",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/the-way.-7z/the_way_v2.zip",
+      "published_at": "2008-01-01",
+      "size": 6425759,
+      "sha256": "6fd02032f5ac29e19385e56e9444a29cd19917f7e57498863993f454da53491d",
+      "eboot_md5": "3a7b33e557f91c87ff840059a2b3fb38"
+    }
+  ],
+  "tags": [
+    "PSPUpdates Summer Homebrew Contest (2008)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/the-way.-7z/THE_00561_00001.jpg"
+    ],
+    "icon": "icons/the_way.png"
+  }
+}

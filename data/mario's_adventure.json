@@ -1,0 +1,26 @@
+{
+  "name": "Mario's Adventure",
+  "id": "mario's_adventure",
+  "summary": "Fan game for PSP.",
+  "author": "D0n, S34mus, Mr_Nick666",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/mario-adventurev-0.1.7z/MarioAdventurev0.1.zip",
+      "published_at": "2006-12-18",
+      "size": 15496782,
+      "sha256": "7f77df50a019079d0cc7fb39a7de98c3c101d675275aa3568c400bc42d4d703d",
+      "eboot_md5": "6ce93c796839a2a5ae90d62f203a0c72"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mario-adventurev-0.1.7z/__SC02077_00000.jpg"
+    ],
+    "icon": "icons/mario's_adventure.png"
+  }
+}

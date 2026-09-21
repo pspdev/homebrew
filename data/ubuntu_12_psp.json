@@ -1,0 +1,26 @@
+{
+  "name": "Ubuntu 12 PSP",
+  "id": "ubuntu_12_psp",
+  "summary": "UI shell for PSP.",
+  "author": "Joel16",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "Alpha 1.9",
+      "url": "https://archive.org/download/ubuntu-12.7z/Ubuntu%2012.zip",
+      "published_at": "2014-03-23",
+      "size": 4820071,
+      "sha256": "4938c18e37b3e33b43a40d3671b27477acc6b16baefce0c9899e3f5c20e5721c",
+      "eboot_md5": "dbfc85f27da3824372ea8865bd240f31"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ubuntu-12.7z/UBUN00774_00000.png"
+    ],
+    "icon": "icons/ubuntu_12_psp.png"
+  }
+}

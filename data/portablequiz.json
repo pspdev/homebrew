@@ -1,0 +1,26 @@
+{
+  "name": "PortableQuiz",
+  "id": "portablequiz",
+  "summary": "Quiz game for PSP.",
+  "author": "Shefqet",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/portable-quiz.-7z/PortableQuiz.zip",
+      "published_at": "2008-01-08",
+      "size": 2478953,
+      "sha256": "eecbf7a4f7847e6c044f7ba26fd383b3c1608d2e7b3ccf53cb35c3602e01cc29",
+      "eboot_md5": "737fdb19c9570b16cc35d92f29fb82cc"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/portable-quiz.-7z/pic_0003.png"
+    ],
+    "icon": "icons/portablequiz.png"
+  }
+}

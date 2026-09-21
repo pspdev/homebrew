@@ -1,0 +1,26 @@
+{
+  "name": "Metroid Planets",
+  "id": "metroid_planets",
+  "summary": "SuperTux mod for PSP.",
+  "author": "NaYoN",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "-2",
+      "url": "https://archive.org/download/metroidv-2.7z/Metroidv-2.zip",
+      "published_at": "2006-01-22",
+      "size": 8302340,
+      "sha256": "8fa190556d84eb777c493459ba65d77212cf3397223905d041c96f3ae8035384",
+      "eboot_md5": "512e9cda0989d8619f9ad4425275005c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/metroidv-2.7z/METR00761_00000.jpg"
+    ],
+    "icon": "icons/metroid_planets.png"
+  }
+}

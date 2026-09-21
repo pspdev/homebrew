@@ -1,0 +1,28 @@
+{
+  "name": "Newton Powered",
+  "id": "newton_powered",
+  "summary": "Homebrew game for PSP.",
+  "author": "mr_haricot",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2a",
+      "url": "https://archive.org/download/newton-powered-v-0.2a-neoflash.-7z/Newton%20Powered%20v0.2a%20Neoflash.zip",
+      "published_at": "2008-01-01",
+      "size": 1857062,
+      "sha256": "9446813e1afbcd6da3bcd8041776c7445055b38e8ea0d72a1469d661b72c78e1",
+      "eboot_md5": "f97f74bf2dfd121aa905b8181d72b252"
+    }
+  ],
+  "tags": [
+    "NEO 2008 Summer Compo"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/newton-powered-v-0.2a-neoflash.-7z/NEWT02632_00001.png"
+    ],
+    "icon": "icons/newton_powered.png"
+  }
+}

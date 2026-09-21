@@ -1,0 +1,26 @@
+{
+  "name": "LUASudoku",
+  "id": "luasudoku",
+  "summary": "PSP version of Sudoku.",
+  "author": "arobase",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/ftsudoku.-7z/sudoku.zip",
+      "published_at": "2006-07-23",
+      "size": 983150,
+      "sha256": "ff2ef579de7a611de179083c3d276e38bda0505379567dde036679df9b31cd0a",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ftsudoku.-7z/20210607052130.png"
+    ],
+    "icon": "icons/luasudoku.png"
+  }
+}

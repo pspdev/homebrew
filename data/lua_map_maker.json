@@ -1,0 +1,26 @@
+{
+  "name": "Lua Map Maker",
+  "id": "lua_map_maker",
+  "summary": "Homebrew app for PSP.",
+  "author": "Merick",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.9",
+      "url": "https://archive.org/download/lu-mmv-0.9.7z/LuMMv0.9.zip",
+      "published_at": "2007-03-24",
+      "size": 1679120,
+      "sha256": "7f7f6b49ca15f03ebc895a5bb71b352e8975006bfde6fd1c4ca2c45130238c0f",
+      "eboot_md5": "40b9d2b2154dd0bf66d12a80520c81a3"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lu-mmv-0.9.7z/LUMM00616_00000.png"
+    ],
+    "icon": "icons/lua_map_maker.png"
+  }
+}

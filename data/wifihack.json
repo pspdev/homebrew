@@ -1,0 +1,28 @@
+{
+  "name": "WifiHack",
+  "id": "wifihack",
+  "summary": "Homebrew app for PSP.",
+  "author": "m.rr",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.1",
+      "url": "https://archive.org/download/wifihack.-7z/Wifihack.zip",
+      "published_at": "2012-01-01",
+      "size": 739790,
+      "sha256": "19e4d448c312e1ef24ee8e0a9606a074c59520b07e937457d165143e092d86fa",
+      "eboot_md5": "d7fa5ed9068b0e131dd9eaa75ecb6ecb"
+    }
+  ],
+  "tags": [
+    "NEO Retro Coding Compo 2012"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/wifihack.-7z/20210528225602.png"
+    ],
+    "icon": "icons/wifihack.png"
+  }
+}

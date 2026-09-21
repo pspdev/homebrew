@@ -1,0 +1,26 @@
+{
+  "name": "Siren Head Dating Sim",
+  "id": "siren_head_dating_sim",
+  "summary": "Homebrew game for PSP.",
+  "author": "Sergo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/siren-head-dating-sim-1.0-psp.-7z/SirenHeadDatingSim-1.0-PSP.zip",
+      "published_at": "2020-05-24",
+      "size": 3329888,
+      "sha256": "fa0d19295daf2c90929a06fc8901ec311ea6d7261ae47da02b66ba9ecf39c9c1",
+      "eboot_md5": "75b630a3908c7162cb70598e0bd1827b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/siren-head-dating-sim-1.0-psp.-7z/SIRE02255_00000.jpg"
+    ],
+    "icon": "icons/siren_head_dating_sim.png"
+  }
+}

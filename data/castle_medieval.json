@@ -1,0 +1,28 @@
+{
+  "name": "Castle Medieval",
+  "id": "castle_medieval",
+  "summary": "Homebrew game for PSP.",
+  "author": "random_code",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/castle_medieval1.1.7z/castle_medieval1.1.zip",
+      "published_at": "2010-09-12",
+      "size": 5757879,
+      "sha256": "e2645fb934a91c7be29f86da578b98d701904e78acc76472dffedb797b57dd60",
+      "eboot_md5": "9fe86f1efbf8be08ebbd5bc30e7cdd10"
+    }
+  ],
+  "tags": [
+    "Homebrew Idol 3 (2010)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/castle_medieval1.1.7z/CAST01714_00000.png"
+    ],
+    "icon": "icons/castle_medieval.png"
+  }
+}

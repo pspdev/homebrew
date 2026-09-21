@@ -1,0 +1,26 @@
+{
+  "name": "Epic Sathe",
+  "id": "epic_sathe",
+  "summary": "Stick figure fighter game.",
+  "author": "V@ughn",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.51",
+      "url": "https://archive.org/download/epic-sathe.-7z/Epic%20Sathe.zip",
+      "published_at": "2012-04-05",
+      "size": 13454150,
+      "sha256": "9e83eddbd33ed06c2af333a6a455f0722475317ec41ee381295de4514748408d",
+      "eboot_md5": "9f7d3678ca80ca2b441a136d2c67610f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/epic-sathe.-7z/EPIC00918_00002.png"
+    ],
+    "icon": "icons/epic_sathe.png"
+  }
+}

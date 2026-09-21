@@ -1,0 +1,26 @@
+{
+  "name": "Sennin Game [\u4ed9\u4eba\u30b2\u30fc\u30e0]",
+  "id": "sennin_game_[\u4ed9\u4eba\u30b2\u30fc\u30e0]",
+  "summary": "Dodging game for PSP.",
+  "author": "MAGiC TOUCH",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.02",
+      "url": "https://archive.org/download/senninv002.7z/senninv002.zip",
+      "published_at": "2005-07-02",
+      "size": 5616010,
+      "sha256": "882078572f5b965c85b035cd4d65d25c6848505ebd3f66798b81ed8ce762ac63",
+      "eboot_md5": "106a1ec5c6b17b4c54f749b40bb3735b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/senninv002.7z/SENN00915_00000.jpg"
+    ],
+    "icon": "icons/sennin_game_[\u4ed9\u4eba\u30b2\u30fc\u30e0].png"
+  }
+}

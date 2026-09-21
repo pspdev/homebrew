@@ -1,0 +1,26 @@
+{
+  "name": "AbstractOS",
+  "id": "abstractos",
+  "summary": "UI shell for PSP.",
+  "author": "Team Esp",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "Alpha 0.1",
+      "url": "https://archive.org/download/abstract-os-v-alpha-0.1.7z/AbstractOS_vAlpha0.1.zip",
+      "published_at": "2012-05-27",
+      "size": 4568311,
+      "sha256": "25ae895ff14979aa8f38d1203ffb40fa9b209beb9264939900e55b2d96a1f164",
+      "eboot_md5": "e5512183084481234a2834a16092317f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/abstract-os-v-alpha-0.1.7z/ABST00982_00000.png"
+    ],
+    "icon": "icons/abstractos.png"
+  }
+}

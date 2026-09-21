@@ -1,0 +1,26 @@
+{
+  "name": "Abombniball",
+  "id": "abombniball",
+  "summary": "Puzzle game for PSP.",
+  "author": "freakdave",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/abombniballpspv2.7z/abombniballpspv2.zip",
+      "published_at": "2006-04-13",
+      "size": 530994,
+      "sha256": "b6aad0e5874e146f07c16ae9f3928d780113c148110248c12f3a8a8e87dd3ddc",
+      "eboot_md5": "7005775510b9181e5312e0a8cb521135"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/abombniballpspv2.7z/ABOM01646_00000.png"
+    ],
+    "icon": "icons/abombniball.png"
+  }
+}

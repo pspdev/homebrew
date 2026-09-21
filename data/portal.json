@@ -1,0 +1,26 @@
+{
+  "name": "Portal",
+  "id": "portal",
+  "summary": "Homebrew recreation of Portal, the Valve game.",
+  "author": "Valera Kirpich (VG Quake)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.7.1",
+      "url": "https://archive.org/download/portal-0.5/portal%200.71.zip",
+      "published_at": "2020-01-01",
+      "size": 64494737,
+      "sha256": "00fc1869d76401c1748740a5e8062a5a9b79c6753c4dda86146394d6a806db7c",
+      "eboot_md5": "930851963981082236b4c12643a186e4"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/portal-0.5/PORT00805_00000.png"
+    ],
+    "icon": "icons/portal.png"
+  }
+}

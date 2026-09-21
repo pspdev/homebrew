@@ -1,0 +1,26 @@
+{
+  "name": "PSP Memo Recorder",
+  "id": "psp_memo_recorder",
+  "summary": "Homebrew app for PSP.",
+  "author": "lteixeira",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.7",
+      "url": "https://archive.org/download/eboo-00649-00000_20210218/PSP_Memo_Recorder_v0.7.zip",
+      "published_at": "2006-09-07",
+      "size": 65048,
+      "sha256": "ddc8dfe76ec6a3699959bcf08cca1571e9c6aa2ed22cce5add7a027d2cfe5ba1",
+      "eboot_md5": "e31b37858ad9967a30b1f57df0ddf920"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/eboo-00649-00000_20210218/EBOO00649_00000.jpg"
+    ],
+    "icon": "icons/psp_memo_recorder.png"
+  }
+}

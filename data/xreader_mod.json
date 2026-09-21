@@ -1,0 +1,26 @@
+{
+  "name": "xReader Mod",
+  "id": "xreader_mod",
+  "summary": "Homebrew app for PSP.",
+  "author": "Suloku",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.3.0 1528",
+      "url": "https://archive.org/download/xReader_1.3.0_1528_sulokuMOD2.7z/xReader_1.3.0_1528_sulokuMOD2.zip",
+      "published_at": "2012-09-12",
+      "size": 3635861,
+      "sha256": "d5e3b69f6264fd740ba72b8b7583720953a03865d10c453fb7080ea19b4bccaf",
+      "eboot_md5": "cfb2e0e91e587c8bbabce9192d6dc422"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/xReader_1.3.0_1528_sulokuMOD2.7z/20210726052953.png"
+    ],
+    "icon": "icons/xreader_mod.png"
+  }
+}

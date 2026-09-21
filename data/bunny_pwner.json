@@ -1,0 +1,26 @@
+{
+  "name": "Bunny Pwner",
+  "id": "bunny_pwner",
+  "summary": "Homebrew game for PSP.",
+  "author": "Legacyxero",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/bunnypwner.7z/bunnypwner.zip",
+      "published_at": "2006-01-01",
+      "size": 1567759,
+      "sha256": "6121d40b8696b8482b4ea573572f538ac7a64818eb1ec3ea510c5d815b6038f5",
+      "eboot_md5": "25798a79d873380f2a3c131c864ad258"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/bunnypwner.7z/pic_0001.png"
+    ],
+    "icon": "icons/bunny_pwner.png"
+  }
+}

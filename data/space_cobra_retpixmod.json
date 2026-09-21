@@ -1,0 +1,26 @@
+{
+  "name": "Space Cobra RetPixMod",
+  "id": "space_cobra_retpixmod",
+  "summary": "2D pixelart platformer action game about Space pirate Cobra (manga/anime - Buichi Terasawa/Osamu Dezaki, 1982).",
+  "author": "MisterPix",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "3.2",
+      "url": "https://archive.org/download/space-cobra-v-3.2-psp-29.05.2022/SpaceCobra_v3.2_PSP_29.05.2022.zip",
+      "published_at": "2022-05-29",
+      "size": 40462027,
+      "sha256": "a5bde448fa991e840c0fe95304face1f16f04f182a2d7fc5100f08d247d3a014",
+      "eboot_md5": "4b94acdb203e0753c0fe1bf243039b5a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/space-cobra-v-3.2-psp-29.05.2022/SPAC02270_00000.png"
+    ],
+    "icon": "icons/space_cobra_retpixmod.png"
+  }
+}

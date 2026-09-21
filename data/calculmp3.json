@@ -1,0 +1,26 @@
+{
+  "name": "CalculMp3",
+  "id": "calculmp3",
+  "summary": "Calculator app for PSP.",
+  "author": "Mrafenne",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "3",
+      "url": "https://archive.org/download/calculmp-3-v-2.0.7z/Old%20Versions/calculmp3%20v2.0.zip",
+      "published_at": "2009-01-01",
+      "size": 1421384,
+      "sha256": "9e0ce7ebf55670fed38ea8aefae7e11799a0b02ec0e6b7b523d2eb960a2dc2b1",
+      "eboot_md5": "f15e8cd14ff02b0ffd8048a45091d340"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/calculmp-3-v-2.0.7z/CALC01085_00002.jpg"
+    ],
+    "icon": "icons/calculmp3.png"
+  }
+}

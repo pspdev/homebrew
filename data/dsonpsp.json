@@ -1,0 +1,26 @@
+{
+  "name": "DSONPSP",
+  "id": "dsonpsp",
+  "summary": "Nintendo DS emulator for PSP.",
+  "author": "yoshihiro",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "Beta 7",
+      "url": "https://archive.org/download/dsonpsp-beta-7-wip.-7z/DSONPSP%20Beta%207%20WIP.zip",
+      "published_at": "2009-09-14",
+      "size": 246158,
+      "sha256": "5e9ab47990404dbe9f35dd4f910b1d8c60803ab017280f15a69fba5bcbe9bab9",
+      "eboot_md5": "efc85654029ee247b8ad7893d9b01fa2"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/dsonpsp-beta-7-wip.-7z/pic_0000.png"
+    ],
+    "icon": "icons/dsonpsp.png"
+  }
+}

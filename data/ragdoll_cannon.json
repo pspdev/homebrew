@@ -1,0 +1,28 @@
+{
+  "name": "Ragdoll Cannon",
+  "id": "ragdoll_cannon",
+  "summary": "Homebrew game for PSP. Won first place at the NEO Spring Coding Competition 2009.",
+  "author": "walar",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.11",
+      "url": "https://archive.org/download/ragdoll-cannon.-7z/Ragdoll%20Cannon.zip",
+      "published_at": "2009-03-20",
+      "size": 2939004,
+      "sha256": "52860a7d86d43e7ac691b2558018fa1a8780347340c53b6fcf72d108d4d58b3a",
+      "eboot_md5": "2b49447df6845f6e300d3b424f5c0dad"
+    }
+  ],
+  "tags": [
+    "NEO Spring Coding Compo 2009"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ragdoll-cannon.-7z/pic_0012.png"
+    ],
+    "icon": "icons/ragdoll_cannon.png"
+  }
+}

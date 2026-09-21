@@ -1,0 +1,26 @@
+{
+  "name": "PX68K for PSP",
+  "id": "px68k_for_psp",
+  "summary": "SHARP X68000 emulator for PSP.",
+  "author": "hissorii",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.10",
+      "url": "https://archive.org/download/px-68-k-for-psp-ver-0.10.7z/PX68K%20for%20PSP%20Ver0.10.zip",
+      "published_at": "2014-07-09",
+      "size": 2276680,
+      "sha256": "8ef91432f21b862cb075dc63a61e9e4f5c5246743ae4cca084154e421c6f4477",
+      "eboot_md5": "c7e8ccd38a5b0f3327d2fd20d38fa247"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/px-68-k-for-psp-ver-0.10.7z/PX6800353_00000.jpg"
+    ],
+    "icon": "icons/px68k_for_psp.png"
+  }
+}

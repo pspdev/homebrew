@@ -1,0 +1,26 @@
+{
+  "name": "PSXReality.net Memory Stick Tester",
+  "id": "psxreality.net_memory_stick_tester",
+  "summary": "Memory Stick speed test app.",
+  "author": "mavy",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/psxrmstester-v-1.7z/PSXRMSTester_V1.zip",
+      "published_at": "2007-01-01",
+      "size": 485414,
+      "sha256": "f6e543029696e4205d64fc895def3e4ddc00db92ff14d0c463f7be4499bf27e9",
+      "eboot_md5": "2f8376f361752640269bf52a57325bd1"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psxrmstester-v-1.7z/PSXR01124_00000.jpg"
+    ],
+    "icon": "icons/psxreality.net_memory_stick_tester.png"
+  }
+}

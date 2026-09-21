@@ -1,0 +1,26 @@
+{
+  "name": "PSP2PC",
+  "id": "psp2pc",
+  "summary": "Homebrew app for PSP.",
+  "author": "sanguinus",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.3-B",
+      "url": "https://archive.org/download/pc-2-psp-rc-1.7z/PC2PSP-RC-1.zip",
+      "published_at": "2007-01-26",
+      "size": 2454782,
+      "sha256": "0276d9b00a9183258737ca1b4e8aefa43b87404ab6afeeee17b991d5a031f3d1",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pc-2-psp-rc-1.7z/20210723055224.png"
+    ],
+    "icon": "icons/psp2pc.png"
+  }
+}

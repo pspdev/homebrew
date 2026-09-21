@@ -1,0 +1,26 @@
+{
+  "name": "Claxor",
+  "id": "claxor",
+  "summary": "Homebrew game for PSP.",
+  "author": "Freshmilk",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/claxor.-7z/Claxor.zip",
+      "published_at": "2007-01-01",
+      "size": 2105732,
+      "sha256": "cf87523bf62c5944b4d98e7169568a5a62c6fb66ec020de6c075bbac0c14f374",
+      "eboot_md5": "348b108747a4b277092cba457af6031a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/claxor.-7z/pic_0002.png"
+    ],
+    "icon": "icons/claxor.png"
+  }
+}

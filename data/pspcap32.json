@@ -1,0 +1,26 @@
+{
+  "name": "PSPCAP32",
+  "id": "pspcap32",
+  "summary": "Amstrad CPC Emulator for PSP.",
+  "author": "Ludovic Jacomme (Zx-81)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.5.1",
+      "url": "https://archive.org/download/pspcap32.7z/pspcap32.zip",
+      "published_at": "2009-08-21",
+      "size": 2443394,
+      "sha256": "fbe6a9da0d5174bdb3ea1a723302a9ecaa32de3a0d20fbf2fcd030ef99b56164",
+      "eboot_md5": "18d07be07fd7d098f9d239f8bb38b5ed"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspcap32.7z/PSPC00748_00000.jpg"
+    ],
+    "icon": "icons/pspcap32.png"
+  }
+}

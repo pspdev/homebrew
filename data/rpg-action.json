@@ -1,0 +1,26 @@
+{
+  "name": "RPG-Action",
+  "id": "rpg-action",
+  "summary": "Homebrew game for PSP.",
+  "author": "Casaproduction",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.03",
+      "url": "https://archive.org/download/rpg-0.03.7z/RPG_0.03.zip",
+      "published_at": "2007-11-04",
+      "size": 5436747,
+      "sha256": "850427c4946daa003a667460765b599b823335631099f26f3ae60b035a83e4de",
+      "eboot_md5": "3c62d4946250a334c64c80620e3b6698"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/rpg-0.03.7z/RPG_00521_00000.jpg"
+    ],
+    "icon": "icons/rpg-action.png"
+  }
+}

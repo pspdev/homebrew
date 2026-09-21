@@ -1,0 +1,26 @@
+{
+  "name": "ToneMatrix",
+  "id": "tonematrix",
+  "summary": "Drum machine for PSP.",
+  "author": "Babkock",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.93",
+      "url": "https://archive.org/download/tonematrix-0.72.7z/ToneMatrix-0.93.zip",
+      "published_at": "2022-12-10",
+      "size": 608326,
+      "sha256": "bb4279f5f54d98f5c92f3a194afdf545b422573764daaec9fb78f4ec4e192e11",
+      "eboot_md5": "4a4c55218f5198914577202e201f16f4"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/tonematrix-0.72.7z/TONE01282_00001.png"
+    ],
+    "icon": "icons/tonematrix.png"
+  }
+}

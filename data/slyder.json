@@ -1,0 +1,26 @@
+{
+  "name": "Slyder",
+  "id": "slyder",
+  "summary": "Puzzle game for PSP.",
+  "author": "Soulless",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.0.1a",
+      "url": "https://archive.org/download/slyder-0.01a.-7z/Slyder_0.01a.zip",
+      "published_at": "2008-07-21",
+      "size": 995119,
+      "sha256": "2825600bdbbdf16a63ea40c0ae33e333e0e048bd46802ed88b53f48baaa75f45",
+      "eboot_md5": "dc932e1aa2470c11bd7aa4f2ad9a3769"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/slyder-0.01a.-7z/SLYD01010_00000.jpg"
+    ],
+    "icon": "icons/slyder.png"
+  }
+}

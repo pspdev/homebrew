@@ -1,0 +1,26 @@
+{
+  "name": "The World's Hardest Game",
+  "id": "the_world's_hardest_game",
+  "summary": "PSP version of the Flash game.",
+  "author": "Chocodino",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/worlds-hardest-game.-7z/World%27s%20Hardest%20Game.zip",
+      "published_at": "2010-01-01",
+      "size": 610544,
+      "sha256": "cc8b691ab2a997baaa08be10a8507eec1b4d778c3fb9fb7abd3a985de9ec877f",
+      "eboot_md5": "8328a7471984231bd075d1038bdbb9f9"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/worlds-hardest-game.-7z/WORL01831_00000.jpg"
+    ],
+    "icon": "icons/the_world's_hardest_game.png"
+  }
+}

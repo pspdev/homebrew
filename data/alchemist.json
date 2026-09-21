@@ -1,0 +1,26 @@
+{
+  "name": "Alchemist",
+  "id": "alchemist",
+  "summary": "Homebrew game for PSP.",
+  "author": "ade.se",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/alchemist.-7z/Alchemist.zip",
+      "published_at": "2006-01-01",
+      "size": 1227476,
+      "sha256": "932728840fc596deb95425696f6798cb4d36cf9c767b936d611c8d8b955e1f17",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/alchemist.-7z/20220113143815.png"
+    ],
+    "icon": "icons/alchemist.png"
+  }
+}

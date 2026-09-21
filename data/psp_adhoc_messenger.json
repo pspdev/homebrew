@@ -1,0 +1,28 @@
+{
+  "name": "PSP Adhoc Messenger",
+  "id": "psp_adhoc_messenger",
+  "summary": "Homebrew app for PSP.",
+  "author": "Mickael2054",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.5",
+      "url": "https://archive.org/download/pspadhoc-messenger.-7z/PSPAdhocMessenger.zip",
+      "published_at": "2009-01-01",
+      "size": 1433917,
+      "sha256": "fefba90f2193322732c7e76effe2be9375c00d6e639198a989467a53c9a3b50c",
+      "eboot_md5": "e326eb5673632705e170677525f08c0e"
+    }
+  ],
+  "tags": [
+    "ad-hoc support"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspadhoc-messenger.-7z/20210718192422.png"
+    ],
+    "icon": "icons/psp_adhoc_messenger.png"
+  }
+}

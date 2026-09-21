@@ -1,0 +1,26 @@
+{
+  "name": "Luanux",
+  "id": "luanux",
+  "summary": "UI shell for PSP.",
+  "author": "TacticalPenguin",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "Alpha R2",
+      "url": "https://archive.org/download/luanux.-7z/Luanux.zip",
+      "published_at": "2006-01-07",
+      "size": 686387,
+      "sha256": "eb26b2b327c66d7960dac1e8144ffdc4be3ca3d4c9414daf3b2a579661bf5194",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/luanux.-7z/LUAP01126_00000.png"
+    ],
+    "icon": "icons/luanux.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PSP Pacman",
+  "id": "psp_pacman",
+  "summary": "Version of PacMan.",
+  "author": "James Peerless",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.3",
+      "url": "https://archive.org/download/1.0-h-00143-00000/Pacman10.zip",
+      "published_at": "2005-08-06",
+      "size": 4137304,
+      "sha256": "ed1a08bf8a4f1be10b9e00aa56c46aa06d18404093e10d1aa619b4f17d5625f8",
+      "eboot_md5": "d0b284ee44bfe2f3a29e61638ec206e0"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/1.0-h-00143-00000/20211229235616.png"
+    ],
+    "icon": "icons/psp_pacman.png"
+  }
+}

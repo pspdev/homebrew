@@ -1,0 +1,26 @@
+{
+  "name": "Saving Ichigo: Brawler",
+  "id": "saving_ichigo_brawler",
+  "summary": "Homebrew game for PSP.",
+  "author": "Rukia",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/brawler.-7z/SavingIchigo.zip",
+      "published_at": "2007-07-07",
+      "size": 5068973,
+      "sha256": "35cef75a4d19676124eecb7345a407e13324359f309952f88767ca845d04f693",
+      "eboot_md5": "e0adc533c92554d465c17da8f8827bce"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/brawler.-7z/pic_0002.png"
+    ],
+    "icon": "icons/saving_ichigo_brawler.png"
+  }
+}

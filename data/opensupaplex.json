@@ -1,0 +1,26 @@
+{
+  "name": "OpenSupaplex",
+  "id": "opensupaplex",
+  "summary": "Open-source version of the original game.",
+  "author": "Sergio Padrino",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "7.1.2",
+      "url": "https://archive.org/download/open-supaplex.-7z/OpenSupaplex.zip",
+      "published_at": "2020-08-21",
+      "size": 12140747,
+      "sha256": "5ab440021f48e43054f42b5162dc87495be66be856e41d0942ddcd9d46957dda",
+      "eboot_md5": "1e04f098e40a24eb402730c5a966c238"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/open-supaplex.-7z/OPEN01252_00000.jpg"
+    ],
+    "icon": "icons/opensupaplex.png"
+  }
+}

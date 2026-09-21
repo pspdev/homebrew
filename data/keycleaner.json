@@ -1,0 +1,26 @@
+{
+  "name": "KeyCleaner",
+  "id": "keycleaner",
+  "summary": "IdStorage key analyzer for PSP.",
+  "author": "Chilly Willy",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.4",
+      "url": "https://archive.org/download/key-cleanerv-1.4.7z/KeyCleanerv1.4.zip",
+      "published_at": "2007-09-16",
+      "size": 807760,
+      "sha256": "92d9a925a9efe091fd3c7203005d3a2a7bf202a0f0f767c3c979d5aa3f9a5e5f",
+      "eboot_md5": "3ac906002265e26aaff3e9f6653bfc51"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/key-cleanerv-1.4.7z/pic_0002.png"
+    ],
+    "icon": "icons/keycleaner.png"
+  }
+}

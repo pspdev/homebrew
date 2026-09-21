@@ -1,0 +1,26 @@
+{
+  "name": "PS1P",
+  "id": "ps1p",
+  "summary": "PlayStation 1 emulator for PSP. Requires a BIOS to work.",
+  "author": "Anonymous Coder",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "Alpha 1",
+      "url": "https://archive.org/download/ps1p_alpha1.7z/ps1p_alpha1.zip",
+      "published_at": "2006-11-26",
+      "size": 343619,
+      "sha256": "17439cc6446844c277d5092431f90965e2b86870f8e5bdb4ab0bde541b5bc1f1",
+      "eboot_md5": "cf1c6eea7f44da56c42342929933d209"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ps1p_alpha1.7z/snap.png"
+    ],
+    "icon": "icons/ps1p.png"
+  }
+}

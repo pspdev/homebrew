@@ -1,0 +1,26 @@
+{
+  "name": "TJAPlayer",
+  "id": "tjaplayer",
+  "summary": "Fan-made version of Taiko no Tatsujin. To play the game, put .tja files in the tja/ directory.",
+  "author": "okiater",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.31b",
+      "url": "https://archive.org/download/tjaplayer.-7z_202104/TJAPlayer.zip",
+      "published_at": "2010-09-30",
+      "size": 8875509,
+      "sha256": "5013e5e62fa71a815d7c2424bfdff701753662c70a388d65520b22b9af2ecc1b",
+      "eboot_md5": "2c8c1f1d62d3991eaf9977d273255132"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/tjaplayer.-7z_202104/TJAP00844_00000.jpg"
+    ],
+    "icon": "icons/tjaplayer.png"
+  }
+}

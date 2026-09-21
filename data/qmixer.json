@@ -1,0 +1,26 @@
+{
+  "name": "QMixer",
+  "id": "qmixer",
+  "summary": "Music-mixing app for PSP.",
+  "author": "Qarl, Soulless",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/qmixerv-12.7z/QMixerv12.zip",
+      "published_at": "2010-01-15",
+      "size": 4585238,
+      "sha256": "6d527ff6cbcc9a8231819f5a35d3bdbbe06096c9bcf9b3b19d95e4bdfb1e2382",
+      "eboot_md5": "59c220dc96b5f09f851e4a4c1e173de8"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/qmixerv-12.7z/QMIX00815_00000.jpg"
+    ],
+    "icon": "icons/qmixer.png"
+  }
+}

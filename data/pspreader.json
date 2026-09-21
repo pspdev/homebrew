@@ -1,0 +1,26 @@
+{
+  "name": "PSPReader",
+  "id": "pspreader",
+  "summary": "Document reading app for PSP.",
+  "author": "Yu-Ju Lin",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.1.2",
+      "url": "https://archive.org/download/pspreader-112.7z/PSPReader112.zip",
+      "published_at": "2005-08-18",
+      "size": 946597,
+      "sha256": "a2c42d7aa2e1ddb3327961ba2076f3f81a9558c5be4ea7ed043fd7eac4028eb5",
+      "eboot_md5": "64604f8e42b322340c5c6c6b2a7dfbcf"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspreader-112.7z/PSPR00986_00000.jpg"
+    ],
+    "icon": "icons/pspreader.png"
+  }
+}

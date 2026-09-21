@@ -1,0 +1,26 @@
+{
+  "name": "SnakeSP",
+  "id": "snakesp",
+  "summary": "Homebrew game for PSP.",
+  "author": "MrMr[iCE]",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "7.1",
+      "url": "https://archive.org/download/snake.7z/snakeSP71.zip",
+      "published_at": "2007-01-10",
+      "size": 8702814,
+      "sha256": "a4ce76ef7ecd3c46530a59f8f64ca8e98abf309b7d94464ffa055cacfc504f9c",
+      "eboot_md5": "6ba8b4bde0cbb71477d10d4c80e71ac2"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/snake.7z/__SC01129_00000.png"
+    ],
+    "icon": "icons/snakesp.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Hide Your Folders",
+  "id": "hide_your_folders",
+  "summary": "Utility to hide folders on a PSP.",
+  "author": "Punker69",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/hide-your-folders.-7z/Hide%20Your%20Folders.zip",
+      "published_at": "2011-05-23",
+      "size": 803621,
+      "sha256": "fa31ad6f835f41b4b6c677fb5d6dd441e95a2ce9f4ed83ae9bad5f40852a0ab1",
+      "eboot_md5": "399dbd67444f6e5498a8c04941126002"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/hide-your-folders.-7z/HIDE01592_00001.jpg"
+    ],
+    "icon": "icons/hide_your_folders.png"
+  }
+}

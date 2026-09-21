@@ -1,0 +1,26 @@
+{
+  "name": "Flat Paintball",
+  "id": "flat_paintball",
+  "summary": "Homebrew game for PSP.",
+  "author": "Dman49",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/flat-paintball-v-1.0-unsigned.-7z/Flat%20Paintball%20v1.0%20%28unsigned%29.zip",
+      "published_at": "2011-08-09",
+      "size": 2492758,
+      "sha256": "e4528f66c6928409959cb2f421d5fc27d6fde55aeed4130f510ba31e84abc628",
+      "eboot_md5": "7a8d4d80db958ab67643ea3a6d079f49"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/flat-paintball-v-1.0-unsigned.-7z/EBOO00649_00000.png"
+    ],
+    "icon": "icons/flat_paintball.png"
+  }
+}

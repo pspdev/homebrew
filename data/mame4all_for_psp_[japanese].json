@@ -1,0 +1,26 @@
+{
+  "name": "MAME4ALL for PSP [Japanese]",
+  "id": "mame4all_for_psp_[japanese]",
+  "summary": "Arcade emulator for PSP. Alternative name: Virtual Console Arcade. The romset seems to be based on MAME version 0.36 beta 1. A partial .dat file is included.",
+  "author": "mameforpsp (681\u6c0f)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "4.9 R2",
+      "url": "https://archive.org/download/mame-4-all-v-4.9r-2-jp.-7z/mameforpsp_jp.zip",
+      "published_at": "2011-08-10",
+      "size": 2867736,
+      "sha256": "b1765bfbf47464ed6d1e434241fa25b50830d59a70b345b6d8e42c8d9f02c629",
+      "eboot_md5": "9c061de8e444730d6e6af24a5849587a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mame-4-all-v-4.9r-2-jp.-7z/MAME01395_00001.jpg"
+    ],
+    "icon": "icons/mame4all_for_psp_[japanese].png"
+  }
+}

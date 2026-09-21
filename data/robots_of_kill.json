@@ -1,0 +1,28 @@
+{
+  "name": "Robots of Kill",
+  "id": "robots_of_kill",
+  "summary": "Homebrew game for PSP.",
+  "author": "Jyri Luukkonen, Jukka Rajaniemi, Oskari Raunio, Ville Helin",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.6",
+      "url": "https://archive.org/download/robotsOfKill-PSP_0.6.7z/robotsOfKill-PSP_0.6.zip",
+      "published_at": "2007-07-07",
+      "size": 9728723,
+      "sha256": "91d8431da2e65014825a3190f59e4fa55fbe2ade0f3a6fe219b539f0cff8dba3",
+      "eboot_md5": "4706aea00cbe28dd37420f8baa4d1976"
+    }
+  ],
+  "tags": [
+    "GBAX 2007 Coding Competition"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/robotsOfKill-PSP_0.6.7z/ROBO01773_00003.png"
+    ],
+    "icon": "icons/robots_of_kill.png"
+  }
+}

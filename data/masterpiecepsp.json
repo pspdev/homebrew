@@ -1,0 +1,26 @@
+{
+  "name": "MasterPiecePSP",
+  "id": "masterpiecepsp",
+  "summary": "Homebrew game for PSP.",
+  "author": "LostSideDead",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/mpsp.-7z/MPSP.zip",
+      "published_at": "2006-01-16",
+      "size": 3764091,
+      "sha256": "5f5cd4eb1c64b50aba504f06dd295e4b1b6b31da70dee96ddda6de5f0092a04a",
+      "eboot_md5": "1a5e8a8921efc3e126af95765e5acd37"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mpsp.-7z/20210725023807.png"
+    ],
+    "icon": "icons/masterpiecepsp.png"
+  }
+}

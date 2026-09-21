@@ -1,0 +1,26 @@
+{
+  "name": "MinerPSP",
+  "id": "minerpsp",
+  "summary": "Homebrew game based on Miner VGA, released into the public domain by Harrel W. Stiles in 1989.",
+  "author": "Justin Sharrad",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/mine-00940-00000/MinerPSP-1.2.zip",
+      "published_at": "2006-12-22",
+      "size": 637221,
+      "sha256": "91a8d63f6f0cf487850ca008e5830bf43488120aefbd38dc934615b69448462b",
+      "eboot_md5": "5436e8ba3aa633cfc7f0fdf897cf6025"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mine-00940-00000/MINE00940_00001.png"
+    ],
+    "icon": "icons/minerpsp.png"
+  }
+}

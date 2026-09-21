@@ -1,0 +1,26 @@
+{
+  "name": "Held vs Gegner 2",
+  "id": "held_vs_gegner_2",
+  "summary": "Homebrew game for PSP.",
+  "author": "Martin Ludwig",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.5",
+      "url": "https://archive.org/download/hvsg2.5/hvsg2.5.zip",
+      "published_at": "2012-01-01",
+      "size": 1646545,
+      "sha256": "8ca0b4ac342357b0a23030bdb1b46e7ce8de6d56035932723d55b0c750bb0bde",
+      "eboot_md5": "2aee165df58f94ac7476d5cfbb7c42de"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/hvsg2.5/HVSG00589_00001.png"
+    ],
+    "icon": "icons/held_vs_gegner_2.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Solitaire",
+  "id": "solitaire",
+  "summary": "Card game for PSP.",
+  "author": "Me33",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.00",
+      "url": "https://archive.org/download/solitaire.-7z_202104/Solitaire.zip",
+      "published_at": "2005-06-27",
+      "size": 416533,
+      "sha256": "5cc8b221058290e650d779987afcaa4853cd808f9af65a62c9864b9a1519058d",
+      "eboot_md5": "2b1facb70c21126208e05b27fa5ab0f0"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/solitaire.-7z_202104/SOLI00940_00000.jpg"
+    ],
+    "icon": "icons/solitaire.png"
+  }
+}

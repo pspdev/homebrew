@@ -1,0 +1,26 @@
+{
+  "name": "PSPGenesis",
+  "id": "pspgenesis",
+  "summary": "Sega Genesis (Megadrive) emulator for PSP.",
+  "author": "Sougen",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.18c",
+      "url": "https://archive.org/download/pspgenesis.-7z/PSPGenesis-PochiStyle.zip",
+      "published_at": "2005-07-30",
+      "size": 451170,
+      "sha256": "2720bc291fb68be31e5ca99aaa8fe0389acb69c324965f6592f0e7dbb945d192",
+      "eboot_md5": "b386f7fffe1858f7cb66838c437b1f4e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspgenesis.-7z/PSPG02034_00000.jpg"
+    ],
+    "icon": "icons/pspgenesis.png"
+  }
+}

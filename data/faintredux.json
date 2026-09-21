@@ -1,0 +1,28 @@
+{
+  "name": "faintRedux",
+  "id": "faintredux",
+  "summary": "Homebrew MMORPG for PSP.",
+  "author": "Team Meow (Slippy)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Rev C",
+      "url": "https://archive.org/download/faintReduxRevC.7z/faintReduxRevC.zip",
+      "published_at": "2009-01-01",
+      "size": 1245455,
+      "sha256": "3fce34573c37a6c62b9c05ab3afaf440d15624d54230ad5b9ba41be253ffd9de",
+      "eboot_md5": "0486c5451f717356c8d4fcfa700ba69d"
+    }
+  ],
+  "tags": [
+    "Homebrew Idol 2 (2009)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/faintReduxRevC.7z/FAIN01418_00000.jpg"
+    ],
+    "icon": "icons/faintredux.png"
+  }
+}

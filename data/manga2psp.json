@@ -1,0 +1,28 @@
+{
+  "name": "Manga2PSP",
+  "id": "manga2psp",
+  "summary": "Manga / comic book reader for PSP.",
+  "author": "YodaJr",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/manga-2-psp-v-1.7z/Manga2PSP_v1.zip",
+      "published_at": "2007-01-01",
+      "size": 795115,
+      "sha256": "dd56d23920a388da9cfb0f67416146d802cfce607fadf897476eeea12e53e214",
+      "eboot_md5": "c3e3b56d7f2495d823dc416266700c45"
+    }
+  ],
+  "tags": [
+    "NEO Summer Coding Compo 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/manga-2-psp-v-1.7z/MANG00777_00000.jpg"
+    ],
+    "icon": "icons/manga2psp.png"
+  }
+}

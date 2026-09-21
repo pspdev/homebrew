@@ -1,0 +1,26 @@
+{
+  "name": "Wolf3Dpsp",
+  "id": "wolf3dpsp",
+  "summary": "Fork of the Wolfenstein 3D port by Zack.",
+  "author": "Wesley Daflita",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "6.1",
+      "url": "https://archive.org/download/wolf3Dpsp_v6.1/wolf3Dpsp_v6.1.zip",
+      "published_at": "2021-08-23",
+      "size": 7776381,
+      "sha256": "f2ca8b2658bb7481e3dee5bd850007c46946e2171524dd9ed78e8d2e2ac38a8b",
+      "eboot_md5": "f1cc81e402184d9850e4c0271865858c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/wolf3Dpsp_v6.1/WOLF01260_00000.png"
+    ],
+    "icon": "icons/wolf3dpsp.png"
+  }
+}

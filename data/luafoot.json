@@ -1,0 +1,26 @@
+{
+  "name": "LuaFoot",
+  "id": "luafoot",
+  "summary": "Homebrew game for PSP.",
+  "author": "Nono4012, Valer",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/luafoot01.7z/luafoot01.zip",
+      "published_at": "2007-01-01",
+      "size": 2589279,
+      "sha256": "c2230b4135a84ece948d6d55b62147d19dfcd19fcc919387ab07c2b6d80debbd",
+      "eboot_md5": "25437ae87cfdf5adc83164cec54335b9"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/luafoot01.7z/LUAF00859_00000.jpg"
+    ],
+    "icon": "icons/luafoot.png"
+  }
+}

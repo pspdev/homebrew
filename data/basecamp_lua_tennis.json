@@ -1,0 +1,28 @@
+{
+  "name": "Basecamp Lua Tennis",
+  "id": "basecamp_lua_tennis",
+  "summary": "Pong for PSP.",
+  "author": "Basecamp",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "5.00",
+      "url": "https://archive.org/download/basecamp-lua-tennis.-7z/Basecamp%20Lua%20Tennis.zip",
+      "published_at": "2007-01-01",
+      "size": 1782040,
+      "sha256": "0a01d759366522c3cfab6a4c351398c6309de5111f8b830227b6557179b99fbd",
+      "eboot_md5": "7959d667f09edcd0d505cfdd3c9667a9"
+    }
+  ],
+  "tags": [
+    "PSPSource Summer Coding Compo 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/basecamp-lua-tennis.-7z/EBOO00649_00000.jpg"
+    ],
+    "icon": "icons/basecamp_lua_tennis.png"
+  }
+}

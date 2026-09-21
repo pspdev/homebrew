@@ -1,0 +1,26 @@
+{
+  "name": "Android",
+  "id": "android",
+  "summary": "Android-style UI for PSP.",
+  "author": "rinnegatamante, deddino_94",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/android.-7z/Android.zip",
+      "published_at": "2009-06-04",
+      "size": 3930259,
+      "sha256": "ce507f2374254aa9f1bf5d655df8011fabf5c98949a618df204f3bd89d1bac36",
+      "eboot_md5": "7a5ef645cf92666add8bb18533de22ff"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/android.-7z/ANDR00705_00000.png"
+    ],
+    "icon": "icons/android.png"
+  }
+}

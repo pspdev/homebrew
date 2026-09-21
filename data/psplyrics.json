@@ -1,0 +1,27 @@
+{
+  "name": "PSPLyrics",
+  "id": "psplyrics",
+  "summary": "Music player and lyrics viewer.",
+  "description": "Music player and lyrics viewer for PSP. The program will look for MP3 files located in the /MUSIC folder. Lyrics files (.lrc) must be inside the /LRC folder. The LRC file must have the same name as the corresponding MP3 file (except for the extension). If you experience some problem with the display of the lyrics, make sure your LRC files are UTF-8 encoded.",
+  "author": "Adrian Courr\u00e8ges",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/psplyrics-0.1.7z/PSPLyrics-0.1.zip",
+      "published_at": "2009-11-01",
+      "size": 369099,
+      "sha256": "5200f16e6d32fa3246b63db6c84e4d8e6268a7516707be5fe67282a964c541d2",
+      "eboot_md5": "340b63baa8eba883792f0852e8f44de8"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psplyrics-0.1.7z/pic_0001.png"
+    ],
+    "icon": "icons/psplyrics.png"
+  }
+}

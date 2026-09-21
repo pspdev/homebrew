@@ -1,0 +1,26 @@
+{
+  "name": "NesterJ [3.xx]",
+  "id": "nesterj_[3.xx]",
+  "summary": "Fork of the NES emulator for PSP, originally ported by Ruka.",
+  "author": "takka",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.12",
+      "url": "https://archive.org/download/nesterj_1_12_for_3xx/nesterj_1_12_for_3xx.zip",
+      "published_at": "2008-01-18",
+      "size": 404585,
+      "sha256": "8da17fde6038b6a728c9486571053170a0b313538c12b5926dea54bf2408a37e",
+      "eboot_md5": "5c8a9d9d1747dc8e3d9f6d8f6c6b7c72"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/nesterj_1_12_for_3xx/NEST01909_00000.png"
+    ],
+    "icon": "icons/nesterj_[3.xx].png"
+  }
+}

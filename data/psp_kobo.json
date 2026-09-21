@@ -1,0 +1,26 @@
+{
+  "name": "PSP Kobo",
+  "id": "psp_kobo",
+  "summary": "Space shooter game for PSP.",
+  "author": "Jeremy Chin (ReKleSS), Randall Spychalla",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.21",
+      "url": "https://archive.org/download/pspkobo-v-1-21.7z/PSPKobo_v1_21.zip",
+      "published_at": "2010-10-20",
+      "size": 84621,
+      "sha256": "fd88f81122f379149a8d322cf6a6e289e13c713df4929f496c9080123d117c34",
+      "eboot_md5": "8941f2432c549e1389f027cd04e1c806"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspkobo-v-1-21.7z/PSPK01094_00001.png"
+    ],
+    "icon": "icons/psp_kobo.png"
+  }
+}

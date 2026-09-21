@@ -1,0 +1,26 @@
+{
+  "name": "So Do We Have a Deal or What? [US]",
+  "id": "so_do_we_have_a_deal_or_what?_[us]",
+  "summary": "Homebrew game for PSP.",
+  "author": "Quinnsoft (darkshadow88)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.40",
+      "url": "https://archive.org/download/deal.-7z/Deal.zip",
+      "published_at": "2006-01-01",
+      "size": 1069330,
+      "sha256": "bb0e64f286ce5590f9ab82b84807de32e4c8df38c3d86c581445db5fe1a09410",
+      "eboot_md5": "05d2b1c9f578439a310ad2142fd9f66b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/deal.-7z/LPM300335_00000.jpg"
+    ],
+    "icon": "icons/so_do_we_have_a_deal_or_what?_[us].png"
+  }
+}

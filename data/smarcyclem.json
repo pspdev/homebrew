@@ -1,0 +1,26 @@
+{
+  "name": "Smarcyclem",
+  "id": "smarcyclem",
+  "summary": "Emulator for the Smart Cycle Physical Learning Arcade System.",
+  "author": "crait",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.33",
+      "url": "https://archive.org/download/smarcyclem.-7z/SMARCYCLEM.zip",
+      "published_at": "2008-08-01",
+      "size": 891370,
+      "sha256": "208e08c0177c8cce760165ec53c0e34d980afd3e73304be4dbdac4d444125ce1",
+      "eboot_md5": "2cb1c23b95f672bd0275215d21501d35"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/smarcyclem.-7z/EBOO00649_00002.jpg"
+    ],
+    "icon": "icons/smarcyclem.png"
+  }
+}

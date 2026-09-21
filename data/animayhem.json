@@ -1,0 +1,28 @@
+{
+  "name": "AniMayhem",
+  "id": "animayhem",
+  "summary": "Homebrew fighting game for PSP.",
+  "author": "Chris Howard (Sp3ct0r)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/ani-mayhem-2.7z/AniMayhem_2.zip",
+      "published_at": "2008-01-02",
+      "size": 13944149,
+      "sha256": "9afe34b802524f80c381e3d569e99d0439b6402782eb4c5d31528eeb6df46e5e",
+      "eboot_md5": "02aa7b23a40bcf308e15e3554eb2c1bd"
+    }
+  ],
+  "tags": [
+    "GBAX 2007 Coding Competition"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ani-mayhem-2.7z/ANIM01034_00000.jpg"
+    ],
+    "icon": "icons/animayhem.png"
+  }
+}

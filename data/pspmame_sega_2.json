@@ -1,0 +1,26 @@
+{
+  "name": "PSPMAME Sega 2",
+  "id": "pspmame_sega_2",
+  "summary": "Version of the MAME emulator for PSP. Compatibility list available (in Japanese).",
+  "author": "Takka, TMK",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.97 r0.4",
+      "url": "https://archive.org/download/pspmame-0.97-sega-2.7z/PSPMAME-0.97-sega2.zip",
+      "published_at": "2009-12-31",
+      "size": 1242919,
+      "sha256": "e43e785fcaabf2d2bdea62ff36e0ca8af1d03ee15ed472ceaebb71ce4d00347d",
+      "eboot_md5": "b9ca262e0d4bea5b00c7ab4825c3c0ce"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspmame-0.97-sega-2.7z/PSPM01293_00000.jpg"
+    ],
+    "icon": "icons/pspmame_sega_2.png"
+  }
+}

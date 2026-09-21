@@ -1,0 +1,26 @@
+{
+  "name": "PSP Everest",
+  "id": "psp_everest",
+  "summary": "System information utility for PSP.",
+  "author": "frostegater, joel16",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2 Rev. 8",
+      "url": "https://archive.org/download/pspeverest-2-rev-2src.-7z/PSP%20Everest%202%20Rev8.zip",
+      "published_at": "2023-09-25",
+      "size": 426421,
+      "sha256": "0f1a3eb26f4f92f661e5f32fec5337ba1a40e38e32f0fa647c0a7e8e159f3d65",
+      "eboot_md5": "50b16b16f67888a89750fd45c65d6673"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspeverest-2-rev-2src.-7z/20221009011215.png"
+    ],
+    "icon": "icons/psp_everest.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "VisMP3",
+  "id": "vismp3",
+  "summary": "Music player for PSP.",
+  "author": "arpaagent",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.1.2",
+      "url": "https://archive.org/download/vis-mp-3-01.7z/VisMP3_01.zip",
+      "published_at": "2008-03-25",
+      "size": 1139255,
+      "sha256": "380ef44b34578788c58937c73cb252ea1aa85a38650c7c2a65283f17bc553356",
+      "eboot_md5": "778f7f3211fe8734bab32fa3f6bdf355"
+    }
+  ],
+  "tags": [
+    "NEO Spring Coding Compo 2008"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/vis-mp-3-01.7z/VISM00706_00000.jpg"
+    ],
+    "icon": "icons/vismp3.png"
+  }
+}

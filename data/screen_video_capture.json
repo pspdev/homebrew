@@ -1,0 +1,26 @@
+{
+  "name": "Screen Video Capture",
+  "id": "screen_video_capture",
+  "summary": "Player for a screen-capturing plugin (included) which saves the screen output as a .gif animation.",
+  "author": "ADePSP",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/svcapture-05.7z/SVCapture05.zip",
+      "published_at": "2006-01-01",
+      "size": 2948000,
+      "sha256": "7ee3759586acae55126636a16508f3b559ebd0504ab5b1942b356c1315b35c24",
+      "eboot_md5": "8dc6487e585cabe1857413a288c0b460"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/svcapture-05.7z/screen3.png"
+    ],
+    "icon": "icons/screen_video_capture.png"
+  }
+}

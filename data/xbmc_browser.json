@@ -1,0 +1,26 @@
+{
+  "name": "XBMC Browser",
+  "id": "xbmc_browser",
+  "summary": "Homebrew app for PSP.",
+  "author": "James Dingo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.1 Alpha",
+      "url": "https://archive.org/download/xbmcbrowser_0.1_alpha.7z/xbmcbrowser_0.1_alpha.zip",
+      "published_at": "2006-02-10",
+      "size": 532572,
+      "sha256": "cd207f31c514d9b5e6446f0a48d45864eab47101c2023204daf74707e1831ade",
+      "eboot_md5": "6725c2940f01c6fea09430d085ce04e1"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/xbmcbrowser_0.1_alpha.7z/XBMC02049_00000.png"
+    ],
+    "icon": "icons/xbmc_browser.png"
+  }
+}

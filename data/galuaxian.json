@@ -1,0 +1,26 @@
+{
+  "name": "Galuaxian",
+  "id": "galuaxian",
+  "summary": "Shoot 'em up for PSP.",
+  "author": "antiroC",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/galuaxian.-7z/Galuaxian_10.zip",
+      "published_at": "2005-12-05",
+      "size": 771145,
+      "sha256": "8f63219da8c4111c14f7435d233831aa10a3928d9f9fdb6d182cf7df38b0b106",
+      "eboot_md5": "83315985a4cd2caf7e7a92018b34c040"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/galuaxian.-7z/GALU01114_00012.png"
+    ],
+    "icon": "icons/galuaxian.png"
+  }
+}

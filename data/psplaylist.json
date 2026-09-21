@@ -1,0 +1,28 @@
+{
+  "name": "PSPlaylist",
+  "id": "psplaylist",
+  "summary": "Homebrew app for PSP.",
+  "author": "Moikop",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.26",
+      "url": "https://archive.org/download/psplaylist.-7z/PSPlaylist.zip",
+      "published_at": "2010-07-24",
+      "size": 2440442,
+      "sha256": "1057ab8c6e0316d663142363223d58a6ff1e68c389426abf54a51837151ef161",
+      "eboot_md5": "bb33b5b61ca3d40e51c51a88c6f19444"
+    }
+  ],
+  "tags": [
+    "Scenery Beta 2010"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psplaylist.-7z/PSPL01013_00000.png"
+    ],
+    "icon": "icons/psplaylist.png"
+  }
+}

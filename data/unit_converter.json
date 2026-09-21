@@ -1,0 +1,26 @@
+{
+  "name": "Unit Converter",
+  "id": "unit_converter",
+  "summary": "Homebrew app for PSP.",
+  "author": "Access_Denied, Twin891",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.9",
+      "url": "https://archive.org/download/unit-converter-0.9.7z/Unit_Converter_0.9.zip",
+      "published_at": "2007-06-13",
+      "size": 200483,
+      "sha256": "f73da15630af3448f49b6ad625bd738bbe25042d9d2f897f44a233998e828845",
+      "eboot_md5": "9a8473f1885a8a74cad405b61fcf35d4"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/unit-converter-0.9.7z/UNIT01709_00000.jpg"
+    ],
+    "icon": "icons/unit_converter.png"
+  }
+}

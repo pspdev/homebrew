@@ -1,0 +1,26 @@
+{
+  "name": "Tha Rouletta",
+  "id": "tha_rouletta",
+  "summary": "Russian roulette game.",
+  "author": "Hakuryu188",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1",
+      "url": "https://archive.org/download/tha-roulettav-1.7z/ThaRoulettav1.zip",
+      "published_at": "2010-01-09",
+      "size": 2054368,
+      "sha256": "fc05bf5e22853cae498b13a8c1e9d41e27a15bf1cf25e5a9fc4b257a59fff2e1",
+      "eboot_md5": "2decec107eca0b0f6ed3b54d938d06ed"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/tha-roulettav-1.7z/THAR01300_00000.png"
+    ],
+    "icon": "icons/tha_rouletta.png"
+  }
+}

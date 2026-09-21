@@ -1,0 +1,26 @@
+{
+  "name": "Puzzle Magic",
+  "id": "puzzle_magic",
+  "summary": "Homebrew puzzle game for PSP.",
+  "author": "Eskema",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/puzzle.-7z/Puzzle_v1.2.zip",
+      "published_at": "2008-01-01",
+      "size": 2670688,
+      "sha256": "f7afec1f9eb8bf80e2f9b07d2b3fcbc73eba867e83808b29d73f131384c4359e",
+      "eboot_md5": "43db089f3caed73d23034bf01cd6a6f0"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/puzzle.-7z/PUZZ01008_00001.png"
+    ],
+    "icon": "icons/puzzle_magic.png"
+  }
+}

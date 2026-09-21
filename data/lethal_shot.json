@@ -1,0 +1,26 @@
+{
+  "name": "Lethal Shot",
+  "id": "lethal_shot",
+  "summary": "Two-player shooter game for PSP.",
+  "author": "Jorge_97",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "3",
+      "url": "https://archive.org/download/lethal-shot-1.0.7z/Old%20Versions/Lethal-Shot%20-1.0.zip",
+      "published_at": "2011-08-26",
+      "size": 675890,
+      "sha256": "7cfd223fea23b8059e437e628c5a98aa7a8ddaa627e055e2648442d27014fd37",
+      "eboot_md5": "851f72099174c668f0f9a71d55d2565a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lethal-shot-1.0.7z/pic_0003.png"
+    ],
+    "icon": "icons/lethal_shot.png"
+  }
+}

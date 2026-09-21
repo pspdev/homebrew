@@ -1,0 +1,26 @@
+{
+  "name": "FBA4PSP Cave",
+  "id": "fba4psp_cave",
+  "summary": "This version of FinalBurn Alpha for PSP claims support for some games running on the Cave arcade board.",
+  "author": "OopsWare, Lbicelyne, Reprep",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "12.5.4",
+      "url": "https://archive.org/download/cave.7z/cave.zip",
+      "published_at": "2017-06-01",
+      "size": 1647310,
+      "sha256": "5dbf1ba2e9b12ab218d032841ea5088e942070f8f33fc1db2e929ad8590c2809",
+      "eboot_md5": "10347d0141ebc610ba6aa11c47e45088"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/cave.7z/CAVE00415_00000.jpg"
+    ],
+    "icon": "icons/fba4psp_cave.png"
+  }
+}

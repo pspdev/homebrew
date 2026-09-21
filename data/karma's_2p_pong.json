@@ -1,0 +1,26 @@
+{
+  "name": "Karma's 2P Pong",
+  "id": "karma's_2p_pong",
+  "summary": "Pong for PSP.",
+  "author": "Carlos A.D.C. (Karma)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/karmaspv0-2.7z/karmaspv0-2.zip",
+      "published_at": "2005-08-18",
+      "size": 709549,
+      "sha256": "8ef5a799a2001f1044b628f76b5ca9cefdee3574095b4a75490120712b10585d",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/karmaspv0-2.7z/LUAP01126_00000.jpg"
+    ],
+    "icon": "icons/karma's_2p_pong.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Pictionary",
+  "id": "pictionary",
+  "summary": "Homebrew game for PSP.",
+  "author": "Gogmaghog",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0 Beta",
+      "url": "https://archive.org/download/pictionary.-7z/Pictionary.zip",
+      "published_at": "2007-09-24",
+      "size": 448925,
+      "sha256": "0ba0797a9226bef5ba547ae276edb9477fbf0faa14b5e454b61556d8b7478c3b",
+      "eboot_md5": "05d2b1c9f578439a310ad2142fd9f66b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pictionary.-7z/LUAP01126_00000.jpg"
+    ],
+    "icon": "icons/pictionary.png"
+  }
+}

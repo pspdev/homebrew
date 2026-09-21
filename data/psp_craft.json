@@ -1,0 +1,26 @@
+{
+  "name": "PSP Craft",
+  "id": "psp_craft",
+  "summary": "Fan minigame for PSP.",
+  "author": "Joel16",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Pre Alpha 0.7",
+      "url": "https://archive.org/download/pspcraftx.7z/pspcraftx.zip",
+      "published_at": "2014-01-01",
+      "size": 1556970,
+      "sha256": "0c6f447a7cb3aa436d4b9e23cbc30921d92ac51465ff9c9edc012d11a7abad86",
+      "eboot_md5": "e8115a926b4712c91ff4593db9185868"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspcraftx.7z/EBOO00649_00000.jpg"
+    ],
+    "icon": "icons/psp_craft.png"
+  }
+}

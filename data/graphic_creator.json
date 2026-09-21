@@ -1,0 +1,26 @@
+{
+  "name": "Graphic Creator",
+  "id": "graphic_creator",
+  "summary": "Paint app for PSP.",
+  "author": "Kenny Lindahl (HaxxBlaster)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/graphic-creator-2.0.7z/Graphic_Creator_2.0.zip",
+      "published_at": "2006-05-14",
+      "size": 1588939,
+      "sha256": "5287728b8fd4b090af6835097a4e3b36b8d541e8ea92776a8e640db765e7779a",
+      "eboot_md5": "13ab10a75c11804bd299574784f58ffb"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/graphic-creator-2.0.7z/GRAP01630_00000.jpg"
+    ],
+    "icon": "icons/graphic_creator.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GeMP - Gameboy Emulator Media Player (Homer's RIN)",
+  "id": "gemp_-_gameboy_emulator_media_player_(homer's_rin)",
+  "summary": "Game Boy emulator for PSP.",
+  "author": "Homer, Atomos",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "3.3",
+      "url": "https://archive.org/download/ge-mp.-7z/Old%20Versions/homersrin_v32.zip",
+      "published_at": "2006-04-19",
+      "size": 637627,
+      "sha256": "ea1d1d0656e5b555c6c619543f2dcd81eeba4df551900affb8d9504dfb38e620",
+      "eboot_md5": "fa8ed45582e63625460dc0f0a174e968"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ge-mp.-7z/20210607053824.png"
+    ],
+    "icon": "icons/gemp_-_gameboy_emulator_media_player_(homer's_rin).png"
+  }
+}

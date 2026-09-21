@@ -1,0 +1,26 @@
+{
+  "name": "Sensitive",
+  "id": "sensitive",
+  "summary": "Puzzle game for PSP.",
+  "author": "Jamie Fuller",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.00 Fixed",
+      "url": "https://archive.org/download/sensepsp.7z/sensepsp.zip",
+      "published_at": "2006-10-12",
+      "size": 4691882,
+      "sha256": "bbb38761aafd12f62914256b079d96180bb359441b4c7f8ec700d24ecec57170",
+      "eboot_md5": "9d2de9c56f302aa7eac0de89a51a16ab"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/sensepsp.7z/SENS00881_00001.jpg"
+    ],
+    "icon": "icons/sensitive.png"
+  }
+}

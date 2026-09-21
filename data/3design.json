@@ -1,0 +1,26 @@
+{
+  "name": "3Design",
+  "id": "3design",
+  "summary": "Homebrew app for PSP.",
+  "author": "butterballer360",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.4",
+      "url": "https://archive.org/download/3design.-7z/3design.zip",
+      "published_at": "2006-05-21",
+      "size": 1242797,
+      "sha256": "c9a79d8df0098c680ef04d40b2a60f936117fae10d72e0d655653057730c7435",
+      "eboot_md5": "3fb733ac20a1c2a397b32e38135f747f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/3design.-7z/20220107204846.png"
+    ],
+    "icon": "icons/3design.png"
+  }
+}

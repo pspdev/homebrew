@@ -1,0 +1,26 @@
+{
+  "name": "NesterJ AoEX",
+  "id": "nesterj_aoex",
+  "summary": "Version of the NES emulator for PSP originally ported by Ruka.",
+  "author": "ShimaFlareX",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "r3",
+      "url": "https://archive.org/download/nintendo-nester-j-ao-ex-r-3.7z/NesterJ%20AoEX%20r3.zip",
+      "published_at": "2012-06-02",
+      "size": 839519,
+      "sha256": "978a45203a773d8b2fa81ace6b1e2e9a9758f18e89e2df451ae6cfcf77abd260",
+      "eboot_md5": "bb06c185f6b78fc6c71a73339e2bceb9"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/nintendo-nester-j-ao-ex-r-3.7z/NINT02169_00000.jpg"
+    ],
+    "icon": "icons/nesterj_aoex.png"
+  }
+}

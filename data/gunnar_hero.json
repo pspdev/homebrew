@@ -1,0 +1,29 @@
+{
+  "name": "Gunnar Hero",
+  "id": "gunnar_hero",
+  "summary": "Rhythm game for PSP.",
+  "author": "Team Sushi",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.20",
+      "url": "https://archive.org/download/gunnarhero.7z/gunnarhero.zip",
+      "published_at": "2007-08-20",
+      "size": 6568405,
+      "sha256": "6124daa21e720105803451ce8f022030d029768adc6e76c5916623b9a7a60ed7",
+      "eboot_md5": "d12a8269eff6323989d545d26bd5e305"
+    }
+  ],
+  "tags": [
+    "NEO Summer Coding Compo 2007",
+    "PxP Homebrew Competition (2007)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/gunnarhero.7z/EBOO00649_00001.png"
+    ],
+    "icon": "icons/gunnar_hero.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Metroid Escape Mission",
+  "id": "metroid_escape_mission",
+  "summary": "2D homebrew game for PSP.",
+  "author": "Chus",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.5",
+      "url": "https://archive.org/download/metroid-escape-mission-v-2.5.7z/Metroid%20Escape%20Mission%20v2.5.zip",
+      "published_at": "2014-01-01",
+      "size": 14033123,
+      "sha256": "d77103ff9be83aeb22952610e1d9a2c315f077a3150e639c975023579f59b93c",
+      "eboot_md5": "8498012818bb01614924f013acabb383"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/metroid-escape-mission-v-2.5.7z/METR02418_00003.png"
+    ],
+    "icon": "icons/metroid_escape_mission.png"
+  }
+}

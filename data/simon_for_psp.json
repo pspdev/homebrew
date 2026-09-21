@@ -1,0 +1,26 @@
+{
+  "name": "Simon for PSP",
+  "id": "simon_for_psp",
+  "summary": "PSP version of the electronic toy.",
+  "author": "Jeff Zemla",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/simon10.7z/simon10.zip",
+      "published_at": "2006-07-19",
+      "size": 849288,
+      "sha256": "e103890df3bf03132d8225fcb994a34027c040a3fa398935298de3d0b673ce9e",
+      "eboot_md5": "a948eaf0a8166a42e1b952c310656eae"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/simon10.7z/__SC01117_00000.jpg"
+    ],
+    "icon": "icons/simon_for_psp.png"
+  }
+}

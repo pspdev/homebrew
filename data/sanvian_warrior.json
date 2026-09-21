@@ -1,0 +1,26 @@
+{
+  "name": "Sanvian Warrior",
+  "id": "sanvian_warrior",
+  "summary": "Homebrew game for PSP.",
+  "author": "Predricted",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1 Beta",
+      "url": "https://archive.org/download/sanvian-warrior.-7z/SanvianWarrior.zip",
+      "published_at": "2009-06-20",
+      "size": 4045545,
+      "sha256": "ce751352424388a8a9c8960335d61b8ba7547e88afd500f0d48f9de59b01582f",
+      "eboot_md5": "a6ef955c638ec1ecd5d1e4cc28970e7e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/sanvian-warrior.-7z/SANV01462_00001.png"
+    ],
+    "icon": "icons/sanvian_warrior.png"
+  }
+}

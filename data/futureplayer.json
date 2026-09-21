@@ -1,0 +1,26 @@
+{
+  "name": "FuturePlayer",
+  "id": "futureplayer",
+  "summary": "Music player for PSP.",
+  "author": "irokos, titan",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.01",
+      "url": "https://archive.org/download/futureplayer.7z/futureplayer.zip",
+      "published_at": "2009-08-23",
+      "size": 1160928,
+      "sha256": "9831b6ce249eb19bad1dc5da23f7eebeb8b1bd933b52fec46d7d903840ffccc8",
+      "eboot_md5": "6e5d7070f2e4f90123ef927113d039fc"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/futureplayer.7z/FUTU01320_00001.jpg"
+    ],
+    "icon": "icons/futureplayer.png"
+  }
+}

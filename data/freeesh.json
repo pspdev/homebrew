@@ -1,0 +1,26 @@
+{
+  "name": "Freeesh",
+  "id": "freeesh",
+  "summary": "Homebrew game for PSP.",
+  "author": "Realtech VR",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/freeesh_11.7z/freeesh_11.zip",
+      "published_at": "2007-12-20",
+      "size": 4097456,
+      "sha256": "9970fec34c97dcd9f58a3ba775ba645887ee384bcdc61b5b0304516ee7057cb3",
+      "eboot_md5": "363fe408be3770ffb573cf021057a503"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/freeesh_11.7z/FREE00931_00001.png"
+    ],
+    "icon": "icons/freeesh.png"
+  }
+}

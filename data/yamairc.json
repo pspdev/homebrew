@@ -1,0 +1,26 @@
+{
+  "name": "YamaIRC",
+  "id": "yamairc",
+  "summary": "IRC client for PSP.",
+  "author": "Yamagushi",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "Beta 1.0.0.1",
+      "url": "https://archive.org/download/yama-irc.-7z/YamaIRC.zip",
+      "published_at": "2011-01-01",
+      "size": 282196,
+      "sha256": "0a18e13ea9af990dc3dd73878e804651d32b915c5046cd9222b26b5e93776769",
+      "eboot_md5": "a3dccaef35b364bbdeaebaa8a957334d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/yama-irc.-7z/20210721201620.png"
+    ],
+    "icon": "icons/yamairc.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Yokero",
+  "id": "yokero",
+  "summary": "Homebrew game for PSP.",
+  "author": "Salt",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0.1",
+      "url": "https://archive.org/download/yokero-v-1.0.1.7z/Yokero%20v1.0.1.zip",
+      "published_at": "2005-08-21",
+      "size": 60509,
+      "sha256": "888b0dbdc1db779073bec447358b2507fc520f62aa97d27eb1394949333654f3",
+      "eboot_md5": "d0ab70f50771c9018848950a1eac578b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/yokero-v-1.0.1.7z/YOKE01021_00000.jpg"
+    ],
+    "icon": "icons/yokero.png"
+  }
+}

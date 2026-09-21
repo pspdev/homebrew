@@ -1,0 +1,26 @@
+{
+  "name": "Celestial Cunning",
+  "id": "celestial_cunning",
+  "summary": "Homebrew game for PSP.",
+  "author": "Slicer4ever",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.3",
+      "url": "https://archive.org/download/pic_0013/celestialcunning.zip",
+      "published_at": "2007-07-22",
+      "size": 1102352,
+      "sha256": "11ecb67ae357b47c5f95acf95393a845d5489266f574496073863e61d9f98ea5",
+      "eboot_md5": "889c743175bbeeaec24829c9026c43b0"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pic_0013/CELE01704_00000.jpg"
+    ],
+    "icon": "icons/celestial_cunning.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "iPSPhone",
+  "id": "ipsphone",
+  "summary": "Simulates an iPhone within your PSP.",
+  "author": "Shefqet, Snipa",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "3.00 Final",
+      "url": "https://archive.org/download/iPSPphone.7z/iPSPhone%203.00%20Final.zip",
+      "published_at": "2008-01-27",
+      "size": 5295355,
+      "sha256": "40acde1b76f5abbe2d70595cbeeb1bec61a37c6bfd76ab1c3f8960917166230c",
+      "eboot_md5": "6a55eb857f8d43d6b5ddbf2f7d4382c4"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/iPSPphone.7z/20210630215002.png"
+    ],
+    "icon": "icons/ipsphone.png"
+  }
+}

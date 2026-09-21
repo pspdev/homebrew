@@ -1,0 +1,26 @@
+{
+  "name": "Chinese Chess PSP",
+  "id": "chinese_chess_psp",
+  "summary": "Homebrew game for PSP.",
+  "author": "TOPOC",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/chinesechess.7z/chinesechess.zip",
+      "published_at": "2007-07-03",
+      "size": 9684422,
+      "sha256": "546ed7dd0e17abc0b79be921bcd2ee7531013a42f8de5c4d4319cfc3dec7dfac",
+      "eboot_md5": "12100ec5c584d6ebf828de05bdf45551"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/chinesechess.7z/CHIN01269_00000.jpg"
+    ],
+    "icon": "icons/chinese_chess_psp.png"
+  }
+}

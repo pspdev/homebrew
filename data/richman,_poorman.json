@@ -1,0 +1,26 @@
+{
+  "name": "Richman, Poorman",
+  "id": "richman,_poorman",
+  "summary": "Card game for PSP.",
+  "author": "piccahoe",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Beta 0.8",
+      "url": "https://archive.org/download/rmpm.-7z/RMPM.zip",
+      "published_at": "2006-10-05",
+      "size": 1947178,
+      "sha256": "13cc77a161a7d7bad98660bb2d9cbcbbd0b1b95182b236f19d01e594a2594ebf",
+      "eboot_md5": "f4ef64c959ef975cac2df08d65a35a68"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/rmpm.-7z/RMPM00316_00000.jpg"
+    ],
+    "icon": "icons/richman,_poorman.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "NesterJ RX Mod",
+  "id": "nesterj_rx_mod",
+  "summary": "NES emulator for PSP. User interface in English and Chinese.",
+  "author": "\u30d5\u30a7\u30cb\u30c3\u30af\u30b9",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.12",
+      "url": "https://archive.org/download/nester-j-112-rx-mod-20160324.7z/NesterJ_112_RX_MOD%2020160324.zip",
+      "published_at": "2016-03-24",
+      "size": 570850,
+      "sha256": "be22cacdbc047e1aa44c6b52a134889a7c1b39676f0a668c86102fb573469410",
+      "eboot_md5": "245fe85391a01de57aee7d05b0ed7aa7"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/nester-j-112-rx-mod-20160324.7z/NEST01960_00000.jpg"
+    ],
+    "icon": "icons/nesterj_rx_mod.png"
+  }
+}

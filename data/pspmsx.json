@@ -1,0 +1,26 @@
+{
+  "name": "PSPMSX",
+  "id": "pspmsx",
+  "summary": "MSX emulator for PSP.",
+  "author": "Ludovic Jacomme (Zx-81)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.5.1",
+      "url": "https://archive.org/download/pspmsx.7z/pspmsx-v1.5.1-fw5x.zip",
+      "published_at": "2009-08-22",
+      "size": 1721995,
+      "sha256": "8053498db2fcee4f27ca0a2051b3105011df840264641631346f886253f1bf4b",
+      "eboot_md5": "04027af72626ed2fda29be16bd75e331"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspmsx.7z/PSPM01528_00000.png"
+    ],
+    "icon": "icons/pspmsx.png"
+  }
+}

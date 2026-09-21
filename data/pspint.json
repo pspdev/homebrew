@@ -1,0 +1,26 @@
+{
+  "name": "PSPInt",
+  "id": "pspint",
+  "summary": "Intellivision Emulator for PSP.",
+  "author": "Ludovic Jacomme (Zx-81)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.1.0",
+      "url": "https://archive.org/download/pspint.7z/pspint.zip",
+      "published_at": "2007-09-28",
+      "size": 1087786,
+      "sha256": "f9e94b973e1ad501a6582405f634b4d8df5345a4d8ae40355dbc3a4985beb62d",
+      "eboot_md5": "ce1c97fa0e47b06396c41286663e3771"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspint.7z/PSPI00670_00000.jpg"
+    ],
+    "icon": "icons/pspint.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Meritous",
+  "id": "meritous",
+  "summary": "PSP port of the PC game.",
+  "author": "Marach, Marach5, Hubert55555",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.4",
+      "url": "https://archive.org/download/meritouspsp.7z/meritouspsp.zip",
+      "published_at": "2010-09-16",
+      "size": 2945967,
+      "sha256": "1089bdd63ad28d7b54693f76677545e03d521ff58eeb1d53a577b30386cc274d",
+      "eboot_md5": "0dea6c5168e87734e560066591f90d02"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/meritouspsp.7z/MERI01227_00000.png"
+    ],
+    "icon": "icons/meritous.png"
+  }
+}

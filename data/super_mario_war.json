@@ -1,0 +1,26 @@
+{
+  "name": "Super Mario War",
+  "id": "super_mario_war",
+  "summary": "Stomp your enemies to achieve victory in this ruthless homebrew game.",
+  "author": "Percival",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.7 Beta",
+      "url": "https://archive.org/download/smw.7z_202101/smw1.7_psp_V2.zip",
+      "published_at": "2007-01-02",
+      "size": 10535665,
+      "sha256": "b1a71245f04759d739e15d5c1fbf7d3d1a3253a4827e616faf874e40de675e55",
+      "eboot_md5": "6803e4bb43c51af94fe04bd394f4627d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/smw.7z_202101/pic_0013.jpg"
+    ],
+    "icon": "icons/super_mario_war.png"
+  }
+}

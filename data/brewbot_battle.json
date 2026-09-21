@@ -1,0 +1,26 @@
+{
+  "name": "Brewbot Battle",
+  "id": "brewbot_battle",
+  "summary": "Homebrew game for PSP.",
+  "author": "JC",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.00",
+      "url": "https://archive.org/download/brew-bot-battle.-7z/BrewBotBattle.zip",
+      "published_at": "2006-01-01",
+      "size": 3684271,
+      "sha256": "fe8d376e130b7f5c8775993a8e15177490f73976a5c83ff6d560713d99e4ce26",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/brew-bot-battle.-7z/LUAP01126_00000.jpg"
+    ],
+    "icon": "icons/brewbot_battle.png"
+  }
+}

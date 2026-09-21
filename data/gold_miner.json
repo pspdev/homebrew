@@ -1,0 +1,26 @@
+{
+  "name": "Gold Miner",
+  "id": "gold_miner",
+  "summary": "Homebrew game for PSP.",
+  "author": "Adam Chen",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.02",
+      "url": "https://archive.org/download/gold-miner.-7z/GoldMiner.zip",
+      "published_at": "2007-01-01",
+      "size": 1841204,
+      "sha256": "2303293e3ac00a331f8ddab6a0f2c7e38a89f9bc8597a0f86db051b2134f40bf",
+      "eboot_md5": "044391a27109e275a64bece99cdacb7c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/gold-miner.-7z/GOLD00897_00000.png"
+    ],
+    "icon": "icons/gold_miner.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Tour of Light",
+  "id": "tour_of_light",
+  "summary": "Futuristic racing game for PSP.",
+  "author": "ChaCheeChoo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.21",
+      "url": "https://archive.org/download/to-lmulti-track.-7z/TolAlpha021.zip",
+      "published_at": "2023-10-16",
+      "size": 3554555,
+      "sha256": "595c61031adfa1a28dedb7e426da7a8820be6af9edcd2dc003f2039c18541e9b",
+      "eboot_md5": "a968342b45d7e372008f2bc7f4d85180"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/to-lmulti-track.-7z/TOLA00934_00003.jpg"
+    ],
+    "icon": "icons/tour_of_light.png"
+  }
+}

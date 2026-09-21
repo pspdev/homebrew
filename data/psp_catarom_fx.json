@@ -1,0 +1,26 @@
+{
+  "name": "PSP Catarom FX",
+  "id": "psp_catarom_fx",
+  "summary": "Comiket catalog viewing software for PSP. Requires files from the Comiket CD-ROM catalog Disc B (C80) or DVD-ROM catalog (C81) to work.",
+  "author": "Motoonsen",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/pspcatarom-fx-02/PSPCataromFX02.zip",
+      "published_at": "2011-12-24",
+      "size": 254674,
+      "sha256": "57afc53945ea7a15573b172170e200d5726d057664fb3846d561bbd67946b8d4",
+      "eboot_md5": "226859842cae957dfeeaeb90f641e418"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspcatarom-fx-02/PSPC01210_00003.png"
+    ],
+    "icon": "icons/psp_catarom_fx.png"
+  }
+}

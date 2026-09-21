@@ -1,0 +1,28 @@
+{
+  "name": "IphoneV-PSP",
+  "id": "iphonev-psp",
+  "summary": "Custom shell for PSP.",
+  "author": "sergi70",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.70",
+      "url": "https://archive.org/download/iphone-v-psp/IphoneV-PSP.zip",
+      "published_at": "2010-08-29",
+      "size": 5158891,
+      "sha256": "31db40dfe59bd9763c2c12da39a4e00ac3ac43b503e7b6a39652cfe4d89b9d5f",
+      "eboot_md5": "1274f0794200f91a3d9fb098a9e2d7dc"
+    }
+  ],
+  "tags": [
+    "Scenery Beta 2010"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/iphone-v-psp/IPHO00985_00000.png"
+    ],
+    "icon": "icons/iphonev-psp.png"
+  }
+}

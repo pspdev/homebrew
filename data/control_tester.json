@@ -1,0 +1,26 @@
+{
+  "name": "Control Tester",
+  "id": "control_tester",
+  "summary": "Homebrew app for PSP.",
+  "author": "JohnnyMcKinney",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/control-tester.-7z/Control%20Tester.zip",
+      "published_at": "2006-01-07",
+      "size": 1271783,
+      "sha256": "436258ea9f5a1d4504754d57920d81ce0dd614117891fbaa06bde86f48cb56f9",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/control-tester.-7z/CONT01400_00000.jpg"
+    ],
+    "icon": "icons/control_tester.png"
+  }
+}

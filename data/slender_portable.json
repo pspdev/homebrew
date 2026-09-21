@@ -1,0 +1,26 @@
+{
+  "name": "Slender Portable",
+  "id": "slender_portable",
+  "summary": "Homebrew game for PSP.",
+  "author": "Scatterbox, Seniormeatbox, Gresh1234, Adzie",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.00",
+      "url": "https://archive.org/download/slender-psp-psp-200-x-300-x-n-100-x-e-100-x.-7z/Slender%20PSP%20%28PSP%20200X%2C%20300X%2C%20N100X%2C%20E100X%29.zip",
+      "published_at": "2014-01-25",
+      "size": 16897788,
+      "sha256": "6bd7f86a21fcac0d9cb486ef0464564135dd0bfc54134e52290d7585fd30dbcf",
+      "eboot_md5": "53b37b2bb2397ea3101530b77bb92bac"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/slender-psp-psp-200-x-300-x-n-100-x-e-100-x.-7z/SLEN01338_00000.jpg"
+    ],
+    "icon": "icons/slender_portable.png"
+  }
+}

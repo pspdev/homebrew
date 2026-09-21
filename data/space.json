@@ -1,0 +1,26 @@
+{
+  "name": "Space",
+  "id": "space",
+  "summary": "Homebrew game for PSP.",
+  "author": "Blimpikel",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/space.-7z_202105/Space.zip",
+      "published_at": "2008-03-24",
+      "size": 1150699,
+      "sha256": "6a58ee30f08e336ae64cf66c7de8cd461cfa0fe78a7e1697f12b3e8645f1f2b5",
+      "eboot_md5": "9ede9141a9723977f0b59fe213de9723"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/space.-7z_202105/SPAC00492_00000.jpg"
+    ],
+    "icon": "icons/space.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Contra Portable: Locked 'n' Loaded",
+  "id": "contra_portable_locked_'n'_loaded",
+  "summary": "Homebrew Contra game based on the OpenBOR engine.",
+  "author": "Eric Ho",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "3",
+      "url": "https://archive.org/download/game-01289-00000_202101/ContraPortable.zip",
+      "published_at": "2015-01-01",
+      "size": 71247866,
+      "sha256": "16be41d32b05ff27c971202e196df2b119381ccc4aa76b542bad0036e0f61045",
+      "eboot_md5": "593adf219ced5517fc6207f145a3033b"
+    }
+  ],
+  "tags": [
+    "openBOR"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/game-01289-00000_202101/CONT01440_00000.jpg"
+    ],
+    "icon": "icons/contra_portable_locked_'n'_loaded.png"
+  }
+}

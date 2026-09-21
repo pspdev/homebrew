@@ -1,0 +1,28 @@
+{
+  "name": "Soldiers of Future",
+  "id": "soldiers_of_future",
+  "summary": "2D shooter for PSP.",
+  "author": "S4inex",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.4.5 Beta",
+      "url": "https://archive.org/download/soldiers-of-future-beta-0.4.5.7z/soldiers%20of%20future%20beta%200.4.5.zip",
+      "published_at": "2013-05-04",
+      "size": 1510088,
+      "sha256": "081a5cf3a9c7aeaf6b38ee71121eb0277cfa8203d896f9c29cf398569fa551e8",
+      "eboot_md5": "442fc0d65be46f3483fc191d7412ffef"
+    }
+  ],
+  "tags": [
+    "PSP Homebrew Game Competition 2013"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/soldiers-of-future-beta-0.4.5.7z/SOLD02534_00002.png"
+    ],
+    "icon": "icons/soldiers_of_future.png"
+  }
+}

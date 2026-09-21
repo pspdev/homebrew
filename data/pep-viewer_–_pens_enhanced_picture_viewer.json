@@ -1,0 +1,26 @@
+{
+  "name": "PeP-Viewer \u2013 Pens Enhanced Picture Viewer",
+  "id": "pep-viewer_\u2013_pens_enhanced_picture_viewer",
+  "summary": "Comic and picture viewer for the Sony PSP.",
+  "author": "pensoffsky",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.8",
+      "url": "https://archive.org/download/pe-pviewer-v-0-8.7z/PePViewer_v0_8.zip",
+      "published_at": "2007-05-29",
+      "size": 1056225,
+      "sha256": "6da0288eb8d73fcf822f9437e676f0e66edb9c95de0610fe67997d0ea3d545b7",
+      "eboot_md5": "801054682c8dcbff5edf30151a43b97e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pe-pviewer-v-0-8.7z/PEPV00547_00000.jpg"
+    ],
+    "icon": "icons/pep-viewer_\u2013_pens_enhanced_picture_viewer.png"
+  }
+}

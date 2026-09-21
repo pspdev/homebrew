@@ -1,0 +1,26 @@
+{
+  "name": "PSPlayer",
+  "id": "psplayer",
+  "summary": "Media player for PSP.",
+  "author": "nugi",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/psplayer-20.7z/PSPlayer20.zip",
+      "published_at": "2008-09-24",
+      "size": 2758457,
+      "sha256": "8579414633800858e6c9b7533a43014737c9ca714334acfbdada96add061eaf5",
+      "eboot_md5": "66a73f548dafe38dc788aba5bc51257e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psplayer-20.7z/20210613204911.png"
+    ],
+    "icon": "icons/psplayer.png"
+  }
+}

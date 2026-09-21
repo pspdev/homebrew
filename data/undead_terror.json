@@ -1,0 +1,30 @@
+{
+  "name": "Undead Terror",
+  "id": "undead_terror",
+  "summary": "Zombie survival shooter game.",
+  "author": "FlavR, leooomichel",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Beta 3",
+      "url": "https://archive.org/download/undead-terror-beta-3.7z/Undead%20Terror_beta_3.zip",
+      "published_at": "2010-01-01",
+      "size": 10175255,
+      "sha256": "f1900f415573eb560ae6a08566e9702a2dd32e3a7a642d9b645614c433c27277",
+      "eboot_md5": "9fa8d3d316d599f7f01e12ce66b23287"
+    }
+  ],
+  "tags": [
+    "Homebrew Idol 3 (2010)",
+    "Scenery Beta 2010",
+    "NEO Retro Coding Compo 2010"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/undead-terror-beta-3.7z/UNDE01916_00001.png"
+    ],
+    "icon": "icons/undead_terror.png"
+  }
+}

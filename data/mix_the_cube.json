@@ -1,0 +1,26 @@
+{
+  "name": "Mix The Cube",
+  "id": "mix_the_cube",
+  "summary": "Rubik's cube page for PSP.",
+  "author": "sinasquax",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/mix-the-cube.-7z/MixTheCube.zip",
+      "published_at": "2007-12-02",
+      "size": 318857,
+      "sha256": "20518b435944b0f25643d5a686967241e17be7df4de189cde760d01d533f1cfc",
+      "eboot_md5": "806ba99059d5b3b4c9033d0f4bf0dfce"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mix-the-cube.-7z/MIXT00974_00000.jpg"
+    ],
+    "icon": "icons/mix_the_cube.png"
+  }
+}

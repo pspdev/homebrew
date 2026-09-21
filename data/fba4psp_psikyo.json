@@ -1,0 +1,26 @@
+{
+  "name": "FBA4PSP Psikyo",
+  "id": "fba4psp_psikyo",
+  "summary": "This version of FinalBurn Alpha for PSP claims support for 13 Psikyo games (including clones). It comes in two different builds: no-cache (faster, requires more RAM) and cached (slower, requires less RAM).",
+  "author": "OopsWare, Lbicelyne, Reprep",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "12.5.4",
+      "url": "https://archive.org/download/fba-4-psp-psikyocorenocache.-7z/FBA4PSP-psikyocorenocache.zip",
+      "published_at": "2017-06-01",
+      "size": 449585,
+      "sha256": "4b291d3fd735a439fca1fba868244996221cc2ed4f92455e831172b76e03290a",
+      "eboot_md5": "267d63c2d3237b48d92f91eabf6d2b28"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/fba-4-psp-psikyocorenocache.-7z/FBA402237_00000.jpg"
+    ],
+    "icon": "icons/fba4psp_psikyo.png"
+  }
+}

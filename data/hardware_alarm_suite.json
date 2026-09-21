@@ -1,0 +1,30 @@
+{
+  "name": "Hardware Alarm Suite",
+  "id": "hardware_alarm_suite",
+  "summary": "Alarm app for PSP.",
+  "author": "Mr305",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.7 bld 1730",
+      "url": "https://archive.org/download/hardware-alarm-suite-2-7-1730.7z/HardwareAlarmSuite2_7_1730.zip",
+      "published_at": "2008-08-20",
+      "size": 6531479,
+      "sha256": "30477f1b84ab81e7640e879ae0df3ed425c3c96d610f00db58f0e0db976d1d9b",
+      "eboot_md5": "500a4991d40f9273b0a68dc8f6db4aa3"
+    }
+  ],
+  "tags": [
+    "NEO 2008 Summer Compo",
+    "PSPUpdates Summer Homebrew Contest (2008)",
+    "Scenery Beta 2008"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/hardware-alarm-suite-2-7-1730.7z/HASU00709_00000.jpg"
+    ],
+    "icon": "icons/hardware_alarm_suite.png"
+  }
+}

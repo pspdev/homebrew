@@ -1,0 +1,26 @@
+{
+  "name": "fMSX for PSP",
+  "id": "fmsx_for_psp",
+  "summary": "MSX emulator for PSP.",
+  "author": "osakana, orz, snatcher",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.62b+",
+      "url": "https://archive.org/download/fMSX061.7z/fMX062bplus.zip",
+      "published_at": "2005-08-05",
+      "size": 1089264,
+      "sha256": "0ccb17cba3b8467f68efd485ec08b1dc8070748092dcc45cdcd29ba0f1a3b338",
+      "eboot_md5": "4c8a1317687fa2c6c0982f7f8bca8beb"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/fMSX061.7z/FMSX00501_00000.png"
+    ],
+    "icon": "icons/fmsx_for_psp.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PSP Rubik's Cube",
+  "id": "psp_rubik's_cube",
+  "summary": "Rubik's cube on PSP.",
+  "author": "Exter",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "3.5",
+      "url": "https://archive.org/download/psprubiks-cube-v-35.7z/PSPRubiksCube_v35.zip",
+      "published_at": "2011-01-19",
+      "size": 5682777,
+      "sha256": "eb8d213c4703b8a8eef6d69a7a81b614356bc4001230f1437e57063a7000bd78",
+      "eboot_md5": "2772cabd270d74295e952f242d8fadcf"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psprubiks-cube-v-35.7z/RUBI00541_00000.jpg"
+    ],
+    "icon": "icons/psp_rubik's_cube.png"
+  }
+}

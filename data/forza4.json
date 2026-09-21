@@ -1,0 +1,26 @@
+{
+  "name": "Forza4",
+  "id": "forza4",
+  "summary": "Connect 4 for PSP.",
+  "author": "LeoJava",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/forza-4-v-2.0.7z/forza4%20v2.0.zip",
+      "published_at": "2011-01-30",
+      "size": 193383,
+      "sha256": "19f924a12da59664b3283416e85bf994b1663736033349de42c7565128fad71f",
+      "eboot_md5": "e0218103daf16590e3732de0ca84ed3c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/forza-4-v-2.0.7z/FORZ00892_00000.png"
+    ],
+    "icon": "icons/forza4.png"
+  }
+}

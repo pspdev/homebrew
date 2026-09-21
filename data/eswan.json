@@ -1,0 +1,26 @@
+{
+  "name": "eSwan",
+  "id": "eswan",
+  "summary": "WonderSwan Color emulator for PSP.",
+  "author": "T. Kawamorita (e)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.09",
+      "url": "https://archive.org/download/eSwan009.7z/eSwan009.zip",
+      "published_at": "2005-12-22",
+      "size": 179249,
+      "sha256": "c56af9d140cbff31511b3fb9f413da2fb2528afeaa1723ba6c3d060dab8e584f",
+      "eboot_md5": "86acc226c62ae81a648af178e678f776"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/eSwan009.7z/EBOO00649_00000.jpg"
+    ],
+    "icon": "icons/eswan.png"
+  }
+}

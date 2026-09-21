@@ -1,0 +1,26 @@
+{
+  "name": "Frankie's Quest",
+  "id": "frankie's_quest",
+  "summary": "Homebrew puzzle game for PSP.",
+  "author": "okapako",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.4",
+      "url": "https://archive.org/download/frankies-quest.-7z/Old%20Versions/FrankiesQuest.zip",
+      "published_at": "2010-01-01",
+      "size": 5992304,
+      "sha256": "2f24876419e3a5ff34654741a941c91f54a1381298765d84727c80624856c19c",
+      "eboot_md5": "bf0ff9f5750d8fe5a7bf3a9ffef92a5e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/frankies-quest.-7z/FRAN01349_00000.jpg"
+    ],
+    "icon": "icons/frankie's_quest.png"
+  }
+}

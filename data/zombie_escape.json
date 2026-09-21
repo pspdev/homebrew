@@ -1,0 +1,28 @@
+{
+  "name": "Zombie Escape",
+  "id": "zombie_escape",
+  "summary": "Homebrew game for PSP.",
+  "author": "LMelior",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/zombie-escape-2xxv-11.7z/Zombie_Escape2xxv11.zip",
+      "published_at": "2006-08-21",
+      "size": 1108834,
+      "sha256": "959d6e64940863a29d7f68b9f47860639b7e407fcae704374931347f4f17825b",
+      "eboot_md5": "3904660ae941d25faf5e7a860d7944c6"
+    }
+  ],
+  "tags": [
+    "NEO Summer Coding Compo 2006"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/zombie-escape-2xxv-11.7z/pic_0000.png"
+    ],
+    "icon": "icons/zombie_escape.png"
+  }
+}

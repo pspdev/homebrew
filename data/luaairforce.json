@@ -1,0 +1,26 @@
+{
+  "name": "LuaAirForce",
+  "id": "luaairforce",
+  "summary": "Homebrew game for PSP.",
+  "author": "Yoyomacy",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.5 Final",
+      "url": "https://archive.org/download/lua-air-force.-7z/Old%20Versions/LuaAirForce.zip",
+      "published_at": "2007-09-24",
+      "size": 3399464,
+      "sha256": "0ed2b46b7087acaf8107ac1b8a7003bd44f87f3b9ca5f730da605121b2413ec6",
+      "eboot_md5": "05d2b1c9f578439a310ad2142fd9f66b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lua-air-force.-7z/LPM300335_00000.jpg"
+    ],
+    "icon": "icons/luaairforce.png"
+  }
+}

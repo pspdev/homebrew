@@ -1,0 +1,28 @@
+{
+  "name": "RPG Developer Portable",
+  "id": "rpg_developer_portable",
+  "summary": "Homebrew app for PSP.",
+  "author": "Akabane87",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "Demo",
+      "url": "https://archive.org/download/rdp.-7z/RDP.zip",
+      "published_at": "2008-09-30",
+      "size": 5114335,
+      "sha256": "3544514ba7b4e2866b4f7d16591880ecbbb035fd1ca1678c72c459928db11fb2",
+      "eboot_md5": "be361d2b219eb131325fc47ed3cbadab"
+    }
+  ],
+  "tags": [
+    "1000$ pour la sc\u00e8ne (2008/2009)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/rdp.-7z/RDPH00230_00000.jpg"
+    ],
+    "icon": "icons/rpg_developer_portable.png"
+  }
+}

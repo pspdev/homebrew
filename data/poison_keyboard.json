@@ -1,0 +1,26 @@
+{
+  "name": "Poison Keyboard",
+  "id": "poison_keyboard",
+  "summary": "Demo app for PSP.",
+  "author": "Poison",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "3",
+      "url": "https://archive.org/download/keyboard_by_poison.7z/poison_keyboard_v3_final.zip",
+      "published_at": "2007-08-08",
+      "size": 660687,
+      "sha256": "5dfd1f87c44f875348046a829dc24f6eaf89b1fcd39aabeb814d86cdf1d95c9a",
+      "eboot_md5": "7e2d9998974e972c1715e674a544da98"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/keyboard_by_poison.7z/KEYB01922_00002.png"
+    ],
+    "icon": "icons/poison_keyboard.png"
+  }
+}

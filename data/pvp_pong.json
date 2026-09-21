@@ -1,0 +1,26 @@
+{
+  "name": "PvP Pong",
+  "id": "pvp_pong",
+  "summary": "Pong for PSP.",
+  "author": "Julian Williams (BlackShark)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "4",
+      "url": "https://archive.org/download/pv-ppongv-4.7z/PvPPongv4.zip",
+      "published_at": "2007-01-13",
+      "size": 13214697,
+      "sha256": "80a47e69f5661fd59f27144c5fe6d3a80e9f3dcab37658eb131b3d8a6bdd73e3",
+      "eboot_md5": "476930cb338184492a5dab9695a14983"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pv-ppongv-4.7z/PVPP00852_00000.jpg"
+    ],
+    "icon": "icons/pvp_pong.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "WAB MS Loader",
+  "id": "wab_ms_loader",
+  "summary": "Homebrew app for PSP.",
+  "author": "MrSiir, Yoshihiro, VieriCrespo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.5e",
+      "url": "https://archive.org/download/wab-auto-patch-v-2.5e-multi-loader-wi-fi/WAB_Auto-Patch_v2.5e_Multi-Loader+WiFi.zip",
+      "published_at": "2005-07-15",
+      "size": 203491,
+      "sha256": "047c5b79381d040ff772539dbc45f11731a2fbf8cc2f921745deda3288d877f0",
+      "eboot_md5": "1a4a97373427d1b8f4cc7a2edb112160"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/wab-auto-patch-v-2.5e-multi-loader-wi-fi/EBOO00649_00000.png"
+    ],
+    "icon": "icons/wab_ms_loader.png"
+  }
+}

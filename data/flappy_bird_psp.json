@@ -1,0 +1,26 @@
+{
+  "name": "Flappy Bird PSP",
+  "id": "flappy_bird_psp",
+  "summary": "Flappy Bird on the PSP.",
+  "author": "UNSTOP4BLE",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/flappy-psp/FlappyPSP.zip",
+      "published_at": "2022-08-18",
+      "size": 689229,
+      "sha256": "0b0745404d44ec5f70d5853954f15302c820a58f84430d00cf7118897397a10c",
+      "eboot_md5": "94243d09c00c3585127322a5dbf23c2a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/flappy-psp/FLAP00863_00000.png"
+    ],
+    "icon": "icons/flappy_bird_psp.png"
+  }
+}

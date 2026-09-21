@@ -1,0 +1,26 @@
+{
+  "name": "Giana's Return",
+  "id": "giana's_return",
+  "summary": "Platform game for PSP.",
+  "author": "Retroguru",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.10",
+      "url": "https://archive.org/download/giana.-7z/GIANA.zip",
+      "published_at": "2009-01-01",
+      "size": 7253996,
+      "sha256": "9f1a394ec069cd4f24fc0d6ea25fca17f86aaf3165a8a3c74337eaf28ad5091e",
+      "eboot_md5": "fde94ab3db443ae7dbd232e83767b593"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/giana.-7z/GIAN00352_00000.jpg"
+    ],
+    "icon": "icons/giana's_return.png"
+  }
+}

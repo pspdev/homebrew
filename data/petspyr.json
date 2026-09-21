@@ -1,0 +1,26 @@
+{
+  "name": "PetSpyr",
+  "id": "petspyr",
+  "summary": "Puzzle game for PSP.",
+  "author": "OuiOui",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/pet-spyr.-7z/PetSpyr.zip",
+      "published_at": "2006-10-13",
+      "size": 1491956,
+      "sha256": "6397a310f90c5865eb99f3f50f88f39cd55dde8bcee0e52b4f5d828990c7e96b",
+      "eboot_md5": "0fbe83a0b33d64324874b7e13788d739"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pet-spyr.-7z/__SC01326_00000.jpg"
+    ],
+    "icon": "icons/petspyr.png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "GALPSP Courtroom Ed.",
+  "id": "galpsp_courtroom_ed.",
+  "summary": "Homebrew game for PSP.",
+  "author": "Karurosu",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.200b1 Final",
+      "url": "https://archive.org/download/galpsp-last-demo.-7z/GALPSP-Last-Demo.zip",
+      "published_at": "2007-06-05",
+      "size": 2899294,
+      "sha256": "16ea64236fca446b5613e1620fae8c21470d9ba92a8a8c9a5537a740b3182360",
+      "eboot_md5": "cfe7d7b0155bff5b2591572eea1e3d9f"
+    }
+  ],
+  "tags": [
+    "PSP 30 Day Coding Competition #2 (2005-2006)",
+    "PSP NEWS & Lik Sang 15 Day Lua Coding Comp (2006)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/galpsp-last-demo.-7z/pic_0003.png"
+    ],
+    "icon": "icons/galpsp_courtroom_ed..png"
+  }
+}

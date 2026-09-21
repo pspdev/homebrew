@@ -1,0 +1,26 @@
+{
+  "name": "Virtual Tape Recorder",
+  "id": "virtual_tape_recorder",
+  "summary": "Audio recorder for PSP. Requires an external microphone.",
+  "author": "Brek Martin (Art)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "5b",
+      "url": "https://archive.org/download/virtual-tape-recorder-v-5b.-7z/Virtual%20Tape%20Recorder%20V5b.zip",
+      "published_at": "2006-10-08",
+      "size": 1632667,
+      "sha256": "2298676e100fa6dfda7dd3987c150361a168db9f7f32ec49f3bea12b782acabb",
+      "eboot_md5": "e9079addb3bcf6decb28af24752ce92a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/virtual-tape-recorder-v-5b.-7z/__SC02748_00001.jpg"
+    ],
+    "icon": "icons/virtual_tape_recorder.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PSP File Manager/Extractor",
+  "id": "psp_file_manager_extractor",
+  "summary": "Homebrew app for PSP.",
+  "author": "Joel16",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/file-manager.-7z/File%20Manager.zip",
+      "published_at": "2014-01-16",
+      "size": 1015890,
+      "sha256": "34f7082cadf6703f30a6be37cd2dcbb7e037ce47e47a7490665299e9da6cb8ff",
+      "eboot_md5": "20cbc030a76cd49399b2a02d068b340a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/file-manager.-7z/20210723225521.png"
+    ],
+    "icon": "icons/psp_file_manager_extractor.png"
+  }
+}

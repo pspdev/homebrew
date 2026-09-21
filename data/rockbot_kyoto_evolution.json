@@ -1,0 +1,28 @@
+{
+  "name": "Rockbot Kyoto Evolution",
+  "id": "rockbot_kyoto_evolution",
+  "summary": "Homebrew game for PSP.",
+  "author": "Upperland Studios",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0.0",
+      "url": "https://archive.org/download/rockbot100.7z/rockbot100.zip",
+      "published_at": "2014-01-01",
+      "size": 26722945,
+      "sha256": "8cd4075c1efdcb4bccc01e19512f1eea527b7c09b4e2889e493ccda509e3ec3e",
+      "eboot_md5": "e74ade261c46d72aa9340a51f0e199ec"
+    }
+  ],
+  "tags": [
+    "PSP Homebrew Game Competition 2013"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/rockbot100.7z/ROCK00901_00002.png"
+    ],
+    "icon": "icons/rockbot_kyoto_evolution.png"
+  }
+}

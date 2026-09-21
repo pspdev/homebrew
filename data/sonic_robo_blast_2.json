@@ -1,0 +1,28 @@
+{
+  "name": "Sonic Robo Blast 2",
+  "id": "sonic_robo_blast_2",
+  "summary": "PSP port of the fan game for PC.",
+  "author": "AlamGBC",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0.6",
+      "url": "https://archive.org/download/srb-2-psp.-7z/SRB2_v206.zip",
+      "published_at": "2011-12-23",
+      "size": 31893022,
+      "sha256": "3402bac8d3ba37d03a8dc1ed375e5f3352f423f5652d39446dcdb28769246837",
+      "eboot_md5": "dbad62ccb4067f46b71fb89bd4d50af6"
+    }
+  ],
+  "tags": [
+    "PSP-2000+ only"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/srb-2-psp.-7z/20210806082301.png"
+    ],
+    "icon": "icons/sonic_robo_blast_2.png"
+  }
+}

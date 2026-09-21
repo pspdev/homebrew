@@ -1,0 +1,26 @@
+{
+  "name": "PMPlayer Advance",
+  "id": "pmplayer_advance",
+  "summary": "Media player for PSP. Tested as working on firmware 6.61 LME 2.3 when using an original Memory Stick, though not when using an SD card adapter.",
+  "author": "Cooleyes",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "3.1.5",
+      "url": "https://archive.org/download/pmplayer-advance-3.1.5.7z/PPA3xx-20111019.zip",
+      "published_at": "2011-10-19",
+      "size": 3721490,
+      "sha256": "0deb9dd62f5650849a7097a51108475a608342785e6b4228edec4c951d866d14",
+      "eboot_md5": "7b4b6eccb32718e4d6400d3addfac5e5"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pmplayer-advance-3.1.5.7z/20221009154550.png"
+    ],
+    "icon": "icons/pmplayer_advance.png"
+  }
+}

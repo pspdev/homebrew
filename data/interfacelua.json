@@ -1,0 +1,28 @@
+{
+  "name": "InterfaceLua",
+  "id": "interfacelua",
+  "summary": "UI shell for PSP.",
+  "author": "Glynnder",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.00",
+      "url": "https://archive.org/download/interface-lua.-7z/InterfaceLua.zip",
+      "published_at": "2006-08-17",
+      "size": 6546689,
+      "sha256": "883afeefefdfd1dce6646b595d79047f0909b587fe3b09e565aab8122b6f01f3",
+      "eboot_md5": "da5a9a75f860fd94e5259c8dfca2a1ae"
+    }
+  ],
+  "tags": [
+    "QJ.NET and Lik-sang Summer Homebrew Competition (2006)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/interface-lua.-7z/EBOO00649_00000.jpg"
+    ],
+    "icon": "icons/interfacelua.png"
+  }
+}

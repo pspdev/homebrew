@@ -1,0 +1,28 @@
+{
+  "name": "PSPadrive",
+  "id": "pspadrive",
+  "summary": "Customised port of the Genesis / Megadrive emulator genesisplus.",
+  "author": "HamsterBert",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1",
+      "url": "https://archive.org/download/pspadrive.7z/pspadrive.zip",
+      "published_at": "2006-03-19",
+      "size": 1225095,
+      "sha256": "9d3744442e0ebdad1aec80aa565d5cfa306e8c3493c2820ae9af97d9c79bd579",
+      "eboot_md5": "237a9413bed4180f1aa004fc070aa4bd"
+    }
+  ],
+  "tags": [
+    "NEO Spring 2006"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspadrive.7z/PSPA01406_00000.jpg"
+    ],
+    "icon": "icons/pspadrive.png"
+  }
+}

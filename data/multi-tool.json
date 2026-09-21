@@ -1,0 +1,26 @@
+{
+  "name": "Multi-Tool",
+  "id": "multi-tool",
+  "summary": "Utility app for PSP.",
+  "author": "jackjason",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/multi-tool-1.0-final.-7z/Multi_Tool_1.0_Final.zip",
+      "published_at": "2011-05-30",
+      "size": 2060270,
+      "sha256": "b98132e3276805e59af21abd87fe1824d279670350f14d266ab968383c172852",
+      "eboot_md5": "22714f5700c1a3a79d8764bc6c288691"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/multi-tool-1.0-final.-7z/pic_0000.png"
+    ],
+    "icon": "icons/multi-tool.png"
+  }
+}

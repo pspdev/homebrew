@@ -1,0 +1,26 @@
+{
+  "name": "ICO Applicator",
+  "id": "ico_applicator",
+  "summary": "Homebrew app for PSP.",
+  "author": "jojodu0010",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/ico-aplicator-v-2.7z/ico%20aplicator%20V2.zip",
+      "published_at": "2007-05-27",
+      "size": 2958483,
+      "sha256": "d13c4276d36af452b7827ae5ce32515cb604a04dcc7540d679b6757bd19324bd",
+      "eboot_md5": "c2906be606988e019c3c1b4a0158fe79"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ico-aplicator-v-2.7z/ICO%2001474_00002.png"
+    ],
+    "icon": "icons/ico_applicator.png"
+  }
+}

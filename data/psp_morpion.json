@@ -1,0 +1,26 @@
+{
+  "name": "PSP Morpion",
+  "id": "psp_morpion",
+  "summary": "Noughts and crosses for PSP.",
+  "author": "Intellomanamort, Wellis",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/psp-morpion.-7z/psp-morpion-v2-light_1249032108.zip",
+      "published_at": "2009-07-31",
+      "size": 740637,
+      "sha256": "3e3a2a9bf571f7b23902d1118406e134d0d276196ad79b9437762e25d673eb2e",
+      "eboot_md5": "287d977ae0b26952fbb7d669fc12587c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-morpion.-7z/PSP-02555_00000.png"
+    ],
+    "icon": "icons/psp_morpion.png"
+  }
+}

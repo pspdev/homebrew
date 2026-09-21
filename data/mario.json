@@ -1,0 +1,26 @@
+{
+  "name": "Mario",
+  "id": "mario",
+  "summary": "Version of Sokoban for PSP.",
+  "author": "Yosh",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/mario.-7z_202104/Mario.zip",
+      "published_at": "2011-03-06",
+      "size": 399319,
+      "sha256": "4d7e981e854cb025ae65e81381e4b259d3ef3121689a368218156c6e16fef801",
+      "eboot_md5": "09d836489f0450ba7bad6726f77713d4"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mario.-7z_202104/MARI00504_00000.png"
+    ],
+    "icon": "icons/mario.png"
+  }
+}

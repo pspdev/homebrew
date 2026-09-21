@@ -1,0 +1,28 @@
+{
+  "name": "Tankw00rst",
+  "id": "tankw00rst",
+  "summary": "Homebrew game for PSP.",
+  "author": "MK2k",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/tankw00rst.psp.0.1.7z/tankw00rst.psp.0.1.zip",
+      "published_at": "2007-05-13",
+      "size": 1379202,
+      "sha256": "ca4b0ea1c30a6fefc633f92a9bb6cbf621ac600e733f41695b10f8176799025f",
+      "eboot_md5": "f69f439210586f0c11bf8eb91328b2ba"
+    }
+  ],
+  "tags": [
+    "PSP-Hacks Homebrew Competition (2007)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/tankw00rst.psp.0.1.7z/EBOO00649_00000.jpg"
+    ],
+    "icon": "icons/tankw00rst.png"
+  }
+}

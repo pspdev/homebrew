@@ -1,0 +1,28 @@
+{
+  "name": "Attack of the Mutants",
+  "id": "attack_of_the_mutants",
+  "summary": "Homebrew game for PSP.",
+  "author": "Babak Delkhoon (DeNitro)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.4a",
+      "url": "https://archive.org/download/aotm-0-3.7z/Old%20Versions/AOTM_0-3.zip",
+      "published_at": "2005-11-06",
+      "size": 1576199,
+      "sha256": "b912957df8ba2cd6a5ff135c178a407e0a27da9aa8a7b90258dc4046601c7a16",
+      "eboot_md5": "579b16f1198a0957ad6da1c26701f68e"
+    }
+  ],
+  "tags": [
+    "PSPUpdates Homebrew Contest (2005)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/aotm-0-3.7z/AOTM00305_00000.jpg"
+    ],
+    "icon": "icons/attack_of_the_mutants.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "MemoryStick-Tool",
+  "id": "memorystick-tool",
+  "summary": "Homebrew application that supposedly revives corrupted memory sticks.",
+  "author": "Gunner54",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.5",
+      "url": "https://archive.org/download/memory-stick-tool.-7z/Old%20Versions/MemoryStick-Tool.zip",
+      "published_at": "2008-08-08",
+      "size": 74490,
+      "sha256": "e42d27230e64c08657a4445ec42269087d20d285803f40c8e48948f0ccabc8f6",
+      "eboot_md5": "81f0c87fee23fe1cc4015b4ff54abe5d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/memory-stick-tool.-7z/MEMO01795_00000.jpg"
+    ],
+    "icon": "icons/memorystick-tool.png"
+  }
+}

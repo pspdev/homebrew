@@ -1,0 +1,26 @@
+{
+  "name": "Prime",
+  "id": "prime",
+  "summary": "3D shooter for PSP.",
+  "author": "Mexicouger",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Alpha 1",
+      "url": "https://archive.org/download/prime.-7z/Prime.zip",
+      "published_at": "2010-07-12",
+      "size": 48990564,
+      "sha256": "17bf3d6a9b313b01242a897ca8995ca6a47f150f56e49cb428725e5de15ab3df",
+      "eboot_md5": "75bef47cd86e65d82e551fb54c55ec79"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/prime.-7z/PRIM00509_00001.jpg"
+    ],
+    "icon": "icons/prime.png"
+  }
+}

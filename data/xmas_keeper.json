@@ -1,0 +1,26 @@
+{
+  "name": "Xmas Keeper",
+  "id": "xmas_keeper",
+  "summary": "Christmas-themed puzzle game for PSP.",
+  "author": "N64Francois",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/xmas-keeper/Xmas%20Keeper.zip",
+      "published_at": "2009-01-01",
+      "size": 8883723,
+      "sha256": "72f9a526c25bf3bed43ae78cee3eb3b3e20e9436302662ce59a20552c0d0edc4",
+      "eboot_md5": "ca09fcce063e385e6c8b0a28ef2449b8"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/xmas-keeper/XMAS01045_00001.png"
+    ],
+    "icon": "icons/xmas_keeper.png"
+  }
+}

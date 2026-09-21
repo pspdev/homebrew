@@ -1,0 +1,28 @@
+{
+  "name": "PSP BuTT0nS",
+  "id": "psp_butt0ns",
+  "summary": "Button tester for PSP.",
+  "author": "Putztuch",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.5",
+      "url": "https://archive.org/download/psp-bu-tt-0n-s-v.-1.5.7z/PSP_BuTT0nS_v._1.5.zip",
+      "published_at": "2007-01-01",
+      "size": 1747565,
+      "sha256": "1a005bac085c544b0d45142a29ff60b11eee2ca359992fc8cb357a9cc4afa12b",
+      "eboot_md5": "1388f1a6f3715cf18a9e99afd4e96cbe"
+    }
+  ],
+  "tags": [
+    "PSPSource Summer Coding Compo 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-bu-tt-0n-s-v.-1.5.7z/EBOO00649_00000.jpg"
+    ],
+    "icon": "icons/psp_butt0ns.png"
+  }
+}

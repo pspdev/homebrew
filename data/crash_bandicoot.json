@@ -1,0 +1,26 @@
+{
+  "name": "Crash Bandicoot",
+  "id": "crash_bandicoot",
+  "summary": "2D platformer.",
+  "author": "KrPsp, supermagicien",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/crash-bandicoot-v-2.7z/Crash%20Bandicoot%20V2.zip",
+      "published_at": "2010-05-16",
+      "size": 2233494,
+      "sha256": "756dfed65cc37e60da0bdebc963d8a84b46a6fd1e8a760b136f8a897334b75c7",
+      "eboot_md5": "770340c36d83474586d6d6e05c9adcb9"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/crash-bandicoot-v-2.7z/CRAS01612_00001.png"
+    ],
+    "icon": "icons/crash_bandicoot.png"
+  }
+}

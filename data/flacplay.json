@@ -1,0 +1,26 @@
+{
+  "name": "FlacPlay",
+  "id": "flacplay",
+  "summary": "Media player for PSP.",
+  "author": "Justin Sharrad",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "Beta",
+      "url": "https://archive.org/download/flacplay.7z/flacplay.zip",
+      "published_at": "2007-10-16",
+      "size": 180214,
+      "sha256": "cb561f9da1dbba298ec4434a870cb30f2ca60bd9078317b7cb271d5ba4efef55",
+      "eboot_md5": "236d6f436ef3c37b2f168f030422d5c9"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/flacplay.7z/FLAC00844_00000.jpg"
+    ],
+    "icon": "icons/flacplay.png"
+  }
+}

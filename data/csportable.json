@@ -1,0 +1,26 @@
+{
+  "name": "CSPortable",
+  "id": "csportable",
+  "summary": "Homebrew game for PSP.",
+  "author": "Dark-Seb",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.9",
+      "url": "https://archive.org/download/csportable-0.9.7z/CSPortable%200.9.zip",
+      "published_at": "2009-08-21",
+      "size": 13182527,
+      "sha256": "04b1d0879f8ccc17814cd14e02e9193ac68a73e5816fd2d191d4465ccfaf3a0c",
+      "eboot_md5": "9ef839816d96a32a955d91c5d61a1104"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/csportable-0.9.7z/CSPO01158_00000.jpg"
+    ],
+    "icon": "icons/csportable.png"
+  }
+}

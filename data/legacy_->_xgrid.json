@@ -1,0 +1,28 @@
+{
+  "name": "Legacy -> xGrid",
+  "id": "legacy_->_xgrid",
+  "summary": "Homebrew game for PSP.",
+  "author": "Jordan Rehn (SG57)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1",
+      "url": "https://archive.org/download/legacy-xgridv-1-cf.-7z/LegacyXGridv1CF.zip",
+      "published_at": "2006-01-01",
+      "size": 1944619,
+      "sha256": "99cb4091f0faaa844d84a805632d6e6b502ba0a2adc8812f607b11271df4e291",
+      "eboot_md5": "4c1d027ebe7a075d7cc98664a5be0ef4"
+    }
+  ],
+  "tags": [
+    "NEO Summer Coding Compo 2006"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/legacy-xgridv-1-cf.-7z/LEGA01152_00001.jpg"
+    ],
+    "icon": "icons/legacy_->_xgrid.png"
+  }
+}

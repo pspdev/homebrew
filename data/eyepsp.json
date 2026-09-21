@@ -1,0 +1,28 @@
+{
+  "name": "eyePSP",
+  "id": "eyepsp",
+  "summary": "Camera app.",
+  "author": "Ben Saraceno (caliFrag)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "Alpha v0.2c",
+      "url": "https://archive.org/download/eyePSP.7z/eyePSP.zip",
+      "published_at": "2012-03-06",
+      "size": 3021442,
+      "sha256": "a07c5b3185f208c19e9bf4a8c8ce9a5c5d4780137dc3162986e8415abc944669",
+      "eboot_md5": "1de775196a72e3ef5f718d38be680206"
+    }
+  ],
+  "tags": [
+    "Go!Cam"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/eyePSP.7z/EYEP00566_00000.png"
+    ],
+    "icon": "icons/eyepsp.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Psx-P",
+  "id": "psx-p",
+  "summary": "PlayStation 1 emulator for PSP. Requires the SCPH1001.BIN bios file. Note: version Alpha 2 of this emulator was released after version Beta 1.",
+  "author": "Yoshihiro",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "Alpha 2",
+      "url": "https://archive.org/download/psxp.-7z/Psx-P_Alpha_2_FW1.50.zip",
+      "published_at": "2006-11-19",
+      "size": 1528605,
+      "sha256": "0887535c73546f40c28f55c96714e489fb732bef7246d9eb2767afb3513e0f42",
+      "eboot_md5": "0342fce8e43368098f06721076cea95a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psxp.-7z/PSX-01614_00000.jpg"
+    ],
+    "icon": "icons/psx-p.png"
+  }
+}

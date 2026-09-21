@@ -1,0 +1,26 @@
+{
+  "name": "Luabyrinthe",
+  "id": "luabyrinthe",
+  "summary": "Simple maze game for PSP.",
+  "author": "Benja135",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.5",
+      "url": "https://archive.org/download/luabyrinthe_v1.5.7z/luabyrinthe_v1.5.zip",
+      "published_at": "2008-01-20",
+      "size": 2174725,
+      "sha256": "76ea09207a621604e40f222e6f07a9ffd654dd81abfc8665dd9af328376ef3c5",
+      "eboot_md5": "13c0b3b4bd9b9b8218c07b500a2c43e0"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/luabyrinthe_v1.5.7z/LUAB01552_00000.jpg"
+    ],
+    "icon": "icons/luabyrinthe.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Au Revoir au Moustique",
+  "id": "au_revoir_au_moustique",
+  "summary": "This app can supposedly keep mosquitoes away.",
+  "author": "Jade2293",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "3",
+      "url": "https://archive.org/download/good-bye-moskito-v-3.7z/GoodBye%20Moskito%20V3.zip",
+      "published_at": "2009-12-25",
+      "size": 1543324,
+      "sha256": "50618cffd0ee145bb82ac0014e82ee801f582f355c7496a27fa758fed7e46f56",
+      "eboot_md5": "50b4c10c0f07c2d0b85e8ce301e22060"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/good-bye-moskito-v-3.7z/GOOD01624_00000.png"
+    ],
+    "icon": "icons/au_revoir_au_moustique.png"
+  }
+}

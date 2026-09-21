@@ -1,0 +1,26 @@
+{
+  "name": "iLoader",
+  "id": "iloader",
+  "summary": "ISO loader for PSP.",
+  "author": "iPSad, ardatan, psphbldude",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "R2",
+      "url": "https://archive.org/download/iLoader.7z/iLoader.zip",
+      "published_at": "2010-06-28",
+      "size": 134991,
+      "sha256": "9b056dcdec1598b65287deb535e674af50393396b810963aaf81fee5de8d579d",
+      "eboot_md5": "c0c9fabc28317f27d11e906bbc7ccb5c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/iLoader.7z/ILOA00704_00000.jpg"
+    ],
+    "icon": "icons/iloader.png"
+  }
+}

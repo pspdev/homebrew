@@ -1,0 +1,26 @@
+{
+  "name": "PSP Stacks",
+  "id": "psp_stacks",
+  "summary": "Homebrew game for PSP.",
+  "author": "Jamie Fuller",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1",
+      "url": "https://archive.org/download/psp-stacks-v-1.7z/PSP_Stacks_v1.zip",
+      "published_at": "2007-02-27",
+      "size": 6336897,
+      "sha256": "7099f0d9116243326b5792544e0ddf68f04fb22fbbc2dd7fa9f497fd0f8f71d9",
+      "eboot_md5": "4da3cd7e4568bd3618c96f75392d7b36"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-stacks-v-1.7z/PSP_01217_00000.jpg"
+    ],
+    "icon": "icons/psp_stacks.png"
+  }
+}

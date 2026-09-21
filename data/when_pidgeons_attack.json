@@ -1,0 +1,26 @@
+{
+  "name": "When Pidgeons Attack",
+  "id": "when_pidgeons_attack",
+  "summary": "Simple homebrew game.",
+  "author": "Spastic",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/pigeons.7z/pigeons.zip",
+      "published_at": "2005-09-12",
+      "size": 819518,
+      "sha256": "32c99f30d6fa4524f006f7cc24bb12637fe8a058d7cc15fe23dfed9a69c1ef51",
+      "eboot_md5": "81665f8e9575b7b309eaf925ab92b08a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pigeons.7z/WEDG01175_00000.jpg"
+    ],
+    "icon": "icons/when_pidgeons_attack.png"
+  }
+}

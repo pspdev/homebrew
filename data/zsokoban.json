@@ -1,0 +1,26 @@
+{
+  "name": "ZSokoban",
+  "id": "zsokoban",
+  "summary": "Homebrew version of Sokoban for PSP.",
+  "author": "gdljjrod",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1",
+      "url": "https://archive.org/download/zsokoban.-7z/ZSOKOBAN.zip",
+      "published_at": "2016-01-01",
+      "size": 3761816,
+      "sha256": "34696faae5ddb5c0a8af5b84244fc28a724f5a334edbaba9efbfc0888184a583",
+      "eboot_md5": "bb54fc0d9579f8328941b2c75755fe45"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/zsokoban.-7z/EBOO00649_00000.jpg"
+    ],
+    "icon": "icons/zsokoban.png"
+  }
+}

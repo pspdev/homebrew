@@ -1,0 +1,26 @@
+{
+  "name": "Ultimate Pong Revolution",
+  "id": "ultimate_pong_revolution",
+  "summary": "Pong for PSP.",
+  "author": "ulyssedog",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/ultimate-pong-revolutionv-11-cfplus-fr.-7z/UltimatePongRevolutionv11CFPlusFr.zip",
+      "published_at": "2010-03-06",
+      "size": 5320277,
+      "sha256": "26bc6e4399ce4e4222ababac99bbb50f8d329886c5ed00dfe7f65612317edae0",
+      "eboot_md5": "3eea64fe35430964b19a43732dcc6b1f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ultimate-pong-revolutionv-11-cfplus-fr.-7z/ULTI03277_00001.png"
+    ],
+    "icon": "icons/ultimate_pong_revolution.png"
+  }
+}

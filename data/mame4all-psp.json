@@ -1,0 +1,26 @@
+{
+  "name": "MAME4ALL-PSP",
+  "id": "mame4all-psp",
+  "summary": "Arcade emulator for PSP.",
+  "author": "Kech",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.0.3",
+      "url": "https://archive.org/download/mame-4-allpsp.-7z/MAME4ALLPSP.zip",
+      "published_at": "2006-06-23",
+      "size": 2833937,
+      "sha256": "a469e4603c5415afdd06428fe34b37cbe83cbb87247cac6cd7810cc80c46c41c",
+      "eboot_md5": "8e955a34bce71d58719fe2af7895c9da"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mame-4-allpsp.-7z/MAME00800_00000.jpg"
+    ],
+    "icon": "icons/mame4all-psp.png"
+  }
+}

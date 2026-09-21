@@ -1,0 +1,26 @@
+{
+  "name": "PXdrum",
+  "id": "pxdrum",
+  "summary": "Drum machine for PSP.",
+  "author": "James Higgs (Jum)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/pxdrum_release2.7z/pxdrum_v1.2.zip",
+      "published_at": "2009-06-10",
+      "size": 9576174,
+      "sha256": "ad2483e5501699dbe3f4868d3576c120ceb9921bb2fa2479fabb31f3f4afc67c",
+      "eboot_md5": "113ba000cc88bd4b8376adc77934f06f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pxdrum_release2.7z/PXDR01554_00000.jpg"
+    ],
+    "icon": "icons/pxdrum.png"
+  }
+}

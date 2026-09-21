@@ -1,0 +1,28 @@
+{
+  "name": "The Chronicle of Mr. Sun",
+  "id": "the_chronicle_of_mr._sun",
+  "summary": "Homebrew game for PSP.",
+  "author": "DM79",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/mr-sun.-7z/Mr%20sun.zip",
+      "published_at": "2008-01-01",
+      "size": 4802436,
+      "sha256": "e24545db94ee082d8ce6e8eed4d562a0ae1bacfce409fe59066a2e6bd7a7da4c",
+      "eboot_md5": "a885cc82a4d3f9524e19c98926fbef95"
+    }
+  ],
+  "tags": [
+    "NEO Spring Coding Compo 2008"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mr-sun.-7z/MR%20S00565_00000.jpg"
+    ],
+    "icon": "icons/the_chronicle_of_mr._sun.png"
+  }
+}

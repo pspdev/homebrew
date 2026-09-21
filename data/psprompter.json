@@ -1,0 +1,26 @@
+{
+  "name": "PSPrompter",
+  "id": "psprompter",
+  "summary": "Homebrew app for PSP.",
+  "author": "PSP-Tools",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.5",
+      "url": "https://archive.org/download/psprompter.-7z/PSPrompter.zip",
+      "published_at": "2009-10-20",
+      "size": 873535,
+      "sha256": "f715439f5bacdd821a3b2c3a12a14701d940f3310f3b3433deae0d0f0382dc95",
+      "eboot_md5": "819937fc21b0912aad83aadfda2247fc"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psprompter.-7z/PSPR01020_00001.jpg"
+    ],
+    "icon": "icons/psprompter.png"
+  }
+}

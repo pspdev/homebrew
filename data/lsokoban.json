@@ -1,0 +1,26 @@
+{
+  "name": "Lsokoban",
+  "id": "lsokoban",
+  "summary": "Homebrew version of Sokoban for PSP.",
+  "author": "Carl Gruber",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.5",
+      "url": "https://archive.org/download/lsokoban.7z/lsokoban.zip",
+      "published_at": "2005-12-11",
+      "size": 666915,
+      "sha256": "080049f518e1caed66e94b3500901c3ada533ecc6dcef0e17e899403b55b3f27",
+      "eboot_md5": "05d2b1c9f578439a310ad2142fd9f66b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lsokoban.7z/LPM300335_00001.jpg"
+    ],
+    "icon": "icons/lsokoban.png"
+  }
+}

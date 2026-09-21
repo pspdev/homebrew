@@ -1,0 +1,26 @@
+{
+  "name": "Numpty Physics",
+  "id": "numpty_physics",
+  "summary": "PSP version of the indie game.",
+  "author": "rock88",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/numpty-physics.-7z/Numpty_Physics.zip",
+      "published_at": "2012-02-14",
+      "size": 675016,
+      "sha256": "52312b3905e86f945ea38a489d133d020910cf1b4a96ac2a70f0804ce0b593a6",
+      "eboot_md5": "89e2558fd574d8980df219e8267a9177"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/numpty-physics.-7z/NUMP01487_00000.jpg"
+    ],
+    "icon": "icons/numpty_physics.png"
+  }
+}

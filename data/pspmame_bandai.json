@@ -1,0 +1,26 @@
+{
+  "name": "PSPMAME Bandai",
+  "id": "pspmame_bandai",
+  "summary": "MAME emulator for PSP, based on MAME 0.97. Claims support for 29 games.",
+  "author": "TMK",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.97 r0.6",
+      "url": "https://archive.org/download/mame097_psp_r06.7z/bandai.zip",
+      "published_at": "2010-03-02",
+      "size": 1305077,
+      "sha256": "3c1ba8c26246e2d659058e6c9ad98ac92a8af9264250703be0b8a30aa06e8dc0",
+      "eboot_md5": "d97f81f3a5e4d6c9fb2ef8ff13aef3dd"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mame097_psp_r06.7z/BAND00607_00000.jpg"
+    ],
+    "icon": "icons/pspmame_bandai.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Fishing",
+  "id": "fishing",
+  "summary": "Fishing game for PSP.",
+  "author": "Rechniji",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.2.3",
+      "url": "https://archive.org/download/fishing.-7z/Fishing.zip",
+      "published_at": "2010-04-04",
+      "size": 17822353,
+      "sha256": "0f7a6a2ec45e12ae9488081f830b5914e01f19d182f110fd82717155fde65278",
+      "eboot_md5": "8f19ba505f84bbdd81037ef081fbfe32"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/fishing.-7z/FISH00712_00000.jpg"
+    ],
+    "icon": "icons/fishing.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Yabause",
+  "id": "yabause",
+  "summary": "Sega Saturn emulator for PSP. Requires a bios.bin file to run.",
+  "author": "yabause, Andrew Church",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.9.10 SVN 2599",
+      "url": "https://archive.org/download/yabause-0.9.10-psp.7z/yabause-svn-2599.zip",
+      "published_at": "2010-05-29",
+      "size": 2334173,
+      "sha256": "bff7a1b267f56764d48d176e7023fd1fd7bee045f4bf19b23e720430275b1788",
+      "eboot_md5": "2d42b80b100fb3ed10a44047bad2f539"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/yabause-0.9.10-psp.7z/YABA01396_00001.png"
+    ],
+    "icon": "icons/yabause.png"
+  }
+}

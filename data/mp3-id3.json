@@ -1,0 +1,26 @@
+{
+  "name": "MP3-ID3",
+  "id": "mp3-id3",
+  "summary": "ID3 tag viewer for PSP.",
+  "author": "Matt Carroll (TheEmulatorGuy)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.01 Beta",
+      "url": "https://archive.org/download/mp3-id3.7z/mp3-id3.zip",
+      "published_at": "2006-01-01",
+      "size": 1137232,
+      "sha256": "9c50f8b142a0eb0d203299e78b9110034dfc0d37d48c1bf4df59e1b0cdc9b3eb",
+      "eboot_md5": "4fb4f256733cdeef25d0bca3a2fa52bf"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mp3-id3.7z/MP3-00573_00000.jpg"
+    ],
+    "icon": "icons/mp3-id3.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "InfoNES",
+  "id": "infones",
+  "summary": "NES emulator for PSP.",
+  "author": "TMK",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.95J",
+      "url": "https://archive.org/download/info-nes-r-03.7z/Old%20Versions/infones_r03.zip",
+      "published_at": "2005-07-09",
+      "size": 278289,
+      "sha256": "fbb4ee7ef60ee7d254992beed00e5d5c9c20e5a8ed5c849a65631422fb57df94",
+      "eboot_md5": "ebaca81672333bb61ade00060d2658ea"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/info-nes-r-03.7z/INFO00858_00000.jpg"
+    ],
+    "icon": "icons/infones.png"
+  }
+}

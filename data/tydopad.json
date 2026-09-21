@@ -1,0 +1,28 @@
+{
+  "name": "TyDoPad",
+  "id": "tydopad",
+  "summary": "Text editor for the Palm Universal Wireless Keyboard.",
+  "author": "madruscoe",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.01",
+      "url": "https://archive.org/download/tydopad_v0.01.7z/tydopad_v0.01.zip",
+      "published_at": "2007-01-19",
+      "size": 72689,
+      "sha256": "0c09b874957a95551bc5ffbeaa4f148f5c6d8185a4066f6affbfdcc72ffcd05b",
+      "eboot_md5": "ea98e13e912c78176480795da3ebce99"
+    }
+  ],
+  "tags": [
+    "IrDA"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/tydopad_v0.01.7z/__SC01260_00000.jpg"
+    ],
+    "icon": "icons/tydopad.png"
+  }
+}

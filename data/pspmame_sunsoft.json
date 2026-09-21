@@ -1,0 +1,26 @@
+{
+  "name": "PSPMAME Sunsoft",
+  "id": "pspmame_sunsoft",
+  "summary": "MAME emulator for PSP, based on MAME 0.97. Claims support for 8 games.",
+  "author": "TMK",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.97 r0.6",
+      "url": "https://archive.org/download/sunsoft.7z/sunsoft.zip",
+      "published_at": "2010-03-02",
+      "size": 1160650,
+      "sha256": "f5d55464ef4e5de5b340c79c76e9e509a2e089558ff7a3813f9fbf9e6c9efc6d",
+      "eboot_md5": "2f9e9c5794a43a264ce681507d95194a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/sunsoft.7z/SUNS00786_00000.jpg"
+    ],
+    "icon": "icons/pspmame_sunsoft.png"
+  }
+}

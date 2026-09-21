@@ -1,0 +1,26 @@
+{
+  "name": "HeadBreaker",
+  "id": "headbreaker",
+  "summary": "Homebrew game for PSP.",
+  "author": "Emeric Baveux (Emeric0101)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Test",
+      "url": "https://archive.org/download/head-breaker.-7z/HeadBreaker.zip",
+      "published_at": "2008-03-23",
+      "size": 797168,
+      "sha256": "7db1235386b16de6b0a1405bd340032c8a83e1cc2dfc8354a9304eb8ce302873",
+      "eboot_md5": "077be61ef9304686b7c8d58dc73bb7cf"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/head-breaker.-7z/HEAD01070_00001.png"
+    ],
+    "icon": "icons/headbreaker.png"
+  }
+}

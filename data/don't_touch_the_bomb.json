@@ -1,0 +1,26 @@
+{
+  "name": "Don't Touch the Bomb",
+  "id": "don't_touch_the_bomb",
+  "summary": "Homebrew game for PSP.",
+  "author": "Markef",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Demo",
+      "url": "https://archive.org/download/dttbv-demo.-7z/DTTBvDEMO.zip",
+      "published_at": "2011-11-15",
+      "size": 1338349,
+      "sha256": "675e438e3e9c3a5e171251abe59b179e593ddba5a5854984b91fc15a8e8b0e3a",
+      "eboot_md5": "7a57fa6f92fece3a000d23292d8636dd"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/dttbv-demo.-7z/DTTB00713_00000.png"
+    ],
+    "icon": "icons/don't_touch_the_bomb.png"
+  }
+}

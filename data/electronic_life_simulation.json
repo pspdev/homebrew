@@ -1,0 +1,26 @@
+{
+  "name": "Electronic Life Simulation",
+  "id": "electronic_life_simulation",
+  "summary": "3D utility app - walk into each room to access a given app.",
+  "author": "Team Bolt",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "Beta 2.1",
+      "url": "https://archive.org/download/e-life-beta-2.1.7z/E-Life%20Beta%202.1.zip",
+      "published_at": "2009-06-11",
+      "size": 9506335,
+      "sha256": "53fb25ec78449c7a769e5fcd631f7310416f3db48427447fb90a5fede7fd76d1",
+      "eboot_md5": "89b40e5019f0668850d87af1b86434b3"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/e-life-beta-2.1.7z/E-LI01087_00004.png"
+    ],
+    "icon": "icons/electronic_life_simulation.png"
+  }
+}

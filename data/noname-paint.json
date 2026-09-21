@@ -1,0 +1,26 @@
+{
+  "name": "NoNaMe-PaInT",
+  "id": "noname-paint",
+  "summary": "Drawing app for PSP.",
+  "author": "Marc Weisser",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/no-na-me-pa-in-t.-7z/nonamepaint.zip",
+      "published_at": "2006-12-15",
+      "size": 1452399,
+      "sha256": "7364f6e1e6633a077077fe1b6e653427a123f052e5a3f200a57f15868962db63",
+      "eboot_md5": "5f07cc925b90aa8a694cf08e8eeb5100"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/no-na-me-pa-in-t.-7z/NONA01178_00000.jpg"
+    ],
+    "icon": "icons/noname-paint.png"
+  }
+}

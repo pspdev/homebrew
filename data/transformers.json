@@ -1,0 +1,26 @@
+{
+  "name": "Transformers",
+  "id": "transformers",
+  "summary": "Fan game for PSP.",
+  "author": "Jack118218",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/tranformersv0.2.7z/tranformersv0.2.zip",
+      "published_at": "2008-01-01",
+      "size": 6773660,
+      "sha256": "1d482f57888dd51119eb75ccf80508dffffd79f367e250512b01a8dbc41a024e",
+      "eboot_md5": "9fb0cdf3692db1d315fe17b9cd998803"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/tranformersv0.2.7z/snap.png"
+    ],
+    "icon": "icons/transformers.png"
+  }
+}

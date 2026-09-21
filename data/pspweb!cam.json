@@ -1,0 +1,26 @@
+{
+  "name": "PSPWeb!Cam",
+  "id": "pspweb!cam",
+  "summary": "Homebrew app for PSP.",
+  "author": "Roman Vaughan",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/pspweb-cam-v-0.1.7z/PSPWeb%21Cam%20V0.1.zip",
+      "published_at": "2009-01-28",
+      "size": 308524,
+      "sha256": "d09596e5726de4351fedc7eff826d7907c8fb601bf8d9e60d2f8c13ee25a9f92",
+      "eboot_md5": "dac0ad92a1e80f24acea2bb676c66608"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspweb-cam-v-0.1.7z/PSPW01096_00000.jpg"
+    ],
+    "icon": "icons/pspweb!cam.png"
+  }
+}

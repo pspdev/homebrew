@@ -1,0 +1,28 @@
+{
+  "name": "Magic",
+  "id": "magic",
+  "summary": "Number-guessing game for PSP.",
+  "author": "unai",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.5",
+      "url": "https://archive.org/download/magic_202108/Magic.zip",
+      "published_at": "2011-02-13",
+      "size": 10613422,
+      "sha256": "ea842e7a5042a0170621deac480133667f4dc759b1f45f9afaf4b7834c8fe45b",
+      "eboot_md5": "4a3426aab0ce52b209da358a21183f43"
+    }
+  ],
+  "tags": [
+    "Scenery Beta 2010"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/magic_202108/MAGI00481_00001.png"
+    ],
+    "icon": "icons/magic.png"
+  }
+}

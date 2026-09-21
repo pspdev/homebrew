@@ -1,0 +1,26 @@
+{
+  "name": "Helicopter",
+  "id": "helicopter",
+  "summary": "Homebrew game for PSP.",
+  "author": "Shatterdome",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.8",
+      "url": "https://archive.org/download/helicopter-0.8.7z/Helicopter0.8.zip",
+      "published_at": "2006-01-01",
+      "size": 803376,
+      "sha256": "bcfb867fd2fb0158bdaf4bdb5d0d724deb638aff9e596bf22a6526a0585446b7",
+      "eboot_md5": "465a8a1df9ec434f9483db62ac400f95"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/helicopter-0.8.7z/HELI00751_00000.jpg"
+    ],
+    "icon": "icons/helicopter.png"
+  }
+}

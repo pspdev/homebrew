@@ -1,0 +1,28 @@
+{
+  "name": "Cristal Sky",
+  "id": "cristal_sky",
+  "summary": "Homebrew app for PSP.",
+  "author": "Arb\u00ebr",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "01092010CS",
+      "url": "https://archive.org/download/cristal-sky-demo/CristalSkyDEMO.zip",
+      "published_at": "2010-09-04",
+      "size": 3470012,
+      "sha256": "6b0176db60e6e048f430545624d3f09702a55757062ba202ff024c2db90de76b",
+      "eboot_md5": "4e796cc270010fcd3625843d1fba5eef"
+    }
+  ],
+  "tags": [
+    "Scenery Beta 2010"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/cristal-sky-demo/20210824140334.png"
+    ],
+    "icon": "icons/cristal_sky.png"
+  }
+}

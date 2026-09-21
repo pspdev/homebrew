@@ -1,0 +1,26 @@
+{
+  "name": "PsPang",
+  "id": "pspang",
+  "summary": "PSP version of the game.",
+  "author": "DingoFR",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.3",
+      "url": "https://archive.org/download/pang.7z/pang.zip",
+      "published_at": "2006-03-12",
+      "size": 1505580,
+      "sha256": "4377455e65d48af68e97082d366f3878e14d0e3d96cad82e9ed338ab2df86040",
+      "eboot_md5": "5d702f4f17faf1f14920acfab79fca4c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pang.7z/PANG00422_00000.jpg"
+    ],
+    "icon": "icons/pspang.png"
+  }
+}

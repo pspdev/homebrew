@@ -1,0 +1,26 @@
+{
+  "name": "Biography of U.S. Presidents",
+  "id": "biography_of_u.s._presidents",
+  "summary": "Homebrew app for PSP.",
+  "author": "SuperbatXS",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "Beta",
+      "url": "https://archive.org/download/biography-of-u.-s.-presidents.-7z/Biography%20of%20U.S.%20Presidents.zip",
+      "published_at": "2007-02-04",
+      "size": 5235891,
+      "sha256": "3bf761812dc0af62612deca376bc5711283361a0f376c64d3059d4c1fe5bd583",
+      "eboot_md5": "c1589a085483649420df7575bda44434"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/biography-of-u.-s.-presidents.-7z/BIOG02559_00000.jpg"
+    ],
+    "icon": "icons/biography_of_u.s._presidents.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Beatbox",
+  "id": "beatbox",
+  "summary": "Beatbox app for PSP.",
+  "author": "Babkock",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.6",
+      "url": "https://archive.org/download/beatbox.-7z/Beatbox.zip",
+      "published_at": "2011-01-01",
+      "size": 3331017,
+      "sha256": "675de5f94662c7efc659099b130c4a7a19109c6bf6e95cc8be6c8d942b4c3f5f",
+      "eboot_md5": "0f4ea173a59e64094116ed284813df4d"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/beatbox.-7z/pic_0002.png"
+    ],
+    "icon": "icons/beatbox.png"
+  }
+}

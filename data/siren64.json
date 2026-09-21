@@ -1,0 +1,26 @@
+{
+  "name": "Siren64",
+  "id": "siren64",
+  "summary": "Fork of DaedalusX64. It was created to support the game Fushigi no Dungeon - Furai no Siren 2.",
+  "author": "4CLOVERS",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "466",
+      "url": "https://archive.org/download/siren-64-rev-466.-7z/Siren64(Rev466).zip",
+      "published_at": "2010-02-18",
+      "size": 2001576,
+      "sha256": "d7796e862c96d40a048215122dfbead0ff39f8460ecdc1c80cf285a01a1d351f",
+      "eboot_md5": "4031fb8c53fe7acbdd128c56ad23c364"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/siren-64-rev-466.-7z/pic_0000.png"
+    ],
+    "icon": "icons/siren64.png"
+  }
+}

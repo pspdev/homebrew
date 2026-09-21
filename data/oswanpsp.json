@@ -1,0 +1,26 @@
+{
+  "name": "OswanPSP",
+  "id": "oswanpsp",
+  "summary": "WonderSwan emulator for PSP.",
+  "author": "bird_may_nike",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.2.0",
+      "url": "https://archive.org/download/oswan-psp-020.7z/OswanPSP020.zip",
+      "published_at": "2008-05-27",
+      "size": 132870,
+      "sha256": "2070d85f94d3f7cfd30eeea8bcf991189d265669d3099b298336f40140d85fd9",
+      "eboot_md5": "217e821447ba41f825ada91a0aa4da3e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/oswan-psp-020.7z/20210619050159.png"
+    ],
+    "icon": "icons/oswanpsp.png"
+  }
+}

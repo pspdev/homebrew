@@ -1,0 +1,26 @@
+{
+  "name": "Lua Utility Applications",
+  "id": "lua_utility_applications",
+  "summary": "Utility apps for PSP.",
+  "author": "Xandu, Glynnder",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.05",
+      "url": "https://archive.org/download/l-ua-v-1.0.5-unofficial.-7z/L_UA%20v1.0.5%20UNOFFICIAL.zip",
+      "published_at": "2006-10-22",
+      "size": 1826951,
+      "sha256": "824470dd7227b916ab8eb6a38f3f32b911eb037e8a2c01d4ba9bcce4a51793f0",
+      "eboot_md5": "8eebf49bc33b8a004ccadb5d90a35f46"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/l-ua-v-1.0.5-unofficial.-7z/L_UA00321_00000.jpg"
+    ],
+    "icon": "icons/lua_utility_applications.png"
+  }
+}

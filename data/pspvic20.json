@@ -1,0 +1,26 @@
+{
+  "name": "PSPVic20",
+  "id": "pspvic20",
+  "summary": "Commodore VIC-20 emulator for PSP.",
+  "author": "Christophe Kohler, Drsepe, Dazman",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.1b",
+      "url": "https://archive.org/download/pspvic20.7z/pspvic20.zip",
+      "published_at": "2018-12-01",
+      "size": 2147078,
+      "sha256": "20914ad2ce553098e2c221d39fb9c31d02b4ecb17d337e8d4392787a2460dbee",
+      "eboot_md5": "e0706d1fc05ede1725879330617b7a03"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspvic20.7z/PSPV00759_00003.jpg"
+    ],
+    "icon": "icons/pspvic20.png"
+  }
+}

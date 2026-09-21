@@ -1,0 +1,26 @@
+{
+  "name": "Touhou Mohofu Mod",
+  "id": "touhou_mohofu_mod",
+  "summary": "Mod of the Touhou Project fan game Toho Imitation Style.",
+  "author": "EmiyaBestBoy",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "r40.2",
+      "url": "https://archive.org/download/touhou-mohofu-mod-r-40.2/Touhou%20Mohofu%20Mod%20r40.2.zip",
+      "published_at": "2019-06-24",
+      "size": 34937982,
+      "sha256": "f93e239199d9c9a877e750eba4fe500f393cbde101426cf06a1b9bcb23e5c260",
+      "eboot_md5": "cfaf85af3d4de7c1b6ec1578dd01113d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/touhou-mohofu-mod-r-40.2/20221008234000.png"
+    ],
+    "icon": "icons/touhou_mohofu_mod.png"
+  }
+}

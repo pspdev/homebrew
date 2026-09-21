@@ -1,0 +1,26 @@
+{
+  "name": "NesterJ Plus RM",
+  "id": "nesterj_plus_rm",
+  "summary": "Version of the NES emulator for PSP originally ported by Ruka.",
+  "author": "davex",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.12 Plus 0.61 RM",
+      "url": "https://archive.org/download/nester-p.-7z_202106/NesterP.zip",
+      "published_at": "2010-02-03",
+      "size": 932036,
+      "sha256": "3ed6bd405b4e3b267a065945d8caee07a664f080c9a25efbfbd3d9a205b1e4de",
+      "eboot_md5": "ca33630b1c1e3c99989c153767b8fea7"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/nester-p.-7z_202106/NEST00705_00000.jpg"
+    ],
+    "icon": "icons/nesterj_plus_rm.png"
+  }
+}

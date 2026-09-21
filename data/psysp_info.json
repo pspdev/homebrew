@@ -1,0 +1,26 @@
+{
+  "name": "PSysP Info",
+  "id": "psysp_info",
+  "summary": "Utility app for PSP.",
+  "author": "Glynnder",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.15b",
+      "url": "https://archive.org/download/psys-p-info-1.15b.-7z/PSysP%20Info%201.15b.zip",
+      "published_at": "2006-01-01",
+      "size": 1693364,
+      "sha256": "1edfdecc11e986b5ea7e1e863972200c4a3211c09c9c528c63cc7a48b995ceb6",
+      "eboot_md5": "105230e55d9918e4517dfda22ceeac3b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psys-p-info-1.15b.-7z/PSYS01234_00000.jpg"
+    ],
+    "icon": "icons/psysp_info.png"
+  }
+}

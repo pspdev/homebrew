@@ -1,0 +1,26 @@
+{
+  "name": "PSP Filer [PSP\u30d5\u30a1\u30a4\u30e9\u30fc]",
+  "id": "psp_filer_[psp\u30d5\u30a1\u30a4\u30e9\u30fc]",
+  "summary": "File manager for PSP.",
+  "author": "Mediumgauge",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "6.6",
+      "url": "https://archive.org/download/file-00370-00000/pspfiler.zip",
+      "published_at": "2010-01-31",
+      "size": 1251446,
+      "sha256": "0a293bf7cf502e96cce84dd0e8009ac34131bb31cabe1d373aa14fac9f74d874",
+      "eboot_md5": "88e0ea5e45274bcbd16fb73c71adf16c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/file-00370-00000/FILE00370_00000.jpg"
+    ],
+    "icon": "icons/psp_filer_[psp\u30d5\u30a1\u30a4\u30e9\u30fc].png"
+  }
+}

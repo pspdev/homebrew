@@ -1,0 +1,26 @@
+{
+  "name": "PSPFCodes",
+  "id": "pspfcodes",
+  "summary": "Explanation of PSP error codes.",
+  "author": "Stehn",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/pspfcodes-v.-2.7z/PSPFCodes%20v.%202.zip",
+      "published_at": "2011-02-09",
+      "size": 486398,
+      "sha256": "12ce3797e541bd6ef26982a8f57a885573f1a977511af1ed3592bfc960f8c60b",
+      "eboot_md5": "22410e8bb9ff529daf4af73c89907c0d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspfcodes-v.-2.7z/pic_0003.png"
+    ],
+    "icon": "icons/pspfcodes.png"
+  }
+}

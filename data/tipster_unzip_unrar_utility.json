@@ -1,0 +1,26 @@
+{
+  "name": "Tipster Unzip/Unrar Utility",
+  "id": "tipster_unzip_unrar_utility",
+  "summary": "Zip and Rar file extractor for PSP.",
+  "author": "Matthew Harris (AnonymousTipster)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.3",
+      "url": "https://archive.org/download/tipster-unzip-unrar-03.7z/TipsterUnzipUnrar03.zip",
+      "published_at": "2006-06-13",
+      "size": 1194648,
+      "sha256": "b860f09240ae845d65e864b6ad26d494ab8120862180173ae815106be866410b",
+      "eboot_md5": "eda9ac21444cfeea7497130d7256e7fb"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/tipster-unzip-unrar-03.7z/TIPS01900_00000.png"
+    ],
+    "icon": "icons/tipster_unzip_unrar_utility.png"
+  }
+}

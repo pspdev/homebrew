@@ -1,0 +1,26 @@
+{
+  "name": "ToolHB",
+  "id": "toolhb",
+  "summary": "Eboot utility app.",
+  "author": "Albandu51",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/tool-hb-1.1.7z/ToolHb1.1.zip",
+      "published_at": "2008-10-28",
+      "size": 428482,
+      "sha256": "16c58d910102c7f31bc06e9c7251612f9e8d35223871eeb35dd4d68d115768bf",
+      "eboot_md5": "d1f826cdd5dc89a1f93fa2ee959dc7be"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/tool-hb-1.1.7z/pic_0000.png"
+    ],
+    "icon": "icons/toolhb.png"
+  }
+}

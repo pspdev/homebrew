@@ -1,0 +1,26 @@
+{
+  "name": "PSPMAME Upl",
+  "id": "pspmame_upl",
+  "summary": "MAME emulator for PSP, based on MAME 0.97. Claims support for 33 games. A compatibility list for an earlier version is available (in Japanese).",
+  "author": "TMK",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.97 r0.6",
+      "url": "https://archive.org/download/upl.7z/upl.zip",
+      "published_at": "2010-03-02",
+      "size": 978610,
+      "sha256": "ebe5eae74dac4eb7402d70882d53a296bec03e797ee6bbf1b14df7e0e61ebe14",
+      "eboot_md5": "fa48d15d28df10c09cdf800af053b97d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/upl.7z/UPLH00337_00000.jpg"
+    ],
+    "icon": "icons/pspmame_upl.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "The Eye of Typhoon",
+  "id": "the_eye_of_typhoon",
+  "summary": "Homebrew recreation of a NeoGeo game.",
+  "author": "OzzyOuzo, Johnny16bit",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Beta 3",
+      "url": "https://archive.org/download/teotbeta-psp/teot[Beta-PSP].zip",
+      "published_at": "2022-03-30",
+      "size": 23368465,
+      "sha256": "3e52dd3daacdf14e86f14969afca18751afb46edd901be26b40b090a9e673f56",
+      "eboot_md5": "a94ee4807210a55596c9dd8c8e1330f2"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/teotbeta-psp/TEOT01296_00000.png"
+    ],
+    "icon": "icons/the_eye_of_typhoon.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Directories Maker",
+  "id": "directories_maker",
+  "summary": "Homebrew app for PSP.",
+  "author": "Stifpsp",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.20",
+      "url": "https://archive.org/download/directories-maker-1.20/Directories%20Maker%201.20.zip",
+      "published_at": "2009-05-11",
+      "size": 1568188,
+      "sha256": "f5a972920c13ebb5aec65571a95b7ebbaa1a8a45f0da08734786e99d77340bf6",
+      "eboot_md5": "28503d87cc595f6d7db7ced65f6355df"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/directories-maker-1.20/DIRE01902_00000.png"
+    ],
+    "icon": "icons/directories_maker.png"
+  }
+}

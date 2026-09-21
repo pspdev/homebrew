@@ -1,0 +1,28 @@
+{
+  "name": "AutoGrapher",
+  "id": "autographer",
+  "summary": "Graphic calculator for PSP.",
+  "author": "10$man",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.5",
+      "url": "https://archive.org/download/auto-grapher.-7z/AutoGrapher.zip",
+      "published_at": "2011-01-01",
+      "size": 6690502,
+      "sha256": "f2e7cdb9feb69280c15add8f61af36df439cd3214265ca6e743a5f13be149403",
+      "eboot_md5": "bbabed84e4b8c0c2c991d9db45b94541"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/auto-grapher.-7z/pic_0000.png"
+    ],
+    "icon": "icons/autographer.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Project Savior: The Teaser",
+  "id": "project_savior_the_teaser",
+  "summary": "Mod of PSP Dungeons 3D.",
+  "author": "EinhanderZwei",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.00",
+      "url": "https://archive.org/download/ps-teaser.-7z/PS_Teaser.zip",
+      "published_at": "2011-12-09",
+      "size": 2054348,
+      "sha256": "7aa2783922386417e3abab901f435ebbf504a5194a90a8b3fe79c94c54b7990c",
+      "eboot_md5": "637abda320fcba7a9a9b42618e4d53d5"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ps-teaser.-7z/PS_T01494_00000.jpg"
+    ],
+    "icon": "icons/project_savior_the_teaser.png"
+  }
+}

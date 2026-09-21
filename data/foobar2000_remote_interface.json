@@ -1,0 +1,26 @@
+{
+  "name": "Foobar2000 Remote Interface",
+  "id": "foobar2000_remote_interface",
+  "summary": "App to control the PC-based Foobar2000 media player through the PSP's Wi-Fi connection.",
+  "author": "Trex6662k5",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/foobar-ri-1.2.7z/Foobar%20RI%201.2.zip",
+      "published_at": "2007-03-08",
+      "size": 655107,
+      "sha256": "d8f7b9fd99e6b9b915ee39c929803e15079e452bc90ee402606fe67a5b5746cb",
+      "eboot_md5": "a4d64d8940ec1560e51b5bedd9f588db"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/foobar-ri-1.2.7z/20210627155817.png"
+    ],
+    "icon": "icons/foobar2000_remote_interface.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Penguin Scramble",
+  "id": "penguin_scramble",
+  "summary": "Homebrew game for PSP.",
+  "author": "Percival",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/penguin.7z/penguin.zip",
+      "published_at": "2006-02-01",
+      "size": 721999,
+      "sha256": "0095dc73692b097f23cf90e7c3e76c6ffd35274a5f5df6c06136c56e83d2b478",
+      "eboot_md5": "36c375974ad6ec73ed134ce623b496b3"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/penguin.7z/PENG01848_00000.jpg"
+    ],
+    "icon": "icons/penguin_scramble.png"
+  }
+}

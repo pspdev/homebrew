@@ -1,0 +1,26 @@
+{
+  "name": "Mario et Luigi : Operation Espace",
+  "id": "mario_et_luigi__operation_espace",
+  "summary": "Fan game for PSP.",
+  "author": "bibi595",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.5.0",
+      "url": "https://archive.org/download/mario-final-1.50.7z/Mario%20final%201.50.zip",
+      "published_at": "2006-10-28",
+      "size": 2480384,
+      "sha256": "e0c8379f576a1ea993b7ecf28162e870b4d7fad347c1ac241c19717d81ecc108",
+      "eboot_md5": "bae92a0fb120158c53670de4f48935a9"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mario-final-1.50.7z/MARI01286_00000.jpg"
+    ],
+    "icon": "icons/mario_et_luigi__operation_espace.png"
+  }
+}

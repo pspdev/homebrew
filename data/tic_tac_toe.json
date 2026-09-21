@@ -1,0 +1,26 @@
+{
+  "name": "Tic Tac Toe",
+  "id": "tic_tac_toe",
+  "summary": "Noughts and crosses for PSP.",
+  "author": "EvilDooinz",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/tictactoe3xx.7z/tictactoe3xx.zip",
+      "published_at": "2007-11-11",
+      "size": 718180,
+      "sha256": "011e1cc9197e6d2105a127df970d1de90dd827f0a6468bfad1087d0678461d42",
+      "eboot_md5": "4119ebe54e3c637d0679a69bf4fcbaae"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/tictactoe3xx.7z/TICT01251_00001.png"
+    ],
+    "icon": "icons/tic_tac_toe.png"
+  }
+}

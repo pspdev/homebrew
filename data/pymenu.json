@@ -1,0 +1,28 @@
+{
+  "name": "pyMenu",
+  "id": "pymenu",
+  "summary": "Homebrew app for PSP.",
+  "author": "Acid Snake",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.3",
+      "url": "https://archive.org/download/pymenu03_pro.7z/pymenu03_pro.zip",
+      "published_at": "2012-11-14",
+      "size": 4274745,
+      "sha256": "bdee53fc7cc3e1c9e86cee7cc8e0dbacf55397938924af43c6c8890e2349cf70",
+      "eboot_md5": "3d3c7d4e09c766f0bd15a82f5c0253f4"
+    }
+  ],
+  "tags": [
+    "python"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pymenu03_pro.7z/20210717092925.png"
+    ],
+    "icon": "icons/pymenu.png"
+  }
+}

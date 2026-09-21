@@ -1,0 +1,26 @@
+{
+  "name": "Frontier 1337",
+  "id": "frontier_1337",
+  "summary": "PSP port of Frontier Elite II.",
+  "author": "Etienne B\u00e9gu\u00e9 (Txori)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.3.0",
+      "url": "https://archive.org/download/frontier_1337.7z/frontier_1337.zip",
+      "published_at": "2011-10-05",
+      "size": 16589844,
+      "sha256": "9282aba96fe6acab9fea324a55ebff94ebd364caf8f49c33714c0c924f142904",
+      "eboot_md5": "f3a9eb36c2b07b0dc2817b37eb1f00ab"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/frontier_1337.7z/FRON01174_00003.jpg"
+    ],
+    "icon": "icons/frontier_1337.png"
+  }
+}

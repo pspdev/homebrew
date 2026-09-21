@@ -1,0 +1,26 @@
+{
+  "name": "NetHack PSP",
+  "id": "nethack_psp",
+  "summary": "PSP port of the game.",
+  "author": "VirtuaMUnstaz, Pawa",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0d",
+      "url": "https://archive.org/download/net-hack-psp.-7z/Old%20Versions/NetHackPSP-1.0c.zip",
+      "published_at": "2006-08-05",
+      "size": 2852526,
+      "sha256": "795146e095b71d09072728b7f568b3fe4ed4663671f3a56a1f85706855e994df",
+      "eboot_md5": "e4356d68493158bd9850efdf8da74ceb"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/net-hack-psp.-7z/NETH00913_00000.png"
+    ],
+    "icon": "icons/nethack_psp.png"
+  }
+}

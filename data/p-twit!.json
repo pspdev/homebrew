@@ -1,0 +1,26 @@
+{
+  "name": "p-twit!",
+  "id": "p-twit!",
+  "summary": "Twitter client for PSP.",
+  "author": "BadBoy_",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.0.2",
+      "url": "https://archive.org/download/ptwit_v0.0.2.7z/ptwit_v0.0.2.zip",
+      "published_at": "2008-07-25",
+      "size": 749878,
+      "sha256": "f11ba91f8ec924872bba71683438852e36e3759077407ecf920e2335fd23f8db",
+      "eboot_md5": "76199bc987a7bb8798d1a572249b9a26"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ptwit_v0.0.2.7z/PTWI01019_00000.jpg"
+    ],
+    "icon": "icons/p-twit!.png"
+  }
+}

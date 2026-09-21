@@ -1,0 +1,26 @@
+{
+  "name": "CrossCraft Classic",
+  "id": "crosscraft_classic",
+  "summary": "Minecraft-inspired homebrew game for PSP.",
+  "author": "Nathan Bourgeois (IridescentRose), MotoLegacy",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.3",
+      "url": "https://archive.org/download/cross-craft-psp/Old%20Versions/CrossCraft-PSP.zip",
+      "published_at": "2022-12-01",
+      "size": 1599858,
+      "sha256": "7c3cf84902e22eec14c5fffb3f382607347a6d3a759eb3fc381d681ecf22db21",
+      "eboot_md5": "1b63463f33532c49d48c97b9deacd1d3"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/cross-craft-psp/CROS01306_00000.png"
+    ],
+    "icon": "icons/crosscraft_classic.png"
+  }
+}

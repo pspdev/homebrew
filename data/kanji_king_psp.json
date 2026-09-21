@@ -1,0 +1,26 @@
+{
+  "name": "Kanji King PSP",
+  "id": "kanji_king_psp",
+  "summary": "Language learning app for PSP.",
+  "author": "iya",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.7",
+      "url": "https://archive.org/download/kanji-king-psp.-7z/KanjiKingPSP.zip",
+      "published_at": "2013-02-05",
+      "size": 20872674,
+      "sha256": "921fd1807e7ef2bde1c82fbc1a1e7eaf5c54c60803e4484080750eba22db744b",
+      "eboot_md5": "0b4719e1fced375241871c40b9b99a19"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/kanji-king-psp.-7z/KANJ01129_00001.jpg"
+    ],
+    "icon": "icons/kanji_king_psp.png"
+  }
+}

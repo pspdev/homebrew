@@ -1,0 +1,26 @@
+{
+  "name": "uMSX",
+  "id": "umsx",
+  "summary": "MSX emulator for PSP.",
+  "author": "Uguru",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/uMSX.7z/uMSX.zip",
+      "published_at": "2008-06-30",
+      "size": 829642,
+      "sha256": "296c0e1b78c0668c9a1c58abc48c0f8ad30ad38fa89e1a08d6221ef5ccb12de4",
+      "eboot_md5": "aab06fee3cc382298770f547b4ecc3a0"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/uMSX.7z/UMSX00365_00000.jpg"
+    ],
+    "icon": "icons/umsx.png"
+  }
+}

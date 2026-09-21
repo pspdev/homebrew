@@ -1,0 +1,26 @@
+{
+  "name": "Intellegenze",
+  "id": "intellegenze",
+  "summary": "Quiz game for PSP.",
+  "author": "Psphacker108",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.01",
+      "url": "https://archive.org/download/intellegenze.-7z/Intellegenze.zip",
+      "published_at": "2007-01-01",
+      "size": 2891217,
+      "sha256": "b80367c6ad772084e3eb4654319d772aec54240d85522411241d1de0ba76d2e8",
+      "eboot_md5": "93d5c3404ae8125ec0301cddd90686bd"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/intellegenze.-7z/INTE01254_00001.jpg"
+    ],
+    "icon": "icons/intellegenze.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PSP Super Portable Calendar",
+  "id": "psp_super_portable_calendar",
+  "summary": "Homebrew app for PSP.",
+  "author": "The Reefbarman",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "Beta 2",
+      "url": "https://archive.org/download/pSPCBeta2.7z/pSPCBeta2.zip",
+      "published_at": "2007-01-14",
+      "size": 2519798,
+      "sha256": "208da5431b416877184c50174a33b3d94f8c0899fc8e7f17bdd1334cce42edd4",
+      "eboot_md5": "803df9d7cfb279ff524e4873358d2bd0"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pSPCBeta2.7z/__SC00941_00000.jpg"
+    ],
+    "icon": "icons/psp_super_portable_calendar.png"
+  }
+}

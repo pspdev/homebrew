@@ -1,0 +1,26 @@
+{
+  "name": "PSP Alarm",
+  "id": "psp_alarm",
+  "summary": "Alarm app for PSP.",
+  "author": "Virtue",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.5",
+      "url": "https://archive.org/download/pspalarmv-0.5.7z/PSPAlarmv0.5.zip",
+      "published_at": "2005-12-18",
+      "size": 524486,
+      "sha256": "04361458b457ddcf01df52af11f0caf02ba1434af9c0321f124589ac0c5e3219",
+      "eboot_md5": "3fd77c8280ce23fb8cf91b2528f5dd51"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspalarmv-0.5.7z/PSPA01001_00001.jpg"
+    ],
+    "icon": "icons/psp_alarm.png"
+  }
+}

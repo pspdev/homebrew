@@ -1,0 +1,26 @@
+{
+  "name": "Narutos Way",
+  "id": "narutos_way",
+  "summary": "Static car-dodging game for PSP.",
+  "author": "Shaplayer",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Beta 1",
+      "url": "https://archive.org/download/narutos-way-by-shaplayer.-7z/Narutos%20Way%20by%20Shaplayer.zip",
+      "published_at": "2011-04-29",
+      "size": 2194639,
+      "sha256": "c78027b5f0623b55277731028633164dbb25df6505a76258cbe25fcd341edfdc",
+      "eboot_md5": "801804352d9aae77f6b952431c6c00a0"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/narutos-way-by-shaplayer.-7z/pic_0000.png"
+    ],
+    "icon": "icons/narutos_way.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PKGi PSP",
+  "id": "pkgi_psp",
+  "summary": "This homebrew app allows to download and install .pkg files directly on your PSP.",
+  "author": "Dami\u00e1n Parrino (bucanero)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0.0",
+      "url": "https://archive.org/download/pkgi-psp/PKGI.zip",
+      "published_at": "2023-10-14",
+      "size": 5300086,
+      "sha256": "28e2b67052f51bb9d0b32704a7008fa2ac2c174838ccda356438ecf99c17151d",
+      "eboot_md5": "5147089d6dbc8a32d0f45df91a90e96d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pkgi-psp/PKGI00299_00000.png"
+    ],
+    "icon": "icons/pkgi_psp.png"
+  }
+}

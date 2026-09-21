@@ -1,0 +1,29 @@
+{
+  "name": "Serve n' Go",
+  "id": "serve_n'_go",
+  "summary": "A fast food resturant simulator in which you must retrieve the food the customer (in top right) is asking for.",
+  "author": "Sousanator, Electro, (X), Sousa Inc",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "3",
+      "url": "https://archive.org/download/serve-ngo-v-3.7z_202102/ServeNGo_v3.zip",
+      "published_at": "2007-05-13",
+      "size": 2116232,
+      "sha256": "cf4466e4a6fa2db13946b3db012dceae4e22165867e78e4392d504eb25625f25",
+      "eboot_md5": "26760fe070c5251b06787e370aa2d22b"
+    }
+  ],
+  "tags": [
+    "PSP NEWS & Lik Sang 15 Day Lua Coding Comp (2006)",
+    "PSP-Hacks Homebrew Competition (2007)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/serve-ngo-v-3.7z_202102/SERV01041_00001.jpg"
+    ],
+    "icon": "icons/serve_n'_go.png"
+  }
+}

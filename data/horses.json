@@ -1,0 +1,26 @@
+{
+  "name": "Horses",
+  "id": "horses",
+  "summary": "Homebrew game for PSP.",
+  "author": "Mark Foulger",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/horses-v-1.1.7z/Horses%20v1.1.zip",
+      "published_at": "2007-09-24",
+      "size": 2169063,
+      "sha256": "ebe9c9f4e4c21641eb4cb958f5cb7f1091d056bb98dc7f6a5dbea385ffb1a7d8",
+      "eboot_md5": "05d2b1c9f578439a310ad2142fd9f66b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/horses-v-1.1.7z/LPM300335_00000.jpg"
+    ],
+    "icon": "icons/horses.png"
+  }
+}

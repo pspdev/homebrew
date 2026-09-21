@@ -1,0 +1,26 @@
+{
+  "name": "Euromillion Player",
+  "id": "euromillion_player",
+  "summary": "Lottery simulator for PSP.",
+  "author": "K\u00e9nium",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/euromillion-player-v-1.1.7z/EuromillionPlayer%20v1.1.zip",
+      "published_at": "2008-05-02",
+      "size": 1796157,
+      "sha256": "daa26f3e57e6e451e3e45009649a23e554e57670980ab3234d08b5f450ace139",
+      "eboot_md5": "20cf552a06bd48703abc9d245e4d9d7e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/euromillion-player-v-1.1.7z/EURO02082_00000.png"
+    ],
+    "icon": "icons/euromillion_player.png"
+  }
+}

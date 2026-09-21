@@ -1,0 +1,26 @@
+{
+  "name": "Catch The Balls",
+  "id": "catch_the_balls",
+  "summary": "Homebrew game for PSP.",
+  "author": "Creative Team",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/catch-the-balls-v-2.7z/Catch%20The%20Balls%20v2.zip",
+      "published_at": "2010-06-22",
+      "size": 2013430,
+      "sha256": "c6936185cd2eca2129337832cbff3b58cd6eea3ee1e11f439a551230ab319092",
+      "eboot_md5": "a2b82f84c7be07df35d81f1a283ec9ee"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/catch-the-balls-v-2.7z/CATC01530_00000.jpg"
+    ],
+    "icon": "icons/catch_the_balls.png"
+  }
+}

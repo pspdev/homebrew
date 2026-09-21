@@ -1,0 +1,27 @@
+{
+  "name": "RetroArch",
+  "id": "retroarch",
+  "summary": "PSP edition of the multisystem emulator",
+  "description": "PSP edition of the multisystem emulator. The main purpose of this page is to preserve old PSP builds of this emulator, as they are no longer available on the RetroArch website. The version listed here is not necessarily the most recent. List of cores included in version 1.9.14: 2048 81 atari800 bk bluemsx crocods ecwolf fceumm fmsx freechaf freeintv frodo fuse gambatte gearboy gearcoleco gearsystem gme gpsp gw handy lowresnx lutro mame2003 mame2003 plus mednafen lynx mednafen ngp mednafen pce fast mednafen pce mgba mrboom nestopia np2kai nxengine o2em picodrive pocketcdg prboom prosystem quasi88 quicknes race smsplus snes9x2005 snes9x2005 plus tgbdual theodore uzem x1",
+  "author": "Libretro Team",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.9.14",
+      "url": "https://archive.org/download/retro-arch-1.9.0.7z/RetroArch-1.9.14.zip",
+      "published_at": "2021-12-06",
+      "size": 117066878,
+      "sha256": "5f898d4e0d221d695bcf02618a09b31bc2c4675c38c72b8785b12f94760a48a2",
+      "eboot_md5": "7c3676e1d29c1ec92d8df4d5c7d21dbe"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/retro-arch-1.9.0.7z/RETR01250_00000.png"
+    ],
+    "icon": "icons/retroarch.png"
+  }
+}

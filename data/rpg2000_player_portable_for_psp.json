@@ -1,0 +1,26 @@
+{
+  "name": "RPG2000 Player Portable for PSP",
+  "id": "rpg2000_player_portable_for_psp",
+  "summary": "Engine to run RPG Maker 2000 games on PSP.",
+  "author": "\u6c41\u30c0\u30fc\u30af (SeerouxDark)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.12 Beta Test 04",
+      "url": "https://archive.org/download/rpg-2-kpp-012-b-04.7z/RPG2KPP012B04.zip",
+      "published_at": "2014-06-24",
+      "size": 1127278,
+      "sha256": "8ee50f0df933effe486a386ba6f75987126bad6bc64f1efaa371d5274faf1495",
+      "eboot_md5": "fa16cdca33829ba7eadfda00a8f52712"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/rpg-2-kpp-012-b-04.7z/20210624032856.png"
+    ],
+    "icon": "icons/rpg2000_player_portable_for_psp.png"
+  }
+}

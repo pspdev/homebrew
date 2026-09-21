@@ -1,0 +1,26 @@
+{
+  "name": "Next Element",
+  "id": "next_element",
+  "summary": "Puzzle game for PSP.",
+  "author": "Miroslaw Zielinski",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.00",
+      "url": "https://archive.org/download/nextelement.7z/nextelement.zip",
+      "published_at": "2008-12-20",
+      "size": 1108786,
+      "sha256": "b445af84eb8aeb5c7689e8fa7d1beb6750c9bd70194107ab6e96c3e8aad3a7b9",
+      "eboot_md5": "47bb1b1ce836afb57b80adaa362e6a33"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/nextelement.7z/NEXT01193_00001.png"
+    ],
+    "icon": "icons/next_element.png"
+  }
+}

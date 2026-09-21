@@ -1,0 +1,26 @@
+{
+  "name": "Final Fantasy XI Blackjack Edition",
+  "id": "final_fantasy_xi_blackjack_edition",
+  "summary": "Card game for PSP.",
+  "author": "Zereo_X",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/ffixblack-jack-v-0.1.7z/FFIXBlackJackV0.1.zip",
+      "published_at": "2006-05-07",
+      "size": 3061158,
+      "sha256": "ad5db0a455966418c5c605fc94a43c7a745c78499da55268c7c8cce5bb6ae17c",
+      "eboot_md5": "63c66af5a3280e34b7d3385edf378deb"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ffixblack-jack-v-0.1.7z/FFIX01384_00000.jpg"
+    ],
+    "icon": "icons/final_fantasy_xi_blackjack_edition.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PSPad",
+  "id": "pspad",
+  "summary": "Homebrew app for PSP.",
+  "author": "Zypo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/pspad.-7z/PSPad.zip",
+      "published_at": "2005-08-11",
+      "size": 239928,
+      "sha256": "6bf899ab01c8444192d508d483afbdf4a73e2072ab04d772c5995673fa81fef8",
+      "eboot_md5": "a84c01d92ba2cc748158197611fbdef0"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspad.-7z/PSPA00440_00000.png"
+    ],
+    "icon": "icons/pspad.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "pspWeather",
+  "id": "pspweather",
+  "summary": "Weather app for PSP.",
+  "author": "mcdongle",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.0b",
+      "url": "https://archive.org/download/pspweatherv20b20070407.7z/pspweatherv20b20070407.zip",
+      "published_at": "2007-04-07",
+      "size": 2137865,
+      "sha256": "39ee00579b9f9028e12d3531195a43e2de348c9fbd3351ea1ae89e00efdd313b",
+      "eboot_md5": "dea5a6bcaab1dfba4082e8955e442397"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspweatherv20b20070407.7z/PSPW01809_00000.png"
+    ],
+    "icon": "icons/pspweather.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Kosmodrones",
+  "id": "kosmodrones",
+  "summary": "Homebrew game for PSP.",
+  "author": "Abhoth, Luke Lok, Frode Frank",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.02",
+      "url": "https://archive.org/download/kosmodrones-v-102.7z/Kosmodrones_v102.zip",
+      "published_at": "2008-01-17",
+      "size": 46517324,
+      "sha256": "5800219ec3ec5052e23a78db3f110828cf4a40b8392a4c59dd1e93fcad5c99bc",
+      "eboot_md5": "21bb5815fe8cf50a7f02fd79b18fb804"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/kosmodrones-v-102.7z/KOSM01532_00001.png"
+    ],
+    "icon": "icons/kosmodrones.png"
+  }
+}

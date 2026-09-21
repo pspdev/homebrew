@@ -1,0 +1,26 @@
+{
+  "name": "Wario Ware Dev Kit",
+  "id": "wario_ware_dev_kit",
+  "summary": "Homebrew app for PSP.",
+  "author": "Sam (youresam)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/wario-ware-dev-kit.-7z/Wario%20Ware%20Dev%20Kit.zip",
+      "published_at": "2006-04-09",
+      "size": 1481241,
+      "sha256": "c1c17254abfbe9232d332a64b33f66616de82a057dbdaf920a33cebfb16ed0cc",
+      "eboot_md5": "2a4b6da5edac4258e21cfec481788f72"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/wario-ware-dev-kit.-7z/WWDK00445_00000.png"
+    ],
+    "icon": "icons/wario_ware_dev_kit.png"
+  }
+}

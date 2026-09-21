@@ -1,0 +1,26 @@
+{
+  "name": "Vexed",
+  "id": "vexed",
+  "summary": "Puzzle game for PSP.",
+  "author": "Cancan",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/vexed.7z/vexed.zip",
+      "published_at": "2006-01-01",
+      "size": 1427488,
+      "sha256": "369e57f669a16233dbe6a4c4774005769207ef1f8972bb8a55276c1f5cd526b8",
+      "eboot_md5": "d66607e4f111866de6033aea97c3bd07"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/vexed.7z/VEXE00540_00001.jpg"
+    ],
+    "icon": "icons/vexed.png"
+  }
+}

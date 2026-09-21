@@ -1,0 +1,26 @@
+{
+  "name": "GB File Selecter",
+  "id": "gb_file_selecter",
+  "summary": "App to select roms for what later became the RIN emualtor, which originally did not have a menu. Also known as \"GB File Selector\".",
+  "author": "calcium",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.04",
+      "url": "https://archive.org/download/gbfile-selecter-004.7z/GBFileSelecter004.zip",
+      "published_at": "2005-05-14",
+      "size": 173596,
+      "sha256": "d2122127149f220059692b00b1c4c04bddd92b40446ce688cb970307f680e7f3",
+      "eboot_md5": "b52106870c2d043475f92dd1f0176ffb"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/gbfile-selecter-004.7z/GBFI01492_00000.png"
+    ],
+    "icon": "icons/gb_file_selecter.png"
+  }
+}

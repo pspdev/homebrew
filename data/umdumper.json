@@ -1,0 +1,26 @@
+{
+  "name": "UMDumper",
+  "id": "umdumper",
+  "summary": "Utility to dump UMDs",
+  "author": "PhonicUK",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.3.0D",
+      "url": "https://archive.org/download/umdumper.-7z/umdumper.zip",
+      "published_at": "2008-05-19",
+      "size": 5653123,
+      "sha256": "3f6c62c96a3ff83498e2293b37ab90180b45e1c9aae8aa398094a2eddb47a8f0",
+      "eboot_md5": "270cdab18bfdaa1951eed18279870b7d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/umdumper.-7z/UMDU00783_00000.jpg"
+    ],
+    "icon": "icons/umdumper.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PSPLot",
+  "id": "psplot",
+  "summary": "Homebrew puzzle game for PSP.",
+  "author": "Tomas Skopec (Magesan)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.4",
+      "url": "https://archive.org/download/psplot-v-0-4.7z/PSPLot_v0_4.zip",
+      "published_at": "2005-09-30",
+      "size": 2129962,
+      "sha256": "505c74d99ace1768416d24501c9d8a8ee6fda5f1bbe7451131ce0c2017aea730",
+      "eboot_md5": "6410ea05476b036fdc4314b0d62dd726"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psplot-v-0-4.7z/PSPL01363_00000.jpg"
+    ],
+    "icon": "icons/psplot.png"
+  }
+}

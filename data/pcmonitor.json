@@ -1,0 +1,26 @@
+{
+  "name": "PCMonitor",
+  "id": "pcmonitor",
+  "summary": "This project allows you to view your computers CPU, RAM and Network Usage on your PSP graphically.",
+  "author": "Darksaboteur",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "Alpha 5",
+      "url": "https://archive.org/download/0-pcmonitor.-7z/PCMonitor.zip",
+      "published_at": "2008-01-01",
+      "size": 253487,
+      "sha256": "b61e0640500a81f6c70706823d902dc7fc10ee0e44b7480f37f416b4c057c105",
+      "eboot_md5": "29f2b7663218400e1db527d7487cb201"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/0-pcmonitor.-7z/20210807041259.png"
+    ],
+    "icon": "icons/pcmonitor.png"
+  }
+}

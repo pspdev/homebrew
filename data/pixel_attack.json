@@ -1,0 +1,26 @@
+{
+  "name": "Pixel Attack",
+  "id": "pixel_attack",
+  "summary": "Homebrew game for PSP.",
+  "author": "slicer4ever",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/pixelattack.7z/pixelattack.zip",
+      "published_at": "2008-04-23",
+      "size": 837728,
+      "sha256": "3b368c2c08166f921e61774d7ce2f67aba415f37ba2397840cb2e65096b0c2af",
+      "eboot_md5": "0a1e4d3ebb38ee1dd65b62e1a0b5b5f2"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pixelattack.7z/PIXE01178_00001.png"
+    ],
+    "icon": "icons/pixel_attack.png"
+  }
+}

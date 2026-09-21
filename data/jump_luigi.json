@@ -1,0 +1,26 @@
+{
+  "name": "Jump Luigi",
+  "id": "jump_luigi",
+  "summary": "Homebrew game for PSP.",
+  "author": "Dan369",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/jump-luigi-v-1.0.7z/Jump%20Luigi%21%20v1.0.zip",
+      "published_at": "2008-04-02",
+      "size": 852126,
+      "sha256": "692b6d838e0d00292ad20289ab999bf0ecf29f8353c858b31b38a500d2696730",
+      "eboot_md5": "e4c50e87e335db9ff084936c75492716"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/jump-luigi-v-1.0.7z/JUMP01276_00000.jpg"
+    ],
+    "icon": "icons/jump_luigi.png"
+  }
+}

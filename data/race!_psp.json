@@ -1,0 +1,26 @@
+{
+  "name": "RACE! PSP",
+  "id": "race!_psp",
+  "summary": "NeoGeo Pocket and Pocket Color emulator for PlayStation Portable.",
+  "author": "Akop Karapetyan",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "2.16",
+      "url": "https://archive.org/download/race-2.16-1.0.7z/race-2.16-1.0.zip",
+      "published_at": "2009-04-04",
+      "size": 267051,
+      "sha256": "741b6d123691d1bc2d1e4fbe6e950235a30889fda3bd9064aab253a2162addb0",
+      "eboot_md5": "818ad57e5a34fb63009a89bf8e3a99b5"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/race-2.16-1.0.7z/RACE00843_00000.jpg"
+    ],
+    "icon": "icons/race!_psp.png"
+  }
+}

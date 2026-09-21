@@ -1,0 +1,26 @@
+{
+  "name": "Fishell",
+  "id": "fishell",
+  "summary": "UI shell for PSP.",
+  "author": "Zerozelta",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/fishell.-7z/Old%20Versions/FISHELL.zip",
+      "published_at": "2012-01-01",
+      "size": 8005261,
+      "sha256": "6ae7d42855f6a5ab978793daed56cf8819c4cc71108bdc3d41e1635d77efd650",
+      "eboot_md5": "8ed2126b94630e0d51131e3fbb8f1c51"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/fishell.-7z/FISH00519_00000.jpg"
+    ],
+    "icon": "icons/fishell.png"
+  }
+}

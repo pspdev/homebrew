@@ -1,0 +1,26 @@
+{
+  "name": "PSP Manga FX",
+  "id": "psp_manga_fx",
+  "summary": "Manga / comic book reading app for PSP.",
+  "author": "Motoonsen",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/pspmanga-fx.-7z/PSPMangaFX.zip",
+      "published_at": "2011-05-09",
+      "size": 377529,
+      "sha256": "fbe632492a801330dd18f7a16fa082a7abe7c7e8d8f86933e21e8d52f3ef39ab",
+      "eboot_md5": "cd379185448b0e73a14b44a136e5665d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspmanga-fx.-7z/PSPM00885_00000.jpg"
+    ],
+    "icon": "icons/psp_manga_fx.png"
+  }
+}

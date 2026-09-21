@@ -1,0 +1,26 @@
+{
+  "name": "TicTacToe",
+  "id": "tictactoe",
+  "summary": "Noughts and crosses for PSP.",
+  "author": "broodjekaas92",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.3.1",
+      "url": "https://archive.org/download/tictactoe.7z_202108/tictactoe.zip",
+      "published_at": "2009-05-26",
+      "size": 1050988,
+      "sha256": "c108b48b6ece50265827b6c4b5b32ddfb2e04cdf20b8db2e67da9b624696f014",
+      "eboot_md5": "dbfeb077e58399491174ac00966041ef"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/tictactoe.7z_202108/LUAP01292_00000.png"
+    ],
+    "icon": "icons/tictactoe.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "SuperTux",
+  "id": "supertux",
+  "summary": "Platform game for PSP.",
+  "author": "Jomar Johansen",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1.3",
+      "url": "https://archive.org/download/supertux-0.1.3.psp.7z/supertux-0.1.3.psp.040206.zip",
+      "published_at": "2006-02-04",
+      "size": 8390568,
+      "sha256": "eca02f8a942c8a0f475b4801d702f6288fdf6eef0a8104ae5757d2e4ede8a4d1",
+      "eboot_md5": "db40752baf4570c673a51758c2ed880c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/supertux-0.1.3.psp.7z/SUPE01928_00002.png"
+    ],
+    "icon": "icons/supertux.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Blox",
+  "id": "blox",
+  "summary": "Fighting game with blocks.",
+  "author": "bloodles",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "9.0",
+      "url": "https://archive.org/download/blox.-7z/Blox.zip",
+      "published_at": "2011-01-01",
+      "size": 6545228,
+      "sha256": "8aec60c97c26ec76fd9e0f6da844ff25219548de96753b1c81f618b38ef3b54c",
+      "eboot_md5": "5c4c750a5a03d12992ea7c5bd5310600"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/blox.-7z/20210723013752.png"
+    ],
+    "icon": "icons/blox.png"
+  }
+}

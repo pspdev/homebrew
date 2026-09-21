@@ -1,0 +1,26 @@
+{
+  "name": "SuperCobra",
+  "id": "supercobra",
+  "summary": "Homebrew game for PSP.",
+  "author": "Spirax",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.7",
+      "url": "https://archive.org/download/super-cobra-v-07.7z/SuperCobra_v07.zip",
+      "published_at": "2006-02-28",
+      "size": 1077525,
+      "sha256": "e4b03960c49711b4301b9ae6a66b383771ddd00a39dce410babb50becfea719e",
+      "eboot_md5": "c8504446794e522da2a879071d184776"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/super-cobra-v-07.7z/HEL 01226_00000.jpg"
+    ],
+    "icon": "icons/supercobra.png"
+  }
+}

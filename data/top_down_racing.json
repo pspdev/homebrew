@@ -1,0 +1,26 @@
+{
+  "name": "Top Down Racing",
+  "id": "top_down_racing",
+  "summary": "2D racing homebrew game.",
+  "author": "Killerfeeshy",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Beta 0.1",
+      "url": "https://archive.org/download/top-down-racing-beta-0.1.7z/Top%20Down%20Racing%20Beta%200.1.zip",
+      "published_at": "2011-12-11",
+      "size": 4131593,
+      "sha256": "8b03f9ac383a5d2e5c603db21da32aaa75ab0a9f17a45881c59c85344900cdc3",
+      "eboot_md5": "5ae8ed20e5236ee341af3ca49545c235"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/top-down-racing-beta-0.1.7z/TOP%2001962_00000.png"
+    ],
+    "icon": "icons/top_down_racing.png"
+  }
+}

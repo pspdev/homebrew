@@ -1,0 +1,26 @@
+{
+  "name": "Sirens",
+  "id": "sirens",
+  "summary": "Media player for PSP.",
+  "author": "cooleyes",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.9.1",
+      "url": "https://archive.org/download/sirens-0.9.1.7z/Sirens_0.9.1.zip",
+      "published_at": "2006-09-07",
+      "size": 4657184,
+      "sha256": "309bf540786ec8be7d637cdd205c19fcfecfce429036bd29c9f972fdc8973cb3",
+      "eboot_md5": "e4f65b4ae3c868190587bcfab2c3bea3"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/sirens-0.9.1.7z/SIRE00969_00000.jpg"
+    ],
+    "icon": "icons/sirens.png"
+  }
+}

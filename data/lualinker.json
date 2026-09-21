@@ -1,0 +1,26 @@
+{
+  "name": "LuaLinker",
+  "id": "lualinker",
+  "summary": "Downloader app for PSP.",
+  "author": "ModSyn",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/lualinker_v02.7z/lualinker_v02.zip",
+      "published_at": "2006-01-24",
+      "size": 1287650,
+      "sha256": "068b0585255288451ad237d3d6dfbea2da9b62ab4de611201b1d6098cf833ea3",
+      "eboot_md5": "126ab62fbc82aa9352d10ac2742a2382"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lualinker_v02.7z/LUAL01278_00000.jpg"
+    ],
+    "icon": "icons/lualinker.png"
+  }
+}

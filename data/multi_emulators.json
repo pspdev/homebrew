@@ -1,0 +1,26 @@
+{
+  "name": "Multi Emulators",
+  "id": "multi_emulators",
+  "summary": "Frontend for several PSP emulators. Many of the emulators are now out of date.",
+  "author": "Brujito",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/multi-emulators-v-2.7z/Multi%20Emulators%20v2.zip",
+      "published_at": "2010-09-07",
+      "size": 15896109,
+      "sha256": "cb8d0b267d06ec4e9c3aa81828d5b836f0597938cd765fb09b4c143218181966",
+      "eboot_md5": "ed35f9e4c74284ca19f727c0afbfbe0f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/multi-emulators-v-2.7z/MULT01711_00001.jpg"
+    ],
+    "icon": "icons/multi_emulators.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Eureka",
+  "id": "eureka",
+  "summary": "Homebrew game for PSP.",
+  "author": "BafS",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/eureka.-7z/Eureka.zip",
+      "published_at": "2009-04-29",
+      "size": 1054552,
+      "sha256": "94804941fd2b5ceb88ca7f32b3ca7747869aa3d359819b77042737a6492654c0",
+      "eboot_md5": "606a169caf980570c2b518dbc762d02a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/eureka.-7z/EURE00605_00000.jpg"
+    ],
+    "icon": "icons/eureka.png"
+  }
+}

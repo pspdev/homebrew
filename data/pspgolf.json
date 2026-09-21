@@ -1,0 +1,26 @@
+{
+  "name": "PSPGolf",
+  "id": "pspgolf",
+  "summary": "Homebrew golf game for PSP.",
+  "author": "LauriN",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/pspgolf.-7z/PSPGolf.zip",
+      "published_at": "2006-02-17",
+      "size": 6454452,
+      "sha256": "1c28bb75c1e64c34e6f059c8ab4162574ddeefde6e32f1b8063d424c60c817bf",
+      "eboot_md5": "ec1528ec78a3554262809c55797bec8a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspgolf.-7z/PSPG00635_00000.jpg"
+    ],
+    "icon": "icons/pspgolf.png"
+  }
+}

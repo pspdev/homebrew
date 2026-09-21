@@ -1,0 +1,26 @@
+{
+  "name": "Homebrew Portal Launcher",
+  "id": "homebrew_portal_launcher",
+  "summary": "App to launch the offline html page (\"portal\") located within the Portal folder.",
+  "author": "bboyjcm",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/pl.7z/pl.zip",
+      "published_at": "2008-11-16",
+      "size": 2539931,
+      "sha256": "08644c71938c10d6e47e0104e51497a8ffc4a9cd9486e8b27f3fab8616f88031",
+      "eboot_md5": "03cbfc494ff3c1500a57bfa2ad4c0fbf"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pl.7z/20210627153809.png"
+    ],
+    "icon": "icons/homebrew_portal_launcher.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "d.d.a.d (Don't Drink and Drive)",
+  "id": "d.d.a.d_(don't_drink_and_drive)",
+  "summary": "Homebrew game for PSP.",
+  "author": "Ollin",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/d.d.a.d.7z/d.d.a.d.zip",
+      "published_at": "2009-12-15",
+      "size": 865613,
+      "sha256": "27f2d54094797dcd6f9bce50e35b2ba9b9905c63f961740f811a47346ad48b9a",
+      "eboot_md5": "50ba1f1a807d1055ec8fefd864c7f1bb"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/d.d.a.d.7z/D.D.00535_00000.jpg"
+    ],
+    "icon": "icons/d.d.a.d_(don't_drink_and_drive).png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Action ou v\u00e8rit\u00e9",
+  "id": "action_ou_v\u00e8rit\u00e9",
+  "summary": "Truth or dare for PSP.",
+  "author": "Jade2293, Flav1994, chardetm",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "3",
+      "url": "https://archive.org/download/action-ou-verite.-7z/Action%20ou%20verite.zip",
+      "published_at": "2009-09-16",
+      "size": 1676554,
+      "sha256": "efa70d63707a5b3b6240dd3d916fcde66d296f3bfd3cedd760083494c01bd784",
+      "eboot_md5": "e11d67013d28cacbf4268b44655a4039"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/action-ou-verite.-7z/ACTI01553_00000.jpg"
+    ],
+    "icon": "icons/action_ou_v\u00e8rit\u00e9.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Archipong",
+  "id": "archipong",
+  "summary": "Pong for PSP.",
+  "author": "archilolo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Alpha 5",
+      "url": "https://archive.org/download/archipong_alpha_0.5.7z/archipong_alpha_0.5.zip",
+      "published_at": "2007-09-28",
+      "size": 1034071,
+      "sha256": "a640153f380e7cfa9394d41571ab7a3598f770327ec59f7adff9f9946b696a3d",
+      "eboot_md5": "d92b2337ff59d66cd5835e7a96d6e14e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/archipong_alpha_0.5.7z/ARCH01810_00000.jpg"
+    ],
+    "icon": "icons/archipong.png"
+  }
+}

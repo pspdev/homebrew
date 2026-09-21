@@ -1,0 +1,26 @@
+{
+  "name": "Owata [\uff75\uff9c\uff80\u30d6\u30e9\u30a6\u30b6]",
+  "id": "owata_[\uff75\uff9c\uff80\u30d6\u30e9\u30a6\u30b6]",
+  "summary": "2ch browser for PSP.",
+  "author": "bird_may_nike",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.8.4",
+      "url": "https://archive.org/download/owata.7z/owata.zip",
+      "published_at": "2008-09-16",
+      "size": 770601,
+      "sha256": "2a47a449b9a622e41cf0179800d4af9888d1e7e810fdef19b126bf868d161e4e",
+      "eboot_md5": "a93aeca0c11c95c7341a9424a0020155"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/owata.7z/OWAT00540_00000.jpg"
+    ],
+    "icon": "icons/owata_[\uff75\uff9c\uff80\u30d6\u30e9\u30a6\u30b6].png"
+  }
+}

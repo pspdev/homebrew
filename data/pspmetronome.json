@@ -1,0 +1,26 @@
+{
+  "name": "PSPmetronome",
+  "id": "pspmetronome",
+  "summary": "Text-based metronome for PSP.",
+  "author": "Joris Vergeer (jojojoris)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.1a",
+      "url": "https://archive.org/download/pspmetronome-0.1a-EBOOT.7z/pspmetronome-0.1a-EBOOT.zip",
+      "published_at": "2008-08-25",
+      "size": 443467,
+      "sha256": "8da04d9b079e72826a6b025e11bed66e2dbf606da099cef21f3a763455dc2597",
+      "eboot_md5": "2e816f15454e9a88204b95058b5e1899"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspmetronome-0.1a-EBOOT.7z/pic_0000.jpg"
+    ],
+    "icon": "icons/pspmetronome.png"
+  }
+}

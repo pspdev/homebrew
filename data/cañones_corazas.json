@@ -1,0 +1,28 @@
+{
+  "name": "Ca\u00f1ones Corazas",
+  "id": "ca\u00f1ones_corazas",
+  "summary": "Homebrew game for PSP.",
+  "author": "Pipagerardo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.01",
+      "url": "https://archive.org/download/c-corazas.-7z/C-CORAZAS.zip",
+      "published_at": "2008-01-01",
+      "size": 11518410,
+      "sha256": "cee8b5c1a23833cb8ab01c26666132649079a7e10d7e8e2ca5dbe2d9a4f51c92",
+      "eboot_md5": "ea60dd40729c01815510c67a99d83dda"
+    }
+  ],
+  "tags": [
+    "Scenery Beta 2008"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/c-corazas.-7z/C-CO00643_00000.jpg"
+    ],
+    "icon": "icons/ca\u00f1ones_corazas.png"
+  }
+}

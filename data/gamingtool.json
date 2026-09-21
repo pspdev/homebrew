@@ -1,0 +1,26 @@
+{
+  "name": "GamingTool",
+  "id": "gamingtool",
+  "summary": "Collection of apps and small games for PSP.",
+  "author": "Loicdu23",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.3",
+      "url": "https://archive.org/download/gaming-tool-v-0.3.7z/GamingTool%20V0.3.zip",
+      "published_at": "2008-06-21",
+      "size": 1314175,
+      "sha256": "81388c2613190e150572557e193a3ace815d34a6e5af25272f6a88732940d1fe",
+      "eboot_md5": "5c526b5a0bf8961da75ad48f000498cc"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/gaming-tool-v-0.3.7z/GAMI01272_00000.jpg"
+    ],
+    "icon": "icons/gamingtool.png"
+  }
+}

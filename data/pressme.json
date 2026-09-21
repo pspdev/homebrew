@@ -1,0 +1,26 @@
+{
+  "name": "PressMe",
+  "id": "pressme",
+  "summary": "Checks whether all buttons are working.",
+  "author": "Stifpsp",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.0.3",
+      "url": "https://archive.org/download/pres-00974-00000/PressMe0.0.3Finalversion.zip",
+      "published_at": "2008-10-29",
+      "size": 260995,
+      "sha256": "5214201d3e6a653f61f91d9d1cbe33df0c10ba78421c6632ed1fdac20833ff17",
+      "eboot_md5": "cfeaf99df26aae738cb0b63d2c3ed502"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pres-00974-00000/PRES00974_00000.png"
+    ],
+    "icon": "icons/pressme.png"
+  }
+}

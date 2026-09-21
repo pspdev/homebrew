@@ -1,0 +1,26 @@
+{
+  "name": "smallHex",
+  "id": "smallhex",
+  "summary": "Hex reader for PSP.",
+  "author": "Xeeynamo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.4",
+      "url": "https://archive.org/download/smallHex.7z/smallHex.zip",
+      "published_at": "2007-09-26",
+      "size": 57470,
+      "sha256": "18cfc96334e3eef8f0e0c5010a4564741a3ce0bc3eff8b3d9eba748ff0f75eb5",
+      "eboot_md5": "269551586611bf576dec8e56c2161a91"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/smallHex.7z/SMAL00830_00000.jpg"
+    ],
+    "icon": "icons/smallhex.png"
+  }
+}

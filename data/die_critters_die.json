@@ -1,0 +1,26 @@
+{
+  "name": "Die Critters Die",
+  "id": "die_critters_die",
+  "summary": "Kill animals by running them over.",
+  "author": "perfectcell14",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.5",
+      "url": "https://archive.org/download/die-critters-die-psp.-7z/DieCrittersDie.zip",
+      "published_at": "2007-03-31",
+      "size": 750768,
+      "sha256": "74ba8da961440a630c708597c1bfee9ca7a55a8f64d073048816450101a7814f",
+      "eboot_md5": "9d0d3eda601084537604abe5804df962"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/die-critters-die-psp.-7z/DIEC01639_00001.jpg"
+    ],
+    "icon": "icons/die_critters_die.png"
+  }
+}

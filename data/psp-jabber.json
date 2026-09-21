@@ -1,0 +1,28 @@
+{
+  "name": "PSP-Jabber",
+  "id": "psp-jabber",
+  "summary": "Jabber client for PSP.",
+  "author": "David Galvez Roca",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.03",
+      "url": "https://archive.org/download/jab.-7z/pspjabber103.zip",
+      "published_at": "2006-01-01",
+      "size": 2687191,
+      "sha256": "8440387fae4fb771a017f436b816a2e5ecfe4250ba68a63776c43e853ed07362",
+      "eboot_md5": "ef5a3b79cabe9a19a6f69ec7b1e2e036"
+    }
+  ],
+  "tags": [
+    "NEO Spring 2006"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/jab.-7z/pic_0004.png"
+    ],
+    "icon": "icons/psp-jabber.png"
+  }
+}

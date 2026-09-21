@@ -1,0 +1,26 @@
+{
+  "name": "Sprite Maker XP",
+  "id": "sprite_maker_xp",
+  "summary": "Sprite creator for PSP.",
+  "author": "Akabane87",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.02",
+      "url": "https://archive.org/download/smxpv1.01byakabane.7z/SpriteMakerXPv1.02byAkabane.zip",
+      "published_at": "2008-04-11",
+      "size": 1234745,
+      "sha256": "5a7717816262b7fa8fc332568d9e6381cd6dc056eca267045462f65f8dc67cf3",
+      "eboot_md5": "7a0d44d879ff26278f0c781a7ba22124"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/smxpv1.01byakabane.7z/SMXP01692_00000.jpg"
+    ],
+    "icon": "icons/sprite_maker_xp.png"
+  }
+}

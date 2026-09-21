@@ -1,0 +1,28 @@
+{
+  "name": "Rubik's Cube",
+  "id": "rubik's_cube",
+  "summary": "Rubik's cube for PSP.",
+  "author": "Julien Folly (Alcantor)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0 RC1",
+      "url": "https://archive.org/download/rubiks-cube.-7z_20210327/RubiksCube.zip",
+      "published_at": "2007-09-30",
+      "size": 19385914,
+      "sha256": "9fe776cd3dad2449cef4ba444df0b4b5f4f43c6f7e00fbb6fcb9e8d0aa0adbf1",
+      "eboot_md5": "0cbe495ba546b580b551aa4744df7335"
+    }
+  ],
+  "tags": [
+    "D\u00e9fi devSgen (2007)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/rubiks-cube.-7z_20210327/RUBI01007_00000.jpg"
+    ],
+    "icon": "icons/rubik's_cube.png"
+  }
+}

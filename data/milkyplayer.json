@@ -1,0 +1,26 @@
+{
+  "name": "MilkyPlayer",
+  "id": "milkyplayer",
+  "summary": "Music player app for PSP.",
+  "author": "Titan",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/milky-player-v-1.1.7z/titan-PSPmilkyplayer_v11.zip",
+      "published_at": "2007-10-22",
+      "size": 2140133,
+      "sha256": "0995e7e0983fc20a814598be8d3c027c094b799eb9883a974889d32248408f4b",
+      "eboot_md5": "cfee417c7882f73f7eb6e35ad0f66810"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/milky-player-v-1.1.7z/TITA02346_00000.jpg"
+    ],
+    "icon": "icons/milkyplayer.png"
+  }
+}

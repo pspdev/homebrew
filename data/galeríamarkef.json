@@ -1,0 +1,26 @@
+{
+  "name": "Galer\u00edaMarkef",
+  "id": "galer\u00edamarkef",
+  "summary": "Homebrew app for PSP.",
+  "author": "markef",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "Beta 3",
+      "url": "https://archive.org/download/gm-3_20210822/GM3.zip",
+      "published_at": "2011-08-15",
+      "size": 980042,
+      "sha256": "073dcd645302b4924f55cfdfd31a395c78b9d626d8cdd0190ac7780263ddede4",
+      "eboot_md5": "50ab5ac54222fee8bbea05de4f7b27be"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/gm-3_20210822/GM3H00199_00000.png"
+    ],
+    "icon": "icons/galer\u00edamarkef.png"
+  }
+}

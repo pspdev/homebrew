@@ -1,0 +1,28 @@
+{
+  "name": "Insomnia ProQuake PSP",
+  "id": "insomnia_proquake_psp",
+  "summary": "Port of Quake to the PlayStation Portable. The PAK0.PAK and PAK1.PAK files from the original game are required, and are not included in this release.",
+  "author": "Dark_Duke",
+  "ai_used": false,
+  "requires_additional_files": true,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "4.71 Rev4",
+      "url": "https://archive.org/download/insomnia-slim.-7z/Insomnia_SLIM.zip",
+      "published_at": "2016-07-20",
+      "size": 219046822,
+      "sha256": "a494ee1927071193f2af5758b2e948230374aab83fb3d3c251a0bdd6729a7f66",
+      "eboot_md5": "17f896ec28e3b37d5d366f57ea2b05e3"
+    }
+  ],
+  "tags": [
+    "game data required"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/insomnia-slim.-7z/INSO01226_00005.png"
+    ],
+    "icon": "icons/insomnia_proquake_psp.png"
+  }
+}

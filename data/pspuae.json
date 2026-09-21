@@ -1,0 +1,26 @@
+{
+  "name": "PSPUAE",
+  "id": "pspuae",
+  "summary": "Amiga emulator for PSP, forked from PSP-UAE by Christophe Thibault. Requires the kick13.rom file to boot.",
+  "author": "FOL, Christophe Thibault",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.90 Beta 5",
+      "url": "https://archive.org/download/pspuae-080-beta-13.7z/PSPUAE_090_Beta5.zip",
+      "published_at": "2014-09-06",
+      "size": 1457464,
+      "sha256": "a79e1a8024ce9eb76205d49b38930265f746dfb3a8fb4df5be497f193135bd16",
+      "eboot_md5": "99b33d00889cf12828232364417d5e5b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspuae-080-beta-13.7z/20221015014939.png"
+    ],
+    "icon": "icons/pspuae.png"
+  }
+}

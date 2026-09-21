@@ -1,0 +1,26 @@
+{
+  "name": "PicoDrive",
+  "id": "picodrive",
+  "summary": "Sega Megadrive / Genesis emulator for PSP.",
+  "author": "Notaz",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.51b",
+      "url": "https://archive.org/download/pico-drive-psp-151b.-7z/PicoDrive_psp_151b.zip",
+      "published_at": "2008-08-24",
+      "size": 770822,
+      "sha256": "a6a6d64896e80906a47704f7f96ee98eb9bf602a9bb885fa65ceb8725763cbd6",
+      "eboot_md5": "eb697a9577d62c8b387daa72140425eb"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pico-drive-psp-151b.-7z/PICO01679_00000.png"
+    ],
+    "icon": "icons/picodrive.png"
+  }
+}

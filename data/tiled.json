@@ -1,0 +1,26 @@
+{
+  "name": "Tiled",
+  "id": "tiled",
+  "summary": "Puzzle game.",
+  "author": "Tomaz",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/061217-tiled-v-2.7z/061217_Tiled_v2.zip",
+      "published_at": "2006-12-17",
+      "size": 1397333,
+      "sha256": "5fd58a0eea082a715ce619381cf946f546c12693e140ee13ba933468fbc1db91",
+      "eboot_md5": "c422d6d2bc209d1402f25e87fb0a9000"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/061217-tiled-v-2.7z/061201161_00000.jpg"
+    ],
+    "icon": "icons/tiled.png"
+  }
+}

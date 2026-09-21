@@ -1,0 +1,26 @@
+{
+  "name": "Man or Not [\u7537\u4e0d\u7537\u4eba\uff1f]",
+  "id": "man_or_not_[\u7537\u4e0d\u7537\u4eba\uff1f]",
+  "summary": "Homebrew game for PSP.",
+  "author": "H March",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/man_or_not/man_or_not.zip",
+      "published_at": "2009-01-01",
+      "size": 3329920,
+      "sha256": "5824a39d9f54969791d2a00aa274c0a69e788178b35ca50fc9bcaa15e9a46a0f",
+      "eboot_md5": "30944667da8e7c3aafb98a15ab47f249"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/man_or_not/MAN_01068_00003.png"
+    ],
+    "icon": "icons/man_or_not_[\u7537\u4e0d\u7537\u4eba\uff1f].png"
+  }
+}

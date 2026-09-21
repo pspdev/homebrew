@@ -1,0 +1,28 @@
+{
+  "name": "Heartlight Deluxe PSP",
+  "id": "heartlight_deluxe_psp",
+  "summary": "PSP remake of Epic Megagames' Heartlight, originally released in 1994, since 2006 under a Creative Commons license.",
+  "author": "MK2k",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/heartlight_deluxe_psp_1.0-mk2k.7z/heartlight_deluxe_psp_1.0-mk2k.zip",
+      "published_at": "2008-03-14",
+      "size": 13191246,
+      "sha256": "e4ca97621019319314110df820f4f44d6251ab7c9f9560edef832dc9869b4624",
+      "eboot_md5": "904002df3c91fef97facad6ec9f2907c"
+    }
+  ],
+  "tags": [
+    "NEO Spring Coding Compo 2008"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/heartlight_deluxe_psp_1.0-mk2k.7z/HEAR02900_00000.jpg"
+    ],
+    "icon": "icons/heartlight_deluxe_psp.png"
+  }
+}

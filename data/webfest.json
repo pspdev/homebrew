@@ -1,0 +1,28 @@
+{
+  "name": "WebFest",
+  "id": "webfest",
+  "summary": "Homebrew game for PSP.",
+  "author": "James Higgs (Jum)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/webfest-gbax-2007-entry.-7z/webfest_1.2.zip",
+      "published_at": "2008-03-24",
+      "size": 639856,
+      "sha256": "fc460301f07dfb147ffc6af5567c620357c872766afe5bc83be44195c72074a1",
+      "eboot_md5": "78a8f94574119a04533e98bd3c28e2a7"
+    }
+  ],
+  "tags": [
+    "GBAX 2007 Coding Competition"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/webfest-gbax-2007-entry.-7z/20210802015020.png"
+    ],
+    "icon": "icons/webfest.png"
+  }
+}

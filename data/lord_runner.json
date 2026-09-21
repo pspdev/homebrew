@@ -1,0 +1,26 @@
+{
+  "name": "Lord Runner",
+  "id": "lord_runner",
+  "summary": "Arcade-style game for PSP.",
+  "author": "Samy",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.02",
+      "url": "https://archive.org/download/lord-runner-v-102.7z/LordRunnerV102.zip",
+      "published_at": "2010-12-25",
+      "size": 7749348,
+      "sha256": "99e67cf4ce4302094ec3106cc845d441c21287d1d6f771320054ea904ada1799",
+      "eboot_md5": "4fb9c8db5d1976bc734c4efea4dab9df"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lord-runner-v-102.7z/LORD01268_00000.jpg"
+    ],
+    "icon": "icons/lord_runner.png"
+  }
+}

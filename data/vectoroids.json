@@ -1,0 +1,26 @@
+{
+  "name": "Vectoroids",
+  "id": "vectoroids",
+  "summary": "Homebrew game for PSP.",
+  "author": "Marcus R. Brown, John Blakeman (BlackPhoenix)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1.0",
+      "url": "https://archive.org/download/vectoroids.7z/vectoroids.zip",
+      "published_at": "2006-02-26",
+      "size": 1263944,
+      "sha256": "16fa8e980f7035490220d793d6af5755d2f795df13d65ee4bfdf3b6fb42a238f",
+      "eboot_md5": "85871f76f4139b320641a8a2152d7a6d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/vectoroids.7z/VECT01090_00001.jpg"
+    ],
+    "icon": "icons/vectoroids.png"
+  }
+}

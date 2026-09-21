@@ -1,0 +1,26 @@
+{
+  "name": "Super Pong",
+  "id": "super_pong",
+  "summary": "Version of Pong for PSP.",
+  "author": "Garak",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.10",
+      "url": "https://archive.org/download/superpongv1.10/superpongv1.10.zip",
+      "published_at": "2005-07-25",
+      "size": 2501673,
+      "sha256": "b866ca021c1e066b3cd756a899173e7c107edefd8b3a6e128ad9be075aa8d9cf",
+      "eboot_md5": "683d3a42341e247f94b574f8b514e21b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/superpongv1.10/vlcsnap-2021-04-19-04h33m07s651.png"
+    ],
+    "icon": "icons/super_pong.png"
+  }
+}

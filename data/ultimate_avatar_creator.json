@@ -1,0 +1,26 @@
+{
+  "name": "Ultimate Avatar Creator",
+  "id": "ultimate_avatar_creator",
+  "summary": "Homebrew app for PSP.",
+  "author": "To\u00f1os",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.5",
+      "url": "https://archive.org/download/ultimate-avatar-creatorv-05-cfplus-esp.-7z/UltimateAvatarCreatorv05CFPlusEsp.zip",
+      "published_at": "2009-11-08",
+      "size": 1255947,
+      "sha256": "7635740afc8c7af62eadd673907f9cf705767b9dd3495172afa205743e90df59",
+      "eboot_md5": "39bf57cc31d466d485e1869d89e070f5"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ultimate-avatar-creatorv-05-cfplus-esp.-7z/ULTI03236_00001.png"
+    ],
+    "icon": "icons/ultimate_avatar_creator.png"
+  }
+}

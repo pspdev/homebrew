@@ -1,0 +1,28 @@
+{
+  "name": "Adhoc File Transfer",
+  "id": "adhoc_file_transfer",
+  "summary": "File sharing application for PSP.",
+  "author": "Minerva",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.7",
+      "url": "https://archive.org/download/adhoc-file-transfer.-7z_202101/AdhocFileTransfer.zip",
+      "published_at": "2008-04-15",
+      "size": 242840,
+      "sha256": "1ae0491d97af541c976e50bfbcef4bd74128380c04a9d12637d104d75f49f1d8",
+      "eboot_md5": "c916f2a1dce4864bbd6656af9bb4686f"
+    }
+  ],
+  "tags": [
+    "ad-hoc support"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/adhoc-file-transfer.-7z_202101/ADHO01700_00000.png"
+    ],
+    "icon": "icons/adhoc_file_transfer.png"
+  }
+}

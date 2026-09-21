@@ -1,0 +1,26 @@
+{
+  "name": "Paintball PSP",
+  "id": "paintball_psp",
+  "summary": "Paintball mod for CSPSP 1.61.",
+  "author": "Immortal-",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "6.2b",
+      "url": "https://archive.org/download/pbpsp-v-6.2b.-7z/PBPSP-v6.2b.zip",
+      "published_at": "2009-05-17",
+      "size": 13723199,
+      "sha256": "6376840c3fddc3fe31d0ac233cdb759d9a0e533e16f8573b6516d71dda2ed061",
+      "eboot_md5": "73eb19bac7db261ec44f8e8ffbdd58b9"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pbpsp-v-6.2b.-7z/PBPS00800_00000.jpg"
+    ],
+    "icon": "icons/paintball_psp.png"
+  }
+}

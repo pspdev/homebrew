@@ -1,0 +1,28 @@
+{
+  "name": "Aap Lander!",
+  "id": "aap_lander!",
+  "summary": "Puzzle game for PSP.",
+  "author": "Julian Williams (BlackShark)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/aap-lander.-7z/Old%20Versions/AapLander.zip",
+      "published_at": "2008-03-25",
+      "size": 10004350,
+      "sha256": "3cb6e4b6f2259c6a12bd705c1309dcd74c7894eaa210fc10130f61926987d33b",
+      "eboot_md5": "a6a25e433ef1bdb60e7bc00be6a3688e"
+    }
+  ],
+  "tags": [
+    "NEO Spring Coding Compo 2008"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/aap-lander.-7z/AAPL01085_00001.png"
+    ],
+    "icon": "icons/aap_lander!.png"
+  }
+}

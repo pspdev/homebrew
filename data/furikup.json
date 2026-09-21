@@ -1,0 +1,26 @@
+{
+  "name": "Furikup",
+  "id": "furikup",
+  "summary": "SIP phone app for PSP.",
+  "author": "Chris Swindle",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.1.12",
+      "url": "https://archive.org/download/furikup.-7z/Furikup.zip",
+      "published_at": "2008-01-26",
+      "size": 2282520,
+      "sha256": "43822037211133df8168f04cc9ccfa7ae8af74d1a1d14921da7d204fa3d3880c",
+      "eboot_md5": "403aaf2d534be70b2233385bc4756e5d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/furikup.-7z/FURI00742_00000.jpg"
+    ],
+    "icon": "icons/furikup.png"
+  }
+}

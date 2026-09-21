@@ -1,0 +1,26 @@
+{
+  "name": "PSP Easy Wireless Controller",
+  "id": "psp_easy_wireless_controller",
+  "summary": "Homebrew app for PSP.",
+  "author": "r4pha",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/pspeasy-wireless-controller/PSPEasyWirelessController.zip",
+      "published_at": "2011-09-29",
+      "size": 658029,
+      "sha256": "83cf54324b0aec47026c05fb6af16674f3da39af8ee54b2e9f1ed4cea1e8a60c",
+      "eboot_md5": "7822e033b44574a7420c0ff7580e5e76"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspeasy-wireless-controller/PSPE02551_00004.png"
+    ],
+    "icon": "icons/psp_easy_wireless_controller.png"
+  }
+}

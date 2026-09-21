@@ -1,0 +1,26 @@
+{
+  "name": "Throttle X Mod",
+  "id": "throttle_x_mod",
+  "summary": "Homebrew game for PSP.",
+  "author": "PSPdemon",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/throttle-xmod-v.-2.7z/ThrottleXModV.2.zip",
+      "published_at": "2006-01-01",
+      "size": 4604962,
+      "sha256": "122e28069c2c87158391a1cc46b8a31a85d6dad859dae821758d41422c65dab0",
+      "eboot_md5": "1a8d407099ed57c6b4f5943ea4844fd7"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/throttle-xmod-v.-2.7z/THRO00942_00001.png"
+    ],
+    "icon": "icons/throttle_x_mod.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Info Portable",
+  "id": "info_portable",
+  "summary": "Application displaying system information.",
+  "author": "Gladiator",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.5",
+      "url": "https://archive.org/download/info-portable-2.5.7z/Info%20Portable%202.5.zip",
+      "published_at": "2008-01-01",
+      "size": 3889861,
+      "sha256": "36c832b68c523553e27d2d5f2312a0d10e9440f6af1ae4e67ff187b65eada3b7",
+      "eboot_md5": "9880da4034d4a26a72743ba4d476334e"
+    }
+  ],
+  "tags": [
+    "Scenery Beta 2008"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/info-portable-2.5.7z/INFO01434_00000.jpg"
+    ],
+    "icon": "icons/info_portable.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Bleach Adventure",
+  "id": "bleach_adventure",
+  "summary": "RPG adventure game for PSP.",
+  "author": "pspflashsystem",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/bleach-adventure.-7z/BleachAdventure.zip",
+      "published_at": "2008-07-03",
+      "size": 1031547,
+      "sha256": "ba4ea1b91cfec8cf111328efb6eff3d9ff370d2ec1ae7e7b8b7b90f73f798bde",
+      "eboot_md5": "3f52acd18dad5cbf6239320f4a437692"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/bleach-adventure.-7z/BLEA01517_00002.png"
+    ],
+    "icon": "icons/bleach_adventure.png"
+  }
+}

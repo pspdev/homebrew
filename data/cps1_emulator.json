@@ -1,0 +1,26 @@
+{
+  "name": "CPS1 Emulator",
+  "id": "cps1_emulator",
+  "summary": "Arcade emulator for PSP.",
+  "author": "sasuke2911",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "Preview",
+      "url": "https://archive.org/download/ccps-1.7z/Ccps1.zip",
+      "published_at": "2006-05-07",
+      "size": 2289351,
+      "sha256": "dd4c87f7481eada9c460b2f7272c132b5c4c6fd757f7137d6e4344d2b55757f0",
+      "eboot_md5": "06484b32d531cc035221ecea0b1cefc2"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ccps-1.7z/CCPS00442_00000.jpg"
+    ],
+    "icon": "icons/cps1_emulator.png"
+  }
+}

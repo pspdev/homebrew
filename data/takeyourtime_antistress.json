@@ -1,0 +1,28 @@
+{
+  "name": "TakeYourTime AntiStress",
+  "id": "takeyourtime_antistress",
+  "summary": "Homebrew app for PSP.",
+  "author": "LeviaDragon, NNNRT, TrilllerKiller, Different55",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.00",
+      "url": "https://archive.org/download/take-your-time-2.00.7z/TakeYourTime%202.00.zip",
+      "published_at": "2012-11-19",
+      "size": 30318499,
+      "sha256": "afdfdc7a00b9b43c53453725bbf3dfa84f3e98e373af38806a90734843ee5698",
+      "eboot_md5": "0b6e044a30f56a2c6813db1345adbe27"
+    }
+  ],
+  "tags": [
+    "NEO Retro Coding Compo 2012"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/take-your-time-2.00.7z/TAKE01443_00000.png"
+    ],
+    "icon": "icons/takeyourtime_antistress.png"
+  }
+}

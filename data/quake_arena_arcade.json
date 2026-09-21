@@ -1,0 +1,26 @@
+{
+  "name": "Quake Arena Arcade",
+  "id": "quake_arena_arcade",
+  "summary": "Multiplayer homebrew based on the original game.",
+  "author": "Lupus",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.75 R4",
+      "url": "https://archive.org/download/psp_qaa_r4_SLIM.7z/psp_qaa_r4_SLIM.zip",
+      "published_at": "2010-10-20",
+      "size": 34245348,
+      "sha256": "f0bb907a02b9bd97898b0488b8e7507cd405d580c929fe1d7d5cb5312a62c92d",
+      "eboot_md5": "b76ddc50a72ded8cd3d7d486f084fcc2"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp_qaa_r4_SLIM.7z/PSP_01002_00000.jpg"
+    ],
+    "icon": "icons/quake_arena_arcade.png"
+  }
+}

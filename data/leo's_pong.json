@@ -1,0 +1,26 @@
+{
+  "name": "Leo's Pong",
+  "id": "leo's_pong",
+  "summary": "Pong for PSP.",
+  "author": "Leo M. Cabrera",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/3-leos-pong-v-1.0.7z/3Leos_Pong_v1.0.zip",
+      "published_at": "2007-02-07",
+      "size": 474394,
+      "sha256": "6c489a61fd679d547db0909d802e118c3f93abc2682661bcfe7c7423adceeb2e",
+      "eboot_md5": "05d2b1c9f578439a310ad2142fd9f66b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/3-leos-pong-v-1.0.7z/3LEO01309_00000.jpg"
+    ],
+    "icon": "icons/leo's_pong.png"
+  }
+}

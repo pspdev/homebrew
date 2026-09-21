@@ -1,0 +1,28 @@
+{
+  "name": "GNX Project",
+  "id": "gnx_project",
+  "summary": "Homebrew app for PSP.",
+  "author": "Geniux",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.00 GNX-A",
+      "url": "https://archive.org/download/gnx_20210826/GNX.zip",
+      "published_at": "2009-09-02",
+      "size": 4583415,
+      "sha256": "8edea8db8ed1fd24638884fb0b83e2cd1b002be5b28ba04358b3ad5bf83b220a",
+      "eboot_md5": "6aee216444eb42862c015a68786d2821"
+    }
+  ],
+  "tags": [
+    "Scenery Beta 2009"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/gnx_20210826/GNXH00237_00000.png"
+    ],
+    "icon": "icons/gnx_project.png"
+  }
+}

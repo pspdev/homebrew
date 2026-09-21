@@ -1,0 +1,26 @@
+{
+  "name": "Snake PSP",
+  "id": "snake_psp",
+  "summary": "Multiplayer version of Snake.",
+  "author": "PSPprecizo, TeamMex",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/snake-psp-v-1.0.7z/Snake%20PSP%20v%201.0.zip",
+      "published_at": "2010-03-28",
+      "size": 558185,
+      "sha256": "14032a1ed651479e20f5d41a3ceca2b7a58a4a4f563a80570ebe189c93142726",
+      "eboot_md5": "5f8d856915cbe1990016eb8397933dc3"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/snake-psp-v-1.0.7z/SNAK01098_00000.jpg"
+    ],
+    "icon": "icons/snake_psp.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "NOIZ2SA",
+  "id": "noiz2sa",
+  "summary": "PSP port of the vertical shooter developed by Kenta Cho.",
+  "author": "Denis Televnyy (Deniska)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.8",
+      "url": "https://archive.org/download/noiz-2-sa.-7z/NOIZ2SA.zip",
+      "published_at": "2009-10-24",
+      "size": 9793946,
+      "sha256": "c510375c0412c05c51df2ca3d65a80ab990721798b83f00a20d52300d7be1734",
+      "eboot_md5": "fc0d2a3be1c18477c8e9388a0147e9ba"
+    }
+  ],
+  "tags": [
+    "PSP NEWS & Lik Sang 30 Day Coding Comp (2005)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/noiz-2-sa.-7z/20221009003648.png"
+    ],
+    "icon": "icons/noiz2sa.png"
+  }
+}

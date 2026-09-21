@@ -1,0 +1,26 @@
+{
+  "name": "TLAFTMP3",
+  "id": "tlaftmp3",
+  "summary": "Music player for PSP.",
+  "author": "tlaft",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/tlaftmp-3.7z/TLAFTMP3.zip",
+      "published_at": "2008-10-13",
+      "size": 930913,
+      "sha256": "287c495d2812df23741c7b6fcb3c3f6b58fa24891605c524b39c985c0eb598e5",
+      "eboot_md5": "ff3eb79d67e59ea5c363a2815f96e5d3"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/tlaftmp-3.7z/TLAF00587_00000.png"
+    ],
+    "icon": "icons/tlaftmp3.png"
+  }
+}

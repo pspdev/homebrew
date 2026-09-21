@@ -1,0 +1,26 @@
+{
+  "name": "PSP CheatUp",
+  "id": "psp_cheatup",
+  "summary": "Homebrew app for PSP.",
+  "author": "raing3",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.50",
+      "url": "https://archive.org/download/psp-cheat-up.-7z/PSPCheatUp050.zip",
+      "published_at": "2010-01-26",
+      "size": 663178,
+      "sha256": "1de3507e435e65814a1456b5ed9890445b6c5853dff3734bb144f55b1f534cf3",
+      "eboot_md5": "8231ba568ccb148b45928e868abda90b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-cheat-up.-7z/pic_0000.png"
+    ],
+    "icon": "icons/psp_cheatup.png"
+  }
+}

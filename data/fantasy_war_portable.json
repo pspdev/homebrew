@@ -1,0 +1,28 @@
+{
+  "name": "Fantasy War Portable",
+  "id": "fantasy_war_portable",
+  "summary": "Homebrew game for PSP.",
+  "author": "CamPSP123",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "3",
+      "url": "https://archive.org/download/fwp-v-3.7z/FWP%20v3.zip",
+      "published_at": "2011-01-01",
+      "size": 5498780,
+      "sha256": "9f1a5e6113287a0cd0b748b032883013250f267942b7258373359a20ea9bced3",
+      "eboot_md5": "5125d815c065903fef4c5f207013cdea"
+    }
+  ],
+  "tags": [
+    "XTreamContest Summer 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/fwp-v-3.7z/EBOO00649_00000.jpg"
+    ],
+    "icon": "icons/fantasy_war_portable.png"
+  }
+}

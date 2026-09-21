@@ -1,0 +1,28 @@
+{
+  "name": "Meeku's Quest: Beyond the Gateway",
+  "id": "meeku's_quest_beyond_the_gateway",
+  "summary": "Homebrew game for PSP.",
+  "author": "illfoundedmind",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.02",
+      "url": "https://archive.org/download/mqbt-g.-7z/MQBtG.zip",
+      "published_at": "2006-01-01",
+      "size": 5995224,
+      "sha256": "9efe13eeb920918a3ffc59924a9ecfc0e0d2a4e77b6231dbd0fd31889024a884",
+      "eboot_md5": "bae0e906bd0e931e1418c7bf77156a17"
+    }
+  ],
+  "tags": [
+    "PS2DEV The Fourth Creation 2006"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mqbt-g.-7z/pic_0002.png"
+    ],
+    "icon": "icons/meeku's_quest_beyond_the_gateway.png"
+  }
+}

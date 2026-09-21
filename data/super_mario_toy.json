@@ -1,0 +1,26 @@
+{
+  "name": "Super Mario Toy",
+  "id": "super_mario_toy",
+  "summary": "Fan game for PSP.",
+  "author": "Pjeff",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Final",
+      "url": "https://archive.org/download/super-mario-toy-psp.-7z/SuperMarioToy_PSP.zip",
+      "published_at": "2008-06-05",
+      "size": 26071683,
+      "sha256": "6bcc69c5162b119cad068e9083c23b362262fc6cb8993a901b4da38f1d9db8bc",
+      "eboot_md5": "70b83d78915afc2b643e83213d0391b4"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/super-mario-toy-psp.-7z/SUPE01685_00000.jpg"
+    ],
+    "icon": "icons/super_mario_toy.png"
+  }
+}

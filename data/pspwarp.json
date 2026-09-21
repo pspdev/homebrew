@@ -1,0 +1,26 @@
+{
+  "name": "PSPWarp",
+  "id": "pspwarp",
+  "summary": "Image warping app for PSP.",
+  "author": "soundInsekt",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.3b",
+      "url": "https://archive.org/download/pspwarp-v-0.3b.-7z/PSPWarp-v0.3b.zip",
+      "published_at": "2006-05-06",
+      "size": 557424,
+      "sha256": "12d298d2cb1808c78410f5c2775e7cc480f7c8f8d52ef09ae056e6eec44bc91c",
+      "eboot_md5": "92969e018f1a9d2a0f6dd2c6a37d95db"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspwarp-v-0.3b.-7z/PSPW00781_00000.jpg"
+    ],
+    "icon": "icons/pspwarp.png"
+  }
+}

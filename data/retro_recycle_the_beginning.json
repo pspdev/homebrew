@@ -1,0 +1,28 @@
+{
+  "name": "Retro Recycle: The Beginning",
+  "id": "retro_recycle_the_beginning",
+  "summary": "Homebrew game for PSP.",
+  "author": "MK2k",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/retro-recycle-tb.-7z/RetroRecycleTB.zip",
+      "published_at": "2010-09-15",
+      "size": 8076533,
+      "sha256": "24a950e2698830f245ba42b9dfd66416c51b1508b95e2aaad78742a8b020db26",
+      "eboot_md5": "29323ce18ce09c0b8d4a2ce704da5aaa"
+    }
+  ],
+  "tags": [
+    "Homebrew Idol 3 (2010)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/retro-recycle-tb.-7z/RETR01385_00000.jpg"
+    ],
+    "icon": "icons/retro_recycle_the_beginning.png"
+  }
+}

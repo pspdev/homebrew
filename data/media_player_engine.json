@@ -1,0 +1,26 @@
+{
+  "name": "Media Player Engine",
+  "id": "media_player_engine",
+  "summary": "Music player for PSP.",
+  "author": "DedDinO_94",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/media-player-engine.-7z/Old%20Versions/Media%20Player%20Engine.zip",
+      "published_at": "2010-04-21",
+      "size": 1365004,
+      "sha256": "85e5a364f4b8debaea38112ba8c41a16bd129d215be96ae7888194e49326112f",
+      "eboot_md5": "a1045b4090884b66841f983a85f6a99e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/media-player-engine.-7z/20210613205859.png"
+    ],
+    "icon": "icons/media_player_engine.png"
+  }
+}

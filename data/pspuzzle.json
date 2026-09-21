@@ -1,0 +1,26 @@
+{
+  "name": "PSPuzzle",
+  "id": "pspuzzle",
+  "summary": "Puzzle game for PSP.",
+  "author": "Ampage",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.7",
+      "url": "https://archive.org/download/eboo-00649-00000/pspuzzlev0.7.zip",
+      "published_at": "2005-07-10",
+      "size": 68040,
+      "sha256": "f978fc9d00b2208a56dd93a33378039a5c84320b3599a468f2629028e4027ef8",
+      "eboot_md5": "26df93b1e4e723355677c9527c451ab8"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/eboo-00649-00000/PSPU01176_00000.png"
+    ],
+    "icon": "icons/pspuzzle.png"
+  }
+}

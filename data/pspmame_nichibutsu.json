@@ -1,0 +1,26 @@
+{
+  "name": "PSPMAME Nichibutsu",
+  "id": "pspmame_nichibutsu",
+  "summary": "MAME emulator for PSP, based on MAME 0.97. Claims support for 138 games. A compatibility list for an earlier version is available (in Japanese).",
+  "author": "TMK",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.97 r0.6",
+      "url": "https://archive.org/download/nichibutsu.7z/nichibutsu.zip",
+      "published_at": "2010-03-02",
+      "size": 1495371,
+      "sha256": "8ccc2a281805ee38db6bd4dec4ff1472387e55f5312b7e9dce9af80d70773e5a",
+      "eboot_md5": "d9b5d599ae3b21a896ece95c03664e65"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/nichibutsu.7z/20210829213640.png"
+    ],
+    "icon": "icons/pspmame_nichibutsu.png"
+  }
+}

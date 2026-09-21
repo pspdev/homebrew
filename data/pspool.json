@@ -1,0 +1,26 @@
+{
+  "name": "PSPool",
+  "id": "pspool",
+  "summary": "Game of pool for PSP.",
+  "author": "John Blakeman (BlackPhoenix)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1b",
+      "url": "https://archive.org/download/pspool.-7z/PSPool.zip",
+      "published_at": "2006-04-24",
+      "size": 564963,
+      "sha256": "f98897e8c159849246b6bc1ee8641662d511502de9137250b070e95b3155d2f4",
+      "eboot_md5": "8d3480e10ef88f7049536cc4d16fb880"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspool.-7z/PSPO00573_00000.jpg"
+    ],
+    "icon": "icons/pspool.png"
+  }
+}

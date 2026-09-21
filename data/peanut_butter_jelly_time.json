@@ -1,0 +1,26 @@
+{
+  "name": "Peanut Butter Jelly Time",
+  "id": "peanut_butter_jelly_time",
+  "summary": "App for PSP.",
+  "author": "Alexmae, Zach Meston",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.6",
+      "url": "https://archive.org/download/pbjellytime.7z/pbjellytime.zip",
+      "published_at": "2005-08-17",
+      "size": 1417324,
+      "sha256": "9803ea9beb0424d40bba08a1e7fb30ecbf2f0efec75a5081d93bc052272cd549",
+      "eboot_md5": "293066c53127844cc9842eaf049e5493"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pbjellytime.7z/pic_0002.png"
+    ],
+    "icon": "icons/peanut_butter_jelly_time.png"
+  }
+}

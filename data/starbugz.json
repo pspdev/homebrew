@@ -1,0 +1,26 @@
+{
+  "name": "StarBugz",
+  "id": "starbugz",
+  "summary": "Homebrew game for PSP.",
+  "author": "Khors Entertainment",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.0.1",
+      "url": "https://archive.org/download/star-bugz-v-0.0.1.7z/StarBugzV0.0.1.zip",
+      "published_at": "2005-12-05",
+      "size": 771506,
+      "sha256": "814b6cfac9ca70cea2322518adbe62f53694022a3b93323b177af5c58eca8cab",
+      "eboot_md5": "c654f987fc1245259b1f436b2bca3894"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/star-bugz-v-0.0.1.7z/20220112081233.png"
+    ],
+    "icon": "icons/starbugz.png"
+  }
+}

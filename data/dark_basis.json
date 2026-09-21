@@ -1,0 +1,26 @@
+{
+  "name": "Dark Basis",
+  "id": "dark_basis",
+  "summary": "Navigate the square in the tunnel without touching the edges.",
+  "author": "Wallaby, Mourioche",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/dark-basis.-7z/Dark%20Basis.zip",
+      "published_at": "2008-03-09",
+      "size": 836415,
+      "sha256": "00698284f0339a3254d9f52dadb591d245264bbd42b720be91fbc9f5a8ac9e74",
+      "eboot_md5": "201ca6df094b61331a1b3da4741c9820"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/dark-basis.-7z/DARK00916_00000.png"
+    ],
+    "icon": "icons/dark_basis.png"
+  }
+}

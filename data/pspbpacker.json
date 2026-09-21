@@ -1,0 +1,26 @@
+{
+  "name": "PSPBPacker",
+  "id": "pspbpacker",
+  "summary": "Eboot editor for PSP.",
+  "author": "qwikrazor87",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "3",
+      "url": "https://archive.org/download/pspbpacker-v-3.7z/PSPBPacker%20v3.zip",
+      "published_at": "2012-06-24",
+      "size": 1138781,
+      "sha256": "46115510a69bbfd51e9c54aa47a379c0e5a738e3ce902e208e0555704e4f53f7",
+      "eboot_md5": "9e1d9b906df50b0f6d47b9db3ac68c2a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspbpacker-v-3.7z/PSPB01108_00000.jpg"
+    ],
+    "icon": "icons/pspbpacker.png"
+  }
+}

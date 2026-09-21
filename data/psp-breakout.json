@@ -1,0 +1,26 @@
+{
+  "name": "PSP-Breakout",
+  "id": "psp-breakout",
+  "summary": "Homebrew game for PSP.",
+  "author": "Bruno Antunes (ShUr1k3n)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.5b",
+      "url": "https://archive.org/download/psp-breakout/PSP-Breakout.zip",
+      "published_at": "2005-09-24",
+      "size": 318511,
+      "sha256": "34c5f644d0f7ab3fa614e05cc9a53e3acc64336073d809ed28b64abe396cfd07",
+      "eboot_md5": "9404c4ef38a69bc0238d9a294faef541"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-breakout/PSP-01117_00005.png"
+    ],
+    "icon": "icons/psp-breakout.png"
+  }
+}

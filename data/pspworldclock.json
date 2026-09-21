@@ -1,0 +1,26 @@
+{
+  "name": "PSPWorldClock",
+  "id": "pspworldclock",
+  "summary": "Homebrew app for PSP.",
+  "author": "Glynnder",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.5",
+      "url": "https://archive.org/download/pspworld-clock-v-0.5.7z/PSPWorldClock%20v0.5.zip",
+      "published_at": "2006-10-23",
+      "size": 1884616,
+      "sha256": "3434057f6d870b638a22b6cc1be2e63520d56610c17d1b15b60dd377d67a9899",
+      "eboot_md5": "24731d7754efbcfe675921ed3d11df80"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspworld-clock-v-0.5.7z/PSPW01552_00001.jpg"
+    ],
+    "icon": "icons/pspworldclock.png"
+  }
+}

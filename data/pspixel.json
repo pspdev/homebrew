@@ -1,0 +1,28 @@
+{
+  "name": "PsPixel",
+  "id": "pspixel",
+  "summary": "Pixel art sketcher for PSP.",
+  "author": "Alexandre Rimbot",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/ps-pixel-v-2.0.7z/PsPixel%20v2.0.zip",
+      "published_at": "2011-01-01",
+      "size": 1200937,
+      "sha256": "c92f15365b39029e02ba4a31d08a722219eb3e24bff5ca151ea0a022e1adb5d1",
+      "eboot_md5": "7171ef16dc3522acd98fdf2bafe7569b"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ps-pixel-v-2.0.7z/PSPI01003_00000.png"
+    ],
+    "icon": "icons/pspixel.png"
+  }
+}

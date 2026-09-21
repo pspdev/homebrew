@@ -1,0 +1,26 @@
+{
+  "name": "LuaProg",
+  "id": "luaprog",
+  "summary": "Text editor for PSP.",
+  "author": "Dark Sidious",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/luaprog-1.0.7z/Luaprog1.0.zip",
+      "published_at": "2008-09-01",
+      "size": 1084278,
+      "sha256": "d9a0e385b3c8050662bb7ed637354bf0a8f81c9fdd31086aed308f6640dd0cbf",
+      "eboot_md5": "3c6ec9f28a792eaced9c17d3c79d2549"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/luaprog-1.0.7z/LUAP00873_00000.png"
+    ],
+    "icon": "icons/luaprog.png"
+  }
+}

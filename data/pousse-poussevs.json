@@ -1,0 +1,26 @@
+{
+  "name": "Pousse-PousseVs",
+  "id": "pousse-poussevs",
+  "summary": "Homebrew game for PSP.",
+  "author": "Carish",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/pousse-pousse-vs.-7z/Pousse-PousseVs.zip",
+      "published_at": "2006-10-25",
+      "size": 824794,
+      "sha256": "25173dcfe2eafc5f3579d7023018ca60941dc9f4898c88f5f9cc6b1bab104f26",
+      "eboot_md5": "90c683f8de85844f5eced000d30f9729"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pousse-pousse-vs.-7z/POUS01524_00000.jpg"
+    ],
+    "icon": "icons/pousse-poussevs.png"
+  }
+}

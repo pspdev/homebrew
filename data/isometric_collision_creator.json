@@ -1,0 +1,26 @@
+{
+  "name": "Isometric Collision Creator",
+  "id": "isometric_collision_creator",
+  "summary": "Homebrew app for PSP.",
+  "author": "Dungeon",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/package-iccieversion-0.1.7z/IsometricCollisionCreator.zip",
+      "published_at": "2008-01-01",
+      "size": 3525445,
+      "sha256": "56b4fc7e39cacc51cecfb1a6fe2fdbfee440c5f9eec16f81817b7f2908e34a9d",
+      "eboot_md5": "25e2a3c9e38b31367d9a6f57f575f624"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/package-iccieversion-0.1.7z/ISOM02603_00000.png"
+    ],
+    "icon": "icons/isometric_collision_creator.png"
+  }
+}

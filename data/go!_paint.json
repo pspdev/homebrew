@@ -1,0 +1,26 @@
+{
+  "name": "Go! Paint",
+  "id": "go!_paint",
+  "summary": "Drawing application for PSP.",
+  "author": "Jepte Aguirre Sanchez",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/go-paint-v-2.7z/Old%20Versions/Go%21Paint%20v2.zip",
+      "published_at": "2013-05-31",
+      "size": 19848471,
+      "sha256": "508e3ff01e256113b51dc9fd72caf142702c5f1214d03482d599b2fa79ebc097",
+      "eboot_md5": "e2f44760d0feffa87881223f0b7665c0"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/go-paint-v-2.7z/GO%21P00923_00000.png"
+    ],
+    "icon": "icons/go!_paint.png"
+  }
+}

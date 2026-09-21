@@ -1,0 +1,26 @@
+{
+  "name": "Tamasky",
+  "id": "tamasky",
+  "summary": "Digital pet for PSP.",
+  "author": "LeJournal, CounterSpy",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.4",
+      "url": "https://archive.org/download/tamasky.-7z/Tamasky_0.4.zip",
+      "published_at": "2007-10-09",
+      "size": 4863070,
+      "sha256": "1a7f1b0dc8908b479de8e46f3573021ab3dc8e5d71d3f692ee351bf33fe11fd9",
+      "eboot_md5": "a59f1470912082f52fec229d0886f4fa"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/tamasky.-7z/TAMA00971_00000.png"
+    ],
+    "icon": "icons/tamasky.png"
+  }
+}

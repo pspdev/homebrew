@@ -1,0 +1,26 @@
+{
+  "name": "PSP Mental",
+  "id": "psp_mental",
+  "summary": "Homebrew game for PSP.",
+  "author": "Omega9000",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1",
+      "url": "https://archive.org/download/psp-mental-v-1/PSP%20Mental%20v1.zip",
+      "published_at": "2011-01-01",
+      "size": 6008279,
+      "sha256": "2c547759d6f648b772cd95f35daa19818ab04f9cedda123cc1f5b242888d8b76",
+      "eboot_md5": "86417107efefef051e48f2b02c105382"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-mental-v-1/PSP%2001083_00002.png"
+    ],
+    "icon": "icons/psp_mental.png"
+  }
+}

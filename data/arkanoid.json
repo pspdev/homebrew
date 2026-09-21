@@ -1,0 +1,26 @@
+{
+  "name": "Arkanoid",
+  "id": "arkanoid",
+  "summary": "PSP version of the game.",
+  "author": "Qubitz",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.00A",
+      "url": "https://archive.org/download/arkanoid.-7z/Arkanoid.zip",
+      "published_at": "2005-05-20",
+      "size": 3538917,
+      "sha256": "28c1371f0d0a5d7c7df37e034cc4dbc01df064e70bc6ac9591654ec33a85f19c",
+      "eboot_md5": "3fa52abeca14b2ff1e2f5b3939a69d79"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/arkanoid.-7z/ARKA00809_00000.jpg"
+    ],
+    "icon": "icons/arkanoid.png"
+  }
+}

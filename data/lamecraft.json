@@ -1,0 +1,28 @@
+{
+  "name": "Lamecraft",
+  "id": "lamecraft",
+  "summary": "Fan game based on Minecraft. Winner of the PSP Genesis Competition 2011.",
+  "author": "Marcin Ploska (Drakon)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "op-30",
+      "url": "https://archive.org/download/lamecraft.-7z_202101/Lamecraft_signed.zip",
+      "published_at": "2012-03-24",
+      "size": 3147571,
+      "sha256": "cf359e5dd565fefbaf1c08c7ac324f3ceb3bf7f5a47d5c9bbbc34dfa67f3a057",
+      "eboot_md5": "54ff896a1775b0b3db0d54f42c62a034"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lamecraft.-7z_202101/LAME00911_00000.jpg"
+    ],
+    "icon": "icons/lamecraft.png"
+  }
+}

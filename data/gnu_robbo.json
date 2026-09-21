@@ -1,0 +1,26 @@
+{
+  "name": "GNU Robbo",
+  "id": "gnu_robbo",
+  "summary": "GNU Robbo for Playstation Portable.",
+  "author": "Marcin Klimczewski",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.68",
+      "url": "https://archive.org/download/gnu-robbo-0.68.7z/GNU_Robbo_0.68.zip",
+      "published_at": "2017-01-24",
+      "size": 2989836,
+      "sha256": "f873d1f256e2be97beee6c752376da7e814e4d081aa3fa880b4ca9954fea1ece",
+      "eboot_md5": "94a31e49d49f4ec47bea59521b38e8d8"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/gnu-robbo-0.68.7z/GNU_01128_00000.png"
+    ],
+    "icon": "icons/gnu_robbo.png"
+  }
+}

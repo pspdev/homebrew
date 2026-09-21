@@ -1,0 +1,26 @@
+{
+  "name": "Connect",
+  "id": "connect",
+  "summary": "Homebrew game for PSP.",
+  "author": "JEK",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/connect.-7z/Connect.zip",
+      "published_at": "2005-09-12",
+      "size": 589430,
+      "sha256": "9c9aaa97441f54c75872eca5bdfb390e6f6cc9afcd9e2984ee54f1b952d9a76b",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/connect.-7z/LUAP01126_00001.png"
+    ],
+    "icon": "icons/connect.png"
+  }
+}

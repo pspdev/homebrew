@@ -1,0 +1,28 @@
+{
+  "name": "Zlink",
+  "id": "zlink",
+  "summary": "Collection of minigames.",
+  "author": "Rattmuffen",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.9",
+      "url": "https://archive.org/download/zlink-0.9.7z/Zlink0.9.zip",
+      "published_at": "2007-01-01",
+      "size": 3221285,
+      "sha256": "b3b0fae1f3fdba8169a3a7c37463a712af060e3c875217d22a14e8acf89b52b9",
+      "eboot_md5": "65b8f12c5c5989ac02fea2a461aed642"
+    }
+  ],
+  "tags": [
+    "NEO Spring Compo 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/zlink-0.9.7z/zlink.png"
+    ],
+    "icon": "icons/zlink.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PSP to Joypad",
+  "id": "psp_to_joypad",
+  "summary": "Homebrew app for PSP.",
+  "author": "Stefano Russello",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/pspto-joypad.-7z/PSPtoJOYPAD.zip",
+      "published_at": "2006-08-02",
+      "size": 1833220,
+      "sha256": "024356eb216dcedae8041c9ad608f96ff214c1917c3c3ebc615bcbe26c800245",
+      "eboot_md5": "312e289cde894af903c58a8509ae3639"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspto-joypad.-7z/20210720214825.png"
+    ],
+    "icon": "icons/psp_to_joypad.png"
+  }
+}

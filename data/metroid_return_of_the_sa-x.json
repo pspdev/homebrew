@@ -1,0 +1,26 @@
+{
+  "name": "Metroid: Return of the SA-X",
+  "id": "metroid_return_of_the_sa-x",
+  "summary": "Homebrew game for PSP.",
+  "author": "Ninja9393",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.75",
+      "url": "https://archive.org/download/metroid-return-of-the-sa-x.-7z/Metroid%20Return%20of%20the%20SA-X.zip",
+      "published_at": "2006-10-09",
+      "size": 7859839,
+      "sha256": "73bd5b1dc5372ccda522957fb575bd7a614082305fd5b7ec54bee27545c0df63",
+      "eboot_md5": "dab7276767058c3f22d06121c3189ab1"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/metroid-return-of-the-sa-x.-7z/pic_0001.png"
+    ],
+    "icon": "icons/metroid_return_of_the_sa-x.png"
+  }
+}

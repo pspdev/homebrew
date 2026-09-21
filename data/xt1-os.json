@@ -1,0 +1,26 @@
+{
+  "name": "XT1-OS",
+  "id": "xt1-os",
+  "summary": "UI shell for PSP.",
+  "author": "Devun_06",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.9",
+      "url": "https://archive.org/download/xt-1-os-v-0.9-for-psp.-7z/XT1-OS%20v0.9%20for%20PSP.zip",
+      "published_at": "2006-05-31",
+      "size": 1736927,
+      "sha256": "da4265f3598f14258539c4f5ca8d4a39e162543e1d0f50a7f8ca626e38fce968",
+      "eboot_md5": "7fbc03ce74d87a7af445a19d43f31820"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/xt-1-os-v-0.9-for-psp.-7z/XT1-00428_00001.jpg"
+    ],
+    "icon": "icons/xt1-os.png"
+  }
+}

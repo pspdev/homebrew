@@ -1,0 +1,26 @@
+{
+  "name": "PSPident",
+  "id": "pspident",
+  "summary": "System information displayer for PSP.",
+  "author": "jas0nuk, Yoti",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.5",
+      "url": "https://archive.org/download/pspi-00615-00000/pspIdent_v1.5.zip",
+      "published_at": "2023-09-22",
+      "size": 138172,
+      "sha256": "9aa0e95c96b7c7118fa84a346f8a8bdf6695452d6e158393cff6133622af3a58",
+      "eboot_md5": "f55389297eac691c65646035ed7651a5"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspi-00615-00000/PSPI00615_00000.png"
+    ],
+    "icon": "icons/pspident.png"
+  }
+}

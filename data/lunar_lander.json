@@ -1,0 +1,26 @@
+{
+  "name": "Lunar Lander",
+  "id": "lunar_lander",
+  "summary": "Homebrew game for PSP.",
+  "author": "Thepixelatedpoo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.5",
+      "url": "https://archive.org/download/lunarlander_v05.7z/LUNARLANDER.zip",
+      "published_at": "2006-01-08",
+      "size": 7056560,
+      "sha256": "7e877d4d688d1be608145576a2c273364dfd72868dd2f37e1aca9e2743efe935",
+      "eboot_md5": "aba8212538f0fd5af4b7bb141f982594"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lunarlander_v05.7z/SNAP.png"
+    ],
+    "icon": "icons/lunar_lander.png"
+  }
+}

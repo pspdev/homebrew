@@ -1,0 +1,26 @@
+{
+  "name": "Solitarie Mahjongg",
+  "id": "solitarie_mahjongg",
+  "summary": "Mahjong solitaire homebrew for PSP.",
+  "author": "Labsnetwork Team",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/mahjongg.-7z/MAHJONGG.zip",
+      "published_at": "2008-01-01",
+      "size": 584821,
+      "sha256": "b2575ab194aa96e8a5ebed63f9c10498bee81905b8942f3f04a2755dc6b03970",
+      "eboot_md5": "4fbed28dbec37a64418a463b1c332c4c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mahjongg.-7z/MAHJ00587_00001.jpg"
+    ],
+    "icon": "icons/solitarie_mahjongg.png"
+  }
+}

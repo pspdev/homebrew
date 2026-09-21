@@ -1,0 +1,26 @@
+{
+  "name": "Flyer: Mars Demo",
+  "id": "flyer_mars_demo",
+  "summary": "2D shooter for PSP.",
+  "author": "\u0413aeae \u0412ea\u0434e\u0441eaa (vladgalay)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.42",
+      "url": "https://archive.org/download/flyer.-7z/Flyer.zip",
+      "published_at": "2012-01-01",
+      "size": 3085881,
+      "sha256": "726c7d9258aab914b4c36e651d3988280fb01192635e1d6ba77e7c96d2717eee",
+      "eboot_md5": "c53e9aea365ffa83a75b94d60a90b293"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/flyer.-7z/VGHGFlyer_00000.jpg"
+    ],
+    "icon": "icons/flyer_mars_demo.png"
+  }
+}

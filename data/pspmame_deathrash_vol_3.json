@@ -1,0 +1,26 @@
+{
+  "name": "pspMame Deathrash Vol 3",
+  "id": "pspmame_deathrash_vol_3",
+  "summary": "Version of the MAME emulator for PSP. List of \"supported\" games: link .",
+  "author": "Repuken2",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "R2",
+      "url": "https://archive.org/download/pspMame-Deathrash-vol3-RC2.7z/pspMame-Deathrash-vol3-RC2.zip",
+      "published_at": "2010-12-24",
+      "size": 1665124,
+      "sha256": "e4f080a654ff20894b2a28e989e74837f291aa7813703a81763e8ceaecae33f5",
+      "eboot_md5": "120648fa9dcee6b74d7fb62131afe470"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspMame-Deathrash-vol3-RC2.7z/PSPM02361_00000.jpg"
+    ],
+    "icon": "icons/pspmame_deathrash_vol_3.png"
+  }
+}

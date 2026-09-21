@@ -1,0 +1,28 @@
+{
+  "name": "Toppler PSP",
+  "id": "toppler_psp",
+  "summary": "Adaptation of the game \"NEBULOUS/Tower Toppler\".",
+  "author": "Denis Televnyy (Deniska)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.5",
+      "url": "https://archive.org/download/toppler.7z/toppler.zip",
+      "published_at": "2006-01-09",
+      "size": 1734103,
+      "sha256": "44137a125da343973798b65df80a34996faf258437fdd5bf73394ffbb765995f",
+      "eboot_md5": "59d6ccb5933bd1f5c3610dc84fa4b917"
+    }
+  ],
+  "tags": [
+    "PSP 30 Day Coding Competition #2 (2005-2006)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/toppler.7z/TOPP00774_00000.png"
+    ],
+    "icon": "icons/toppler_psp.png"
+  }
+}

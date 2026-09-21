@@ -1,0 +1,26 @@
+{
+  "name": "Foot Pong",
+  "id": "foot_pong",
+  "summary": "Homebrew game for PSP.",
+  "author": "Team Salex",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.3",
+      "url": "https://archive.org/download/foot-pong-v-0.3.7z/Foot%20Pong%20v0.3.zip",
+      "published_at": "2008-05-25",
+      "size": 3772764,
+      "sha256": "fe755c31b880ba1f7f8cf88ba301753ab9eed5d29c509869be834f59fb0b0ed2",
+      "eboot_md5": "e1a6edf265212189bc34bf9719693180"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/foot-pong-v-0.3.7z/FOOT01139_00001.png"
+    ],
+    "icon": "icons/foot_pong.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Space Shooter",
+  "id": "space_shooter",
+  "summary": "Homebrew game for PSP.",
+  "author": "Carl1246",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.01",
+      "url": "https://archive.org/download/revision-v-0.01.7z/Revision_V0.01.zip",
+      "published_at": "2008-08-28",
+      "size": 4580300,
+      "sha256": "498f64b9c3d640ecb26eae01a236265c8f094e2946b8ed793803d8377a6e68ed",
+      "eboot_md5": "eab060bb920b2e90c23ae0031413a729"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/revision-v-0.01.7z/REVI01219_00000.jpg"
+    ],
+    "icon": "icons/space_shooter.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Snes9xTYL mecm",
+  "id": "snes9xtyl_mecm",
+  "summary": "SNES emulator for PSP.",
+  "author": "33(76)\u6c0f",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.4.2mecm",
+      "url": "https://archive.org/download/s9xTYLmecm091115.7z/s9xTYLmecm091115.zip",
+      "published_at": "2009-11-15",
+      "size": 2165208,
+      "sha256": "5e0ffe253a06ef93f3c502b9af8ac9fcd6f35b9d8d20d38a70fca013d271bea8",
+      "eboot_md5": "cd2066862f78a0eb06fcc62050fed081"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/s9xTYLmecm091115.7z/20210609045114.png"
+    ],
+    "icon": "icons/snes9xtyl_mecm.png"
+  }
+}

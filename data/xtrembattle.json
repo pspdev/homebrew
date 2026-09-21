@@ -1,0 +1,28 @@
+{
+  "name": "XtremBattle",
+  "id": "xtrembattle",
+  "summary": "Homebrew game for PSP.",
+  "author": "Sabbator",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1 Demo",
+      "url": "https://archive.org/download/xbattle.7z/xbattle.zip",
+      "published_at": "2007-07-03",
+      "size": 8932031,
+      "sha256": "e6fc731083feaca6a58d7b79b9aac055450211b169c5a93cb1770fac53a7c07a",
+      "eboot_md5": "34bee601992a67999c781c0d80d03594"
+    }
+  ],
+  "tags": [
+    "Gx-mod/XtreamLua 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/xbattle.7z/snap.png"
+    ],
+    "icon": "icons/xtrembattle.png"
+  }
+}

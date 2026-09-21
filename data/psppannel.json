@@ -1,0 +1,26 @@
+{
+  "name": "PSPPannel",
+  "id": "psppannel",
+  "summary": "Homebrew app for PSP.",
+  "author": "T-Craydon",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "4.0",
+      "url": "https://archive.org/download/psppannel-v.-1.9.7z/psppannelforfw400.zip",
+      "published_at": "2008-01-01",
+      "size": 29758850,
+      "sha256": "6e9d5aaf9727dd0f057a1b0a29a55814d5562fd97a308312fef2a8a9bcbf3163",
+      "eboot_md5": "64bae5dd0d0f836baedf915fb106e9cc"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psppannel-v.-1.9.7z/PSPP01673_00000.jpg"
+    ],
+    "icon": "icons/psppannel.png"
+  }
+}

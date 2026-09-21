@@ -1,0 +1,29 @@
+{
+  "name": "NervOS",
+  "id": "nervos",
+  "summary": "Custom shell for PSP",
+  "author": "Pirata Nervo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.1",
+      "url": "https://archive.org/download/nerv-os.-7z/NervOS%20Installer.zip",
+      "published_at": "2008-08-10",
+      "size": 6775049,
+      "sha256": "517aeb86f10f5c405896a45a000206d0e8f97197642ef51f5c4766afb5bb912c",
+      "eboot_md5": "0c4c57575c7184f89cfce62d8c736921"
+    }
+  ],
+  "tags": [
+    "PSPUpdates Summer Homebrew Contest (2008)",
+    "Homebrew Idol (2008)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/nerv-os.-7z/nervos-v20.png"
+    ],
+    "icon": "icons/nervos.png"
+  }
+}

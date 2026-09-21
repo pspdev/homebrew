@@ -1,0 +1,26 @@
+{
+  "name": "XBMC Remote Interface",
+  "id": "xbmc_remote_interface",
+  "summary": "App to control the Xbox Media Center. Early builds known as XBMC Remote Music Interface.",
+  "author": "jonny2002, trex6662k5",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.7.6b Mod",
+      "url": "https://archive.org/download/xbmc-ri-0.7.7z/XBMC%20RI%200.7.zip",
+      "published_at": "2006-10-14",
+      "size": 807842,
+      "sha256": "66bca38b0bbe1773de270a50b87e018352434b669ed297d301edc50ab6f409b4",
+      "eboot_md5": "23b32b0cc129e085c35e2deedabfe7c6"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/xbmc-ri-0.7.7z/XBMC00666_00000.jpg"
+    ],
+    "icon": "icons/xbmc_remote_interface.png"
+  }
+}

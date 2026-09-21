@@ -1,0 +1,26 @@
+{
+  "name": "Doki Doki Stickers",
+  "id": "doki_doki_stickers",
+  "summary": "Homebrew app for PSP.",
+  "author": "MasterMen",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "Rev 1",
+      "url": "https://archive.org/download/doki-doki-stickers/Doki%20Doki%20Stickers.zip",
+      "published_at": "2018-06-04",
+      "size": 7512745,
+      "sha256": "cb88e6553863fa60a8637829fba573eee2a559e18cccfd61550cd0c870947c6e",
+      "eboot_md5": "e39fda4bcb95c3fcb80522175d6a3ae3"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/doki-doki-stickers/DOKI01686_00000.png"
+    ],
+    "icon": "icons/doki_doki_stickers.png"
+  }
+}

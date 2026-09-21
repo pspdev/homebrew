@@ -1,0 +1,28 @@
+{
+  "name": "PyPlayer",
+  "id": "pyplayer",
+  "summary": "Python script launcher for PSP.",
+  "author": "Fantasymaster, Bigboss",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/py-player.-7z/PyPlayer.zip",
+      "published_at": "2007-06-22",
+      "size": 6185373,
+      "sha256": "b57010c668d75f2ee9761d5ce9786bb4278e2e10b145bbddf86904888022de60",
+      "eboot_md5": "384ea5a94b550c42c88ad7d378dbe2c8"
+    }
+  ],
+  "tags": [
+    "python"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/py-player.-7z/PYPL00822_00001.png"
+    ],
+    "icon": "icons/pyplayer.png"
+  }
+}

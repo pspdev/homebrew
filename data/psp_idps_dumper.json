@@ -1,0 +1,26 @@
+{
+  "name": "PSP IDPS Dumper",
+  "id": "psp_idps_dumper",
+  "summary": "Homebrew app for PSP.",
+  "author": "Yoti",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.8",
+      "url": "https://archive.org/download/psp-idps-dumper-v-0.8.7z/PSP_IDPS_Dumper_v0.8.zip",
+      "published_at": "2021-02-21",
+      "size": 79355,
+      "sha256": "ae6055e0c1c12809bb8e107a6599c9410d59f09bf31c768395a579ae164f0939",
+      "eboot_md5": "75454f6fb668d3a094fac969633a5870"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-idps-dumper-v-0.8.7z/20210720175924.png"
+    ],
+    "icon": "icons/psp_idps_dumper.png"
+  }
+}

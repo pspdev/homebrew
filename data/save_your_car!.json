@@ -1,0 +1,26 @@
+{
+  "name": "Save your car!",
+  "id": "save_your_car!",
+  "summary": "Dodging game for PSP.",
+  "author": "Team Unlimited",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/save-your-car-ver-1.0.7z/Save%20your%20car%20%20%21%20Ver%201.0.zip",
+      "published_at": "2010-02-21",
+      "size": 1471089,
+      "sha256": "3d3377f6b539c934b4e4e79b786f196086bb3080297c0a1a51923bb29fe2b5e6",
+      "eboot_md5": "ac5f9c45618fbb0dd44aceec31f55f93"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/save-your-car-ver-1.0.7z/SAVE01841_00000.jpg"
+    ],
+    "icon": "icons/save_your_car!.png"
+  }
+}

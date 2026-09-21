@@ -1,0 +1,26 @@
+{
+  "name": "In The Bin PSP Client",
+  "id": "in_the_bin_psp_client",
+  "summary": "Save data extractor for PSP.",
+  "author": "In The Bin",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.00",
+      "url": "https://archive.org/download/inthebin.-7z/INTHEBIN.zip",
+      "published_at": "2005-07-17",
+      "size": 179103,
+      "sha256": "80d0f5265db33a2c2c235ea12404d93be09a83ee7022176b7c67c91de4cb80cc",
+      "eboot_md5": "2586ba72a40a042830f7761cca4a4b48"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/inthebin.-7z/INTH00593_00000.jpg"
+    ],
+    "icon": "icons/in_the_bin_psp_client.png"
+  }
+}

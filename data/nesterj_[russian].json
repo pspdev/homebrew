@@ -1,0 +1,26 @@
+{
+  "name": "NesterJ [Russian]",
+  "id": "nesterj_[russian]",
+  "summary": "Russian-language version of the NES emulator for PSP by Ruka.",
+  "author": "ilnur2883",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.13",
+      "url": "https://archive.org/download/nester-j/NesterJ.zip",
+      "published_at": "2012-12-30",
+      "size": 585141,
+      "sha256": "2c3fd4ffe6b07012ecd0f58a3e0082b3179c1fc1ab211bc6f4b0e6c96ada16be",
+      "eboot_md5": "61656adcd6bcde0a7e1b2f1ca25e4238"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/nester-j/NEST00699_00001.png"
+    ],
+    "icon": "icons/nesterj_[russian].png"
+  }
+}

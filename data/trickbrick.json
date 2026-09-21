@@ -1,0 +1,26 @@
+{
+  "name": "TrickBrick",
+  "id": "trickbrick",
+  "summary": "App that pretends to damage your PSP.",
+  "author": "Playboy",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "3",
+      "url": "https://archive.org/download/trick-brickv-3.7z/TrickBrickv3.zip",
+      "published_at": "2008-11-13",
+      "size": 155106,
+      "sha256": "dbd83a61073998c9f3cf27e2d69a12b36b20924650664e3697e9a40f50f64416",
+      "eboot_md5": "481063760cc5349d3e7d0335b84b7234"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/trick-brickv-3.7z/Unbenannt.PNG"
+    ],
+    "icon": "icons/trickbrick.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "CSPSP Extreme",
+  "id": "cspsp_extreme",
+  "summary": "Mod of CSPSP.",
+  "author": "Fatcat04912",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/cspsp-extreme-v-1.2.7z/CSPSP%20Extreme%20V1.2.zip",
+      "published_at": "2007-02-13",
+      "size": 5901137,
+      "sha256": "79bbe330135f8b8d03b84b15b494d4cc2a84d7b917e187e80956f38b9f18d9b3",
+      "eboot_md5": "97720f353759a362a0fcc1088e10f9b8"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/cspsp-extreme-v-1.2.7z/CSPS00393_00000.jpg"
+    ],
+    "icon": "icons/cspsp_extreme.png"
+  }
+}

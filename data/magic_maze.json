@@ -1,0 +1,26 @@
+{
+  "name": "Magic Maze",
+  "id": "magic_maze",
+  "summary": "Homebrew game for PSP.",
+  "author": "Etienne B\u00e9gu\u00e9 (Txori)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2.6",
+      "url": "https://archive.org/download/magicmaze.7z/magicmaze.zip",
+      "published_at": "2010-01-01",
+      "size": 670425,
+      "sha256": "b931660b0a884e4edde6ab297bbad737824029b1f3d16bac6d4a06531a347aae",
+      "eboot_md5": "cf082e9d826ca15f3aa338073de76919"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/magicmaze.7z/MAGI00942_00000.jpg"
+    ],
+    "icon": "icons/magic_maze.png"
+  }
+}

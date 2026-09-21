@@ -1,0 +1,26 @@
+{
+  "name": "PSPMAME Universal",
+  "id": "pspmame_universal",
+  "summary": "MAME emulator for PSP, based on MAME 0.97. Claims support for 42 games. A compatibility list for an earlier version is available (in Japanese).",
+  "author": "TMK",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.97 r0.6 Test 2",
+      "url": "https://archive.org/download/universal.7z/universal_test2.zip",
+      "published_at": "2011-01-18",
+      "size": 5639838,
+      "sha256": "1d11799d683392bee70734b7f4954f8d4387b11d1b8f897ac1fe3a9ae24e8225",
+      "eboot_md5": "8d0a9e63fdd3032a9c9859cb1e5bc21e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/universal.7z/UNIV00985_00000.jpg"
+    ],
+    "icon": "icons/pspmame_universal.png"
+  }
+}

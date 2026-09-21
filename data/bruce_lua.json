@@ -1,0 +1,26 @@
+{
+  "name": "Bruce Lua",
+  "id": "bruce_lua",
+  "summary": "Homebrew game for PSP.",
+  "author": "PSPKOR",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/bruce-lua.-7z/Old%20Versions/BruceLuav02.zip",
+      "published_at": "2007-02-11",
+      "size": 3221791,
+      "sha256": "c6d89eb17a8f68c856029a70bb051ab40346f84ce8badf34ee9c795b30e48e47",
+      "eboot_md5": "94eebd7bec7113daa1d2b523e28de5bf"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/bruce-lua.-7z/BRUC00819_00000.jpg"
+    ],
+    "icon": "icons/bruce_lua.png"
+  }
+}

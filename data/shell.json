@@ -1,0 +1,29 @@
+{
+  "name": "SHELL",
+  "id": "shell",
+  "summary": "Shell replacement for PSP.",
+  "author": "Arnold Bronson, A_Nub",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.73.1",
+      "url": "https://archive.org/download/shellv-0.73.1.7z/SHELLv0.73.1.zip",
+      "published_at": "2011-05-26",
+      "size": 12147170,
+      "sha256": "45a1c945db297aebbff8889555004d571d110c6c9e878438824ee7343f8bc049",
+      "eboot_md5": "a474d95ede1489ce754dca5dd6d0509b"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011",
+    "Homebrew Idol 3 (2010)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/shellv-0.73.1.7z/NEWS01049_00000.jpg"
+    ],
+    "icon": "icons/shell.png"
+  }
+}

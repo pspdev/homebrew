@@ -1,0 +1,26 @@
+{
+  "name": "UMDKiller",
+  "id": "umdkiller",
+  "summary": "UMD dumper app for PSP.",
+  "author": "Avanaboy",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/umdkiller.-7z/UMDKiller.zip",
+      "published_at": "2012-04-07",
+      "size": 177687,
+      "sha256": "b5a73fefb8a2c2d331bed794ceff995536a64b430c9a556cd9f042c9090dfa9c",
+      "eboot_md5": "ac87a12c0138f7a4894f7602ab39a6b6"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/umdkiller.-7z/UMDK00841_00000.png"
+    ],
+    "icon": "icons/umdkiller.png"
+  }
+}

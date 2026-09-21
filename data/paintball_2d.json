@@ -1,0 +1,26 @@
+{
+  "name": "Paintball 2D",
+  "id": "paintball_2d",
+  "summary": "Homebrew game for PSP.",
+  "author": "Mr.Game, bboyjcm",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.5",
+      "url": "https://archive.org/download/paintball-2-d.-7z/Paintball%202D.zip",
+      "published_at": "2008-12-15",
+      "size": 1723995,
+      "sha256": "85adc9d846ae24f37918cfd728f3fa93be2e44c643a4f88d6e22514580f05189",
+      "eboot_md5": "e07c75a0c36e47a241eede52d1d8e2ef"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/paintball-2-d.-7z/PAIN01069_00000.png"
+    ],
+    "icon": "icons/paintball_2d.png"
+  }
+}

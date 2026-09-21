@@ -1,0 +1,26 @@
+{
+  "name": "VTPW Lua Trivia",
+  "id": "vtpw_lua_trivia",
+  "summary": "Quiz app for PSP.",
+  "author": "VTPW",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/vtpw.-7z/VTPW.zip",
+      "published_at": "2007-09-24",
+      "size": 1694618,
+      "sha256": "86ae4250c6d812a7c6fc66fc714c7b96547a24c7780c83bb5ee8842ac9142135",
+      "eboot_md5": "05d2b1c9f578439a310ad2142fd9f66b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/vtpw.-7z/3.7101232_00000.jpg"
+    ],
+    "icon": "icons/vtpw_lua_trivia.png"
+  }
+}

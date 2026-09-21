@@ -1,0 +1,28 @@
+{
+  "name": "Zelda - Navi's Quest PSP",
+  "id": "zelda_-_navi's_quest_psp",
+  "summary": "PSP version of the fan game by Vincent Jouillat.",
+  "author": "suloku",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.04",
+      "url": "https://archive.org/download/zelda-nsq.-7z/ZeldaNSQ.zip",
+      "published_at": "2015-08-10",
+      "size": 18860117,
+      "sha256": "b6dfd3b4756f3f5692eb9365fb923bc8cea3504b4d1127d25802906a11bfd5da",
+      "eboot_md5": "ba7a3e7d0a20fd1249695fefbd7f1e1e"
+    }
+  ],
+  "tags": [
+    "PSP-2000+ only"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/zelda-nsq.-7z/ZELD00738_00001.jpg"
+    ],
+    "icon": "icons/zelda_-_navi's_quest_psp.png"
+  }
+}

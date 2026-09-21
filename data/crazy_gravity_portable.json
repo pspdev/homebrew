@@ -1,0 +1,28 @@
+{
+  "name": "Crazy Gravity Portable",
+  "id": "crazy_gravity_portable",
+  "summary": "Homebrew game for PSP.",
+  "author": "Nino van Hooff (The Underminer)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/cgp-1.1.7z/CGP_1.1.zip",
+      "published_at": "2009-03-20",
+      "size": 1305229,
+      "sha256": "31eed586741c7e7124fe70ea6e675642f18a700d3372f7d090942d0560abe4f5",
+      "eboot_md5": "020b697965370ad6be2046afbcca92ca"
+    }
+  ],
+  "tags": [
+    "NEO Spring Coding Compo 2009"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/cgp-1.1.7z/CGP_00457_00001.png"
+    ],
+    "icon": "icons/crazy_gravity_portable.png"
+  }
+}

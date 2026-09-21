@@ -1,0 +1,26 @@
+{
+  "name": "OneInstaller",
+  "id": "oneinstaller",
+  "summary": "Homebrew installer for PSP.",
+  "author": "David Nu\u00f1ez A.",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.4.0",
+      "url": "https://archive.org/download/one-installer.-7z/OneInstaller.zip",
+      "published_at": "2014-12-30",
+      "size": 1997840,
+      "sha256": "20667e9d27e094116befebecfa08bea746bc293221cc2af2e5983678903dbba0",
+      "eboot_md5": "e2aa9e7ac65f676a2701db96e36939ec"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/one-installer.-7z/pic_0000.png"
+    ],
+    "icon": "icons/oneinstaller.png"
+  }
+}

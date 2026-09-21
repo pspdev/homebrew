@@ -1,0 +1,26 @@
+{
+  "name": "TxtoPS V",
+  "id": "txtops_v",
+  "summary": "Text editor for PSP.",
+  "author": "dangee",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "First Edition",
+      "url": "https://archive.org/download/txtopsv.-7z/TXTOPSV.zip",
+      "published_at": "2009-01-01",
+      "size": 1124310,
+      "sha256": "cc282e51c46ce848e20a17e27e66bbeaf7a4e99fe255480ff8871531f95da37b",
+      "eboot_md5": "c271da4c2b074ecf0c71d42aa425552c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/txtopsv.-7z/pic_0000.jpg"
+    ],
+    "icon": "icons/txtops_v.png"
+  }
+}

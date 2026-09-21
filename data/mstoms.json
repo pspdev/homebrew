@@ -1,0 +1,26 @@
+{
+  "name": "MStoMS",
+  "id": "mstoms",
+  "summary": "App to copy files from memory stick to memory stick.",
+  "author": "ABCanG",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/msto-ms.-7z/MStoMS1.1.zip",
+      "published_at": "2012-12-24",
+      "size": 1486288,
+      "sha256": "689919e9b74b2ca91ffaa9462a0931b07d84280ad043160b4ded51360a6cf203",
+      "eboot_md5": "447bfa151407a64ee90996d86e605d20"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/msto-ms.-7z/snap.png"
+    ],
+    "icon": "icons/mstoms.png"
+  }
+}

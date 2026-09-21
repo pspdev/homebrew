@@ -1,0 +1,26 @@
+{
+  "name": "Chase that Pyramid 3D",
+  "id": "chase_that_pyramid_3d",
+  "summary": "Homebrew game for PSP.",
+  "author": "TacticalPenguin",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/ctp-3-dwe.-7z/CTP3DWE.zip",
+      "published_at": "2006-12-16",
+      "size": 1394327,
+      "sha256": "ea48d88081d32f7d7f7f07b1b6e494e71f87a1d6ff8029dde461792e019b3348",
+      "eboot_md5": "c3e5083bec1ab55877b9309ab3e489e5"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ctp-3-dwe.-7z/CTP300506_00000.jpg"
+    ],
+    "icon": "icons/chase_that_pyramid_3d.png"
+  }
+}

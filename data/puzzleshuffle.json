@@ -1,0 +1,26 @@
+{
+  "name": "PuzzleShuffle",
+  "id": "puzzleshuffle",
+  "summary": "Tile puzzle game for PSP.",
+  "author": "luckymouse",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/puzzle-shuffle.-7z/puzzle%20shuffle.zip",
+      "published_at": "2006-06-06",
+      "size": 2804647,
+      "sha256": "02d2e30841e959ae4c30699aa4fecb073999b81261ac2376d2da7c8d71e36194",
+      "eboot_md5": "7f8e6348e23eb223c2571a5a7a1c751a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/puzzle-shuffle.-7z/LUAP01292_00000.jpg"
+    ],
+    "icon": "icons/puzzleshuffle.png"
+  }
+}

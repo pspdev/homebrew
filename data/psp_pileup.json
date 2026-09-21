@@ -1,0 +1,28 @@
+{
+  "name": "PSP Pileup",
+  "id": "psp_pileup",
+  "summary": "Homebrew game for PSP.",
+  "author": "Sangheili",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.4",
+      "url": "https://archive.org/download/pspileup.-7z/PSPileup.zip",
+      "published_at": "2008-01-01",
+      "size": 1193523,
+      "sha256": "de21961a638871a3acbb168f1fbea041ec62250a5add3feee615c27aae9c53f7",
+      "eboot_md5": "379dff16afa7f380ba6e04372985fdba"
+    }
+  ],
+  "tags": [
+    "Homebrew Idol (2008)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspileup.-7z/snap.png"
+    ],
+    "icon": "icons/psp_pileup.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PSPWindows",
+  "id": "pspwindows",
+  "summary": "UI shell for PSP.",
+  "author": "slasherzor",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/pspwindowsv-2.7z/PSPwindowsv2.zip",
+      "published_at": "2005-10-08",
+      "size": 3890888,
+      "sha256": "91c8314f32e9c94123d9af1e2ea0b6a1fd73b669ae0dbb24e5072680bc93e045",
+      "eboot_md5": "55e5a289a9fa52cce3159f01390ad51b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspwindowsv-2.7z/PSPW01022_00000.jpg"
+    ],
+    "icon": "icons/pspwindows.png"
+  }
+}

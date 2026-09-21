@@ -1,0 +1,26 @@
+{
+  "name": "Q88PSP",
+  "id": "q88psp",
+  "summary": "PC-88 emulator for PSP.",
+  "author": "erion",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.7",
+      "url": "https://archive.org/download/q-88-pv-07.7z/Q88PV07.zip",
+      "published_at": "2008-01-28",
+      "size": 388686,
+      "sha256": "9e6c264575a047227901e40ceb08300224f52157108cd67ad63e1f2933af9a4a",
+      "eboot_md5": "2aae6972809d7b2eba57b8cf0d35470e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/q-88-pv-07.7z/snap.png"
+    ],
+    "icon": "icons/q88psp.png"
+  }
+}

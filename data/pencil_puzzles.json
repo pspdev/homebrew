@@ -1,0 +1,26 @@
+{
+  "name": "Pencil Puzzles",
+  "id": "pencil_puzzles",
+  "summary": "Homebrew game for PSP.",
+  "author": "ARza, Cools",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/pencil-puzzles.-7z/Pencil%20Puzzles.zip",
+      "published_at": "2006-09-08",
+      "size": 2542919,
+      "sha256": "7ee3d9c93e7ddc667255c1a04ed4d517ad45c62559bc748fdf60fc05d8db5f6e",
+      "eboot_md5": "249f27f3090bccfffb462d389734a36a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pencil-puzzles.-7z/PENC01400_00000.jpg"
+    ],
+    "icon": "icons/pencil_puzzles.png"
+  }
+}

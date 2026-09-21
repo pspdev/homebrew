@@ -1,0 +1,28 @@
+{
+  "name": "Durandal",
+  "id": "durandal",
+  "summary": "Homebrew visual novel for PSP.",
+  "author": "History_exe",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Beta 1.0",
+      "url": "https://archive.org/download/durandal-beta-1-0/Extra/Durandal_beta_1_0.zip",
+      "published_at": "2021-11-07",
+      "size": 121581925,
+      "sha256": "59551e0a0d1ec1bcfd7aba6103875ffa9cf3cfb0cd5ee7a05ae841bddc0d22ac",
+      "eboot_md5": "794a911aae2de14c771f05a0ee5e5102"
+    }
+  ],
+  "tags": [
+    "visual novel"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/durandal-beta-1-0/DURA01605_00000.png"
+    ],
+    "icon": "icons/durandal.png"
+  }
+}

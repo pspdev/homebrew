@@ -1,0 +1,28 @@
+{
+  "name": "PSPAtari-irkb",
+  "id": "pspatari-irkb",
+  "summary": "Fork of the Atari 800/130/5200 emulator ported to PSP by Ludovic Jacomme, with the addition of IR keyboard support.",
+  "author": "KangKengKingKong",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.0.7.irkb.a",
+      "url": "https://archive.org/download/pspatari-v1.0.7.irkb/pspatari-v1.0.7.irkb.zip",
+      "published_at": "2007-03-06",
+      "size": 1569924,
+      "sha256": "3a63ec91a3d4c405b358cea8550bbd2d594cc40db038b49b606e9c19ec8e5421",
+      "eboot_md5": "1ad817df8d9274704b7fa1caa76b2f81"
+    }
+  ],
+  "tags": [
+    "IrDA"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspatari-v1.0.7.irkb/snap.png"
+    ],
+    "icon": "icons/pspatari-irkb.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Submission",
+  "id": "submission",
+  "summary": "Submarine shooting game.",
+  "author": "Xul8t0r",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/submission.7z/submission.zip",
+      "published_at": "2005-10-30",
+      "size": 440518,
+      "sha256": "cfd29efd2442490fdc99388c5dec1e3f8ed6aa9e7f4428d300edeb3613713e98",
+      "eboot_md5": "05d2b1c9f578439a310ad2142fd9f66b"
+    }
+  ],
+  "tags": [
+    "PSP NEWS & Lik Sang 30 Day Coding Comp (2005)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/submission.7z/20220107222033.png"
+    ],
+    "icon": "icons/submission.png"
+  }
+}

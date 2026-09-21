@@ -1,0 +1,26 @@
+{
+  "name": "CTorrent-DNH-PSP-DA",
+  "id": "ctorrent-dnh-psp-da",
+  "summary": "Fork of the Torrent client for PSP created by Danzel.",
+  "author": "Daniel Ribeiro (DanielBR)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.5 R2",
+      "url": "https://archive.org/download/ctorrent-dnh-psp-da-v-1-5-r-2.7z/CTorrent-DNH-PSP-DA-v1_5_r2.zip",
+      "published_at": "2011-05-02",
+      "size": 1659634,
+      "sha256": "3219f3b607ba87fd70c7019dd2165ba5cf1ef6e8063e3133a6823f16f3710e4a",
+      "eboot_md5": "4ee9cce1c0e2fd5d873dfe75f1085e8a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ctorrent-dnh-psp-da-v-1-5-r-2.7z/pic_0000.jpg"
+    ],
+    "icon": "icons/ctorrent-dnh-psp-da.png"
+  }
+}

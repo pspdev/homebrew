@@ -1,0 +1,26 @@
+{
+  "name": "PSPMAME Irem",
+  "id": "pspmame_irem",
+  "summary": "MAME emulator for PSP, based on MAME 0.97. Claims support for 108 games. A compatibility list for an earlier version is available (in Japanese).",
+  "author": "TMK",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.97 r0.6",
+      "url": "https://archive.org/download/irem.7z/irem.zip",
+      "published_at": "2010-03-02",
+      "size": 1425014,
+      "sha256": "e6918588ee1388de444d4b5a39ee3566123e73c48fd3d030bba1a728188f7b6b",
+      "eboot_md5": "c10a484c8ebbbfe97a3483b363a57fcc"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/irem.7z/IREM00429_00000.jpg"
+    ],
+    "icon": "icons/pspmame_irem.png"
+  }
+}

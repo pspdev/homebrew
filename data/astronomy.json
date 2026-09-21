@@ -1,0 +1,26 @@
+{
+  "name": "Astronomy",
+  "id": "astronomy",
+  "summary": "Shows the position of planets based on solar time.",
+  "author": "Harpet",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "4.3",
+      "url": "https://archive.org/download/astronomy.7z/astronomy.zip",
+      "published_at": "2008-01-01",
+      "size": 1079810,
+      "sha256": "51852ee5e815023f476b40a7f39bec46ef91e421b58b4b73a6653f73043ffa35",
+      "eboot_md5": "8652ca733d41dbb399d4ce7f652628e7"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/astronomy.7z/ASTR01004_00001.png"
+    ],
+    "icon": "icons/astronomy.png"
+  }
+}

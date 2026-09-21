@@ -1,0 +1,26 @@
+{
+  "name": "Baby Foot",
+  "id": "baby_foot",
+  "summary": "Table football simulator for PSP.",
+  "author": "Hydreed, Httony",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/baby-foot.-7z/Baby%20Foot.zip",
+      "published_at": "2008-06-15",
+      "size": 2245605,
+      "sha256": "f100f08b5b530eb836dd57a056ff235968eaf387832773433496aad7f695ec8f",
+      "eboot_md5": "906d8717c72305072d5caf2824096616"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/baby-foot.-7z/BABY00822_00002.png"
+    ],
+    "icon": "icons/baby_foot.png"
+  }
+}

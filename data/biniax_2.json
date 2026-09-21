@@ -1,0 +1,28 @@
+{
+  "name": "Biniax 2",
+  "id": "biniax_2",
+  "summary": "PSP port of the puzzle game by Jordan Tuzsuzov.",
+  "author": "Denis Televnyy (Deniska)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/biniax-2-psp.-7z/BINIAX2PSP.zip",
+      "published_at": "2008-04-09",
+      "size": 3498456,
+      "sha256": "30a5fa9ad8cde8157d237af3bba8a43e85f0ff08c04d2bebb092dd2f22ebc21d",
+      "eboot_md5": "ec455f109e3e8527445f4be5a94299a2"
+    }
+  ],
+  "tags": [
+    "Homebrew Idol (2008)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/biniax-2-psp.-7z/20210723014616.png"
+    ],
+    "icon": "icons/biniax_2.png"
+  }
+}

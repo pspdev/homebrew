@@ -1,0 +1,26 @@
+{
+  "name": "Freevial",
+  "id": "freevial",
+  "summary": "Trivial game for PSP.",
+  "author": "4ltrv1sm0",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Graphic Release 1",
+      "url": "https://archive.org/download/proypsp.7z/proypsp.zip",
+      "published_at": "2010-09-06",
+      "size": 6030074,
+      "sha256": "c1d94f91a223fb59ee66b34d9865f8f147ac2dcd9f50da18781c5032e0a8544b",
+      "eboot_md5": "77eb60c91462bcdc14630b48d5a6cd00"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/proypsp.7z/pic_0000.jpg"
+    ],
+    "icon": "icons/freevial.png"
+  }
+}

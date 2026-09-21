@@ -1,0 +1,28 @@
+{
+  "name": "Soul Eater",
+  "id": "soul_eater",
+  "summary": "Homebrew game for PSP.",
+  "author": "Fullarms Production",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Beta 8",
+      "url": "https://archive.org/download/soul-eater-signed-beta-8-en.-7z/soul%20eater%20signed%20beta%208%20en.zip",
+      "published_at": "2011-05-08",
+      "size": 18418223,
+      "sha256": "b4031df732aaa75bab2472e79dda3e88112563e024c53d0389840a4e340e6d82",
+      "eboot_md5": "a8255e6beb93e98d73f1eb36cf0a0fb6"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/soul-eater-signed-beta-8-en.-7z/SOUL02453_00000.jpg"
+    ],
+    "icon": "icons/soul_eater.png"
+  }
+}

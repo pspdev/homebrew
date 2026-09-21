@@ -1,0 +1,26 @@
+{
+  "name": "Super Mario Iceland",
+  "id": "super_mario_iceland",
+  "summary": "Homebrew platform game for PSP.",
+  "author": "Adrian Rivera, Jonar Johansen",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Milestone 1",
+      "url": "https://archive.org/download/super-mario-iceland-milestone-1-smbice.-7z/SuperMarioIceland%20Milestone1%20SMBICE.zip",
+      "published_at": "2006-01-28",
+      "size": 8940410,
+      "sha256": "e69d6542ca04c27fbabfef697b824dc32d791201a53fd777533ea1c61b2f3bc0",
+      "eboot_md5": "fcd8570d212563ea95a49e7abde0cd91"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/super-mario-iceland-milestone-1-smbice.-7z/SUPE03596_00000.png"
+    ],
+    "icon": "icons/super_mario_iceland.png"
+  }
+}

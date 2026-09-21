@@ -1,0 +1,26 @@
+{
+  "name": "Zoo Keeper",
+  "id": "zoo_keeper",
+  "summary": "Fan game for PSP.",
+  "author": "Bian Wei (orbpig)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.02",
+      "url": "https://archive.org/download/zk102.7z/zk102.zip",
+      "published_at": "2006-03-24",
+      "size": 6143329,
+      "sha256": "4f3507d9400ae8f612081152cdcbf28f13adc3d2194c1fa0da8215bd43691e1d",
+      "eboot_md5": "c116a7b292023c29d9cc7ff1ada38dbc"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/zk102.7z/ZK1000376_00002.png"
+    ],
+    "icon": "icons/zoo_keeper.png"
+  }
+}

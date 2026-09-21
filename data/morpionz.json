@@ -1,0 +1,26 @@
+{
+  "name": "MorpionZ",
+  "id": "morpionz",
+  "summary": "Noughts and crosses for PSP.",
+  "author": "Valer, Oxbow151",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.0 Demo",
+      "url": "https://archive.org/download/morpion-z-v-0.0.7z/MorpionZ_v0.0.zip",
+      "published_at": "2007-07-18",
+      "size": 1188168,
+      "sha256": "e5b32fc1e5f8a7c26eb9a819ee29baad4a6247f90d901a572fdd5f0fb7d24583",
+      "eboot_md5": "176c46e1df5df4332fff4041441f7d77"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/morpion-z-v-0.0.7z/MORP01185_00001.png"
+    ],
+    "icon": "icons/morpionz.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Button Mashing Revolution",
+  "id": "button_mashing_revolution",
+  "summary": "Rhythm game for PSP.",
+  "author": "Sam (youresam)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/lua_BMR.7z/Old%20Versions/lua_BMR.zip",
+      "published_at": "2006-05-17",
+      "size": 4373259,
+      "sha256": "2bf58664eb733db29ba6c8df3c1def6a8303c5c49d2872d9a34cc5eafefb6be0",
+      "eboot_md5": "944a29a8b45498f0ea52380b25598c74"
+    }
+  ],
+  "tags": [
+    "PSP NEWS & Lik Sang 15 Day Lua Coding Comp (2006)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lua_BMR.7z/LUAP01126_00000.jpg"
+    ],
+    "icon": "icons/button_mashing_revolution.png"
+  }
+}

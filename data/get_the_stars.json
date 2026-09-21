@@ -1,0 +1,28 @@
+{
+  "name": "Get The Stars",
+  "id": "get_the_stars",
+  "summary": "Homebrew game for PSP.",
+  "author": "saulotmalo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.4",
+      "url": "https://archive.org/download/get-stars.-7z/GetTheStars_14.zip",
+      "published_at": "2006-01-01",
+      "size": 2051664,
+      "sha256": "a236e6b2a825025a677da75f4afa27abf8ee0a83f59062e92e0002da1a728011",
+      "eboot_md5": "b16fa3d9a927121253062f5b00f7ee0c"
+    }
+  ],
+  "tags": [
+    "NEO Summer Coding Compo 2006"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/get-stars.-7z/GETT01298_00001.png"
+    ],
+    "icon": "icons/get_the_stars.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PSPdePON",
+  "id": "pspdepon",
+  "summary": "PSP version of the game.",
+  "author": "gozy",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.20",
+      "url": "https://archive.org/download/pon.7z/pon.zip",
+      "published_at": "2005-10-24",
+      "size": 99179,
+      "sha256": "abea21937c664ce8dc8708d3faee1e7dfeebd353b873cab367c280cedc800c24",
+      "eboot_md5": "db6d073f426cbfaf68f5310955eb4564"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pon.7z/PON(00464_00000.jpg"
+    ],
+    "icon": "icons/pspdepon.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "snes9xTYL",
+  "id": "snes9xtyl",
+  "summary": "SNES emulator for PSP.",
+  "author": "ThunderZ, YoyoFR, Laxer3a, 173210",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "r28",
+      "url": "https://archive.org/download/s9xTYLmecm_mod.7z/s9xTYLmecm_mod.zip",
+      "published_at": "2015-09-28",
+      "size": 1313469,
+      "sha256": "c77404466298a8b68c5ee23f98a89675d1e5712d591fb30cab54f91afea479c5",
+      "eboot_md5": "cb7940d0b3b0da06164ee17e0a003b36"
+    }
+  ],
+  "tags": [
+    "ad-hoc support"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/s9xTYLmecm_mod.7z/S9XT01164_00000.jpg"
+    ],
+    "icon": "icons/snes9xtyl.png"
+  }
+}

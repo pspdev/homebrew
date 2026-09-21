@@ -1,0 +1,26 @@
+{
+  "name": "100m Dash",
+  "id": "100m_dash",
+  "summary": "Text-based button-mashing game.",
+  "author": "PSPhakkor",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/100m-dash.-7z/100m%20Dash.zip",
+      "published_at": "2006-10-13",
+      "size": 654173,
+      "sha256": "aea0be99e0e14bbcc19bea11320755ef0e98d37296385783cb130fbdbdafa94d",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/100m-dash.-7z/pic_0002.png"
+    ],
+    "icon": "icons/100m_dash.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Background Changer",
+  "id": "background_changer",
+  "summary": "App to change background colors.",
+  "author": "jaja2u",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/background-changer-v-0.2.7z/Background%20Changer%20v0.2.zip",
+      "published_at": "2010-06-12",
+      "size": 295515,
+      "sha256": "605caf9c5d70d0d3365cf7e25bd81df95c7e6364cbbbbfc31d9b762532ef608f",
+      "eboot_md5": "7524d1808493ee1dfc4782959235f53d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/background-changer-v-0.2.7z/BACK02046_00000.png"
+    ],
+    "icon": "icons/background_changer.png"
+  }
+}

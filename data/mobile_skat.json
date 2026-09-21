@@ -1,0 +1,28 @@
+{
+  "name": "Mobile Skat",
+  "id": "mobile_skat",
+  "summary": "Card game for PSP.",
+  "author": "failbit",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/mobile-skat-0.2.7z/MobileSkat_0.2.zip",
+      "published_at": "2011-01-01",
+      "size": 2216584,
+      "sha256": "7318de0b79006135a98b97bcb2714338d629320564ca15660180acdae176a48d",
+      "eboot_md5": "18149f6eb1f09a837be93a69eb63f3c6"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mobile-skat-0.2.7z/EBOO00649_00000.jpg"
+    ],
+    "icon": "icons/mobile_skat.png"
+  }
+}

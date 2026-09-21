@@ -1,0 +1,26 @@
+{
+  "name": "Duck Hunt PSP",
+  "id": "duck_hunt_psp",
+  "summary": "Duck Hunt on PSP.",
+  "author": "FouadtjuhMaster",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/duck-hunt-psp.-7z/Duck%20Hunt%20PSP.zip",
+      "published_at": "2012-01-01",
+      "size": 3742149,
+      "sha256": "9ba56d8ee57ed867eb6da2d16760e7b1f03c0ea2828cb496fbf3aa8158fac354",
+      "eboot_md5": "2808309ac586266c9e84e4ff853d538d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/duck-hunt-psp.-7z/DUCK01113_00001.jpg"
+    ],
+    "icon": "icons/duck_hunt_psp.png"
+  }
+}

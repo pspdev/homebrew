@@ -1,0 +1,28 @@
+{
+  "name": "Triple Triad",
+  "id": "triple_triad",
+  "summary": "Homebrew card game for PSP.",
+  "author": "Matt Carroll (TheEmulatorGuy)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/triple-triad.-7z/TripleTriad.zip",
+      "published_at": "2006-10-08",
+      "size": 2600581,
+      "sha256": "46e025a6c4b9d1fdc6935208b97d1850940c557eadc089dae446797a37c28676",
+      "eboot_md5": "3f5875752d7787dab76c316d992078dd"
+    }
+  ],
+  "tags": [
+    "PSP3D.com Homebrew Contest (2006)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/triple-triad.-7z/TRIP01124_00000.jpg"
+    ],
+    "icon": "icons/triple_triad.png"
+  }
+}

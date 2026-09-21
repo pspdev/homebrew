@@ -1,0 +1,28 @@
+{
+  "name": "FlatEditPSP",
+  "id": "flateditpsp",
+  "summary": "Text editor for PSP.",
+  "author": "Flatmush",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.6.0",
+      "url": "https://archive.org/download/flat-edit.-7z/FlatEditPSP_Release160.zip",
+      "published_at": "2007-03-15",
+      "size": 585701,
+      "sha256": "c89ac371084b52c25b60c3eeadfdd6c5fe81d1c1db99014b011297c468132ecf",
+      "eboot_md5": "2883405b3ecd8d763b72349c956c86d6"
+    }
+  ],
+  "tags": [
+    "PxP Homebrew Competition (2007)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/flat-edit.-7z/20210627172214.png"
+    ],
+    "icon": "icons/flateditpsp.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "SecureText",
+  "id": "securetext",
+  "summary": "SecureText uses RC4 Encryption to encrypt/decrypt messages.",
+  "author": "GlobWare",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/secure-text-psp-v-0.1.7z/SecureText-psp-v0.1.zip",
+      "published_at": "2005-07-15",
+      "size": 384666,
+      "sha256": "749abacffcefc7392daab126a7a058ba3654e86d5a53563fde1e2c0476cb0428",
+      "eboot_md5": "8ce92542cfa10e92cc63e1faa6952479"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/secure-text-psp-v-0.1.7z/SECU01726_00000.jpg"
+    ],
+    "icon": "icons/securetext.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PSP-Doom",
+  "id": "psp-doom",
+  "summary": "PSP port of Doom. Shareware version included.",
+  "author": "Nitr8",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2 +R",
+      "url": "https://archive.org/download/psp-doom.7z/psp-doom.zip",
+      "published_at": "2014-11-18",
+      "size": 4503488,
+      "sha256": "af766aa89a1856c0bb10b3a2cf91e666428698bc46c379b9fb210b593098c60a",
+      "eboot_md5": "130c1da0fe4c52eb7825fde759d8b08e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-doom.7z/PSP-01512_00001.png"
+    ],
+    "icon": "icons/psp-doom.png"
+  }
+}

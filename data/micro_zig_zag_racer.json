@@ -1,0 +1,28 @@
+{
+  "name": "Micro Zig Zag Racer",
+  "id": "micro_zig_zag_racer",
+  "summary": "Dodging game for PSP.",
+  "author": "Boujack",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Beta 0.95",
+      "url": "https://archive.org/download/micro-zig-zag-racer-v-beta-0.95.7z/Micro%20Zig-Zag%20Racer%20vBeta%200.95.zip",
+      "published_at": "2011-01-01",
+      "size": 3585751,
+      "sha256": "54c17dd2e7b148926ecea40f43440210906b6828b20aaecacf389eb164c195a1",
+      "eboot_md5": "c9fb283b6c808649854a335609199647"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/micro-zig-zag-racer-v-beta-0.95.7z/MICR02462_00000.jpg"
+    ],
+    "icon": "icons/micro_zig_zag_racer.png"
+  }
+}

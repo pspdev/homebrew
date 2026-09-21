@@ -1,0 +1,28 @@
+{
+  "name": "USB Server",
+  "id": "usb_server",
+  "summary": "Homebrew application for PSP.",
+  "author": "thecobra",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.5",
+      "url": "https://archive.org/download/usb-server.-7z/UsbServer.zip",
+      "published_at": "2011-01-01",
+      "size": 1198820,
+      "sha256": "b6d56534f0de338148cdf0950820f5c9c92686c042d46b72d31bcb92633ad13c",
+      "eboot_md5": "6d4ea39677d6107340a196ee2d008647"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/usb-server.-7z/pic_0000.png"
+    ],
+    "icon": "icons/usb_server.png"
+  }
+}

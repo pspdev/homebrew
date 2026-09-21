@@ -1,0 +1,26 @@
+{
+  "name": "HanView",
+  "id": "hanview",
+  "summary": "Homebrew app for PSP.",
+  "author": "terminal00",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.76",
+      "url": "https://archive.org/download/han-view-0.76-for-1.0/HanView0.76_for%201.0.zip",
+      "published_at": "2005-07-06",
+      "size": 900624,
+      "sha256": "0e5c4382c4f80e4ede8377e17eedf611225a2a0f3cff205929b5f9f60250481a",
+      "eboot_md5": "7880bdea616fdf4f54be8e20e8dbaf96"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/han-view-0.76-for-1.0/HANV01490_00000.png"
+    ],
+    "icon": "icons/hanview.png"
+  }
+}

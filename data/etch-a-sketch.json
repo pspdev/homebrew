@@ -1,0 +1,28 @@
+{
+  "name": "Etch-A-Sketch",
+  "id": "etch-a-sketch",
+  "summary": "Homebrew version of the drawing toy.",
+  "author": "Dark Killer",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/etch-asketch-1.0-dk.-7z/EtchASketch1.0-DK.zip",
+      "published_at": "2006-03-19",
+      "size": 1433796,
+      "sha256": "0292f45bc994a8e5cc5a9276b460711aacb38f9b05a184c87eae6a4f93bb09aa",
+      "eboot_md5": "60d1923f37a059d5f6bd4f5af8407025"
+    }
+  ],
+  "tags": [
+    "NEO Spring 2006"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/etch-asketch-1.0-dk.-7z/ETCH01394_00000.jpg"
+    ],
+    "icon": "icons/etch-a-sketch.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "CPS2psp",
+  "id": "cps2psp",
+  "summary": "CPS2 emulator for PSP.",
+  "author": "\uff30\uff33\uff30\u958b\u767a\u5e7c\u7a1a\u5712, \uff2e\uff2a",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.0.1 A00",
+      "url": "https://archive.org/download/c-2-p-101-a-00.7z/C2P101_A00.zip",
+      "published_at": "2006-10-07",
+      "size": 375592,
+      "sha256": "fddf2d7a4ebc532240e57c7f57f1d8b4f3e434d57ed3b904f861fa41d06635d9",
+      "eboot_md5": "ba57b23a368707c8dc34a7989ed0f59e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/c-2-p-101-a-00.7z/C2P100599_00000.jpg"
+    ],
+    "icon": "icons/cps2psp.png"
+  }
+}

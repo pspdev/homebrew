@@ -1,0 +1,26 @@
+{
+  "name": "PSPMAME Tecmo",
+  "id": "pspmame_tecmo",
+  "summary": "MAME emulator for PSP, based on MAME 0.97. Claims support for 36 games.",
+  "author": "TMK",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.97 r0.6",
+      "url": "https://archive.org/download/tecmo.7z/tecmo.zip",
+      "published_at": "2010-03-02",
+      "size": 1083772,
+      "sha256": "dec8414bdc3fd399cb8db8da2772b9576b338bd527fe9c2f341fb3770a7bb78f",
+      "eboot_md5": "1dcd3371222e205e92bfcbfe0fd242a6"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/tecmo.7z/TECM00536_00000.jpg"
+    ],
+    "icon": "icons/pspmame_tecmo.png"
+  }
+}

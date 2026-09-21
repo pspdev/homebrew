@@ -1,0 +1,26 @@
+{
+  "name": "SonicBoomPSP",
+  "id": "sonicboompsp",
+  "summary": "Homebrew app for PSP.",
+  "author": "Pen Hacks",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1",
+      "url": "https://archive.org/download/sonic-boom-psp-beta.-7z/SonicBoomPSP%20beta.zip",
+      "published_at": "2010-03-27",
+      "size": 206420,
+      "sha256": "1e2a229d9204ec0f0f45992cc469dce5396592c75b1419ed76758f5a6d0686f3",
+      "eboot_md5": "16e6f3f0e7d837483198984fdbb45d45"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/sonic-boom-psp-beta.-7z/SONI01592_00000.jpg"
+    ],
+    "icon": "icons/sonicboompsp.png"
+  }
+}

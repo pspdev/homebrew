@@ -1,0 +1,26 @@
+{
+  "name": "CoLUAmns",
+  "id": "coluamns",
+  "summary": "Puzzle game for PSP.",
+  "author": "mikehaggar99",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/coluamns0-1.7z/coluamns0-1.zip",
+      "published_at": "2005-08-25",
+      "size": 549801,
+      "sha256": "3e3fc8e2abc85fa1137c31640afbb00635b2b2a61dd737625ea7fb80c4d30f5b",
+      "eboot_md5": "ba6db7b9f007f0ebda2ed01d4d709349"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/coluamns0-1.7z/COLU00738_00000.jpg"
+    ],
+    "icon": "icons/coluamns.png"
+  }
+}

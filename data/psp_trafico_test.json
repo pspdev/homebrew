@@ -1,0 +1,26 @@
+{
+  "name": "PSP Trafico TesT",
+  "id": "psp_trafico_test",
+  "summary": "Homebrew app for PSP.",
+  "author": "Pana",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "Beta 3",
+      "url": "https://archive.org/download/psp-tt/PSP%20TT.zip",
+      "published_at": "2007-12-13",
+      "size": 2437735,
+      "sha256": "4ec29906b75aa65e5c381445a68fbfd8525e1702595ce661ba9cf99bc9aea117",
+      "eboot_md5": "0fda3af5ef51838f96bd20d566180985"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-tt/PSP%2000443_00001.png"
+    ],
+    "icon": "icons/psp_trafico_test.png"
+  }
+}

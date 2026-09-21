@@ -1,0 +1,26 @@
+{
+  "name": "Rust PSP Tetris",
+  "id": "rust_psp_tetris",
+  "summary": "Version of Tetris for PSP made in the Rust programming language.",
+  "author": "Paul Sajna (sajattack)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1.0",
+      "url": "https://archive.org/download/rust-psp-tetris.7z/rust-psp-tetris.zip",
+      "published_at": "2020-01-01",
+      "size": 3272894,
+      "sha256": "5a18c80dbdcedf4808cdc63234616f6ac1c4ad9ad36db9d850cd8a94664b385f",
+      "eboot_md5": "f4d5334bb961404db44e08206cb197ae"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/rust-psp-tetris.7z/rust-psp-tetris.png"
+    ],
+    "icon": "icons/rust_psp_tetris.png"
+  }
+}

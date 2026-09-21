@@ -1,0 +1,26 @@
+{
+  "name": "Heart Of Darkness",
+  "id": "heart_of_darkness",
+  "summary": "SDL port of the original game, running on PSP. The demo version is included.",
+  "author": "Gregory Montoir, Maxim Lopez",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2.9",
+      "url": "https://archive.org/download/heart-of-darkness-sdl-psp.-7z/cyxx_hode.zip",
+      "published_at": "2020-08-03",
+      "size": 331694,
+      "sha256": "16c724746db44e2af8e20e46a5944d36d4fe3d0c86327b5fa49ca7f547aae708",
+      "eboot_md5": "b11867eba989f7adc09b798a382fc19a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/heart-of-darkness-sdl-psp.-7z/HEAR02118_00001.png"
+    ],
+    "icon": "icons/heart_of_darkness.png"
+  }
+}

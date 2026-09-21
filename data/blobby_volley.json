@@ -1,0 +1,26 @@
+{
+  "name": "Blobby Volley",
+  "id": "blobby_volley",
+  "summary": "Beach volleyball homebrew game starring two blobs.",
+  "author": "Alois",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.3",
+      "url": "https://archive.org/download/blobby.7z/blobby.zip",
+      "published_at": "2007-12-10",
+      "size": 752030,
+      "sha256": "54a70f39834f6817a6141f9e1701ad4e07c1e939a7f73ceb0e1df6a7ea9a46ad",
+      "eboot_md5": "074f5eba08beca29f8d8eca97834ab39"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/blobby.7z/20210809012447.png"
+    ],
+    "icon": "icons/blobby_volley.png"
+  }
+}

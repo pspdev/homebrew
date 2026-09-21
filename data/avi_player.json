@@ -1,0 +1,26 @@
+{
+  "name": "AVI Player",
+  "id": "avi_player",
+  "summary": "Media player for PSP.",
+  "author": "Myungwoon Go",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/aviplay.-7z/AVIPLAY.zip",
+      "published_at": "2005-08-09",
+      "size": 3918115,
+      "sha256": "82ae00bca22e01b969ec66d379ce0e24ba15cb5c233be11941248c35cf4d47ff",
+      "eboot_md5": "261aaf97443809fae842d087764f490d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/aviplay.-7z/AVIP00534_00000.jpg"
+    ],
+    "icon": "icons/avi_player.png"
+  }
+}

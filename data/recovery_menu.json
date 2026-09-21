@@ -1,0 +1,26 @@
+{
+  "name": "Recovery Menu",
+  "id": "recovery_menu",
+  "summary": "Homebrew app for PSP.",
+  "author": "KaZT.U",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/recovery-menu-tu-2.7z/RecoveryMenuTU2.zip",
+      "published_at": "2011-01-01",
+      "size": 446133,
+      "sha256": "1b48c03f10085ec8d513f1269f2cc859785947583be6d5e967dad4c6369208b1",
+      "eboot_md5": "ddd8e1e1d2139218c9ce3f97daae98b9"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/recovery-menu-tu-2.7z/20210722215325.png"
+    ],
+    "icon": "icons/recovery_menu.png"
+  }
+}

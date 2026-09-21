@@ -1,0 +1,28 @@
+{
+  "name": "Geometry Wars Portable",
+  "id": "geometry_wars_portable",
+  "summary": "Homebrew game for the PSP.",
+  "author": "Victor Xie",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.7",
+      "url": "https://archive.org/download/gwp.-7z/Old%20Versions/Geometry%20Wars.zip",
+      "published_at": "2009-01-20",
+      "size": 4931907,
+      "sha256": "8d72875a1756fd89510eeee14a0f5d170459f13b69df01ee2e10cf32c56bc30f",
+      "eboot_md5": "bc468901270db696036007a0443d5c1f"
+    }
+  ],
+  "tags": [
+    "NEO 2008 Summer Compo"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/gwp.-7z/GWPH00238_00001.png"
+    ],
+    "icon": "icons/geometry_wars_portable.png"
+  }
+}

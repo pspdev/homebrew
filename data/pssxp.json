@@ -1,0 +1,26 @@
+{
+  "name": "Pssxp",
+  "id": "pssxp",
+  "summary": "Homebrew game for PSP.",
+  "author": "Buddy4point0, DimentionT",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/pssxp.-7z/Pssxp_1.2.zip",
+      "published_at": "2008-05-26",
+      "size": 4857508,
+      "sha256": "997e47bcd3aabd0e7a7ec04b1d4526b2c359d14066013c7a69013da13425454b",
+      "eboot_md5": "413dbbc0ae4bec995c40c294f9b7be5d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pssxp.-7z/PSSX00542_00000.jpg"
+    ],
+    "icon": "icons/pssxp.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Orbid",
+  "id": "orbid",
+  "summary": "Homebrew game for PSP.",
+  "author": "Slasher, Madsoul",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/orbid.-7z/Orbid.zip",
+      "published_at": "2008-01-01",
+      "size": 4201528,
+      "sha256": "9a286cba1922729ed0102b8762606479077e1925cd2dc0dff355257f226a49f0",
+      "eboot_md5": "3e1ab7b8300d52841eae3f6c9133e519"
+    }
+  ],
+  "tags": [
+    "NEO Spring Coding Compo 2008"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/orbid.-7z/ORBI00496_00002.png"
+    ],
+    "icon": "icons/orbid.png"
+  }
+}

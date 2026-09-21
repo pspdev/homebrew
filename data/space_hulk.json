@@ -1,0 +1,26 @@
+{
+  "name": "Space Hulk",
+  "id": "space_hulk",
+  "summary": "Homebrew game for PSP.",
+  "author": "Emmanuel Bisson",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/space-hulk-psp.-7z/SpaceHulk-PSP.zip",
+      "published_at": "2012-10-25",
+      "size": 1209388,
+      "sha256": "5f7c336546c3c800f1868286ea12493f6c74267f580fe75f2fdc400fabd18baa",
+      "eboot_md5": "94c8ec7defc2c34244e8f180ebfcb0e0"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/space-hulk-psp.-7z/SPAC01184_00000.jpg"
+    ],
+    "icon": "icons/space_hulk.png"
+  }
+}

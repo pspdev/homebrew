@@ -1,0 +1,26 @@
+{
+  "name": "MAMEPSP",
+  "id": "mamepsp",
+  "summary": "MAME emulator for PSP. Supports a very limited ROM set.",
+  "author": "MikeDX",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "Beta 0.01",
+      "url": "https://archive.org/download/mamepsp.-7z/MAMEPSP.zip",
+      "published_at": "2006-05-15",
+      "size": 3391219,
+      "sha256": "2a9de1f88fbacdb8b93ff2b30c0e96a75d0afdd4175fc94d2ca8df59803ce349",
+      "eboot_md5": "ead61fba7ba89a40dcc1527dcc18d4ae"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mamepsp.-7z/MAME00531_00000.jpg"
+    ],
+    "icon": "icons/mamepsp.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Tweexter [French]",
+  "id": "tweexter_[french]",
+  "summary": "Homebrew game for PSP.",
+  "author": "reizen.dev",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1.1",
+      "url": "https://archive.org/download/tweexter_v0.1.1_fra.7z/tweexter_v0.1.1_fra.zip",
+      "published_at": "2008-07-08",
+      "size": 918781,
+      "sha256": "79441d578857821f59188c94b6478562b5ba938b5d724fca8486d976c48a8f1b",
+      "eboot_md5": "4e152092511c7cf3e96fb20179f4a6f3"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/tweexter_v0.1.1_fra.7z/pic_0001.png"
+    ],
+    "icon": "icons/tweexter_[french].png"
+  }
+}

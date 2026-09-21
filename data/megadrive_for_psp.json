@@ -1,0 +1,26 @@
+{
+  "name": "Megadrive for PSP",
+  "id": "megadrive_for_psp",
+  "summary": "Sega Megadrive/Genesis emulator for PSP.",
+  "author": "Osakana",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.22",
+      "url": "https://archive.org/download/mdp-02.7z/Old%20Versions/MDP02.zip",
+      "published_at": "2005-06-16",
+      "size": 436526,
+      "sha256": "7b1068840a0bb41539ecc42a12fdf71c057d31b50853680126ab9384459bc038",
+      "eboot_md5": "f5de76a6b1378d9218c85b08f03c63d2"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mdp-02.7z/snap.png"
+    ],
+    "icon": "icons/megadrive_for_psp.png"
+  }
+}

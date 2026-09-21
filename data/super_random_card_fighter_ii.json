@@ -1,0 +1,26 @@
+{
+  "name": "Super Random Card Fighter II",
+  "id": "super_random_card_fighter_ii",
+  "summary": "Card game for PSP.",
+  "author": "Dragula96",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/card-fighter-2.7z/card%20fighter%202.zip",
+      "published_at": "2006-05-15",
+      "size": 872703,
+      "sha256": "c68b7aff3a834838cb4e1a472737c148453adeeb4169a726f2ba1486cafa03be",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/card-fighter-2.7z/LUAP01126_00000.jpg"
+    ],
+    "icon": "icons/super_random_card_fighter_ii.png"
+  }
+}

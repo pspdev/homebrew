@@ -1,0 +1,26 @@
+{
+  "name": "Ubuntu 7.10",
+  "id": "ubuntu_7.10",
+  "summary": "UI shell for PSP. To use the app, enter 'admin' as user name and password.",
+  "author": "Jack118218",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/ubuntu-7.10-psp-edition.-7z/Ubuntu_7.10_psp_edition.zip",
+      "published_at": "2008-12-01",
+      "size": 16420062,
+      "sha256": "dba132fa52e7c9d81e2b9b67d732d18be9427d20ea586fc4e862856417d642ca",
+      "eboot_md5": "6fc2491a2f63ce5168db65f75207f272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ubuntu-7.10-psp-edition.-7z/20210604092554.png"
+    ],
+    "icon": "icons/ubuntu_7.10.png"
+  }
+}

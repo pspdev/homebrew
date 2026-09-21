@@ -1,0 +1,26 @@
+{
+  "name": "Run or Die Portable",
+  "id": "run_or_die_portable",
+  "summary": "Dodging game for PSP.",
+  "author": "Eichi",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/run-or-die-portable.-7z/Run%20or%20die%20Portable%20v2.zip",
+      "published_at": "2009-09-11",
+      "size": 5984259,
+      "sha256": "4dc9389ad09227373d6a48aae3f8e99216ad04ab4e87af82e82dc94b82a74f7a",
+      "eboot_md5": "8a88e105b40a14800b81982831bcba78"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/run-or-die-portable.-7z/RUN%2001761_00001.jpg"
+    ],
+    "icon": "icons/run_or_die_portable.png"
+  }
+}

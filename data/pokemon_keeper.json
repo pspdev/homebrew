@@ -1,0 +1,28 @@
+{
+  "name": "Pokemon Keeper",
+  "id": "pokemon_keeper",
+  "summary": "Puzzle game for PSP.",
+  "author": "N64Francois",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/pokemon-keeper.-7z/Pokemon%20Keeper.zip",
+      "published_at": "2009-10-05",
+      "size": 9482992,
+      "sha256": "860923b237180c47837769278b7d055c55568dc507f1b76cde51f0254e9ebeb3",
+      "eboot_md5": "07b1c87cb111c21976fe54e4f8fa49d1"
+    }
+  ],
+  "tags": [
+    "NEO Spring Compo 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pokemon-keeper.-7z/POKE01708_00001.png"
+    ],
+    "icon": "icons/pokemon_keeper.png"
+  }
+}

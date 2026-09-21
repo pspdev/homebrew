@@ -1,0 +1,31 @@
+{
+  "name": "PSP Maps",
+  "id": "psp_maps",
+  "summary": "Google Maps on your PSP. Working fine as of 2021.",
+  "author": "Antoine Jacquet (Royale)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.2",
+      "url": "https://archive.org/download/psp-maps.-7z/PSP-Maps.zip",
+      "published_at": "2008-01-01",
+      "size": 6130199,
+      "sha256": "915abe852ce14599035a18a5099198541e29ed07d7d6d6c376198d613e68b82a",
+      "eboot_md5": "3c3ae9697de7e2894d5bac4b977e0c58"
+    }
+  ],
+  "tags": [
+    "NEO 2008 Summer Compo",
+    "NEO Spring Coding Compo 2008",
+    "Homebrew Idol (2008)",
+    "Neo Motion Kit"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-maps.-7z/pic_0000.jpg"
+    ],
+    "icon": "icons/psp_maps.png"
+  }
+}

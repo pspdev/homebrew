@@ -1,0 +1,26 @@
+{
+  "name": "PSP X-Shell",
+  "id": "psp_x-shell",
+  "summary": "UI shell for PSP.",
+  "author": "Umbyspit93",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "5.0",
+      "url": "https://archive.org/download/psp-x-shell.-7z/PSP%20X-SHELL.zip",
+      "published_at": "2009-08-23",
+      "size": 5336671,
+      "sha256": "ebb903fc8b9e319ad458ed20bbb3eb9853410aa83a77f04f8adc6b8977bde830",
+      "eboot_md5": "2f234c1497615e38221e5d113d63e3ef"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-x-shell.-7z/PSP%2000784_00000.png"
+    ],
+    "icon": "icons/psp_x-shell.png"
+  }
+}

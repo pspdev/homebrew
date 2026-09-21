@@ -1,0 +1,28 @@
+{
+  "name": "Arc Angel",
+  "id": "arc_angel",
+  "summary": "Homebrew game for PSP.",
+  "author": "Remi59",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Beta 1",
+      "url": "https://archive.org/download/arc-angel.-7z/ArcAngel.zip",
+      "published_at": "2006-08-20",
+      "size": 84618187,
+      "sha256": "d16be119bdc474b69a80ecb4f7d6ba6ad4d14d6d293ce353973a6171ec5b2d23",
+      "eboot_md5": "a8078609567a9a2fee8cf7c58d862112"
+    }
+  ],
+  "tags": [
+    "NEO Summer Coding Compo 2006"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/arc-angel.-7z/ARCA00765_00000.jpg"
+    ],
+    "icon": "icons/arc_angel.png"
+  }
+}

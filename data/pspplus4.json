@@ -1,0 +1,26 @@
+{
+  "name": "PSPPLUS4",
+  "id": "pspplus4",
+  "summary": "Commodore Plus/4 emulator for PSP.",
+  "author": "Christophe Kohler",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/pspplus4.7z/pspplus4.zip",
+      "published_at": "2008-07-01",
+      "size": 946623,
+      "sha256": "c838d8644a6b6da64860563008cd5318e984d27bd253e7992ba98cd20be26934",
+      "eboot_md5": "3d24d5b0c9a8ac366f61f22d8b497b41"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspplus4.7z/PSPP00843_00000.png"
+    ],
+    "icon": "icons/pspplus4.png"
+  }
+}

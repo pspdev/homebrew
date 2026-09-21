@@ -1,0 +1,26 @@
+{
+  "name": "Ez2Dj Portable",
+  "id": "ez2dj_portable",
+  "summary": "Rhythm game for PSP.",
+  "author": "ez2dxa",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/ez-2-dj.-7z/Ez2Dj.zip",
+      "published_at": "2008-01-01",
+      "size": 62798947,
+      "sha256": "28f88df64677be08257692c189da182a77e2311729a689bd17311f38f2a567ad",
+      "eboot_md5": "68bbfd89c9c0273ac3764c036cfa5bc1"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ez-2-dj.-7z/EZ2D01130_00000.jpg"
+    ],
+    "icon": "icons/ez2dj_portable.png"
+  }
+}

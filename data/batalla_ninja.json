@@ -1,0 +1,26 @@
+{
+  "name": "Batalla Ninja",
+  "id": "batalla_ninja",
+  "summary": "Fighting homebrew game for PSP.",
+  "author": "To\u00f1os",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.5",
+      "url": "https://archive.org/download/batalla.-ninja.v-2.5.7z/Batalla.Ninja.v2.5.zip",
+      "published_at": "2009-01-01",
+      "size": 8420349,
+      "sha256": "463ffb2f31b655b2a4a3648413126865210a2a1608ebd267d54961c8c1737a5a",
+      "eboot_md5": "e8769342ce84615912fffa309a142bb6"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/batalla.-ninja.v-2.5.7z/BATA01544_00000.png"
+    ],
+    "icon": "icons/batalla_ninja.png"
+  }
+}

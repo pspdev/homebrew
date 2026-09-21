@@ -1,0 +1,26 @@
+{
+  "name": "Music N' Pics",
+  "id": "music_n'_pics",
+  "summary": "Homebrew app for PSP. Some data files are damaged.",
+  "author": "PurePwnage, Sam (youresam)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "Beta 3",
+      "url": "https://archive.org/download/musicnpics_pwnageteam1/musicnpics_pwnageteam1.zip",
+      "published_at": "2005-09-30",
+      "size": 8334355,
+      "sha256": "a004311124ebde671e4aa19adec076c7083dcb275be3685c350685a4309435de",
+      "eboot_md5": "add870a8397a041cefa1a715b31f5e00"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/musicnpics_pwnageteam1/MUSI02295_00000.png"
+    ],
+    "icon": "icons/music_n'_pics.png"
+  }
+}

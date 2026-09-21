@@ -1,0 +1,26 @@
+{
+  "name": "Boxy II",
+  "id": "boxy_ii",
+  "summary": "Puzzle game for PSP.",
+  "author": "Reinier den Hollander (Ghoti)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.7.1",
+      "url": "https://archive.org/download/boxy-2.7z_202101/BOXY2-0.7.1.zip",
+      "published_at": "2007-01-01",
+      "size": 17022359,
+      "sha256": "edc48207f436972ba5e34a63ac713b934fb49bceb2c4549ccaccbec74fae7661",
+      "eboot_md5": "45bbaefa19f8f6ce1a1a2a649712566a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/boxy-2.7z_202101/BOXY00372_00000.jpg"
+    ],
+    "icon": "icons/boxy_ii.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "nullDC-PSP",
+  "id": "nulldc-psp",
+  "summary": "Sega Dreamcast emulator for PlayStation Portable.",
+  "author": "drk||Raziel, xiro, hlide",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.2.1",
+      "url": "https://archive.org/download/nullDC-PSP/nullDC%201.2.1.zip",
+      "published_at": "2021-08-19",
+      "size": 885365,
+      "sha256": "0ccc866cdf3271f1f9c3d17d94f01dd3b6b3a432072c2ed2a07c94d6576df31d",
+      "eboot_md5": "9dbc84488bd59e52fd8888b2feee010e"
+    }
+  ],
+  "tags": [
+    "PSP-2000+ only"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/nullDC-PSP/NULL00850_00001.png"
+    ],
+    "icon": "icons/nulldc-psp.png"
+  }
+}

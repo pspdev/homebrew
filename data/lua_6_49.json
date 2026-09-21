@@ -1,0 +1,26 @@
+{
+  "name": "Lua 6/49",
+  "id": "lua_6_49",
+  "summary": "Lottery game for PSP.",
+  "author": "Sousanator",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1",
+      "url": "https://archive.org/download/lua-6-49.7z/Lua6-49.zip",
+      "published_at": "2006-04-17",
+      "size": 694094,
+      "sha256": "5c6850c0671b9efe3cec3aa0afe87b4b7e038d7ce0f49bc3dcba2e7236b66464",
+      "eboot_md5": "05d2b1c9f578439a310ad2142fd9f66b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lua-6-49.7z/LPM300948_00001.jpg"
+    ],
+    "icon": "icons/lua_6_49.png"
+  }
+}

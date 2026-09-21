@@ -1,0 +1,26 @@
+{
+  "name": "Halo Solitude",
+  "id": "halo_solitude",
+  "summary": "3D shooter for PSP.",
+  "author": "Flaming Ice",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Beta 3",
+      "url": "https://archive.org/download/halo-solitude.-7z/Halo%20Solitude.zip",
+      "published_at": "2010-01-01",
+      "size": 88990335,
+      "sha256": "06161ffdccbf5bc91464e9c59666a18a789f156c44beaa95492bb85677c01e0b",
+      "eboot_md5": "63943e3b7e4b6713fcf7c039a5429b77"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/halo-solitude.-7z/20221012184531.png"
+    ],
+    "icon": "icons/halo_solitude.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Spelunky",
+  "id": "spelunky",
+  "summary": "PSP port of Derek Yu's game.",
+  "author": "Daniel Zalega",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.5",
+      "url": "https://archive.org/download/dbeef-spelunky-psp.7z/dbeef-spelunky-psp-05.zip",
+      "published_at": "2021-05-15",
+      "size": 13240119,
+      "sha256": "3a7b0584f116e6f376449ec72e8f71b3ec1137c207dc3e2fa0defe992c9ed0bf",
+      "eboot_md5": "49cdb55fc0617d6ec766fd89aec6e5e5"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/dbeef-spelunky-psp.7z/DBEE01968_00000.jpg"
+    ],
+    "icon": "icons/spelunky.png"
+  }
+}

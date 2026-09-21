@@ -1,0 +1,26 @@
+{
+  "name": "Facilitador",
+  "id": "facilitador",
+  "summary": "Collection of utilities for PSP.",
+  "author": "Sisino, Drake19",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/facilitador-v-2.7z/Facilitador%20V2.zip",
+      "published_at": "2011-05-26",
+      "size": 11090766,
+      "sha256": "0c822a20c3b6d31685e31e3f8a21fed2fca2c4c7cde15af9137d1d0d54ef742a",
+      "eboot_md5": "adaf0c531c9f0438ff6ff54699728fb9"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/facilitador-v-2.7z/pic_0000.jpg"
+    ],
+    "icon": "icons/facilitador.png"
+  }
+}

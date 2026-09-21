@@ -1,0 +1,26 @@
+{
+  "name": "SokobanLP",
+  "id": "sokobanlp",
+  "summary": "Homebrew game for PSP.",
+  "author": "nzero",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/sokoban-lp.-7z/SokobanLP.zip",
+      "published_at": "2006-03-11",
+      "size": 678040,
+      "sha256": "15beb5a3d69e328fbf0eae04a35464dbc77be821bf01626ae977d0cfba10adeb",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/sokoban-lp.-7z/SOKO00873_00000.png"
+    ],
+    "icon": "icons/sokobanlp.png"
+  }
+}

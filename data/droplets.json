@@ -1,0 +1,29 @@
+{
+  "name": "Droplets",
+  "id": "droplets",
+  "summary": "Puzzle game for PSP.",
+  "author": "Jeffrey Soldan (Drakonite)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.5",
+      "url": "https://archive.org/download/droplets.7z/droplets%20v1.5.zip",
+      "published_at": "2006-08-21",
+      "size": 3911398,
+      "sha256": "b5bc1471a9457291dbcc8b98a5edbb10254bafd85ea8cd6d53968f9c64aab053",
+      "eboot_md5": "dba23bf44a0872dbd42ca82b367c981b"
+    }
+  ],
+  "tags": [
+    "PS2DEV The Fourth Creation 2006",
+    "NEO Summer Coding Compo 2006"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/droplets.7z/DROP00877_00000.jpg"
+    ],
+    "icon": "icons/droplets.png"
+  }
+}

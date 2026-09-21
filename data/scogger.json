@@ -1,0 +1,28 @@
+{
+  "name": "Scogger",
+  "id": "scogger",
+  "summary": "Puzzle game for PSP.",
+  "author": "Scognito, Kenney",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/scoggerpsp0.2.7z/scoggerpsp0.2.zip",
+      "published_at": "2008-03-02",
+      "size": 962115,
+      "sha256": "cb3086b09822356c9e9db9d8d4bccbe1abfbed5d8376b32d5446a75b2fbaaa96",
+      "eboot_md5": "81cb1366f72658b7a742b822fbd6fa7d"
+    }
+  ],
+  "tags": [
+    "NEO Spring Coding Compo 2008"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/scoggerpsp0.2.7z/SCOG01229_00000.png"
+    ],
+    "icon": "icons/scogger.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "ExultPSP",
+  "id": "exultpsp",
+  "summary": "Port of Exult v1.2, a framework that allows to play Ultima VII. It requires files from the original game(s), Black Gate/Forge of Virtue and/or Serpent Isle/Silver Seed.",
+  "author": "PhantomFighter",
+  "ai_used": false,
+  "requires_additional_files": true,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.2",
+      "url": "https://archive.org/download/exultpsp.v2.2.slim.cfw.7z/exultpsp.v2.2.slim.cfw.zip",
+      "published_at": "2008-08-29",
+      "size": 2130926,
+      "sha256": "5790b4431507a948534c6b8d1eb86c668db47f17332278480d130fa75c8e0424",
+      "eboot_md5": "315ddd59fdbda2d035723c946addfab8"
+    }
+  ],
+  "tags": [
+    "game data required"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/exultpsp.v2.2.slim.cfw.7z/EXUL00773_00002.png"
+    ],
+    "icon": "icons/exultpsp.png"
+  }
+}

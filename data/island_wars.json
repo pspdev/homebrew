@@ -1,0 +1,28 @@
+{
+  "name": "Island Wars",
+  "id": "island_wars",
+  "summary": "Defend the island from balloons.",
+  "author": "James Cutter, Eminki23",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/island-wars.-7z/island%20wars.zip",
+      "published_at": "2011-03-09",
+      "size": 6389617,
+      "sha256": "503eda137c8c964f8651128927c6e5b3e8c6c949514e079dfc7dbd80df6dca6f",
+      "eboot_md5": "7f5496829ca5cac58eb86fb6defa70c7"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/island-wars.-7z/ISLA01112_00000.jpg"
+    ],
+    "icon": "icons/island_wars.png"
+  }
+}

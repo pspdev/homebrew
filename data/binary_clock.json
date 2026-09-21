@@ -1,0 +1,26 @@
+{
+  "name": "Binary Clock",
+  "id": "binary_clock",
+  "summary": "Homebrew app for PSP.",
+  "author": "mICrO",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.5",
+      "url": "https://archive.org/download/binaryclockv-05r.-7z/BINARYCLOCKv05r.zip",
+      "published_at": "2005-10-30",
+      "size": 1489995,
+      "sha256": "e171776362912ea8aff7e57a17731a787f514d15ac71c544a78406b354e8d7a6",
+      "eboot_md5": "3f40c3604592da035c91a458dfcf8047"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/binaryclockv-05r.-7z/BINA00817_00000.jpg"
+    ],
+    "icon": "icons/binary_clock.png"
+  }
+}

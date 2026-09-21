@@ -1,0 +1,26 @@
+{
+  "name": "PSPInside",
+  "id": "pspinside",
+  "summary": "Multipurpose PSP information toolbox. Features: memory viewer, memory disassembler, coprocessor register viewer, syscalls menu, IRQs menu, videoram viewer, patch engine, internal console, profiler, serial console.",
+  "author": "Skywalker, Xor37h, Groepaz",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.9q",
+      "url": "https://archive.org/download/pspinside-v-0.9q-hitmen.-7z/PSPInside_V0.9q_-_Hitmen.zip",
+      "published_at": "2005-11-27",
+      "size": 2108686,
+      "sha256": "516f64b8682d3d7b95013c3d3832da0691a419884c33b7439dec71ef43b7056e",
+      "eboot_md5": "db3b812e5014cd7bfb742c772bb26781"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspinside-v-0.9q-hitmen.-7z/20210612024609.png"
+    ],
+    "icon": "icons/pspinside.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "DoomPSP",
+  "id": "doompsp",
+  "summary": "Early PSP port of Doom; the shareware version is included, as well as the source code of the port.",
+  "author": "lantus, Ryochan7, StereoMike, Greg Berkhof",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.05 plus",
+      "url": "https://archive.org/download/doom-psp.-7z/doompspv005plus.zip",
+      "published_at": "2006-01-26",
+      "size": 4795917,
+      "sha256": "1986a964e22dcb95d681a83a9654c4e4f9f28d3fc95038017904d9396ed28277",
+      "eboot_md5": "b096bbf04e88b77f18aa89de9413c5d7"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/doom-psp.-7z/DOOM01489_00000.png"
+    ],
+    "icon": "icons/doompsp.png"
+  }
+}

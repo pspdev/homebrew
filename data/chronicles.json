@@ -1,0 +1,28 @@
+{
+  "name": "Chronicles",
+  "id": "chronicles",
+  "summary": "3D dungeon homebrew game for PSP.",
+  "author": "Greg Tourville (XiGency)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1d",
+      "url": "https://archive.org/download/chronicles.-7z/Chronicles.zip",
+      "published_at": "2009-06-13",
+      "size": 3962637,
+      "sha256": "057bddd7131f01eeda33448aa5153f3f8957b575432dccfb4b78df71c48311f2",
+      "eboot_md5": "857981d4fd74ef66201dc40065630409"
+    }
+  ],
+  "tags": [
+    "Homebrew Idol 2 (2009)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/chronicles.-7z/CHRO01034_00002.jpg"
+    ],
+    "icon": "icons/chronicles.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Puzzle Square",
+  "id": "puzzle_square",
+  "summary": "Puzzle game for PSP.",
+  "author": "Chus",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/puzzlesquare2.7z/puzzlesquare2.zip",
+      "published_at": "2013-04-25",
+      "size": 18492972,
+      "sha256": "329a4200c2741df84695ad6073ebf4626abcbb092820ffbca52f5dd6d70a0e3e",
+      "eboot_md5": "a17850f4e924f20cafb173637272ba3b"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/puzzlesquare2.7z/PUZZ01389_00000.jpg"
+    ],
+    "icon": "icons/puzzle_square.png"
+  }
+}

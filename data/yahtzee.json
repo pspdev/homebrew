@@ -1,0 +1,26 @@
+{
+  "name": "Yahtzee",
+  "id": "yahtzee",
+  "summary": "PSP version of the game.",
+  "author": "Guyfawkes",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/yahtzee-v1.7z/Yahtzee-PSP-v1.zip",
+      "published_at": "2005-09-02",
+      "size": 315630,
+      "sha256": "014981bcfd0f81793d2c83a0a9ec20255bd19e7e6a7dfe54e555a51affda57d4",
+      "eboot_md5": "3f015b2336a27a5dee5e37319c56b05f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/yahtzee-v1.7z/YAHT01230_00001.png"
+    ],
+    "icon": "icons/yahtzee.png"
+  }
+}

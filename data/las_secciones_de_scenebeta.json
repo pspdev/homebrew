@@ -1,0 +1,26 @@
+{
+  "name": "Las secciones de SceneBeta",
+  "id": "las_secciones_de_scenebeta",
+  "summary": "Homebrew game for PSP.",
+  "author": "Loquendador, xerpi",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/las-secciones-de-scenebeta.-7z/LasSeccionesDeScenebeta.zip",
+      "published_at": "2011-03-21",
+      "size": 707859,
+      "sha256": "eb5fa91aa9b0cf8e4d40fbe5e76d78e88fa51e20d2dfdd79d6d7be9cd96c5858",
+      "eboot_md5": "a6605032c9cd5054441de61b4030214a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/las-secciones-de-scenebeta.-7z/LASS02287_00000.jpg"
+    ],
+    "icon": "icons/las_secciones_de_scenebeta.png"
+  }
+}

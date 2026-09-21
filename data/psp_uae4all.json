@@ -1,0 +1,26 @@
+{
+  "name": "PSP UAE4ALL",
+  "id": "psp_uae4all",
+  "summary": "Amiga emulator for PSP. Requires a kickstart file named kick.rom (version 1.3, 512k overdump version).",
+  "author": "TTYman",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "r1",
+      "url": "https://archive.org/download/pspuae-4-allr-1.7z/psp_uae4all_r1-usermode.zip",
+      "published_at": "2008-01-16",
+      "size": 1012708,
+      "sha256": "ec13a97719dc1afd2959c2ca0794f428c71fa23cc310a747ed3ea1e54d017d28",
+      "eboot_md5": "dbe71e4b2dd1e1453751647027985a59"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspuae-4-allr-1.7z/PSPU00894_00001.png"
+    ],
+    "icon": "icons/psp_uae4all.png"
+  }
+}

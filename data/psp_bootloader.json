@@ -1,0 +1,26 @@
+{
+  "name": "PSP Bootloader",
+  "id": "psp_bootloader",
+  "summary": "Homebrew app for PSP.",
+  "author": "LorianColtof",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/psp-bootloader/PSP-Bootloader.zip",
+      "published_at": "2013-01-01",
+      "size": 166710,
+      "sha256": "de125691a458f9390cf6dd6f6017dc1082ac37b6812dff37cafdfdc6c4d9f23c",
+      "eboot_md5": "77117e86a375312e6607fce9b1de4fa4"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-bootloader/PSP-02020_00001.png"
+    ],
+    "icon": "icons/psp_bootloader.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "2Pacman",
+  "id": "2pacman",
+  "summary": "Homebrew game for PSP.",
+  "author": "Train2335",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.5",
+      "url": "https://archive.org/download/2-pacman.-7z/2PACMAN.zip",
+      "published_at": "2006-04-21",
+      "size": 6019351,
+      "sha256": "5b3c68b60eed2045e706d60e5c04f57a84a4b17d458f607167210b30851cab7e",
+      "eboot_md5": "26e16df26d228b377f661bc3a09ebad3"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/2-pacman.-7z/LUAP01292_00001.jpg"
+    ],
+    "icon": "icons/2pacman.png"
+  }
+}

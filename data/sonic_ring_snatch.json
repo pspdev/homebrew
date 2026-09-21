@@ -1,0 +1,26 @@
+{
+  "name": "Sonic Ring Snatch",
+  "id": "sonic_ring_snatch",
+  "summary": "Homebrew game for PSP.",
+  "author": "IndianCheese",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/sonicringsnatch.7z/sonicringsnatch.zip",
+      "published_at": "2005-11-11",
+      "size": 1662307,
+      "sha256": "f6019e3a0ebee1df65cc00d11de1cb931f2cbb4deee75eb9244488deb0a14e6e",
+      "eboot_md5": "6f6611b7754505fa6283ef400d2df151"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/sonicringsnatch.7z/SONI01613_00000.jpg"
+    ],
+    "icon": "icons/sonic_ring_snatch.png"
+  }
+}

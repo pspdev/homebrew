@@ -1,0 +1,28 @@
+{
+  "name": "Chickey Chick",
+  "id": "chickey_chick",
+  "summary": "Homebrew platformer for PSP. Early builds of this game are known as Lua Chipke.",
+  "author": "Tim Vangenechten (DrWho198)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.7sb",
+      "url": "https://archive.org/download/chic-00704-00000/Old%20Versions/Chipke.zip",
+      "published_at": "2008-08-31",
+      "size": 1711770,
+      "sha256": "26ce999ef79073405ff4ee10d78dc2ca68d7a042d39de8eb8090306563849528",
+      "eboot_md5": "ce8aa0cba31007d016ca482fd20713ff"
+    }
+  ],
+  "tags": [
+    "Scenery Beta 2008"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/chic-00704-00000/CHIC00704_00000.png"
+    ],
+    "icon": "icons/chickey_chick.png"
+  }
+}

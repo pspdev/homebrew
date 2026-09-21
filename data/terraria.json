@@ -1,0 +1,26 @@
+{
+  "name": "Terraria",
+  "id": "terraria",
+  "summary": "Homebrew game for PSP.",
+  "author": "DirecT",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Test Release 0.2",
+      "url": "https://archive.org/download/terraria-test-release.-7z/TerrariaTestRelease.zip",
+      "published_at": "2013-03-23",
+      "size": 5980236,
+      "sha256": "ae7f2455daed406c11149c5520aaeff21dcc8f74687d7c22b19df1c64e7634ab",
+      "eboot_md5": "458cd7ef3b83b08bdc5279858425b3ea"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/terraria-test-release.-7z/TERR01947_00000.png"
+    ],
+    "icon": "icons/terraria.png"
+  }
+}

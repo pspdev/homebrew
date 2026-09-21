@@ -1,0 +1,26 @@
+{
+  "name": "PSP-Rick",
+  "id": "psp-rick",
+  "summary": "xRick (a rewrite of the Rick Dangerous game) for the Sony PSP.",
+  "author": "Christophe Thibault",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.3",
+      "url": "https://archive.org/download/psprick.-7z/PSPRick.zip",
+      "published_at": "2005-07-05",
+      "size": 1670206,
+      "sha256": "89ea28c4f744efdecf9af72a4ed6759c47e922e04bff32d452a2eb1e08366b1a",
+      "eboot_md5": "45f7419f6b7ce65e74db6ea5d20d9b94"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psprick.-7z/PSPR00636_00000.jpg"
+    ],
+    "icon": "icons/psp-rick.png"
+  }
+}

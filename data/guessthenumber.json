@@ -1,0 +1,26 @@
+{
+  "name": "GuessthenumbeR",
+  "id": "guessthenumber",
+  "summary": "Number-guessing game.",
+  "author": "Jeremy1026",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.5",
+      "url": "https://archive.org/download/guess.7z/guess.zip",
+      "published_at": "2006-07-26",
+      "size": 1404308,
+      "sha256": "ac3fc26f075eaabf16fd77e464c560702e46508d539d137201f767dcf578432d",
+      "eboot_md5": "fc5214bbfd8ad76fd2490a7d1b6a1477"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/guess.7z/pic_0001.png"
+    ],
+    "icon": "icons/guessthenumber.png"
+  }
+}

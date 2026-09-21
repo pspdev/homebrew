@@ -1,0 +1,26 @@
+{
+  "name": "pSwan",
+  "id": "pswan",
+  "summary": "WonderSwan Color emulator for PSP.",
+  "author": "kmg",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.07",
+      "url": "https://archive.org/download/pSwan_v007.7z/pSwan_v007.zip",
+      "published_at": "2005-07-03",
+      "size": 714247,
+      "sha256": "1492afa2955af452c1698942394dd6f1f574d1d6c92fe15c2dd9aba80f1c6e1f",
+      "eboot_md5": "a77d37a28a4c4730a3feba761c78abdc"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pSwan_v007.7z/PSWA00885_00000.jpg"
+    ],
+    "icon": "icons/pswan.png"
+  }
+}

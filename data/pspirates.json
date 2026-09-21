@@ -1,0 +1,28 @@
+{
+  "name": "PSPirates",
+  "id": "pspirates",
+  "summary": "Homebrew game for PSP.",
+  "author": "MexicanSnake, Deanaw22",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "5",
+      "url": "https://archive.org/download/pspirates-v-3.7z/PSPirates!V5.zip",
+      "published_at": "2006-01-01",
+      "size": 3463967,
+      "sha256": "c3c7d0ff6308212bc0495805bd9a97e6fc432767bb923d3cf537a4b7f7d75e77",
+      "eboot_md5": "ac58c4a5afb055dfc46fa3eabe3a4c27"
+    }
+  ],
+  "tags": [
+    "NEO Summer Coding Compo 2006"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspirates-v-3.7z/PSPI01061_00000.jpg"
+    ],
+    "icon": "icons/pspirates.png"
+  }
+}

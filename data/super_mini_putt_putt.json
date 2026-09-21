@@ -1,0 +1,26 @@
+{
+  "name": "Super Mini Putt Putt",
+  "id": "super_mini_putt_putt",
+  "summary": "Homebrew game for PSP.",
+  "author": "PspFanatic",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.02",
+      "url": "https://archive.org/download/super-mini-putt-putt.-7z/Super%20Mini%20Putt-Putt.zip",
+      "published_at": "2006-10-02",
+      "size": 3610661,
+      "sha256": "08680d41052272684f9d101778f10cfcb0339dd23e69c639b84b5b36675602a9",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/super-mini-putt-putt.-7z/LUAP01126_00001.jpg"
+    ],
+    "icon": "icons/super_mini_putt_putt.png"
+  }
+}

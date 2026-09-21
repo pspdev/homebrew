@@ -1,0 +1,26 @@
+{
+  "name": "Extended Power Save Settings",
+  "id": "extended_power_save_settings",
+  "summary": "Homebrew app for PSP.",
+  "author": "mascii",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.2a",
+      "url": "https://archive.org/download/extended-power-save-settings-v-02a.-7z/Extended%20Power%20Save%20Settings%20v02a.zip",
+      "published_at": "2009-05-09",
+      "size": 69334,
+      "sha256": "c43f5111298f670daba6419b09a2bb75a05219680fbe8d45e07909148fda4398",
+      "eboot_md5": "7bddad734d1232eaf54d07199c493f41"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/extended-power-save-settings-v-02a.-7z/EXTP02078_00000.jpg"
+    ],
+    "icon": "icons/extended_power_save_settings.png"
+  }
+}

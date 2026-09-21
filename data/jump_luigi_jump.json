@@ -1,0 +1,26 @@
+{
+  "name": "Jump Luigi Jump",
+  "id": "jump_luigi_jump",
+  "summary": "Mod of the homebrew game Jump Gunnar Jump.",
+  "author": "Stealth Kill",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.20",
+      "url": "https://archive.org/download/jump-luigi-jump.-7z/JumpLuigiJump.zip",
+      "published_at": "2007-01-01",
+      "size": 7193773,
+      "sha256": "f6fc5df651bf4a1e90199d201549d18330dabfe1558eb84f67cb23366dc41754",
+      "eboot_md5": "bd5298b21eb24a27ea1063f14f3f158a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/jump-luigi-jump.-7z/JUMP01330_00003.jpg"
+    ],
+    "icon": "icons/jump_luigi_jump.png"
+  }
+}

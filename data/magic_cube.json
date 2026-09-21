@@ -1,0 +1,26 @@
+{
+  "name": "Magic Cube",
+  "id": "magic_cube",
+  "summary": "Puzzle game for PSP.",
+  "author": "gorglucks",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/magic-cube.-7z/MagicCube.zip",
+      "published_at": "2010-01-01",
+      "size": 1028137,
+      "sha256": "77dfc9cb9878de92ab0fc8c08f0b0cc2aa464d376911aeb36458cc2abfe9dc2b",
+      "eboot_md5": "414680249221340e91d6af52f12d1db2"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/magic-cube.-7z/MAGI00864_00000.png"
+    ],
+    "icon": "icons/magic_cube.png"
+  }
+}

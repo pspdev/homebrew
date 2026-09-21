@@ -1,0 +1,26 @@
+{
+  "name": "Assault",
+  "id": "assault",
+  "summary": "Homebrew game for PSP.",
+  "author": "Grimfate126, genega",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.7",
+      "url": "https://archive.org/download/asu.-7z/ASU.zip",
+      "published_at": "2006-08-20",
+      "size": 1471329,
+      "sha256": "62332f6ebfab7a501b873933d4a46748d8b019cc38cd70f2d86e16cee8c1e8f6",
+      "eboot_md5": "f56d7b41cb6ddfda36bc98d1f8372bfb"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/asu.-7z/ASUH00233_00000.png"
+    ],
+    "icon": "icons/assault.png"
+  }
+}

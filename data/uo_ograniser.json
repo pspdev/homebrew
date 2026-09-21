@@ -1,0 +1,26 @@
+{
+  "name": "uo_Ograniser",
+  "id": "uo_ograniser",
+  "summary": "Homebrew app for PSP.",
+  "author": "Hoshizora",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.9.2se",
+      "url": "https://archive.org/download/uo_ograniser_v0.9.2se.7z/uo_ograniser_v0.9.2se.zip",
+      "published_at": "2006-10-10",
+      "size": 2366463,
+      "sha256": "fc0ed773a1efa06ebd50273b1d33bf12ac4fa69db2f5796bdd92848ff0bae476",
+      "eboot_md5": "b93464f2949f714a423b39b534f21eb7"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/uo_ograniser_v0.9.2se.7z/UO_O01969_00000.jpg"
+    ],
+    "icon": "icons/uo_ograniser.png"
+  }
+}

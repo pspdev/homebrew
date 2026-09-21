@@ -1,0 +1,26 @@
+{
+  "name": "Psp Info",
+  "id": "psp_info",
+  "summary": "Homebrew app for PSP.",
+  "author": "Punker69",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/pspinfo.-7z_202107/PSPINFO.zip",
+      "published_at": "2011-06-02",
+      "size": 256827,
+      "sha256": "271c8f7e7093e1e07f56ea1c0444a957cc0b3d77c10d5734829469ca977653a3",
+      "eboot_md5": "bc2fef2d9e93f9b5f654b0660b59d44d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspinfo.-7z_202107/20210724191116.png"
+    ],
+    "icon": "icons/psp_info.png"
+  }
+}

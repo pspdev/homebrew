@@ -1,0 +1,26 @@
+{
+  "name": "Blork and Destroy",
+  "id": "blork_and_destroy",
+  "summary": "Homebrew game for PSP.",
+  "author": "Zouzzz",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "3.0",
+      "url": "https://archive.org/download/banddv3.7z/banddv3.zip",
+      "published_at": "2006-08-22",
+      "size": 7872650,
+      "sha256": "5b1155c37a6ec52123d8d1c698bb605026cf45d9bd4e028ea68217cdbfb65faa",
+      "eboot_md5": "96dab24c8edb469c6817a0bedd2e7f39"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/banddv3.7z/pic_0000.png"
+    ],
+    "icon": "icons/blork_and_destroy.png"
+  }
+}

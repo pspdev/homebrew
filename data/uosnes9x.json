@@ -1,0 +1,26 @@
+{
+  "name": "uoSnes9x",
+  "id": "uosnes9x",
+  "summary": "SNES emulator for PSP based on Snes9x 1.43.",
+  "author": "Ruka, y\u6c0f (\u25c6yPSP1al8BI)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.02y33+Ruka0034",
+      "url": "https://archive.org/download/y33Ruka0034.7z/y33Ruka0034.zip",
+      "published_at": "2010-06-07",
+      "size": 340993,
+      "sha256": "b131f4749cfd3819e10669540ee36fc7e4a0bf3d3f56f18a44a08b08e0bb5043",
+      "eboot_md5": "953f379bef4010fcf64d21c1fb54aff7"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/y33Ruka0034.7z/Y33R00825_00000.jpg"
+    ],
+    "icon": "icons/uosnes9x.png"
+  }
+}

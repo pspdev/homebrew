@@ -1,0 +1,26 @@
+{
+  "name": "Gannatsu Portable [\u304c\u3093\u306a\u3064\u30dd\u30fc\u30bf\u30d6\u30eb]",
+  "id": "gannatsu_portable_[\u304c\u3093\u306a\u3064\u30dd\u30fc\u30bf\u30d6\u30eb]",
+  "summary": "PSP version of the indie game \"Ganbare Natsuki-san\", created by Alpha Secret Base.",
+  "author": "MK2k",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.04",
+      "url": "https://archive.org/download/gannatsu-portable-psp.-7z/GannatsuPortablePSP.zip",
+      "published_at": "2008-06-05",
+      "size": 30360217,
+      "sha256": "4092cf179373e5696d5ddaafb6adc175adf2ac68c3c8be7a4d9fb616e402da47",
+      "eboot_md5": "326257535933e5915e97dd66ae4cbeb2"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/gannatsu-portable-psp.-7z/GANN01901_00000.jpg"
+    ],
+    "icon": "icons/gannatsu_portable_[\u304c\u3093\u306a\u3064\u30dd\u30fc\u30bf\u30d6\u30eb].png"
+  }
+}

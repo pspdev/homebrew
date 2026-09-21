@@ -1,0 +1,26 @@
+{
+  "name": "Street Cleaning",
+  "id": "street_cleaning",
+  "summary": "Homebrew game for PSP.",
+  "author": "ValleDalle",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/sc.7z/sc.zip",
+      "published_at": "2007-01-01",
+      "size": 1824360,
+      "sha256": "fa4ad01efa1663faf0452c294b718034182af88489796915d8e9cc7a11401bb8",
+      "eboot_md5": "602d31f6cdf3dd4653e5beb4069f50ef"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/sc.7z/SCHO00214_00000.jpg"
+    ],
+    "icon": "icons/street_cleaning.png"
+  }
+}

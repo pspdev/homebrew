@@ -1,0 +1,26 @@
+{
+  "name": "PSPVoc",
+  "id": "pspvoc",
+  "summary": "Language-learning app for PSP.",
+  "author": "Nanosoft",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/pspvoc.-7z/PSPVoc.zip",
+      "published_at": "2007-01-01",
+      "size": 1154128,
+      "sha256": "9b9a1123fbb69a4933d1b18c3faa4f982b8d03b95145ee3757e66281543d223f",
+      "eboot_md5": "e1fba6c7add280f8f13db468640372e0"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspvoc.-7z/PSPV00539_00000.jpg"
+    ],
+    "icon": "icons/pspvoc.png"
+  }
+}

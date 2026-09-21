@@ -1,0 +1,26 @@
+{
+  "name": "DBZ",
+  "id": "dbz",
+  "summary": "Demo for an unfinished fan game.",
+  "author": "Casaproduction",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.01",
+      "url": "https://archive.org/download/dbz-0.01.7z/DBZ_0.01.zip",
+      "published_at": "2007-01-01",
+      "size": 5808399,
+      "sha256": "e6f1f7d100a82834dd2ccdd088c42c4cfc93fab24456bc7ba43653fcaf2ec2b5",
+      "eboot_md5": "9bad6158ae5d3dc9b3b15f6205a641f2"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/dbz-0.01.7z/DBZ_00510_00001.jpg"
+    ],
+    "icon": "icons/dbz.png"
+  }
+}

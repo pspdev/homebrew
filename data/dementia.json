@@ -1,0 +1,28 @@
+{
+  "name": "Dementia",
+  "id": "dementia",
+  "summary": "Homebrew puzzle game for PSP.",
+  "author": "Peek-uh-chewz",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1b",
+      "url": "https://archive.org/download/dementia.-7z/Old%20Versions/Dementia.zip",
+      "published_at": "2007-01-01",
+      "size": 5809043,
+      "sha256": "dbd80387f447d49269c74944465bd79835f72bfc844884e836a558297adf09d2",
+      "eboot_md5": "94fae4b098d2535b36a5d72a25e90895"
+    }
+  ],
+  "tags": [
+    "NEO Summer Coding Compo 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/dementia.-7z/DEME00807_00003.jpg"
+    ],
+    "icon": "icons/dementia.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "AlphaAttackPSP",
+  "id": "alphaattackpsp",
+  "summary": "Homebrew game for PSP.",
+  "author": "Montrob, ZereoX, TMK",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Public Beta 1",
+      "url": "https://archive.org/download/alpha-attack-psp-public-beta-1.-7z/AlphaAttackPSP%20%5BPublic%20Beta%201%5D.zip",
+      "published_at": "2007-09-24",
+      "size": 508399,
+      "sha256": "e58b681205c186b35cb038ddaac1c03739bf61d36c74ecd478263b72a65da038",
+      "eboot_md5": "05d2b1c9f578439a310ad2142fd9f66b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/alpha-attack-psp-public-beta-1.-7z/LPM300335_00000.jpg"
+    ],
+    "icon": "icons/alphaattackpsp.png"
+  }
+}

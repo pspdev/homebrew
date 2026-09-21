@@ -1,0 +1,26 @@
+{
+  "name": "Audio Mechanica Kai",
+  "id": "audio_mechanica_kai",
+  "summary": "Version of Audio Mechanica for PSP.",
+  "author": "mascii",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/audio-mechanicakaiv-02.7z/Audio+Mechanica+kai+v02.zip",
+      "published_at": "2009-05-31",
+      "size": 1358603,
+      "sha256": "cd8958f1352ea2d9def93c202e7b16c19b9966ecbc46944db13e3868d4e5817c",
+      "eboot_md5": "08677edfa7e28d7b8eb3b7da6a850c93"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/audio-mechanicakaiv-02.7z/AUDI02041_00000.jpg"
+    ],
+    "icon": "icons/audio_mechanica_kai.png"
+  }
+}

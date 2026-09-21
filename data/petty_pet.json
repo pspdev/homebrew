@@ -1,0 +1,26 @@
+{
+  "name": "Petty Pet",
+  "id": "petty_pet",
+  "summary": "Pet simulator game for PSP.",
+  "author": "PSP-Maniac",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/petty.-7z/PettyPet_20.zip",
+      "published_at": "2006-01-01",
+      "size": 754433,
+      "sha256": "47e87b73c1dbe525c379c2620aa05fa08392f6c7a2fc3fcf8a232a39fb67c635",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/petty.-7z/PETT00534_00000.jpg"
+    ],
+    "icon": "icons/petty_pet.png"
+  }
+}

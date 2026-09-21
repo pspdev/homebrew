@@ -1,0 +1,26 @@
+{
+  "name": "Bonjour",
+  "id": "bonjour",
+  "summary": "Language app for PSP.",
+  "author": "Placo23",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/bonjourv-1.7z/Bonjourv1.zip",
+      "published_at": "2007-09-16",
+      "size": 1038370,
+      "sha256": "1befe2b7bc6812f6c51afd91e4df205150d874c7bb754df105104c07b32c259c",
+      "eboot_md5": "235e31c8a24814d911133e9e79449018"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/bonjourv-1.7z/BONJ00735_00000.jpg"
+    ],
+    "icon": "icons/bonjour.png"
+  }
+}

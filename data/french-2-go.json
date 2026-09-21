@@ -1,0 +1,28 @@
+{
+  "name": "French-2-Go",
+  "id": "french-2-go",
+  "summary": "Language-learning app for PSP.",
+  "author": "Access_Denied",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1",
+      "url": "https://archive.org/download/french-2-go.-7z/French-2-Go.zip",
+      "published_at": "2007-01-19",
+      "size": 260092,
+      "sha256": "55f894993cbf8f8d504568c5d3f76861e2f8129a56e1a0e02573ef9def73e452",
+      "eboot_md5": "f83c95e5a862eec33699da4131441b47"
+    }
+  ],
+  "tags": [
+    "PxP Homebrew Competition (2007)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/french-2-go.-7z/FREN00920_00000.jpg"
+    ],
+    "icon": "icons/french-2-go.png"
+  }
+}

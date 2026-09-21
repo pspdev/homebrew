@@ -1,0 +1,26 @@
+{
+  "name": "Gamesonic Player",
+  "id": "gamesonic_player",
+  "summary": "Media player app for PSP.",
+  "author": "franzes80",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.2a",
+      "url": "https://archive.org/download/848-game-sonic-playe.-7z/848_GameSonic_Playe.zip",
+      "published_at": "2015-02-23",
+      "size": 4442546,
+      "sha256": "d4741cc3d5147f8e441a05fda0acab05b999df5928daf1f0269fad6ca0bbedfe",
+      "eboot_md5": "0aee80e34c0a397c4d8fe908649728d1"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/848-game-sonic-playe.-7z/20221009223913.png"
+    ],
+    "icon": "icons/gamesonic_player.png"
+  }
+}

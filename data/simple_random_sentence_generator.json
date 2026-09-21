@@ -1,0 +1,26 @@
+{
+  "name": "Simple Random Sentence Generator",
+  "id": "simple_random_sentence_generator",
+  "summary": "Homebrew app for PSP.",
+  "author": "Psyberjock, Noble",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.3",
+      "url": "https://archive.org/download/srsg.-7z/srsgv0.3.zip",
+      "published_at": "2007-05-29",
+      "size": 1254675,
+      "sha256": "81ddde8db3372608414936bdc617859e8051cc43ab98c7dd237e7f5ef7babdce",
+      "eboot_md5": "a25f31f37cec0bf10eea90560a2ca36a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/srsg.-7z/LUAP01292_00001.jpg"
+    ],
+    "icon": "icons/simple_random_sentence_generator.png"
+  }
+}

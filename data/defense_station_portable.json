@@ -1,0 +1,28 @@
+{
+  "name": "Defense Station Portable",
+  "id": "defense_station_portable",
+  "summary": "Tower defense game for PSP.",
+  "author": "Dave Leaver (Danzel)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/dsp.7z/Old%20Versions/dsp.zip",
+      "published_at": "2009-05-30",
+      "size": 5484518,
+      "sha256": "1d08f2e48f85dcb7d14da2339c9c5017937cece1785b2e3b26795bb04e9d1be5",
+      "eboot_md5": "ff59efb8e8f9751223113271fad14e44"
+    }
+  ],
+  "tags": [
+    "NEO Summer Coding Compo 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/dsp.7z/20210723020008.png"
+    ],
+    "icon": "icons/defense_station_portable.png"
+  }
+}

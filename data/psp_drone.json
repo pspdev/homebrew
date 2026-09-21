@@ -1,0 +1,28 @@
+{
+  "name": "PSP Drone",
+  "id": "psp_drone",
+  "summary": "Remote control app for PSP.",
+  "author": "DS_Marine",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.5",
+      "url": "https://archive.org/download/pspdrone-0.5.7z/PSPDrone0.5.zip",
+      "published_at": "2014-04-28",
+      "size": 342877,
+      "sha256": "78b82b7a4aa7bdb8f42988ece266c6a8ae6e0468c1b18d6bf8dcd6ee4b9caf3f",
+      "eboot_md5": "256b398f8438a7e530ac9733c73abe09"
+    }
+  ],
+  "tags": [
+    "IrDA"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspdrone-0.5.7z/PSPD00894_00000.jpg"
+    ],
+    "icon": "icons/psp_drone.png"
+  }
+}

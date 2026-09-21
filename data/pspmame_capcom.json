@@ -1,0 +1,26 @@
+{
+  "name": "PSPMAME Capcom",
+  "id": "pspmame_capcom",
+  "summary": "MAME emulator for PSP, based on MAME 0.97. Claims support for 78 games. A compatibility list for an earlier version is available (in Japanese).",
+  "author": "TMK",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.97 r0.6",
+      "url": "https://archive.org/download/capcom.7z/capcom.zip",
+      "published_at": "2010-03-02",
+      "size": 1284889,
+      "sha256": "cf015c9bc285566faaae73c54f7df3bfc53e375ec3ec5653867643658a9da52b",
+      "eboot_md5": "74aa0c7e34074b33870431fd48969a2c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/capcom.7z/CAPC00627_00000.jpg"
+    ],
+    "icon": "icons/pspmame_capcom.png"
+  }
+}

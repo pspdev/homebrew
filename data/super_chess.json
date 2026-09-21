@@ -1,0 +1,28 @@
+{
+  "name": "Super Chess",
+  "id": "super_chess",
+  "summary": "Game of chess for PSP.",
+  "author": "Jorge_97",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/super-chess.-7z/Super%20Chess.zip",
+      "published_at": "2012-07-14",
+      "size": 1547344,
+      "sha256": "1300a29ed9945e90a2d19331f116d5dca0095b3fc455c9d5f460029e1109ad85",
+      "eboot_md5": "8d4c5cb0533fea503ae083db710ee4cd"
+    }
+  ],
+  "tags": [
+    "PSP Homebrew Game Competition 2013"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/super-chess.-7z/20210724112319.png"
+    ],
+    "icon": "icons/super_chess.png"
+  }
+}

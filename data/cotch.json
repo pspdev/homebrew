@@ -1,0 +1,26 @@
+{
+  "name": "Cotch",
+  "id": "cotch",
+  "summary": "Catch the falling circles.",
+  "author": "Ani-Kiba",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Alpha",
+      "url": "https://archive.org/download/cotch.-7z/COTCH.zip",
+      "published_at": "2011-07-20",
+      "size": 6419431,
+      "sha256": "987d07f6321f2f29c64b8979dd62ad929bbe62eeaf0acabb24a70a6e9dd8436b",
+      "eboot_md5": "f03a1a8049dddf7fd52a2ca9631ef922"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/cotch.-7z/COTC00369_00000.png"
+    ],
+    "icon": "icons/cotch.png"
+  }
+}

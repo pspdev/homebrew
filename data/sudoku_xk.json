@@ -1,0 +1,26 @@
+{
+  "name": "Sudoku XK",
+  "id": "sudoku_xk",
+  "summary": "Sudoku for PSP.",
+  "author": "Team XK",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/0sudokuxk-0.1.7z/0sudokuxk0.1.zip",
+      "published_at": "2007-05-18",
+      "size": 1446477,
+      "sha256": "5834bb59b7bd9825fab2ce7dec1d32d6c8623cec87f8afb1dac7d717661ecbe5",
+      "eboot_md5": "e6dc1c797102bbaa265b4fe359c19794"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/0sudokuxk-0.1.7z/SUDO00667_00000.jpg"
+    ],
+    "icon": "icons/sudoku_xk.png"
+  }
+}

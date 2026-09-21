@@ -1,0 +1,28 @@
+{
+  "name": "Halo",
+  "id": "halo",
+  "summary": "Fan game for PSP.",
+  "author": "Xero",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Demo",
+      "url": "https://archive.org/download/demo-halo.-7z/D%C3%A9mo%20Halo.zip",
+      "published_at": "2007-06-10",
+      "size": 6665480,
+      "sha256": "d0208a78aa1e5dc09fdf101cf5e413fc3fcd648789e1baee59a54aeeb37524dc",
+      "eboot_md5": "70fc069ea0d4c76aa27dc5db434eb6de"
+    }
+  ],
+  "tags": [
+    "Gx-mod/XtreamLua 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/demo-halo.-7z/D%C3%A9M00560_00000.jpg"
+    ],
+    "icon": "icons/halo.png"
+  }
+}

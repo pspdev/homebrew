@@ -1,0 +1,26 @@
+{
+  "name": "Shoot Lapin",
+  "id": "shoot_lapin",
+  "summary": "Homebrew game for PSP.",
+  "author": "gorglucks",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.2",
+      "url": "https://archive.org/download/shoot-lapin.-7z/Shoot-Lapin.zip",
+      "published_at": "2009-04-03",
+      "size": 2637611,
+      "sha256": "8ea643c73156b29477b329e3206ad80bc6a39eaf00ad1924cd4931774c95ee7c",
+      "eboot_md5": "aa0e1a22c28ef05e62adb45620cd0b75"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/shoot-lapin.-7z/SHOO01070_00000.jpg"
+    ],
+    "icon": "icons/shoot_lapin.png"
+  }
+}

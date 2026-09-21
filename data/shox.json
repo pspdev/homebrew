@@ -1,0 +1,26 @@
+{
+  "name": "Shox",
+  "id": "shox",
+  "summary": "Homebrew game for PSP.",
+  "author": "c5cha7",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/shox.-7z/SHOX.zip",
+      "published_at": "2006-05-27",
+      "size": 1412233,
+      "sha256": "7141e11463975794e6746426bb72e6a459ac082cd333aafde375dfc230f22cc8",
+      "eboot_md5": "6b855dec59a7dd1b726366e3bc2b1cbe"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/shox.-7z/SHOX00322_00000.jpg"
+    ],
+    "icon": "icons/shox.png"
+  }
+}

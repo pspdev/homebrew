@@ -1,0 +1,28 @@
+{
+  "name": "Kopban PSP",
+  "id": "kopban_psp",
+  "summary": "Homebrew version of Sokoban for PSP.",
+  "author": "Kaltorak",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.41",
+      "url": "https://archive.org/download/kopbanpsp.-7z/Old%20Versions/KOPBANPSP.zip",
+      "published_at": "2008-01-01",
+      "size": 3626513,
+      "sha256": "2d339e872637d983ef6233df6e33b21ecd38ba6ef5dc22d72f6ff4441f6ecd3e",
+      "eboot_md5": "da5de2fa9c2120ff04b4a3eaaa1459ae"
+    }
+  ],
+  "tags": [
+    "NEO Spring Coding Compo 2008"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/kopbanpsp.-7z/20210808070224.png"
+    ],
+    "icon": "icons/kopban_psp.png"
+  }
+}

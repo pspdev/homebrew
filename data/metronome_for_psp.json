@@ -1,0 +1,26 @@
+{
+  "name": "Metronome for PSP",
+  "id": "metronome_for_psp",
+  "summary": "Homebrew app for PSP.",
+  "author": "ExxonValdeez",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/metronome.-7z/Metronome.zip",
+      "published_at": "2007-09-24",
+      "size": 392474,
+      "sha256": "c18909bbdf7887eb5e193eef6c1090ef4079ee76ba6a62ab55df461499cb1d5e",
+      "eboot_md5": "05d2b1c9f578439a310ad2142fd9f66b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/metronome.-7z/LPM300335_00000.jpg"
+    ],
+    "icon": "icons/metronome_for_psp.png"
+  }
+}

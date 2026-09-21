@@ -1,0 +1,26 @@
+{
+  "name": "Kaiten Patissier [\u304b\u3044\u3066\u3093\u30d1\u30c6\u30a3\u30b7\u30a8]",
+  "id": "kaiten_patissier_[\u304b\u3044\u3066\u3093\u30d1\u30c6\u30a3\u30b7\u30a8]",
+  "summary": "Port of the indie puzzle game by Alpha Secret Base.",
+  "author": "MK2k",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "R1",
+      "url": "https://archive.org/download/kaiten-patissier-psp.-7z/KaitenPatissierPSP.zip",
+      "published_at": "2008-06-04",
+      "size": 16126693,
+      "sha256": "6fec9188f0cd5a65ac77cb3913efc079049a630d23f1ff714cfbb564d2ef81c1",
+      "eboot_md5": "c4c5f7317af93b9cf3a84892b966ec73"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/kaiten-patissier-psp.-7z/KAIT01795_00000.jpg"
+    ],
+    "icon": "icons/kaiten_patissier_[\u304b\u3044\u3066\u3093\u30d1\u30c6\u30a3\u30b7\u30a8].png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Lua OSK",
+  "id": "lua_osk",
+  "summary": "Homebrew app for PSP.",
+  "author": "LiQuiD8d",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1",
+      "url": "https://archive.org/download/luaosk/luaosk.zip",
+      "published_at": "2005-09-29",
+      "size": 276937,
+      "sha256": "4125e438dec3e22b6b944373a96ac512b296f5c26eb5d37839beea12ea381788",
+      "eboot_md5": "3a97f729044d0f4256a57d87fa19a01e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/luaosk/snap.png"
+    ],
+    "icon": "icons/lua_osk.png"
+  }
+}

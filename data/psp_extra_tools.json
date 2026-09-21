@@ -1,0 +1,26 @@
+{
+  "name": "PSP Extra Tools",
+  "id": "psp_extra_tools",
+  "summary": "Homebrew app for PSP.",
+  "author": "maxem",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.00",
+      "url": "https://archive.org/download/pspex-t/PSPEXT_v100_eng.zip",
+      "published_at": "2011-09-13",
+      "size": 377938,
+      "sha256": "fb95b4bb0ad9f701adfdcf4e43448f1b1b8f9287ab9faa952f71d5d0cd9606db",
+      "eboot_md5": "e483319dbbafa27c593fdabb4f644686"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspex-t/PSPE01251_00000.png"
+    ],
+    "icon": "icons/psp_extra_tools.png"
+  }
+}

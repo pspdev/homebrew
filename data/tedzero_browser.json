@@ -1,0 +1,26 @@
+{
+  "name": "TedZero Browser",
+  "id": "tedzero_browser",
+  "summary": "Homebrew app for PSP.",
+  "author": "Tedzero",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.5",
+      "url": "https://archive.org/download/ted-zero-browser-2.5.7z/TedZeroBrowser2.5.zip",
+      "published_at": "2006-01-01",
+      "size": 286607,
+      "sha256": "bc30046077bb0f3b4c0d9e26466f186f527e8de99d85faad53baba1cbdb8bbc0",
+      "eboot_md5": "aa75e319bf77d5c706f59837bb925f12"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ted-zero-browser-2.5.7z/TEDZ01281_00000.png"
+    ],
+    "icon": "icons/tedzero_browser.png"
+  }
+}

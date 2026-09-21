@@ -1,0 +1,28 @@
+{
+  "name": "TTR: Table Top Rally",
+  "id": "ttr_table_top_rally",
+  "summary": "Dodging game for PSP.",
+  "author": "Freshmilk",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/ttr.-7z/TTRv1.1.zip",
+      "published_at": "2006-01-01",
+      "size": 5976853,
+      "sha256": "cb5bea59a8bf557620fa12cf5032b9c86feb1aa61c81d5873791a93f6de6d505",
+      "eboot_md5": "59dd56d54c32547a4eb7fcc135910c10"
+    }
+  ],
+  "tags": [
+    "NEO Spring Compo 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ttr.-7z/TTR.png"
+    ],
+    "icon": "icons/ttr_table_top_rally.png"
+  }
+}

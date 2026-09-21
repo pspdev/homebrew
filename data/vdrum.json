@@ -1,0 +1,26 @@
+{
+  "name": "VDrum",
+  "id": "vdrum",
+  "summary": "Drum app for PSP.",
+  "author": "Xsjado (Blade_punk)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/vdrum.-7z/VDruM.zip",
+      "published_at": "2007-12-13",
+      "size": 2808747,
+      "sha256": "72795fff2782ad927eb3a5a3eab7887c6149a7ed9cef6f771dbd7d2b3c1c6201",
+      "eboot_md5": "2e1b7bad81d93a745ae095335e15574a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/vdrum.-7z/VDRU00494_00000.jpg"
+    ],
+    "icon": "icons/vdrum.png"
+  }
+}

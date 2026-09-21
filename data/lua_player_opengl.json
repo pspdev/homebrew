@@ -1,0 +1,26 @@
+{
+  "name": "Lua Player OpenGL",
+  "id": "lua_player_opengl",
+  "summary": "Version of the Lua interpreter with OpenGL support.",
+  "author": "Frank Bu\u00df (Shine)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "Preview 4",
+      "url": "https://archive.org/download/luaplayer.7z/luaplayer.zip",
+      "published_at": "2006-12-28",
+      "size": 185781,
+      "sha256": "06c70d8c1e757ad8690f0cbee8a7e3f3d610425b84fec057318398e4bf5936b7",
+      "eboot_md5": "6b2a8710e492497bfc0fdf5649edde95"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/luaplayer.7z/LUAP00975_00000.jpg"
+    ],
+    "icon": "icons/lua_player_opengl.png"
+  }
+}

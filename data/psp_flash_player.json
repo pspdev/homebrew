@@ -1,0 +1,26 @@
+{
+  "name": "PSP Flash Player",
+  "id": "psp_flash_player",
+  "summary": "SWF Flash player for PSP.",
+  "author": "PSPHacks.net Development Team",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.3",
+      "url": "https://archive.org/download/swfplayerv13.7z/swfplayerv13.zip",
+      "published_at": "2006-03-02",
+      "size": 3292170,
+      "sha256": "1921146cbecd948ecc2b015df9716e768a2646917ea75d37cd4dd051a40580e6",
+      "eboot_md5": "c40d7f8544bbff2346f994b69127399a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/swfplayerv13.7z/SWFP01207_00000.png"
+    ],
+    "icon": "icons/psp_flash_player.png"
+  }
+}

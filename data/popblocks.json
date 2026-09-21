@@ -1,0 +1,29 @@
+{
+  "name": "PopBlocks",
+  "id": "popblocks",
+  "summary": "Puzzle game for PSP.",
+  "author": "Germano Fabio (Gefa)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0.1",
+      "url": "https://archive.org/download/pop-blocksv-1.0.1.7z/PopBlocksv1.0.1.zip",
+      "published_at": "2009-01-01",
+      "size": 2330442,
+      "sha256": "eae8166b004bca945fb781a2531709275c480538514db4c8ca08fe5552aa9f51",
+      "eboot_md5": "0fddca0bee3b1a2654b9ecef50ec8e69"
+    }
+  ],
+  "tags": [
+    "python",
+    "NEO Spring Coding Compo 2009"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pop-blocksv-1.0.1.7z/POPB00909_00000.jpg"
+    ],
+    "icon": "icons/popblocks.png"
+  }
+}

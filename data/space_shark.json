@@ -1,0 +1,26 @@
+{
+  "name": "Space Shark",
+  "id": "space_shark",
+  "summary": "Homebrew game for PSP.",
+  "author": "Julian Williams (BlackShark)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1",
+      "url": "https://archive.org/download/space-shark.-7z/SpaceShark.zip",
+      "published_at": "2007-01-01",
+      "size": 4374364,
+      "sha256": "9df9eb730918d6e422e9fe6d3e72a33e757522e5ebdb400b1c4f81d4e1f1f30e",
+      "eboot_md5": "68abbda42a6a1af6dbb07d738ee0e5c9"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/space-shark.-7z/SPAC00997_00000.png"
+    ],
+    "icon": "icons/space_shark.png"
+  }
+}

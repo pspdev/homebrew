@@ -1,0 +1,26 @@
+{
+  "name": "Mario's Road",
+  "id": "mario's_road",
+  "summary": "Mario collecting coins on a kart; homebrew game for PSP.",
+  "author": "Muhie, PHPnerd",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/mario-road-v-1.0.7z/Old%20Versions/Mario%20Road%20v1.0.zip",
+      "published_at": "2008-01-01",
+      "size": 2303159,
+      "sha256": "f0707a944bf68133d53f460704e3ef9f204d4754be37604348e4d57864dd4d30",
+      "eboot_md5": "cfdd5717c5fb0a84887e420b8beba78c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mario-road-v-1.0.7z/MARI01280_00000.png"
+    ],
+    "icon": "icons/mario's_road.png"
+  }
+}

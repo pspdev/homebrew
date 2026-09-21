@@ -1,0 +1,26 @@
+{
+  "name": "Super Mario Bros. Portable",
+  "id": "super_mario_bros._portable",
+  "summary": "Fan game for PSP.",
+  "author": "Emericaska8r",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/smbpv-0.1.7z/Super%20Mario%20Bros.%20Portable.zip",
+      "published_at": "2007-03-10",
+      "size": 2846020,
+      "sha256": "78990b63c132b273bce007bded04644689bef2997eb0faa9ad2f3da2d5021e52",
+      "eboot_md5": "59fcd538364e640c9895773097edeaf8"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/smbpv-0.1.7z/LUAP01292_00001.jpg"
+    ],
+    "icon": "icons/super_mario_bros._portable.png"
+  }
+}

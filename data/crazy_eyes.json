@@ -1,0 +1,26 @@
+{
+  "name": "Crazy Eyes",
+  "id": "crazy_eyes",
+  "summary": "Homebrew game for PSP.",
+  "author": "Killerfeeshy",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.3",
+      "url": "https://archive.org/download/crazyeyes-v-1.3.7z/Crazyeyes%20v1.3.zip",
+      "published_at": "2011-11-13",
+      "size": 25156048,
+      "sha256": "f5a19439daad8033f88b8f8f99c5e86737608ad51ded6c06d8ad635a07a48b8d",
+      "eboot_md5": "0e848741feda815b51435a74038070fd"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/crazyeyes-v-1.3.7z/CRAZ01255_00000.jpg"
+    ],
+    "icon": "icons/crazy_eyes.png"
+  }
+}

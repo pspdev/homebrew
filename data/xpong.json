@@ -1,0 +1,26 @@
+{
+  "name": "XPong",
+  "id": "xpong",
+  "summary": "Pong for PSP.",
+  "author": "TeamOverload",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.7",
+      "url": "https://archive.org/download/xpong-v-07.7z/XPong_v07.zip",
+      "published_at": "2006-02-27",
+      "size": 634230,
+      "sha256": "9c32bb1d6c6a274108f377e251ea99daccfbc7d956d6b22261d83c98ca11092f",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/xpong-v-07.7z/LUAP01126_00001.png"
+    ],
+    "icon": "icons/xpong.png"
+  }
+}

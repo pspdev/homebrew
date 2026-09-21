@@ -1,0 +1,26 @@
+{
+  "name": "PSPMAME Deco",
+  "id": "pspmame_deco",
+  "summary": "MAME emulator for PSP, based on MAME 0.97. Claims support for 228 games. A compatibility list for an earlier version is available (in Japanese).",
+  "author": "TMK",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.97 r0.6",
+      "url": "https://archive.org/download/deco.7z/deco.zip",
+      "published_at": "2010-03-02",
+      "size": 1501441,
+      "sha256": "30007b5faec5b56ef2ea74e0388df95d608faa4d3050c4511e9340e9b2cfad37",
+      "eboot_md5": "e3c06a388c331df54a01a25c88f06bf0"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/deco.7z/DECO00411_00000.jpg"
+    ],
+    "icon": "icons/pspmame_deco.png"
+  }
+}

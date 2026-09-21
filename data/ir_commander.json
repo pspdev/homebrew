@@ -1,0 +1,28 @@
+{
+  "name": "iR Commander",
+  "id": "ir_commander",
+  "summary": "Universal remote control software for PSP.",
+  "author": "AhMan",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.8",
+      "url": "https://archive.org/download/pspircom08.7z/pspircom08.zip",
+      "published_at": "2006-02-04",
+      "size": 255634,
+      "sha256": "ed82ed010999e5efbedd4ce7bcc7559ee4e66544320bdb95efc031eb25652137",
+      "eboot_md5": "8d90530816a1f2e9dfd091afa3dce62a"
+    }
+  ],
+  "tags": [
+    "IrDA"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspircom08.7z/IRCO00378_00000.jpg"
+    ],
+    "icon": "icons/ir_commander.png"
+  }
+}

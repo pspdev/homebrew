@@ -1,0 +1,26 @@
+{
+  "name": "Minecraft PSP [Fat]",
+  "id": "minecraft_psp_[fat]",
+  "summary": "Version of the homebrew implementation of Minecraft for the original PSP 1000 ('fat').",
+  "author": "Wandemberg Armijos (Regen Studio)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "3.2.1",
+      "url": "https://archive.org/download/minecraft-psp-3.2.1-fat/Minecraft%20PSP%203.2.1%20FAT.zip",
+      "published_at": "2021-05-07",
+      "size": 5256107,
+      "sha256": "b17425eb335517148242c7d6a869c5eb435c8df97b856fa38ebaddae2b86070b",
+      "eboot_md5": "766ec4a8fabb9f52ab3a1fc8573d5d38"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/minecraft-psp-3.2.1-fat/MINE01721_00000.png"
+    ],
+    "icon": "icons/minecraft_psp_[fat].png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Nanodesktop GraphDemo01",
+  "id": "nanodesktop_graphdemo01",
+  "summary": "Tech demo for PSP.",
+  "author": "Filippo Battaglia",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "Rev. B",
+      "url": "https://archive.org/download/graph-demo-01rev-b.-7z/GraphDemo01revB.zip",
+      "published_at": "2009-05-10",
+      "size": 2107289,
+      "sha256": "894a7794fb628bdf0fa8228444ef91e2f3f9c2be74758f0f8e2096ed85a40b9e",
+      "eboot_md5": "cd042b981d00f62e3f36c3939ba559d5"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/graph-demo-01rev-b.-7z/GRAP01383_00000.jpg"
+    ],
+    "icon": "icons/nanodesktop_graphdemo01.png"
+  }
+}

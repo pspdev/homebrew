@@ -1,0 +1,28 @@
+{
+  "name": "Time Trainer",
+  "id": "time_trainer",
+  "summary": "Homebrew app for PSP.",
+  "author": "Hardhat",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.6",
+      "url": "https://archive.org/download/timetrainer0_6.7z/timetrainer0_6.zip",
+      "published_at": "2009-01-01",
+      "size": 1125145,
+      "sha256": "f718a87fe7a67c72d37ffe92031ce90add837d7522e0eae111e1d639c1386908",
+      "eboot_md5": "b85996e4b3323f7fa7d08a605b7efc15"
+    }
+  ],
+  "tags": [
+    "NEO Spring Coding Compo 2009"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/timetrainer0_6.7z/TIME01385_00001.png"
+    ],
+    "icon": "icons/time_trainer.png"
+  }
+}

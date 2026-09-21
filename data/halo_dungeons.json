@@ -1,0 +1,26 @@
+{
+  "name": "Halo Dungeons",
+  "id": "halo_dungeons",
+  "summary": "Halo mod of PSP Dungeons.",
+  "author": "loljejelol",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.3",
+      "url": "https://archive.org/download/dungeons.-7z_202102/Dungeons.zip",
+      "published_at": "2010-07-23",
+      "size": 10889531,
+      "sha256": "98cd13a03a6889cfe564f5c0d8c941f92a532d58da36289ed5d706e3c0c6416d",
+      "eboot_md5": "aa7ef48a15cb0a7e9588de54b5a13421"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/dungeons.-7z_202102/DUNG00835_00001.jpg"
+    ],
+    "icon": "icons/halo_dungeons.png"
+  }
+}

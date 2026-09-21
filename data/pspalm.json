@@ -1,0 +1,26 @@
+{
+  "name": "PSPALM",
+  "id": "pspalm",
+  "summary": "UI shell for PSP.",
+  "author": "Fleyc",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.5 Alpha",
+      "url": "https://archive.org/download/psppalm.-7z/PSPalmv1.5Ultime.zip",
+      "published_at": "2007-07-05",
+      "size": 5749928,
+      "sha256": "36fdf2b9eb4353b4a653a7017e1dd4a54b466b03b677fa756449fa1ece981fbe",
+      "eboot_md5": "bfedd80981755d9b79aba02ae2efc424"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psppalm.-7z/PSPA01447_00000.png"
+    ],
+    "icon": "icons/pspalm.png"
+  }
+}

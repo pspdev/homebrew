@@ -1,0 +1,27 @@
+{
+  "name": "OpenBOR",
+  "id": "openbor",
+  "summary": "Game engine for PSP",
+  "author": "SamuraiX",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "3.0 Build 6391",
+      "url": "https://archive.org/download/open-bor.-7z/OpenBOR.zip",
+      "published_at": "2018-08-21",
+      "size": 2471980,
+      "sha256": "626ddda1721cb8ad3cdcc4d855fd839d4b4a09e39bb2cf25825a9b670f960cfb",
+      "eboot_md5": "6b295f926f465c27c2aedae9e331cd91"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/open-bor.-7z/snap003.bmp",
+      "https://archive.org/download/open-bor.-7z/snap003.bmp.png"
+    ],
+    "icon": "icons/openbor.png"
+  }
+}

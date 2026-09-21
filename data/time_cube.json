@@ -1,0 +1,28 @@
+{
+  "name": "Time Cube",
+  "id": "time_cube",
+  "summary": "Homebrew puzzle game for PSP.",
+  "author": "Kyle Luce",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/time-cube-2.0.7z/TimeCube_2.0.zip",
+      "published_at": "2011-05-30",
+      "size": 47218656,
+      "sha256": "dbe0420b437c66d6dc510a8626dc06934bb0fb6536239792bcb9db87b5d30429",
+      "eboot_md5": "97afc42e19a90bbe2edfdae75cb257f5"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/time-cube-2.0.7z/20210724155720.png"
+    ],
+    "icon": "icons/time_cube.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Blackspeed",
+  "id": "blackspeed",
+  "summary": "Memory Stick speed benchmarker for PSP.",
+  "author": "Sebastian Schnell",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/blackspeed/blackSPEEDv2.zip",
+      "published_at": "2007-02-19",
+      "size": 772788,
+      "sha256": "cd6e13087ab86fa99f5bdaa64ef6e8bbc507e400530e9986f49503851fde75a7",
+      "eboot_md5": "960d8a3aa4d1746a7073e8e67b40c40e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/blackspeed/20220429001232.png"
+    ],
+    "icon": "icons/blackspeed.png"
+  }
+}

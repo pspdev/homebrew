@@ -1,0 +1,28 @@
+{
+  "name": "PSP-PDA",
+  "id": "psp-pda",
+  "summary": "Utility apps for PSP.",
+  "author": "Rob_psp, Ludovic Jacomme (Zx-81)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.3.2",
+      "url": "https://archive.org/download/psppdav1.3.2fw3x.7z/psppdav1.3.2-PochiStyle.zip",
+      "published_at": "2008-05-09",
+      "size": 1584345,
+      "sha256": "016f4bfc74b6f6fb64f81d4ea7728cc8c36b5a44e18fad7ce5e3d2a11e0652ce",
+      "eboot_md5": "5e130f14c8f6be51cfba7f53778148c8"
+    }
+  ],
+  "tags": [
+    "IrDA"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psppdav1.3.2fw3x.7z/PSPP02081_00000.jpg"
+    ],
+    "icon": "icons/psp-pda.png"
+  }
+}

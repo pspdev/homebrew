@@ -1,0 +1,28 @@
+{
+  "name": "PSP Magazine Launcher",
+  "id": "psp_magazine_launcher",
+  "summary": "Homebrew app for PSP.",
+  "author": "Kevin Thomas (dTMSr)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/pmag-01.7z/PMag01.zip",
+      "published_at": "2005-09-06",
+      "size": 769470,
+      "sha256": "9ed5932343a1e24b4e0afc36f68ab52fbef2445ae78bad7cee4e7bdde267c931",
+      "eboot_md5": "ffb52102372cfc75668f32e25b3af87c"
+    }
+  ],
+  "tags": [
+    "PSPUpdates Homebrew Contest (2005)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pmag-01.7z/PMAG00454_00000.jpg"
+    ],
+    "icon": "icons/psp_magazine_launcher.png"
+  }
+}

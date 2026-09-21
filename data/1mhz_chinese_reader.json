@@ -1,0 +1,26 @@
+{
+  "name": "1mhz Chinese Reader",
+  "id": "1mhz_chinese_reader",
+  "summary": "Text reader app for PSP.",
+  "author": "Peng Zhi",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "x",
+      "url": "https://archive.org/download/1mhzreader.-7z/1mhzreader.zip",
+      "published_at": "2005-09-08",
+      "size": 1222197,
+      "sha256": "c2936fd50bacabb7f08094a6df07b882b933f76a321981e128e468f546d182de",
+      "eboot_md5": "2eea5ca675b1c338669b5b742eda8f6a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/1mhzreader.-7z/1MHZ01011_00000.jpg"
+    ],
+    "icon": "icons/1mhz_chinese_reader.png"
+  }
+}

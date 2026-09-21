@@ -1,0 +1,26 @@
+{
+  "name": "PSP Grapher",
+  "id": "psp_grapher",
+  "summary": "Homebrew app for PSP.",
+  "author": "MagicianFB",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.02",
+      "url": "https://archive.org/download/psp-graph-0.02/PSP_Graph_0.02.zip",
+      "published_at": "2005-09-23",
+      "size": 441262,
+      "sha256": "fbb86cb555ebd247443b077dfc408e153b351cc07cfbb30f6053b9bae60e1619",
+      "eboot_md5": "d9570ce1faffc83e5546a4900b8034c2"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-graph-0.02/PSP_01123_00000.png"
+    ],
+    "icon": "icons/psp_grapher.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PSPSeq",
+  "id": "pspseq",
+  "summary": "Music tracker for PSP.",
+  "author": "Ethan Bordeaux",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "3.01",
+      "url": "https://archive.org/download/pspseq-301.7z/PSPSeq301.zip",
+      "published_at": "2008-09-03",
+      "size": 10262076,
+      "sha256": "fdc16fc5632c095eecc71f7ac8dcd3a1152e58779ffc48948e624e825fc1ceea",
+      "eboot_md5": "19bb1e92a09a4e166609c7c312dc0ff0"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspseq-301.7z/EBOO00649_00002.png"
+    ],
+    "icon": "icons/pspseq.png"
+  }
+}

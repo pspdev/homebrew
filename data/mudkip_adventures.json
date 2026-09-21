@@ -1,0 +1,28 @@
+{
+  "name": "Mudkip Adventures",
+  "id": "mudkip_adventures",
+  "summary": "Homebrew game for PSP.",
+  "author": "Alexander Berl (Raphael)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "RC1",
+      "url": "https://archive.org/download/mudkip.-7z/Mudkip.zip",
+      "published_at": "2007-07-12",
+      "size": 1670118,
+      "sha256": "1950200fe9ef1b4f63a90d2c9252194a1c97159c1bd9a33b483b8805bc00f3b3",
+      "eboot_md5": "987baa05c87c7c8759a1e422cec0742e"
+    }
+  ],
+  "tags": [
+    "GBAX 2007 Coding Competition"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mudkip.-7z/MUDK00618_00001.png"
+    ],
+    "icon": "icons/mudkip_adventures.png"
+  }
+}

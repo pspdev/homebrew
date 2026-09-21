@@ -1,0 +1,26 @@
+{
+  "name": "SuperTux PSP",
+  "id": "supertux_psp",
+  "summary": "Platform game for PSP.",
+  "author": "Denis Televnyy (Deniska)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/supertux.7z/supertux.zip",
+      "published_at": "2005-12-30",
+      "size": 9007110,
+      "sha256": "9e017fefa176acd980feac10d119d47fa6fc20f49e4af6eb12c06a591dc72693",
+      "eboot_md5": "3568cd514ebe9c605006819bc6971c53"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/supertux.7z/SUPE00912_00000.jpg"
+    ],
+    "icon": "icons/supertux_psp.png"
+  }
+}

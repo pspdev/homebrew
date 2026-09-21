@@ -1,0 +1,26 @@
+{
+  "name": "Unofficial NCDZPSP",
+  "id": "unofficial_ncdzpsp",
+  "summary": "NeoGeo CD emulator for PSP.",
+  "author": "NJ, 173210, phoe-nix",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "2.3.5",
+      "url": "https://archive.org/download/uo_ncdzpsp_2.3.1_1.5_kernel_mod_r5.7z/Old%20Versions/uo_ncdzpsp_2.3.1_mod_r5.zip",
+      "published_at": "2018-05-11",
+      "size": 838016,
+      "sha256": "6bb3ddd77d476a7e43540e6ac13107e09c95be087cb6f3504a77aebcf3c8fadf",
+      "eboot_md5": "b2371ebd994a2a96f2c01184770f9e81"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/uo_ncdzpsp_2.3.1_1.5_kernel_mod_r5.7z/NCDZ00792_00000.jpg"
+    ],
+    "icon": "icons/unofficial_ncdzpsp.png"
+  }
+}

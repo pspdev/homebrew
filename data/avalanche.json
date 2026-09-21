@@ -1,0 +1,26 @@
+{
+  "name": "Avalanche",
+  "id": "avalanche",
+  "summary": "Homebrew game for PSP.",
+  "author": "Mast3r_Shak3, Beverage",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "5",
+      "url": "https://archive.org/download/avalanche-v-5.7z/Avalanche%20V5.zip",
+      "published_at": "2006-01-01",
+      "size": 1903441,
+      "sha256": "539e97ca76d4a9ee32fd4b588b6fb09d8ba6149c95ecc904f336449337568f53",
+      "eboot_md5": "91c9f540b99c25de99661c1c5db6613a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/avalanche-v-5.7z/AVAL01070_00001.jpg"
+    ],
+    "icon": "icons/avalanche.png"
+  }
+}

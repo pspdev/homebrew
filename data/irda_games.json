@@ -1,0 +1,29 @@
+{
+  "name": "IrDA Games",
+  "id": "irda_games",
+  "summary": "Collection of games played with the IR port of the PSP-1000.",
+  "author": "Alex705",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.7",
+      "url": "https://archive.org/download/ir-dagames-v-0.7.7z/IrDAGamesV0.7.zip",
+      "published_at": "2007-09-06",
+      "size": 3652254,
+      "sha256": "90c9f724200d4d9149c9c01acf57e9ada811d57a840a88be7bf88727868a50bf",
+      "eboot_md5": "1fc6c9af5fa9e494548bdecf926b7c4f"
+    }
+  ],
+  "tags": [
+    "IrDA",
+    "PSPSource Summer Coding Compo 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ir-dagames-v-0.7.7z/IRDA01048_00000.png"
+    ],
+    "icon": "icons/irda_games.png"
+  }
+}

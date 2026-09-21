@@ -1,0 +1,26 @@
+{
+  "name": "Pintor",
+  "id": "pintor",
+  "summary": "Maze game for PSP.",
+  "author": "Hermes",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/pintor.-7z/PINTOR.zip",
+      "published_at": "2007-01-01",
+      "size": 36453,
+      "sha256": "3f6e9dcb870c7bbbbf5b22335cb8fc8959c73b2fb3f3a2cb0e6367e049ff6450",
+      "eboot_md5": "5d73257f27634584fa1328ee2f116daf"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pintor.-7z/PINT00476_00000.jpg"
+    ],
+    "icon": "icons/pintor.png"
+  }
+}

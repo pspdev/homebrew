@@ -1,0 +1,26 @@
+{
+  "name": "Halo 2D",
+  "id": "halo_2d",
+  "summary": "Mod of CSPSP.",
+  "author": "|justin|",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.50",
+      "url": "https://archive.org/download/halo-ps-p-2-d.-7z/HaloPsP-2D.zip",
+      "published_at": "2007-02-16",
+      "size": 5116303,
+      "sha256": "344af08435fdefccd1f35c78e46adb698ed4fec82c3b77f3589b94523b966ade",
+      "eboot_md5": "d52030ec18b9cb85e5712a05dfb9ae25"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/halo-ps-p-2-d.-7z/HALO00826_00001.jpg"
+    ],
+    "icon": "icons/halo_2d.png"
+  }
+}

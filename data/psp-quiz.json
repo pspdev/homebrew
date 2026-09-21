@@ -1,0 +1,26 @@
+{
+  "name": "PSP-Quiz",
+  "id": "psp-quiz",
+  "summary": "Nerdy quiz for PSP.",
+  "author": "Malliet",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/psp-quiz-v-0.1-by-malliet.-7z/PSP-Quiz%20v0.1%20By%20Malliet.zip",
+      "published_at": "2008-12-25",
+      "size": 120601,
+      "sha256": "6943fdfb98fe2f2cfc1898179fa456c90bdbc3246913af9d1e9173f10070ca97",
+      "eboot_md5": "80bcdc6d0d22e37ad7caaac849c9411a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-quiz-v-0.1-by-malliet.-7z/PSP-01969_00000.jpg"
+    ],
+    "icon": "icons/psp-quiz.png"
+  }
+}

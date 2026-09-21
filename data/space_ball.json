@@ -1,0 +1,26 @@
+{
+  "name": "Space Ball",
+  "id": "space_ball",
+  "summary": "Homebrew game for PSP.",
+  "author": "Mills",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/spaceball.-7z/SPACEBALL.zip",
+      "published_at": "2015-07-22",
+      "size": 8972819,
+      "sha256": "2179767a8a09c7dec25b19908eeec455babfbbd52723b808dafae8de226e1064",
+      "eboot_md5": "4b07465d79a9a1b3287f3cfb8e976f28"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/spaceball.-7z/SPAC00647_00001.png"
+    ],
+    "icon": "icons/space_ball.png"
+  }
+}

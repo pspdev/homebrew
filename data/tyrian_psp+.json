@@ -1,0 +1,26 @@
+{
+  "name": "Tyrian PSP+",
+  "id": "tyrian_psp+",
+  "summary": "Homebrew game for PSP.",
+  "author": "PrinniesDood",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Beta 4",
+      "url": "https://archive.org/download/open-tyrian-pspplus-b-4.7z/OpenTyrianPSPplusB4.zip",
+      "published_at": "2014-02-03",
+      "size": 7047591,
+      "sha256": "bfbc6b17b8f3db8be73dad65fd177de925c7afce0e709e26bc90801b9b278775",
+      "eboot_md5": "da3ce6a4424db74d882e58787488fac1"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/open-tyrian-pspplus-b-4.7z/OPEN01846_00003.png"
+    ],
+    "icon": "icons/tyrian_psp+.png"
+  }
+}

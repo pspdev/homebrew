@@ -1,0 +1,26 @@
+{
+  "name": "Mario Kart 64",
+  "id": "mario_kart_64",
+  "summary": "2D racing game.",
+  "author": "Roland Yonaba (SeanPaul223)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "3",
+      "url": "https://archive.org/download/mario-kart-64-v-3-fr.-7z/MarioKart64V3_Fr.zip",
+      "published_at": "2008-07-17",
+      "size": 3823880,
+      "sha256": "717ee5fc52bcf4f368c66b71080b69976c3a784d9f4eb97549c5eebab6512ede",
+      "eboot_md5": "0013cead0ff2adcfb518bc47601452a6"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mario-kart-64-v-3-fr.-7z/BREW00432_00002.png"
+    ],
+    "icon": "icons/mario_kart_64.png"
+  }
+}

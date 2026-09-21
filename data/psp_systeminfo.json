@@ -1,0 +1,26 @@
+{
+  "name": "PSP SystemInfo",
+  "id": "psp_systeminfo",
+  "summary": "Utility app for PSP. Early builds known as 'PSP SystemChecker'.",
+  "author": "Maxy_PSP",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "Beta 2",
+      "url": "https://archive.org/download/pspsystem-checker-beta.-7z/PSPSystemInfoBeta2.zip",
+      "published_at": "2007-10-03",
+      "size": 401422,
+      "sha256": "9d35fb54491ce47e60eb6e3a22df1638e0ae3309915ee4682d28e60ecce4b912",
+      "eboot_md5": "5aa475efc6a0cb62f0d9ae7d13fa558f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspsystem-checker-beta.-7z/PSPS01581_00000.jpg"
+    ],
+    "icon": "icons/psp_systeminfo.png"
+  }
+}

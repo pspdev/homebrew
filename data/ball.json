@@ -1,0 +1,26 @@
+{
+  "name": "Ball",
+  "id": "ball",
+  "summary": "Reach the ball within a few seconds.",
+  "author": "Flav'95",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/ball-v-1.1.7z/Ball%20V1.1.zip",
+      "published_at": "2008-10-02",
+      "size": 3982110,
+      "sha256": "c1ce2463b9e314fdbfac92a8ff2b26760947b472df2615f62e960f1906a33019",
+      "eboot_md5": "685061ef3af5fa616a7b78b7a1441cba"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ball-v-1.1.7z/20210723012748.png"
+    ],
+    "icon": "icons/ball.png"
+  }
+}

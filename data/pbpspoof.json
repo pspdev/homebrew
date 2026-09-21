@@ -1,0 +1,26 @@
+{
+  "name": "PBPSpoof",
+  "id": "pbpspoof",
+  "summary": "Homebrew app for PSP.",
+  "author": "PEB",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/pbpspoof-v-1.0.7z/PBPSpoof_v1.0.zip",
+      "published_at": "2008-03-16",
+      "size": 64687,
+      "sha256": "94d60d726a8f70230f1cfeb685de8b46f916ec2cb98237a6a2ba7ce778ac7278",
+      "eboot_md5": "28c6d2239daef0ea361ef45513fd07ad"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pbpspoof-v-1.0.7z/PBPS01007_00000.png"
+    ],
+    "icon": "icons/pbpspoof.png"
+  }
+}

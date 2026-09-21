@@ -1,0 +1,26 @@
+{
+  "name": "NeoPop PSP",
+  "id": "neopop_psp",
+  "summary": "NeoGeo Pocket and Pocket Color emulator for PlayStation Portable.",
+  "author": "Akop Karapetyan",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.71.15",
+      "url": "https://archive.org/download/neopoppsp.7z/neopoppsp.zip",
+      "published_at": "2007-10-22",
+      "size": 250023,
+      "sha256": "ab16dd62abf835be6b996e4b1100e45833344f3329d7c8dac2483b9d92cc76a6",
+      "eboot_md5": "3b4bbcd23ea9af6a8ccee1ce51fc805f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/neopoppsp.7z/20210712185007.png"
+    ],
+    "icon": "icons/neopop_psp.png"
+  }
+}

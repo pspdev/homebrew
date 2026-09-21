@@ -1,0 +1,26 @@
+{
+  "name": "Lua For You",
+  "id": "lua_for_you",
+  "summary": "Homebrew app for PSP.",
+  "author": "Dioni0396",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/lua-for-you/Lua%20for%20you.zip",
+      "published_at": "2011-09-05",
+      "size": 898565,
+      "sha256": "1b64f81c09c2d328ea3d5855127532ab47a51e85f1964026ebe0f56ba059cc4f",
+      "eboot_md5": "6c6c0959b48b7f5fefe8337d4ffb650f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lua-for-you/LUA%2001030_00000.png"
+    ],
+    "icon": "icons/lua_for_you.png"
+  }
+}

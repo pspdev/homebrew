@@ -1,0 +1,26 @@
+{
+  "name": "SuDokuL",
+  "id": "sudokul",
+  "summary": "Sudoku game made in C++ and SDL2.",
+  "author": "Mips96",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/su-doku-l/SuDokuL.zip",
+      "published_at": "2022-04-12",
+      "size": 2724379,
+      "sha256": "65d6e6a0421b31676e89df113b50d83629af981d5cb68025434a414364bfe538",
+      "eboot_md5": "f7b917f7f1a586e527882d92407a51ea"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/su-doku-l/SDKL39690_00000.png"
+    ],
+    "icon": "icons/sudokul.png"
+  }
+}

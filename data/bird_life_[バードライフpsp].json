@@ -1,0 +1,26 @@
+{
+  "name": "Bird Life [\u30d0\u30fc\u30c9\u30e9\u30a4\u30d5PSP]",
+  "id": "bird_life_[\u30d0\u30fc\u30c9\u30e9\u30a4\u30d5psp]",
+  "summary": "Early homebrew game for PSP.",
+  "author": "\u3076\u30fc\u306b\u3083\u3093",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/bird.-7z/BIRD.zip",
+      "published_at": "2005-05-17",
+      "size": 64905,
+      "sha256": "30a7ea8c1bc18ca43cf4d71375ef6d79d407f34356a400e32b9bb14e8e9c178a",
+      "eboot_md5": "e06c35f25727b6198b6cecd9d1eea299"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/bird.-7z/EBOO00649_00000.jpg"
+    ],
+    "icon": "icons/bird_life_[\u30d0\u30fc\u30c9\u30e9\u30a4\u30d5psp].png"
+  }
+}

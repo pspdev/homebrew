@@ -1,0 +1,26 @@
+{
+  "name": "InsanerzShooter",
+  "id": "insanerzshooter",
+  "summary": "2D shooter for PSP.",
+  "author": "Marcio F. David, Marcelo Baccelli",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.5",
+      "url": "https://archive.org/download/insanerzshooter_v0.5_PSP.7z/insanerzshooter_v0.5_PSP.zip",
+      "published_at": "2009-01-23",
+      "size": 11106359,
+      "sha256": "6bedb80445aaf25b6ac9e34216aead5c663895a1f783d127f81a086453890276",
+      "eboot_md5": "6b259f101e667b0f0de1b14174015749"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/insanerzshooter_v0.5_PSP.7z/INSA02344_00003.png"
+    ],
+    "icon": "icons/insanerzshooter.png"
+  }
+}

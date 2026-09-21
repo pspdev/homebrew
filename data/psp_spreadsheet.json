@@ -1,0 +1,28 @@
+{
+  "name": "PSP SpreadSheet",
+  "id": "psp_spreadsheet",
+  "summary": "Spreadsheet app for PSP.",
+  "author": "pucelano",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.00",
+      "url": "https://archive.org/download/psp-spread-sheet-v-2.7z/PSP-SpreadSheet-v2.zip",
+      "published_at": "2007-01-01",
+      "size": 2736663,
+      "sha256": "486f25ec7d8428651ee7eca7253d9d977439ab6d32a403dcada358a939c8077c",
+      "eboot_md5": "457674fce3075018d3a8baabc2a204d0"
+    }
+  ],
+  "tags": [
+    "NEO Summer Coding Compo 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-spread-sheet-v-2.7z/PSP-01613_00000.png"
+    ],
+    "icon": "icons/psp_spreadsheet.png"
+  }
+}

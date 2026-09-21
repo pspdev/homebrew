@@ -1,0 +1,26 @@
+{
+  "name": "O.T.T.F.",
+  "id": "o.t.t.f.",
+  "summary": "Puzzle game for PSP.",
+  "author": "xerpi",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/o.-t.-t.-f.-7z/O.T.T.F.zip",
+      "published_at": "2011-01-01",
+      "size": 3534758,
+      "sha256": "a691fc3e1802240814e2f2eb35e89cd7778b3be9bdf96fe602bbf112d1bac46e",
+      "eboot_md5": "1fd5c6e84fbe6aae742c18d15a2cdf9f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/o.-t.-t.-f.-7z/O.T.00455_00000.jpg"
+    ],
+    "icon": "icons/o.t.t.f..png"
+  }
+}

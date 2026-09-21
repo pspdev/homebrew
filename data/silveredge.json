@@ -1,0 +1,28 @@
+{
+  "name": "Silveredge",
+  "id": "silveredge",
+  "summary": "2D shooter game for PSP.",
+  "author": "AndrewYY",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/silveredge.-7z/Silveredge.zip",
+      "published_at": "2011-05-28",
+      "size": 6958764,
+      "sha256": "37836dc5353f984cb3f56463cb120cbf498aa1bacc9d04e713436fbd6d2411b0",
+      "eboot_md5": "de117082de4649c0a5747989ce834659"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/silveredge.-7z/SILV01034_00000.png"
+    ],
+    "icon": "icons/silveredge.png"
+  }
+}

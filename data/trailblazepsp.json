@@ -1,0 +1,26 @@
+{
+  "name": "TrailblazePSP",
+  "id": "trailblazepsp",
+  "summary": "Homebrew app for PSP.",
+  "author": "dangee",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.2a",
+      "url": "https://archive.org/download/trailb-5.7z/TRAILB5.zip",
+      "published_at": "2008-12-02",
+      "size": 1426366,
+      "sha256": "00735dda288c0bef9250348e5ef5f58ef7c634ab452cbfda647161c01a0cf249",
+      "eboot_md5": "4f5e6eb742ff5f07e42871587547df81"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/trailb-5.7z/TRAI00499_00001.png"
+    ],
+    "icon": "icons/trailblazepsp.png"
+  }
+}

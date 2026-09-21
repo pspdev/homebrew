@@ -1,0 +1,26 @@
+{
+  "name": "PSPZX81",
+  "id": "pspzx81",
+  "summary": "Sinclair ZX81 emulator for PSP.",
+  "author": "Ludovic Jacomme (Zx-81)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.2.0",
+      "url": "https://archive.org/download/pspzx81v1.2.0fw3x.7z/pspzx81v1.2.0fw3x.zip",
+      "published_at": "2008-02-24",
+      "size": 813040,
+      "sha256": "73ecc325d5eb44e7c1de950632195532ff7e0e620d8ced97caf35a14bb7bc7c5",
+      "eboot_md5": "9726bc8b281b6a205577fa37057cb352"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspzx81v1.2.0fw3x.7z/PSPZ01435_00000.png"
+    ],
+    "icon": "icons/pspzx81.png"
+  }
+}

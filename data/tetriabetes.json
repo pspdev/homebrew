@@ -1,0 +1,28 @@
+{
+  "name": "TetriAbetes",
+  "id": "tetriabetes",
+  "summary": "Tetris homebrew for PSP.",
+  "author": "Dragula96",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.50b3",
+      "url": "https://archive.org/download/28tetrabetes-141-fw-3xx.-7z/tetrabetes150b3.zip",
+      "published_at": "2008-11-09",
+      "size": 6492597,
+      "sha256": "b93bb95fbc5deb32411910ea008bf4d7f63b39b83de835468f8055ee153b269c",
+      "eboot_md5": "9ccc8ea438280ceb794418575374c276"
+    }
+  ],
+  "tags": [
+    "NEO Spring Coding Compo 2008"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/28tetrabetes-141-fw-3xx.-7z/TETR01374_00000.png"
+    ],
+    "icon": "icons/tetriabetes.png"
+  }
+}

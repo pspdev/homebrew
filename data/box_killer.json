@@ -1,0 +1,28 @@
+{
+  "name": "Box Killer",
+  "id": "box_killer",
+  "summary": "Shoot the boxes. PSP homebrew game.",
+  "author": "Arkanist",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.7",
+      "url": "https://archive.org/download/box-killer-v-0.7.7z/Box%20Killer%20v%200.7.zip",
+      "published_at": "2008-01-01",
+      "size": 2534021,
+      "sha256": "e0ce1a8c6998202ee800ac5004d2df09bde1d9cd3e764fa7cd3e1e61c1980c2b",
+      "eboot_md5": "68687a0453e16126a523385a45be6ca1"
+    }
+  ],
+  "tags": [
+    "Scenery Beta 2008"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/box-killer-v-0.7.7z/BOX%2001271_00000.png"
+    ],
+    "icon": "icons/box_killer.png"
+  }
+}

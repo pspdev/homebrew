@@ -1,0 +1,29 @@
+{
+  "name": "Tibia for PSP",
+  "id": "tibia_for_psp",
+  "summary": "Homebrew game for PSP.",
+  "author": "LuMa",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.342",
+      "url": "https://archive.org/download/tibia-pspv-0.2.7z/TibiaPSP0.342.zip",
+      "published_at": "2009-01-01",
+      "size": 14052805,
+      "sha256": "f273083dc40b980154e7f102c2b5b6f098755278fb10f407c4137c7230bc9356",
+      "eboot_md5": "80a0a6864e11cd5f69d8ba215def326e"
+    }
+  ],
+  "tags": [
+    "NEO Spring Coding Compo 2009",
+    "NEO 2009 Summer Compo"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/tibia-pspv-0.2.7z/TIBI00979_00000.jpg"
+    ],
+    "icon": "icons/tibia_for_psp.png"
+  }
+}

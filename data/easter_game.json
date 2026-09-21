@@ -1,0 +1,26 @@
+{
+  "name": "Easter Game",
+  "id": "easter_game",
+  "summary": "Homebrew game for PSP.",
+  "author": "Dyspros",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/oster-game.-7z/Oster_Game.zip",
+      "published_at": "2007-04-09",
+      "size": 1409166,
+      "sha256": "a54ca7f58edbe0fb1e776dca753c51764823d6fe68410e049a78dc7d7f9da8ab",
+      "eboot_md5": "74d74b8e27a7a6791c86be804845b367"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/oster-game.-7z/__SC01597_00001.jpg"
+    ],
+    "icon": "icons/easter_game.png"
+  }
+}

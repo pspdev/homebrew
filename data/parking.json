@@ -1,0 +1,26 @@
+{
+  "name": "ParKing",
+  "id": "parking",
+  "summary": "Homebrew game for PSP.",
+  "author": "taeKy",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.3",
+      "url": "https://archive.org/download/par-king.-7z/ParKing.zip",
+      "published_at": "2008-07-15",
+      "size": 3190156,
+      "sha256": "b9f6b87d0fc9554c51c1f535ce9e0aebfab871cc0bde1a7fee85b0a2af123fde",
+      "eboot_md5": "89749e88b1bf5cfabf9c5a184b866449"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/par-king.-7z/PARK00684_00000.png"
+    ],
+    "icon": "icons/parking.png"
+  }
+}

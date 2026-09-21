@@ -1,0 +1,26 @@
+{
+  "name": "CS Combined Assault",
+  "id": "cs_combined_assault",
+  "summary": "3D homebrew shooter for PSP.",
+  "author": "Stealth Kill",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.6",
+      "url": "https://archive.org/download/counter-strike-ca.-7z/CounterStrikeCA.zip",
+      "published_at": "2007-01-01",
+      "size": 12071005,
+      "sha256": "fa7dfe30509b449b779e093a7d36b9ea86e43dfc4bbfe523be59a169ab249183",
+      "eboot_md5": "2886ebd504a9e36dbcf4ad8111d95f75"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/counter-strike-ca.-7z/COUN01494_00002.png"
+    ],
+    "icon": "icons/cs_combined_assault.png"
+  }
+}

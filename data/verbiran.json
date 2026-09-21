@@ -1,0 +1,26 @@
+{
+  "name": "Verbiran",
+  "id": "verbiran",
+  "summary": "Language-learning app for PSP.",
+  "author": "K\u00e9nium",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/verbiran-v-1.0.7z/Verbiran%20v1.0.zip",
+      "published_at": "2008-05-12",
+      "size": 1955726,
+      "sha256": "bac37d3dbb65b2bb6c86e1f8249bb86db29e1ec0a40742c27928f57df1e881ea",
+      "eboot_md5": "267837fffd1c38afec155ec90676491e"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/verbiran-v-1.0.7z/VERB01118_00000.png"
+    ],
+    "icon": "icons/verbiran.png"
+  }
+}

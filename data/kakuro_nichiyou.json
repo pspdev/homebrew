@@ -1,0 +1,28 @@
+{
+  "name": "Kakuro Nichiyou",
+  "id": "kakuro_nichiyou",
+  "summary": "Puzzle game for PSP.",
+  "author": "MK2k",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.3",
+      "url": "https://archive.org/download/kakuro-nichiyou-psp.-7z/kakuro_nichiyou_psp_1.3-mk2k.zip",
+      "published_at": "2009-01-01",
+      "size": 1989084,
+      "sha256": "98feecbc78769214d2b8eb469bfd011ffd0661d256d4cbb1191adbfdbc8607e1",
+      "eboot_md5": "8bc257c166ce8ed44e677d3abee51792"
+    }
+  ],
+  "tags": [
+    "NEO Spring Coding Compo 2008"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/kakuro-nichiyou-psp.-7z/KAKU02713_00000.png"
+    ],
+    "icon": "icons/kakuro_nichiyou.png"
+  }
+}

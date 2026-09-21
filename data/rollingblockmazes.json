@@ -1,0 +1,26 @@
+{
+  "name": "RollingBlockMazes",
+  "id": "rollingblockmazes",
+  "summary": "Homebrew game for PSP.",
+  "author": "xerpi",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Beta",
+      "url": "https://archive.org/download/rolling-blocks-mazes.-7z/RollingBlocksMazes.zip",
+      "published_at": "2011-01-01",
+      "size": 1236055,
+      "sha256": "d8ed62ab40c27e114d04b7c6cf67fa5680515964d294717e08d565dd87450f05",
+      "eboot_md5": "89c0fd4db5de01450620c1ef06294c02"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/rolling-blocks-mazes.-7z/ROLL01845_00000.jpg"
+    ],
+    "icon": "icons/rollingblockmazes.png"
+  }
+}

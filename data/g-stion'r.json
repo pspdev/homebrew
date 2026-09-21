@@ -1,0 +1,26 @@
+{
+  "name": "G-stion'R",
+  "id": "g-stion'r",
+  "summary": "Custom shell for PSP.",
+  "author": "fableboss1",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "5 Beta 3",
+      "url": "https://archive.org/download/g-stion-r-v-5.7z_202101/G-stion%27R%20V5.zip",
+      "published_at": "2008-12-01",
+      "size": 3963549,
+      "sha256": "d979007e92819ba5d956134abb70e7d88185fe379c7ae1d3251f13dccf02bc27",
+      "eboot_md5": "d21193d7695e9bd2dd06f11b14cb500d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/g-stion-r-v-5.7z_202101/G-ST00965_00000.png"
+    ],
+    "icon": "icons/g-stion'r.png"
+  }
+}

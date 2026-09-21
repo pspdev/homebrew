@@ -1,0 +1,26 @@
+{
+  "name": "RPS PSP",
+  "id": "rps_psp",
+  "summary": "Game of Rock, paper, scissors for PSP.",
+  "author": "Dreiundachzig",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/rps-psp-v-2.7z/RPS%20PSP%20v2.zip",
+      "published_at": "2009-07-28",
+      "size": 10723614,
+      "sha256": "30aeb16f4da755c25ce72b607812971aeddf3f9cc77e54acf779cae8dd30661b",
+      "eboot_md5": "7d2a7af373ec24395551431b72b2c125"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/rps-psp-v-2.7z/EBOO00649_00000.jpg"
+    ],
+    "icon": "icons/rps_psp.png"
+  }
+}

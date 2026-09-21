@@ -1,0 +1,26 @@
+{
+  "name": "MVSPSP",
+  "id": "mvspsp",
+  "summary": "NeoGeo MVS/AES emulator for PSP. Early builds are known as NGEPSP. Versions 2.3.1 and 2.2.5 were released at the same time. 2.3.1 is the development build, 2.2.5 the stable one.",
+  "author": "NJ",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "2.3.1",
+      "url": "https://archive.org/download/mvspsp-slim-2.3.5.7z/mvspsp_2.3.1_for_slim.zip",
+      "published_at": "2007-10-28",
+      "size": 921284,
+      "sha256": "29cb419822c37857b57ec8ef3a708d212dd034aac1e8269a29c957abad6242d4",
+      "eboot_md5": "a6e454545d62b8826f5e7988ffe4d81f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mvspsp-slim-2.3.5.7z/MVSP01972_00000.png"
+    ],
+    "icon": "icons/mvspsp.png"
+  }
+}

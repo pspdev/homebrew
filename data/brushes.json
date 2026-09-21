@@ -1,0 +1,26 @@
+{
+  "name": "Brushes",
+  "id": "brushes",
+  "summary": "Drawing app for PSP.",
+  "author": "Kenny Lindahl (HaxxBlaster)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/brushesv-1.5.7z/Old%20Versions/Brushesv1.5.zip",
+      "published_at": "2007-03-06",
+      "size": 1922146,
+      "sha256": "ca7fb79c1f6e03b4bdeb65f53d6ddfdd8a13fe1b28163209459a1dac0de0cba7",
+      "eboot_md5": "3ed70b90874b565f066a37f2c9485674"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/brushesv-1.5.7z/__SC01629_00001.jpg"
+    ],
+    "icon": "icons/brushes.png"
+  }
+}

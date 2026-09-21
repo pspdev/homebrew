@@ -1,0 +1,28 @@
+{
+  "name": "Electris",
+  "id": "electris",
+  "summary": "Puzzle game for PSP.",
+  "author": "Studio Kagato",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/electris.-7z/Old%20Versions/Electris.zip",
+      "published_at": "2006-08-30",
+      "size": 977085,
+      "sha256": "d6eba83499040fc42295440629c839423e69070a86e62e1fedf8395c93cb65b3",
+      "eboot_md5": "1388f1a6f3715cf18a9e99afd4e96cbe"
+    }
+  ],
+  "tags": [
+    "PSP NEWS & Lik Sang 15 Day Lua Coding Comp (2006)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/electris.-7z/20220105162536.png"
+    ],
+    "icon": "icons/electris.png"
+  }
+}

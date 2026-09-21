@@ -1,0 +1,26 @@
+{
+  "name": "SDL-Fighter",
+  "id": "sdl-fighter",
+  "summary": "Port of the 2D scrolling shooter created by Radoslaw Gniazdowski.",
+  "author": "Justin Sharrad",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.5",
+      "url": "https://archive.org/download/sdl-fighter.-7z/SDL-Fighter.zip",
+      "published_at": "2006-12-26",
+      "size": 5345133,
+      "sha256": "fce51321186a2b0bf10e15494062f660022d0fc3375390c27bf30ddd604f849d",
+      "eboot_md5": "8366cab3e5982090dd75754e7a73e694"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/sdl-fighter.-7z/SDL-00985_00000.jpg"
+    ],
+    "icon": "icons/sdl-fighter.png"
+  }
+}

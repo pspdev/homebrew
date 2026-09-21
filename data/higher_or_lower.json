@@ -1,0 +1,28 @@
+{
+  "name": "Higher or Lower",
+  "id": "higher_or_lower",
+  "summary": "Card game for PSP.",
+  "author": "Guyfawkes",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/high-01409-00000/HigherOrLower-PSP-v01.zip",
+      "published_at": "2005-06-02",
+      "size": 108263,
+      "sha256": "45c7bcb90c1173e32f29dd340b07809ae1b2c84c66cd40df18a2d6efda97e72a",
+      "eboot_md5": "76ed0a9d95a6e81e305066cd0fa4fb21"
+    }
+  ],
+  "tags": [
+    "GBAX 2005 Coding Competition"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/high-01409-00000/HIGH01409_00000.png"
+    ],
+    "icon": "icons/higher_or_lower.png"
+  }
+}

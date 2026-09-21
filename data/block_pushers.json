@@ -1,0 +1,26 @@
+{
+  "name": "Block Pushers",
+  "id": "block_pushers",
+  "summary": "Homebrew game for PSP. Also known as Block Poppers.",
+  "author": "Team Mini Bombers",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Alpha 1.0",
+      "url": "https://archive.org/download/tmb-productionyo.-7z/TMB_Productionyo.zip",
+      "published_at": "2007-11-28",
+      "size": 2585561,
+      "sha256": "c60042735f87672e3603497c7535a0413cbfae476347678143da50421dbc01be",
+      "eboot_md5": "08e8a6d0bc5dc5f6ed026c1c8e4c2f41"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/tmb-productionyo.-7z/LUAP01292_00001.png"
+    ],
+    "icon": "icons/block_pushers.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "MPH Firmware Launcher",
+  "id": "mph_firmware_launcher",
+  "summary": "Homebrew app for PSP.",
+  "author": "MPH",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.4.0",
+      "url": "https://archive.org/download/mphfl140.7z/mphfl140.zip",
+      "published_at": "2006-02-11",
+      "size": 1247542,
+      "sha256": "d960e7e4fa36e55298e4e34316cf826d59b2acd2856e3d00ca3c243c63dfef91",
+      "eboot_md5": "a3496e34424ed75c3f2c4762dde445ae"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mphfl140.7z/MPHF00684_00000.png"
+    ],
+    "icon": "icons/mph_firmware_launcher.png"
+  }
+}

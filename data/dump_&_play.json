@@ -1,0 +1,26 @@
+{
+  "name": "Dump & Play",
+  "id": "dump_&_play",
+  "summary": "Homebrew app for PSP.",
+  "author": "InSoft",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0C343",
+      "url": "https://archive.org/download/dump-play.-7z/Dump%20%26%20Play.zip",
+      "published_at": "2009-05-18",
+      "size": 264055,
+      "sha256": "4a3d4ca6f81bfa6a6df26402d32026bc747dee7531fc5f11948454f919e36952",
+      "eboot_md5": "318d1a546ff48bb3c0cd3c36f1fa3f50"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/dump-play.-7z/20210606214646.png"
+    ],
+    "icon": "icons/dump_&_play.png"
+  }
+}

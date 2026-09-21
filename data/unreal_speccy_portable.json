@@ -1,0 +1,26 @@
+{
+  "name": "Unreal Speccy Portable",
+  "id": "unreal_speccy_portable",
+  "summary": "ZX-Spectrum emulator for PSP.",
+  "author": "Andrey Dj",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.0.62",
+      "url": "https://archive.org/download/usp_0.0.62.7z/usp_0.0.62.zip",
+      "published_at": "2015-04-05",
+      "size": 274621,
+      "sha256": "3b0098f61fde6a667d10d2f3a498e9a98f3dfbd6e0dc76ab84d122fe0582ee86",
+      "eboot_md5": "15b07c34671f0151031d49a843849330"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/usp_0.0.62.7z/USP_00731_00000.jpg"
+    ],
+    "icon": "icons/unreal_speccy_portable.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Super Mini Yoshi",
+  "id": "super_mini_yoshi",
+  "summary": "Mod of the Super Mini Mario homebrew game.",
+  "author": "Safari Al",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "3",
+      "url": "https://archive.org/download/smy.-7z/SMY.zip",
+      "published_at": "2007-01-01",
+      "size": 246025,
+      "sha256": "be6f91acac6ad023f462b55b4b4e64d31d8733fd6dcbbe6d22ba51ee78ca6eb7",
+      "eboot_md5": "0fd06532f59f3567c1fdccb71b7a5570"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/smy.-7z/SMYH00249_00000.jpg"
+    ],
+    "icon": "icons/super_mini_yoshi.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PSPMAME Namco",
+  "id": "pspmame_namco",
+  "summary": "MAME emulator for PSP, based on MAME 0.97. Claims support for 93 games. A compatibility list for an earlier version is available (in Japanese).",
+  "author": "TMK",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.97 r0.6",
+      "url": "https://archive.org/download/namco.7z/namco.zip",
+      "published_at": "2010-03-02",
+      "size": 1271137,
+      "sha256": "1f6567db97bd2a2f952cf4a1c140bbd13341acbdc5f1a1ee18665ef711edf4b0",
+      "eboot_md5": "9635bbc388e5c97d247401041972d793"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/namco.7z/NAMC00526_00000.jpg"
+    ],
+    "icon": "icons/pspmame_namco.png"
+  }
+}

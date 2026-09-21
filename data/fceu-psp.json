@@ -1,0 +1,26 @@
+{
+  "name": "FCEU-PSP",
+  "id": "fceu-psp",
+  "summary": "NES emulator for PSP.",
+  "author": "Bruno Freitas (boootsector)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.3",
+      "url": "https://archive.org/download/fceu-psp.7z/fceu-psp.zip",
+      "published_at": "2009-11-20",
+      "size": 437969,
+      "sha256": "d857306ff7fdb11db2072ff0a942ec8ded4cd337335f341fcf8c14aef92cb623",
+      "eboot_md5": "22805ed9c2dc0dfde21e193fb8fd15d6"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/fceu-psp.7z/EBOO00649_00000.jpg"
+    ],
+    "icon": "icons/fceu-psp.png"
+  }
+}

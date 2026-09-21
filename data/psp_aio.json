@@ -1,0 +1,26 @@
+{
+  "name": "PSP AiO",
+  "id": "psp_aio",
+  "summary": "Homebrew app for PSP.",
+  "author": "Team SXL",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "3.0",
+      "url": "https://archive.org/download/pspai-o-3.7z/PSPAiO3.zip",
+      "published_at": "2010-04-30",
+      "size": 13050914,
+      "sha256": "b9e8ae1a493bf077d7abf3d426bc2ed492a88ad7317d9afad42406eb67534502",
+      "eboot_md5": "64c467260bcf181d5d08e7ac82b61551"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspai-o-3.7z/PSPA00543_00000.jpg"
+    ],
+    "icon": "icons/psp_aio.png"
+  }
+}

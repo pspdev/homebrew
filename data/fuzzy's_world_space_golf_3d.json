@@ -1,0 +1,26 @@
+{
+  "name": "Fuzzy's World Space Golf 3D",
+  "id": "fuzzy's_world_space_golf_3d",
+  "summary": "3D minigolf game for PSP.",
+  "author": "Mills",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/fuzzys-world.-7z/Fuzzy%27s%20World.zip",
+      "published_at": "2012-06-18",
+      "size": 61737829,
+      "sha256": "c08eed2176a817ed8db9ba73d45604c85da63046c1c0c36a28f48b63a63fbbf3",
+      "eboot_md5": "900dc88e64fb0631da94e2dd2868a910"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/fuzzys-world.-7z/FUZZ01258_00000.png"
+    ],
+    "icon": "icons/fuzzy's_world_space_golf_3d.png"
+  }
+}

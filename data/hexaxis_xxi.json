@@ -1,0 +1,28 @@
+{
+  "name": "Hexaxis XXI",
+  "id": "hexaxis_xxi",
+  "summary": "Dice-stacking game for PSP. Won first place at the NEO Spring Coding Competition 2007.",
+  "author": "Tim Hackett (Darksoft)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Update 9",
+      "url": "https://archive.org/download/hexaxis-xxi.-7z/Old%20Versions/HexaxisUpdate8.zip",
+      "published_at": "2008-01-01",
+      "size": 14557508,
+      "sha256": "f82507c5e4e77fda5ab22e21a43c6b00bfa2088b492713e42a5298cee6861121",
+      "eboot_md5": "74f4429a11073769c0ec40fb35725701"
+    }
+  ],
+  "tags": [
+    "NEO Spring Compo 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/hexaxis-xxi.-7z/20220429000520.png"
+    ],
+    "icon": "icons/hexaxis_xxi.png"
+  }
+}

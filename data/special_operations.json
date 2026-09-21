@@ -1,0 +1,26 @@
+{
+  "name": "Special Operations",
+  "id": "special_operations",
+  "summary": "Homebrew game for PSP.",
+  "author": "Nino van Hooff (The Underminer)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/spec-ops-for-fw-150.7z/SpecOps%20for%20fw150.zip",
+      "published_at": "2006-10-30",
+      "size": 4215373,
+      "sha256": "f8c7b580b30f0bab9c749aa12183f4fca2ff09e8b8ceeb3c18ecbf30d7a2387c",
+      "eboot_md5": "a0cfe1780a7f6c3816a760ecad8f025c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/spec-ops-for-fw-150.7z/pic_0001.png"
+    ],
+    "icon": "icons/special_operations.png"
+  }
+}

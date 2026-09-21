@@ -1,0 +1,28 @@
+{
+  "name": "Go!Go!Goo!",
+  "id": "go!go!goo!",
+  "summary": "Homebrew game for PSP.",
+  "author": "BennyRebirth, Dalk",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.7 Beta",
+      "url": "https://archive.org/download/go-go-goo-cfv-07.7z/GoGoGooCFv07.zip",
+      "published_at": "2007-03-23",
+      "size": 9212470,
+      "sha256": "df95af3f4eb1974a80d6f5da0c5e07be338229d6079ac89a626e254010cac982",
+      "eboot_md5": "125c6480d903c2a77c73f610da6bb78d"
+    }
+  ],
+  "tags": [
+    "NEO Spring Compo 2007"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/go-go-goo-cfv-07.7z/GOGO00657_00000.jpg"
+    ],
+    "icon": "icons/go!go!goo!.png"
+  }
+}

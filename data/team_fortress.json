@@ -1,0 +1,28 @@
+{
+  "name": "Team Fortress",
+  "id": "team_fortress",
+  "summary": "Team Fortress mod on Quake port for PSP.\u00a0\u00a0 The PAK0.PAK and PAK1.PAK files from the full version of Quake are required. Copy both files to the ID1 folder. Note: controls for this mod are quite complicated. Check out the Readme for details.",
+  "author": "CyberDemon",
+  "ai_used": false,
+  "requires_additional_files": true,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.3",
+      "url": "https://archive.org/download/team-fortress-1.3.7z/TeamFortress1.3.zip",
+      "published_at": "2008-10-28",
+      "size": 56373815,
+      "sha256": "eed2194ffc69cd610f641c5d5b2ef01cb1dd27b5b815c23aa71f8452752eb49b",
+      "eboot_md5": "fb563c3da783179f45ad9b397ba5b80f"
+    }
+  ],
+  "tags": [
+    "game data required"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/team-fortress-1.3.7z/TEAM01393_00002.png"
+    ],
+    "icon": "icons/team_fortress.png"
+  }
+}

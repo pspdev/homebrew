@@ -1,0 +1,26 @@
+{
+  "name": "Learn Words",
+  "id": "learn_words",
+  "summary": "Homebrew app for PSP.",
+  "author": "Arobase",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.9a",
+      "url": "https://archive.org/download/learn_words.7z/learn_words.zip",
+      "published_at": "2006-01-15",
+      "size": 3419287,
+      "sha256": "985c6335ce07fbb7de5f000a91f547d3b844a3a10ac8fd03799a600f3d1ee006",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/learn_words.7z/LUAP01126_00000.png"
+    ],
+    "icon": "icons/learn_words.png"
+  }
+}

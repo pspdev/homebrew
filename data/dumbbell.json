@@ -1,0 +1,26 @@
+{
+  "name": "Dumbbell",
+  "id": "dumbbell",
+  "summary": "Snake for PSP.",
+  "author": "Dark Killer",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/dumbbell.7z/dumbbell.zip",
+      "published_at": "2006-01-16",
+      "size": 110583,
+      "sha256": "d8942083d3368b1d35dde79876f4457da6e5ba6b92a8804e61e99ed59ec73ff1",
+      "eboot_md5": "4799c05dd2d3e1b73a48b62dc189ee14"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/dumbbell.7z/DUMB00839_00000.jpg"
+    ],
+    "icon": "icons/dumbbell.png"
+  }
+}

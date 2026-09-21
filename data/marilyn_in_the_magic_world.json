@@ -1,0 +1,26 @@
+{
+  "name": "Marilyn: In the Magic World",
+  "id": "marilyn_in_the_magic_world",
+  "summary": "PSP version of the PlayStation 1 homebrew game.",
+  "author": "Meido-Tek Productions",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.12A",
+      "url": "https://archive.org/download/marilyn-in-the-magic-world.-7z/Marilyn%20-%20In%20the%20Magic%20World.zip",
+      "published_at": "2014-01-01",
+      "size": 30231268,
+      "sha256": "de13548800768e3d4cadc8c668f43690f15f54c59b78fa325ebd76ab83935e56",
+      "eboot_md5": "0746bd9aaf512e4aa6bf2614ae1b81ec"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/marilyn-in-the-magic-world.-7z/pic_0006.png"
+    ],
+    "icon": "icons/marilyn_in_the_magic_world.png"
+  }
+}

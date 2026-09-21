@@ -1,0 +1,26 @@
+{
+  "name": "ONEMenu",
+  "id": "onemenu",
+  "summary": "Homebrew launcher for PSP.",
+  "author": "ONELua Team",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "Final",
+      "url": "https://archive.org/download/onemenu.-vfinal.-7z/ONEMenu.VFinal.zip",
+      "published_at": "2017-03-01",
+      "size": 2627655,
+      "sha256": "04bb9f4454d373c9d9ffb6d4569ebf1c5bc111670a3e25d8a624c8c772d4cb8d",
+      "eboot_md5": "b3f5a4f0d9c9dd35aebfb018eefa7ce6"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/onemenu.-vfinal.-7z/pic_0000.png"
+    ],
+    "icon": "icons/onemenu.png"
+  }
+}

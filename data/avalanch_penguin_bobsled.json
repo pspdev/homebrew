@@ -1,0 +1,28 @@
+{
+  "name": "Avalanch Penguin Bobsled",
+  "id": "avalanch_penguin_bobsled",
+  "summary": "Homebrew game for PSP.",
+  "author": "Team_Matrix",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.9",
+      "url": "https://archive.org/download/peng-bob.-7z/PengBob.zip",
+      "published_at": "2006-05-18",
+      "size": 2919427,
+      "sha256": "5aecb63b99ac1c31ffc79f84009d012dbb93e22d4086d07d3fa2cac0586ce69c",
+      "eboot_md5": "1388f1a6f3715cf18a9e99afd4e96cbe"
+    }
+  ],
+  "tags": [
+    "PSP NEWS & Lik Sang 15 Day Lua Coding Comp (2006)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/peng-bob.-7z/PENG00669_00000.jpg"
+    ],
+    "icon": "icons/avalanch_penguin_bobsled.png"
+  }
+}

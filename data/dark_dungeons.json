@@ -1,0 +1,26 @@
+{
+  "name": "Dark Dungeons",
+  "id": "dark_dungeons",
+  "summary": "3D shooter homebrew running on the Dungeons engine.",
+  "author": "Be3f",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.6",
+      "url": "https://archive.org/download/dark-dungeons_202210/DUNGEONS.zip",
+      "published_at": "2006-12-03",
+      "size": 13488479,
+      "sha256": "e634cff32c021d5847b3b6ebaa16493e621a687d4298bfd8a4f63bfd71f69100",
+      "eboot_md5": "f1638fa4fc44c4d70b8351669ed0ade2"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/dark-dungeons_202210/DUNG00611_00001.png"
+    ],
+    "icon": "icons/dark_dungeons.png"
+  }
+}

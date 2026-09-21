@@ -1,0 +1,28 @@
+{
+  "name": "DORAKZ",
+  "id": "dorakz",
+  "summary": "Homebrew app for PSP.",
+  "author": "Damian Bevan",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.5L Stable",
+      "url": "https://archive.org/download/dorakz.-7z/Old%20Versions/dorakz-1.5k.zip",
+      "published_at": "2012-08-21",
+      "size": 3419583,
+      "sha256": "f1f562aac96f5d27968eb000fdfd07b3e17b71d4b4bb7d9dd0906c5c059f4066",
+      "eboot_md5": "2417d8828d1f62b5dffd6a656cde4e8c"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/dorakz.-7z/20210623210222.png"
+    ],
+    "icon": "icons/dorakz.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Dodgin' Diamond II",
+  "id": "dodgin'_diamond_ii",
+  "summary": "PSP version of the game.",
+  "author": "Denis Televnyy (Deniska)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.5",
+      "url": "https://archive.org/download/dd2.7z/dd2.zip",
+      "published_at": "2005-11-27",
+      "size": 860184,
+      "sha256": "77995046cdd3afe81c549c087ba9f78745b9104a1f2d3f59c7acb088af73204e",
+      "eboot_md5": "21bb4cc9a579921fc3ac4eae8f31f0e7"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/dd2.7z/DD2H00250_00000.jpg"
+    ],
+    "icon": "icons/dodgin'_diamond_ii.png"
+  }
+}

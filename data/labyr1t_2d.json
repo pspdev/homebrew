@@ -1,0 +1,26 @@
+{
+  "name": "Labyr1t 2D",
+  "id": "labyr1t_2d",
+  "summary": "Homebrew game for PSP.",
+  "author": "Franco",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/labyr-1t-2-d.-7z/Labyr1t%202D.zip",
+      "published_at": "2009-07-21",
+      "size": 1230988,
+      "sha256": "041b04e4a63190a6d052aa34101c8ca990411e02c7c9117e4a15c1a7f9a19902",
+      "eboot_md5": "440efcc3fb3b95d6d6b3f6ce9520ebe7"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/labyr-1t-2-d.-7z/LABY00821_00000.jpg"
+    ],
+    "icon": "icons/labyr1t_2d.png"
+  }
+}

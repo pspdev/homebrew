@@ -1,0 +1,26 @@
+{
+  "name": "PiPaTi Penguin",
+  "id": "pipati_penguin",
+  "summary": "Game of rock, paper, scissors for PSP.",
+  "author": "Boujack",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/pi-pa-ti-penguin-v-2.0.7z/PiPaTi%20Penguin%20V2.0.zip",
+      "published_at": "2010-02-21",
+      "size": 8375497,
+      "sha256": "714c8f821fb4339e2e2c0e13ed97d2d9af4e9487c0b3bfd0caff92e8ef44a7c5",
+      "eboot_md5": "087b12262fe73fcf4342406d06c07642"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pi-pa-ti-penguin-v-2.0.7z/PIPA01571_00000.jpg"
+    ],
+    "icon": "icons/pipati_penguin.png"
+  }
+}

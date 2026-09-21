@@ -1,0 +1,28 @@
+{
+  "name": "PSP IR Frotz",
+  "id": "psp_ir_frotz",
+  "summary": "Port of the dumb Frotz to the PSP. Works only with IR keyboards.",
+  "author": "KangKengKingKong",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.6",
+      "url": "https://archive.org/download/pspIRFrotz.7z/pspIRFrotz.zip",
+      "published_at": "2007-02-27",
+      "size": 361452,
+      "sha256": "6fdbdc7726dad5b0d7663f127d8ba50365509dea27d0e9bf1cc3880e2c9f8c74",
+      "eboot_md5": "0a8814dda7e303cb63bf809b709e9f99"
+    }
+  ],
+  "tags": [
+    "IrDA"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspIRFrotz.7z/PSPI01027_00000.jpg"
+    ],
+    "icon": "icons/psp_ir_frotz.png"
+  }
+}

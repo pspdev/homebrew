@@ -1,0 +1,26 @@
+{
+  "name": "PMP VLC Player",
+  "id": "pmp_vlc_player",
+  "summary": "Homebrew which plays streaming media with VLC Player.",
+  "author": "Team P86, JockyW",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/pmpvlc-11-m-33-p-86.7z/PMPVLC11_M33_P86.zip",
+      "published_at": "2008-11-21",
+      "size": 12710744,
+      "sha256": "0bb28a23f9e98be12405d63401df1abaeb629323bbed82507f3ea79462751b1b",
+      "eboot_md5": "7f46a6c75502af6ba1f0f14ae000f26f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pmpvlc-11-m-33-p-86.7z/PMPV01123_00000.jpg"
+    ],
+    "icon": "icons/pmp_vlc_player.png"
+  }
+}

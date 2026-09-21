@@ -1,0 +1,26 @@
+{
+  "name": "Powernoid",
+  "id": "powernoid",
+  "summary": "Breakout-like game for PSP.",
+  "author": "Brek Martin (Art)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "4e",
+      "url": "https://archive.org/download/powernoid.-7z/PowernoidV4e.zip",
+      "published_at": "2009-02-07",
+      "size": 1295929,
+      "sha256": "c2711a1bea52566743d58423d9b988b55eab08b677eff6f8f52a2d30ba9bd33d",
+      "eboot_md5": "2587c1db2d1ba5080c18bd6ece12e488"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/powernoid.-7z/POWE01190_00001.png"
+    ],
+    "icon": "icons/powernoid.png"
+  }
+}

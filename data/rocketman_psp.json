@@ -1,0 +1,26 @@
+{
+  "name": "RocketMan PSP",
+  "id": "rocketman_psp",
+  "summary": "Play as renowned singer Elton John and fight against the North Korean military while trying not to blow yourself up in the process!",
+  "author": "Francis Williams",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/rocket-man-1.0/RocketMan1.0.zip",
+      "published_at": "2022-06-21",
+      "size": 1659306,
+      "sha256": "2767dc0f981ce226cddf0090dcacdb78c61f45e17770e5378d12e92d53686a4c",
+      "eboot_md5": "1602add8a3ee485228121a99bb4b421b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/rocket-man-1.0/ROCK01043_00001.png"
+    ],
+    "icon": "icons/rocketman_psp.png"
+  }
+}

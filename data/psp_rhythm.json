@@ -1,0 +1,26 @@
+{
+  "name": "PSP Rhythm",
+  "id": "psp_rhythm",
+  "summary": "Homebrew audio sequencer for PSP.",
+  "author": "Billy Iturzaeta, Louie Iturzaeta",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "8.0",
+      "url": "https://archive.org/download/rhythm-8.7z/Rhythm8.zip",
+      "published_at": "2008-06-30",
+      "size": 29436031,
+      "sha256": "b4d0fecb210d3a96c971b116aa00c1d8a6b22ae4099f41165e6bf24640e62bd0",
+      "eboot_md5": "0a897e1fdde321a8e1e4d16e4be54cdb"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/rhythm-8.7z/RHYT00692_00000.jpg"
+    ],
+    "icon": "icons/psp_rhythm.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PSP Strife",
+  "id": "psp_strife",
+  "summary": "PSP port of the game. Shareware version included.",
+  "author": "Nitr8",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "R5",
+      "url": "https://archive.org/download/psp-strife.7z/psp-strife.zip",
+      "published_at": "2016-01-01",
+      "size": 9097893,
+      "sha256": "e6c12d136d11f31d6032bf4cb0f4b8cf66861a659028a74108cc23d092cd21a8",
+      "eboot_md5": "915774e75369d7573b677d8ff099f55b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-strife.7z/PSP-01037_00000.png"
+    ],
+    "icon": "icons/psp_strife.png"
+  }
+}

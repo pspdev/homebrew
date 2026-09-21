@@ -1,0 +1,28 @@
+{
+  "name": "PSP Reversi",
+  "id": "psp_reversi",
+  "summary": "Reversi for PSP.",
+  "author": "Joris Vergeer (jojojoris)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/pspreversi-v-1.0.7z/PSPReversiV1.0.zip",
+      "published_at": "2009-01-01",
+      "size": 985196,
+      "sha256": "553bd9a63c7c55bdeb2be2bcf5db1a44f2c53304116653f69fc16c2ca82592ab",
+      "eboot_md5": "0680cd0fe4b3da975e00351bb290662e"
+    }
+  ],
+  "tags": [
+    "NEO Spring Coding Compo 2009"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspreversi-v-1.0.7z/PSPR01208_00000.jpg"
+    ],
+    "icon": "icons/psp_reversi.png"
+  }
+}

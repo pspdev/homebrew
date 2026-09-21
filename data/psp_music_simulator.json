@@ -1,0 +1,26 @@
+{
+  "name": "PSP Music Simulator",
+  "id": "psp_music_simulator",
+  "summary": "Virtual guitar for PSP. Early builds known as PSP Guitar Tuner.",
+  "author": "ktix007",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/pspms.-7z/PSPMS.zip",
+      "published_at": "2008-10-10",
+      "size": 2378873,
+      "sha256": "868fd835630d2e2ebaa6fa317897b23d61a300dd56caf907bf6d673336acfe0b",
+      "eboot_md5": "65f98789efed869cdd3d9441c023a440"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspms.-7z/PSPM00403_00001.jpg"
+    ],
+    "icon": "icons/psp_music_simulator.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Sonymon",
+  "id": "sonymon",
+  "summary": "Pokemon parody game for PSP.",
+  "author": "V@ughn, FouadtjuhMaster",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.4",
+      "url": "https://archive.org/download/sonymon.-7z/SONYMON.zip",
+      "published_at": "2013-04-30",
+      "size": 8204089,
+      "sha256": "5f1b2156bafca3454cf1607c096fd454c256127be9be1262b898629b2fd8c5da",
+      "eboot_md5": "60f260578e6073fbdc3afc594e9ad000"
+    }
+  ],
+  "tags": [
+    "PSP Homebrew Game Competition 2013"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/sonymon.-7z/SONY00563_00000.png"
+    ],
+    "icon": "icons/sonymon.png"
+  }
+}

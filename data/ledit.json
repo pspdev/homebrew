@@ -1,0 +1,26 @@
+{
+  "name": "Ledit",
+  "id": "ledit",
+  "summary": "Text editor for PSP.",
+  "author": "NEKERAFA",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/ledit-1.0/Ledit%201.0.zip",
+      "published_at": "2014-11-01",
+      "size": 1646266,
+      "sha256": "e0669780692645e194ba63375fc8e3f8a50c2d235f10efd4e4d29bc35077619f",
+      "eboot_md5": "2ece0a972a41e55163402f7513f3abe9"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ledit-1.0/20211229165839.png"
+    ],
+    "icon": "icons/ledit.png"
+  }
+}

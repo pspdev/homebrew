@@ -1,0 +1,28 @@
+{
+  "name": "MMSPlus",
+  "id": "mmsplus",
+  "summary": "Sega Master System and Game Gear emulator.",
+  "author": "Florian Br\u00f6nnimann (Brunni)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/mmsplus.-7z/MMSPlus.zip",
+      "published_at": "2006-10-07",
+      "size": 2885785,
+      "sha256": "88d1958e6fa0f858d12a90bce3c226817b1687bb80d2c76e40776740130992ff",
+      "eboot_md5": "c2e94ee6627ec886d749da6523e8e024"
+    }
+  ],
+  "tags": [
+    "NEO Summer Coding Compo 2006"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mmsplus.-7z/MMSP00657_00000.jpg"
+    ],
+    "icon": "icons/mmsplus.png"
+  }
+}

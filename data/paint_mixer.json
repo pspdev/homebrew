@@ -1,0 +1,28 @@
+{
+  "name": "Paint Mixer",
+  "id": "paint_mixer",
+  "summary": "Drawing homebrew for PSP",
+  "author": "Germano Fabio (Gefa)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.6.0",
+      "url": "https://archive.org/download/paint-mixer-v-2.3.0.7z/PaintMIXER%20v2.6.0.zip",
+      "published_at": "2008-08-12",
+      "size": 2120349,
+      "sha256": "d224c2b62273eab89880f82d9ed8b96a751bc500a87ae86abf7a3dd2407b61b8",
+      "eboot_md5": "6542c063f84e1c182e4676359ba3360a"
+    }
+  ],
+  "tags": [
+    "NEO 2008 Summer Compo"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/paint-mixer-v-2.3.0.7z/20210606215056.png"
+    ],
+    "icon": "icons/paint_mixer.png"
+  }
+}

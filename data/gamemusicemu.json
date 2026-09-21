@@ -1,0 +1,26 @@
+{
+  "name": "GameMusicEmu",
+  "id": "gamemusicemu",
+  "summary": "Video game music player for PSP.",
+  "author": "theHobbit",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/gmefor-pspv-0.1.zm-9.7z/GMEforPSPv0.1.zm9.zip",
+      "published_at": "2006-07-05",
+      "size": 2144946,
+      "sha256": "53cece30cae28cdfe8ccd6f4eb1145f6e5459308d39d677df5ab9f63c24c926a",
+      "eboot_md5": "06aa742cb8e26d352b045aa3f4b7bb3f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/gmefor-pspv-0.1.zm-9.7z/GMEF01382_00000.jpg"
+    ],
+    "icon": "icons/gamemusicemu.png"
+  }
+}

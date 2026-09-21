@@ -1,0 +1,26 @@
+{
+  "name": "Console Shooter",
+  "id": "console_shooter",
+  "summary": "Shoot other consoles with your PSP.",
+  "author": "alexi02",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/console-shooter-v-0-1.7z/Console%20Shooter%20v0-1.zip",
+      "published_at": "2005-09-29",
+      "size": 821810,
+      "sha256": "ec18a7def53e48c847c0c60cb057141391aa14b145e0b797b550d5af0b673c99",
+      "eboot_md5": "e4a0e98d880bdd325c7b89037e213332"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/console-shooter-v-0-1.7z/CONS01787_00000.jpg"
+    ],
+    "icon": "icons/console_shooter.png"
+  }
+}

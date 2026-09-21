@@ -1,0 +1,26 @@
+{
+  "name": "DOSBox",
+  "id": "dosbox",
+  "summary": "X86 emulator for PSP. A usage guide and additional resources are available at https://github.com/PSP-Archive/dosbox_psp/wiki .",
+  "author": "crazyc",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.72-psp-0.0.5",
+      "url": "https://archive.org/download/dosbox-psp.-7z/Old%20Versions/pspdosbox0.7.zip",
+      "published_at": "2020-12-28",
+      "size": 657096,
+      "sha256": "39735df04e224c71a66a30d9645298664e1dae7f7178d3fa0a699e447ad14803",
+      "eboot_md5": "02f68214f0e12159635e0dd6c9edae65"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/dosbox-psp.-7z/DOSB01059_00000.jpg"
+    ],
+    "icon": "icons/dosbox.png"
+  }
+}

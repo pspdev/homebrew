@@ -1,0 +1,26 @@
+{
+  "name": "Trogdor Reburninated",
+  "id": "trogdor_reburninated",
+  "summary": "Enhanced recreation of the Homestar Runner Flash game, Trogdor.",
+  "author": "Mips96",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/trogdor-rb/Trogdor-Reburninated-v1.1-psp.zip",
+      "published_at": "2022-11-16",
+      "size": 9076294,
+      "sha256": "fad36aaddd51564300c2a8214aa77bd5a1b23285f36a12d82e2ead8f06a27ab3",
+      "eboot_md5": "e68dd32f5902b9fb6ad63f690005ee02"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/trogdor-rb/TROG00930_00000.png"
+    ],
+    "icon": "icons/trogdor_reburninated.png"
+  }
+}

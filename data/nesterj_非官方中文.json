@@ -1,0 +1,26 @@
+{
+  "name": "NesterJ \u975e\u5b98\u65b9\u4e2d\u6587",
+  "id": "nesterj_\u975e\u5b98\u65b9\u4e2d\u6587",
+  "summary": "Chinese-language version of the NES Emulator for PSP.",
+  "author": "tensai_wang",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.12 \u52a0\u5f3a\u7248 0.81",
+      "url": "https://archive.org/download/nester-p.-7z/NesterP.zip",
+      "published_at": "2011-09-11",
+      "size": 1423270,
+      "sha256": "435d2db7300880416eef4bedbcc7141f2845793a0d12fdcf8e25f6a1dfc4bd9e",
+      "eboot_md5": "969fd05135cd7eac3c69fac6b18f9e45"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/nester-p.-7z/NEST00705_00000.png"
+    ],
+    "icon": "icons/nesterj_\u975e\u5b98\u65b9\u4e2d\u6587.png"
+  }
+}

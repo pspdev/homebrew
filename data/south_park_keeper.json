@@ -1,0 +1,26 @@
+{
+  "name": "South Park Keeper",
+  "id": "south_park_keeper",
+  "summary": "Puzzle game for PSP.",
+  "author": "N64Francois",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/south-park-keeper/SouthPark%20Keeper.zip",
+      "published_at": "2009-01-01",
+      "size": 8636036,
+      "sha256": "072ae7eeb016c94385f78107dd98501ffc9f47dc8ee04c7d3acb9d8dce480aef",
+      "eboot_md5": "2a6a26f45a1db4cdcabecac84651a859"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/south-park-keeper/SOUT01565_00000.png"
+    ],
+    "icon": "icons/south_park_keeper.png"
+  }
+}

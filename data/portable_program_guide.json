@@ -1,0 +1,26 @@
+{
+  "name": "Portable Program Guide",
+  "id": "portable_program_guide",
+  "summary": "TV guide app for PSP.",
+  "author": "Sebastien Delestaing, Cladil",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.22",
+      "url": "https://archive.org/download/ppg-022.7z/PPG022.zip",
+      "published_at": "2008-04-13",
+      "size": 1302379,
+      "sha256": "cd86590b4b119bf21b15fdb61acb09bac1d311b6e948712f5dbc76fdfbf4b646",
+      "eboot_md5": "907dbad32820144ba5f3bb5b17129792"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ppg-022.7z/PPG000379_00001.png"
+    ],
+    "icon": "icons/portable_program_guide.png"
+  }
+}

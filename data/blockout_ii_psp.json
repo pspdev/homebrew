@@ -1,0 +1,26 @@
+{
+  "name": "BlockOut II PSP",
+  "id": "blockout_ii_psp",
+  "summary": "3D puzzle game for PSP.",
+  "author": "Marcin Klimczewski",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/bloc-01044-00000/BlockOut_II.zip",
+      "published_at": "2016-07-11",
+      "size": 4125728,
+      "sha256": "ae75b2e4c6897e156ef4ab021a78ff0b581a1802ab93d6e7b8f3b5c7deac61e2",
+      "eboot_md5": "ba90e1dd477c9058b1191b05968945c7"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/bloc-01044-00000/BLOC01044_00000.jpg"
+    ],
+    "icon": "icons/blockout_ii_psp.png"
+  }
+}

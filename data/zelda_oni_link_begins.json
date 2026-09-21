@@ -1,0 +1,26 @@
+{
+  "name": "Zelda: Oni Link Begins",
+  "id": "zelda_oni_link_begins",
+  "summary": "PSP version of the fan game by Vincent Jouillat.",
+  "author": "Randall Spychalla",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Beta",
+      "url": "https://archive.org/download/zelda-olb-v-1.7z/Zelda_OLB_V1.zip",
+      "published_at": "2011-03-03",
+      "size": 17509530,
+      "sha256": "60de141f3036a33071d303685cac0dee8e8f4be64f1e46ee74d19009fe1f5437",
+      "eboot_md5": "c1c4a560d4dc1a3d7565230a7ec01fce"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/zelda-olb-v-1.7z/ZELD01042_00001.png"
+    ],
+    "icon": "icons/zelda_oni_link_begins.png"
+  }
+}

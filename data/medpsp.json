@@ -1,0 +1,26 @@
+{
+  "name": "MedPSP",
+  "id": "medpsp",
+  "summary": "Medical app for PSP.",
+  "author": "Harpet",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/medpsp.-7z/MEDPSP.zip",
+      "published_at": "2009-01-01",
+      "size": 911696,
+      "sha256": "600c710e37c05b11de7146352802e094e5df7fc784b90be9b39bb1dc4c4ea820",
+      "eboot_md5": "6cca2a64bf2f79d76fea7054110b81b7"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/medpsp.-7z/MEDP00457_00000.jpg"
+    ],
+    "icon": "icons/medpsp.png"
+  }
+}

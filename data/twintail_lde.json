@@ -1,0 +1,26 @@
+{
+  "name": "TwinTail LDE",
+  "id": "twintail_lde",
+  "summary": "Lua integrated development environment for PSP.",
+  "author": "ema",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.1",
+      "url": "https://archive.org/download/ttlde_2_1.7z/ttlde_2_1.zip",
+      "published_at": "2006-01-21",
+      "size": 602681,
+      "sha256": "33ac4d3858aea81cac9926b51fb8902a092780a9f33a1fb85cfbecff5bfd44fe",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ttlde_2_1.7z/LUAP01126_00000.jpg"
+    ],
+    "icon": "icons/twintail_lde.png"
+  }
+}

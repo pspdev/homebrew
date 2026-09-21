@@ -1,0 +1,26 @@
+{
+  "name": "psp-httpd",
+  "id": "psp-httpd",
+  "summary": "Web-server app for PSP.",
+  "author": "Elton Muuga (Elxx)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.6",
+      "url": "https://archive.org/download/psp-httpd_06.7z/psp-httpd_06.zip",
+      "published_at": "2006-02-12",
+      "size": 1244305,
+      "sha256": "0eb4f24854de493b1903196b9dbc4c62df475df514741fc59f9f274981e39632",
+      "eboot_md5": "80e8eeddeadb1135e552a8af45094414"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-httpd_06.7z/PSP-00676_00001.jpg"
+    ],
+    "icon": "icons/psp-httpd.png"
+  }
+}

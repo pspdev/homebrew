@@ -1,0 +1,26 @@
+{
+  "name": "Pixelizer",
+  "id": "pixelizer",
+  "summary": "Homebrew game for PSP.",
+  "author": "Judas",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1",
+      "url": "https://archive.org/download/pixelizer.-7z/Pixelizer.zip",
+      "published_at": "2007-10-14",
+      "size": 595690,
+      "sha256": "badba299aaf7cf1029035fdf772bdba70592a5e99373325f7377d7a2de99eee0",
+      "eboot_md5": "9a6ab7cd7dd854a03707a6d3afc5b51c"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pixelizer.-7z/PIXE00956_00000.jpg"
+    ],
+    "icon": "icons/pixelizer.png"
+  }
+}

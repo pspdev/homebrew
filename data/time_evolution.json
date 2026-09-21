@@ -1,0 +1,26 @@
+{
+  "name": "Time Evolution",
+  "id": "time_evolution",
+  "summary": "Clock manager for PSP",
+  "author": "Dark Sidious",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/time-evolution-0.1.7z/Time%20Evolution%200.2.zip",
+      "published_at": "2008-06-06",
+      "size": 3698329,
+      "sha256": "36784b9cbcb183a8e32e653198a4199ace20e685cced03305f64e223ac89658a",
+      "eboot_md5": "1a671f52f5c1b320955d867e33fc1954"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/time-evolution-0.1.7z/TIME01572_00001.png"
+    ],
+    "icon": "icons/time_evolution.png"
+  }
+}

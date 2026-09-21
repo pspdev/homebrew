@@ -1,0 +1,26 @@
+{
+  "name": "Quake for PSP",
+  "id": "quake_for_psp",
+  "summary": "Port of the game to PSP. The shareware version is included.",
+  "author": "Peter Mackay, Chris Swindle",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.0",
+      "url": "https://archive.org/download/pspquake.7z/Quake_v2.zip",
+      "published_at": "2006-03-31",
+      "size": 9232445,
+      "sha256": "729eebe1e607cd3919ea92a5c42d7ef385b8d57e375d1bcfc520668885a22a34",
+      "eboot_md5": "b4f2881af7f3ae429f3f47ef25057692"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspquake.7z/QUAK00766_00000.jpg"
+    ],
+    "icon": "icons/quake_for_psp.png"
+  }
+}

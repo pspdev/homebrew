@@ -1,0 +1,28 @@
+{
+  "name": "Coverflow",
+  "id": "coverflow",
+  "summary": "Music player app for PSP.",
+  "author": "sony psp player",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.5",
+      "url": "https://archive.org/download/coverflow.-7z/Old%20Versions/Coverflow.zip",
+      "published_at": "2008-05-22",
+      "size": 1222787,
+      "sha256": "14897d23405f3c2f305017b32d74c444c24be4ee1a452fadefd4a360363cb1cc",
+      "eboot_md5": "f39b14bcd240b6461687a0c6f819db82"
+    }
+  ],
+  "tags": [
+    "NEO Spring Coding Compo 2008"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/coverflow.-7z/pic_0000.png"
+    ],
+    "icon": "icons/coverflow.png"
+  }
+}

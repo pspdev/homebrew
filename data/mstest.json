@@ -1,0 +1,26 @@
+{
+  "name": "MSTest",
+  "id": "mstest",
+  "summary": "Memory Stick read/write speed benchmark.",
+  "author": "MIB.42",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/mste-00963-00001/mstest_0121.zip",
+      "published_at": "2006-01-21",
+      "size": 63156,
+      "sha256": "9956e48849a4724f737dcf8e27b3d4ffcc6608bb16bafe3783ad395f245fbc57",
+      "eboot_md5": "fcc88a57e2ea694f3503a4dbd3568243"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mste-00963-00001/20221013205149.png"
+    ],
+    "icon": "icons/mstest.png"
+  }
+}

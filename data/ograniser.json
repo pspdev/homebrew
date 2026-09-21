@@ -1,0 +1,26 @@
+{
+  "name": "Ograniser",
+  "id": "ograniser",
+  "summary": "Homebrew app for PSP.",
+  "author": "modsyn",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/ogranise_v2.7z/ogranise_v2.zip",
+      "published_at": "2006-01-31",
+      "size": 1261303,
+      "sha256": "76cd4ae7081534ed625039484161f62b2f40ae04b3b6f24fa7baec6862c93a0d",
+      "eboot_md5": "5178c99bc099e942308dc404157e3db6"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/ogranise_v2.7z/20210731031739.png"
+    ],
+    "icon": "icons/ograniser.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Amoebax",
+  "id": "amoebax",
+  "summary": "PSP port of the freeware puzzle game created by Emma's Software.",
+  "author": "Riviera71",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2.1",
+      "url": "https://archive.org/download/amoebax.7z/amoebax.zip",
+      "published_at": "2011-05-27",
+      "size": 13313507,
+      "sha256": "2a4f5217fea4d59eb243bd50a419f6d9820898ddac638860154d14f215651088",
+      "eboot_md5": "fc0a9caa758b46abadba0bfcfe863941"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/amoebax.7z/AMOE00733_00000.png"
+    ],
+    "icon": "icons/amoebax.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PSPMO5",
+  "id": "pspmo5",
+  "summary": "Thomson MO5 emulator for PSP.",
+  "author": "Ludovic Jacomme (Zx-81)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "1.2.0",
+      "url": "https://archive.org/download/pspmo5-v1.2.0-fw5x.7z/pspmo5-v1.2.0-fw5x.zip",
+      "published_at": "2009-03-22",
+      "size": 1320455,
+      "sha256": "437647397b990aec601d225741ca1563ae98831cb3c2e159994535ce90aa9596",
+      "eboot_md5": "5f667c11d3f742194a232d18aba4f050"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspmo5-v1.2.0-fw5x.7z/PSPM01453_00000.jpg"
+    ],
+    "icon": "icons/pspmo5.png"
+  }
+}

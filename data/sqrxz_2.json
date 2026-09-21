@@ -1,0 +1,28 @@
+{
+  "name": "SQRXZ 2",
+  "id": "sqrxz_2",
+  "summary": "Homebrew game for PSP.",
+  "author": "Retroguru",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.00",
+      "url": "https://archive.org/download/sqrxz-2.7z/SQRXZ2.zip",
+      "published_at": "2010-01-01",
+      "size": 765256,
+      "sha256": "b80ddaa17d8e996371e7298ca2b78dec64212f275084af489b41dde697f4f2ba",
+      "eboot_md5": "3f31b0c59ef60e5b3682a73e7388c258"
+    }
+  ],
+  "tags": [
+    "PSP Homebrew Game Competition 2013"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/sqrxz-2.7z/SQRX00474_00000.jpg"
+    ],
+    "icon": "icons/sqrxz_2.png"
+  }
+}

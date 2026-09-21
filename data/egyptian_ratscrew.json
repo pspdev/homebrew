@@ -1,0 +1,26 @@
+{
+  "name": "Egyptian Ratscrew",
+  "id": "egyptian_ratscrew",
+  "summary": "Card game for PSP.",
+  "author": "Emericaska8r",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/egyptian-ratscrew-v-1.0.7z/EgyptianRatscrew-v1.0.zip",
+      "published_at": "2007-08-17",
+      "size": 1357107,
+      "sha256": "32516419aaffbcfaec6093aa59e241d90e2dce9136b4d8d46cfc840d8b44d782",
+      "eboot_md5": "045d9f33e9d67b31054c4a570f19eb9a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/egyptian-ratscrew-v-1.0.7z/EGYP01982_00000.jpg"
+    ],
+    "icon": "icons/egyptian_ratscrew.png"
+  }
+}

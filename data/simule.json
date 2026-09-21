@@ -1,0 +1,26 @@
+{
+  "name": "Simule",
+  "id": "simule",
+  "summary": "Virtual piano for PSP.",
+  "author": "Jepte Aguirre Sanchez",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "3",
+      "url": "https://archive.org/download/simule.7z/simule.zip",
+      "published_at": "2012-06-12",
+      "size": 64087813,
+      "sha256": "b474023cb470e43eedb890db46108889cc762f649c35714098e4b74f7928fbd0",
+      "eboot_md5": "452dc2e2cddb552f4227b82c9f66a1a0"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/simule.7z/SIMU00655_00000.png"
+    ],
+    "icon": "icons/simule.png"
+  }
+}

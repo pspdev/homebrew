@@ -1,0 +1,26 @@
+{
+  "name": "Cave Story [Russian]",
+  "id": "cave_story_[russian]",
+  "summary": "Russian translation of the Cave Story port for PSP.",
+  "author": "PSP-RUSGAME",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0.0.7",
+      "url": "https://archive.org/download/cave-story-russian-v-1.7z/Cave%20Story%20%5BRussian%5D%20v1.zip",
+      "published_at": "2011-01-01",
+      "size": 2113568,
+      "sha256": "d0505641c0cabfda46c2e140515e18a7129afe73ddeac0cf7f721d3c2d4b3a7c",
+      "eboot_md5": "9fbb22834f96ed571c08f14920cfa7e7"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/cave-story-russian-v-1.7z/CAVE02116_00000.jpg"
+    ],
+    "icon": "icons/cave_story_[russian].png"
+  }
+}

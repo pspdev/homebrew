@@ -1,0 +1,28 @@
+{
+  "name": "Pipeline",
+  "id": "pipeline",
+  "summary": "Puzzle game for PSP.",
+  "author": "snowymydog",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.3",
+      "url": "https://archive.org/download/pipeline.-7z/Pipeline.zip",
+      "published_at": "2008-06-01",
+      "size": 4141946,
+      "sha256": "2b2a013ee603c050b149b9fbb01cac51f5f3fc7732553b8481e301b7f0977d69",
+      "eboot_md5": "e52658963b535a33e5301e64de92d0db"
+    }
+  ],
+  "tags": [
+    "Homebrew Idol (2008)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pipeline.-7z/PIPE00822_00000.png"
+    ],
+    "icon": "icons/pipeline.png"
+  }
+}

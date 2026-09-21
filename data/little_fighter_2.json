@@ -1,0 +1,26 @@
+{
+  "name": "Little Fighter 2",
+  "id": "little_fighter_2",
+  "summary": "Homebrew game for PSP.",
+  "author": "PsPmad",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Beta 1.65",
+      "url": "https://archive.org/download/lf-2-beta-v-165.7z/LF2_Beta_v165.zip",
+      "published_at": "2006-01-22",
+      "size": 2869040,
+      "sha256": "7ebd7f832af23131d938bfa0ce7ccf6b3918034a028b2f624f806b9852fd8a98",
+      "eboot_md5": "6276d324a6b9051d0d142e5f907f99fe"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lf-2-beta-v-165.7z/PSPM01343_00000.jpg"
+    ],
+    "icon": "icons/little_fighter_2.png"
+  }
+}

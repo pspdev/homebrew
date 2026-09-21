@@ -1,0 +1,26 @@
+{
+  "name": "TETRIS.jp",
+  "id": "tetris.jp",
+  "summary": "Early Tetris game for PSP.",
+  "author": "\u3089\u3044\u3060\u30fc (Rider)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/tetris-jp.-7z/TETRIS_JP.zip",
+      "published_at": "2005-05-15",
+      "size": 35045,
+      "sha256": "6ade77190adae5b84ddb6988e5502fe2b711ec2785769f2224a584f9c14aa804",
+      "eboot_md5": "16c1a4061bb573276cb5ad457bfa509d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/tetris-jp.-7z/EBOO00649_00000.jpg"
+    ],
+    "icon": "icons/tetris.jp.png"
+  }
+}

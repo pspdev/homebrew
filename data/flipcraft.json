@@ -1,0 +1,26 @@
+{
+  "name": "FlipCraft",
+  "id": "flipcraft",
+  "summary": "Minecraft mod for PSP.",
+  "author": "God Of War, LakeFeperd",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.3",
+      "url": "https://archive.org/download/flipCraft1.3/flipCraft1.3.zip",
+      "published_at": "2014-01-01",
+      "size": 6483231,
+      "sha256": "4b3d996eab0612b6f4bbbfaa1b1e012d6981e5bd20c14a4b7c7b2eec1945e165",
+      "eboot_md5": "08a2623cb41c381f93ac1b3c0747e6b6"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/flipCraft1.3/FLIP01069_00000.png"
+    ],
+    "icon": "icons/flipcraft.png"
+  }
+}

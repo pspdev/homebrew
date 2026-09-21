@@ -1,0 +1,26 @@
+{
+  "name": "FoamWars",
+  "id": "foamwars",
+  "summary": "Quake mod with nerf guns.",
+  "author": "BirddoG",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Beta 1",
+      "url": "https://archive.org/download/foamwarsb1.7z/foamwarsb1.zip",
+      "published_at": "2006-01-01",
+      "size": 4886160,
+      "sha256": "711a1c7ea1cc1cf35ba11316353b8038f49ba1e350f6f050c50f240ca07a1087",
+      "eboot_md5": "893d007a452641c1a5eba703f01b690d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/foamwarsb1.7z/FOAM01011_00000.jpg"
+    ],
+    "icon": "icons/foamwars.png"
+  }
+}

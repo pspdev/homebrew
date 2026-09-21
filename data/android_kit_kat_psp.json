@@ -1,0 +1,26 @@
+{
+  "name": "Android Kit Kat PSP",
+  "id": "android_kit_kat_psp",
+  "summary": "UI shell for PSP.",
+  "author": "psgarsenal, Joel16",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.6 Beta",
+      "url": "https://archive.org/download/android.-7z_202107/Android.zip",
+      "published_at": "2014-01-01",
+      "size": 3521552,
+      "sha256": "edde5a8bea0106c977d71acd84df1fadc1e7c007e2f71d910d9dd3d2940c9e33",
+      "eboot_md5": "045b7a93aee2f78353e673eedf560ce5"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/android.-7z_202107/ANDR00705_00000.png"
+    ],
+    "icon": "icons/android_kit_kat_psp.png"
+  }
+}

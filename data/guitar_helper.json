@@ -1,0 +1,26 @@
+{
+  "name": "Guitar Helper",
+  "id": "guitar_helper",
+  "summary": "Homebrew app for PSP.",
+  "author": "GuitarGod1134, Jem",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.3b",
+      "url": "https://archive.org/download/guitar-helper.-7z/GuitarHelper.zip",
+      "published_at": "2006-12-22",
+      "size": 1130704,
+      "sha256": "4b90974a1df4286c20cb3cf2b83861a142b8e999480141bc8ef959a7a8ac152a",
+      "eboot_md5": "905601db508137caece78e92ed51f9a1"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/guitar-helper.-7z/GUIT01228_00000.jpg"
+    ],
+    "icon": "icons/guitar_helper.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Labyl\u00e8ne",
+  "id": "labyl\u00e8ne",
+  "summary": "Maze game for PSP.",
+  "author": "K\u00e9nium",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/labylene-v-1.0.7z/Labylene%20v1.0.zip",
+      "published_at": "2008-05-28",
+      "size": 1608362,
+      "sha256": "072254e2cc864034b4b128a3d00eda4f9e3660d42726ad968bafc2626c960967",
+      "eboot_md5": "746f98a0382898c2a26f39dd6ae12a90"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/labylene-v-1.0.7z/LABY01105_00001.png"
+    ],
+    "icon": "icons/labyl\u00e8ne.png"
+  }
+}

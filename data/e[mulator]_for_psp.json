@@ -1,0 +1,26 @@
+{
+  "name": "e[mulator] for PSP",
+  "id": "e[mulator]_for_psp",
+  "summary": "Multi-system emulator for PSP. Emulated systems: PC Engine, NES, Game Boy, WonderSwan, Sega Game Gear, Sega Master System, NeoGeo Pocket, Atari Lynx.",
+  "author": "T. Kawamorita (e)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.82f",
+      "url": "https://archive.org/download/emulator_082f.7z/Old%20Versions/082c.zip",
+      "published_at": "2006-11-18",
+      "size": 2972628,
+      "sha256": "499f298bd8da0fa9f5650d647041b6b2507d0ecb02e74fe1da7051af6352e5f2",
+      "eboot_md5": "7bc9bab924e0ae173a5588865cb65e81"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/emulator_082f.7z/EMUL01224_00001.png"
+    ],
+    "icon": "icons/e[mulator]_for_psp.png"
+  }
+}

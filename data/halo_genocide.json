@@ -1,0 +1,26 @@
+{
+  "name": "Halo Genocide",
+  "id": "halo_genocide",
+  "summary": "Homebrew game for PSP.",
+  "author": "Xx FightStar xX",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/halo-genocide.-7z/Halo_Genocide.zip",
+      "published_at": "2007-07-11",
+      "size": 6243440,
+      "sha256": "8a43469ace398c25244e03659139d5fae5b8d208e4ce5045d543ef9591b09c68",
+      "eboot_md5": "3399e7b649a943947772fbba045da622"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/halo-genocide.-7z/HALO01281_00001.jpg"
+    ],
+    "icon": "icons/halo_genocide.png"
+  }
+}

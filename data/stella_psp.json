@@ -1,0 +1,26 @@
+{
+  "name": "Stella PSP",
+  "id": "stella_psp",
+  "summary": "Atari 2600 VCS emulator.",
+  "author": "Alysa Habraken (Aenea)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/stella-pspv-0.2.7z/StellaPSPv0.2.zip",
+      "published_at": "2005-09-08",
+      "size": 1104743,
+      "sha256": "17936efa818d60a7a60efeb98659d78b6e37e28fa5a572afff7e6adf1b542bed",
+      "eboot_md5": "1177fb8ae3a6db4d87b3111cc097beb1"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/stella-pspv-0.2.7z/EBOO00649_00001.jpg"
+    ],
+    "icon": "icons/stella_psp.png"
+  }
+}

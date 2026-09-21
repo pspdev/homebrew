@@ -1,0 +1,26 @@
+{
+  "name": "Music Sequencer",
+  "id": "music_sequencer",
+  "summary": "Homebrew app for PSP.",
+  "author": "Knifa",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/music-sequencer.-7z/Music%20Sequencer.zip",
+      "published_at": "2006-01-14",
+      "size": 1751965,
+      "sha256": "82b6efc9d25d30a2efe3c5689c72a86368acccff04c7f197c0d25735e21d1c49",
+      "eboot_md5": "ade86bd74ea4051e02a53542b83b9272"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/music-sequencer.-7z/LUAP01126_00000.png"
+    ],
+    "icon": "icons/music_sequencer.png"
+  }
+}

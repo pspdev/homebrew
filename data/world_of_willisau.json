@@ -1,0 +1,26 @@
+{
+  "name": "World Of Willisau",
+  "id": "world_of_willisau",
+  "summary": "Homebrew game for PSP.",
+  "author": "Shyv, Fushio",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.4",
+      "url": "https://archive.org/download/world-of-willisau-v-0.4.7z/World_Of_Willisau%20v0.4.zip",
+      "published_at": "2007-06-29",
+      "size": 4343939,
+      "sha256": "8f4e98da946cc5f39edecfc32943fa024ec3a24684044b932f627ab6a16f3398",
+      "eboot_md5": "5cf83e98446611f1d81c7b5b470ab7fe"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/world-of-willisau-v-0.4.7z/WORL01733_00001.jpg"
+    ],
+    "icon": "icons/world_of_willisau.png"
+  }
+}

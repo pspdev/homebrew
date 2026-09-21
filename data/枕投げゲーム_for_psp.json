@@ -1,0 +1,26 @@
+{
+  "name": "\u6795\u6295\u3052\u30b2\u30fc\u30e0 for PSP",
+  "id": "\u6795\u6295\u3052\u30b2\u30fc\u30e0_for_psp",
+  "summary": "It is a port of IT-chan's pillow throw game so that it can be started on PSP.",
+  "author": "Dadrfy",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/it-v.-0.2/IT%20v.0.2.zip",
+      "published_at": "2010-07-04",
+      "size": 575351,
+      "sha256": "28285870dc68d9135be30de430fc8cde817366fc99c1728414fa75cce551aafd",
+      "eboot_md5": "ab3bad0550a1b19511524badd7a164b8"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/it-v.-0.2/IT%20V00497_00000.png"
+    ],
+    "icon": "icons/\u6795\u6295\u3052\u30b2\u30fc\u30e0_for_psp.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Because I Have No Artistic Skills - Sometimes, Hope",
+  "id": "because_i_have_no_artistic_skills_-_sometimes,_hope",
+  "summary": "Second part of the homebrew game series.",
+  "author": "Jonathan Muller",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1a",
+      "url": "https://archive.org/download/bihnas-sometimes-hope.-7z/BIHNAS%20Sometimes%2C%20Hope.zip",
+      "published_at": "2013-03-27",
+      "size": 555411,
+      "sha256": "560b90a0abd7153700ae9762677cb700807d8a03188f854bd8cf26c8830f584b",
+      "eboot_md5": "097fee2639622ec59e6bd1a419ad2e8d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/bihnas-sometimes-hope.-7z/BIHN01891_00001.png"
+    ],
+    "icon": "icons/because_i_have_no_artistic_skills_-_sometimes,_hope.png"
+  }
+}

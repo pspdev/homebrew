@@ -1,0 +1,26 @@
+{
+  "name": "Super Special Awesome Helicopter Game",
+  "id": "super_special_awesome_helicopter_game",
+  "summary": "Homebrew game for PSP.",
+  "author": "nielkie",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2",
+      "url": "https://archive.org/download/heli-game-2.7z/HeliGame2.zip",
+      "published_at": "2007-09-16",
+      "size": 1413483,
+      "sha256": "77f775afc4d7e0a6efc781449226e2fe95a6b172bf1f4b2a28cbe223df146ea8",
+      "eboot_md5": "5a8b5c382eafc09468f02df5758fe0f8"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/heli-game-2.7z/pic_0001.png"
+    ],
+    "icon": "icons/super_special_awesome_helicopter_game.png"
+  }
+}

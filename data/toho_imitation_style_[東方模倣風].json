@@ -1,0 +1,27 @@
+{
+  "name": "Toho Imitation Style [\u6771\u65b9\u6a21\u5023\u98a8]",
+  "id": "toho_imitation_style_[\u6771\u65b9\u6a21\u5023\u98a8]",
+  "summary": "A 2D shooter Touhou Project fan game.",
+  "description": "Toho Imitation Style [\u6771\u65b9\u6a21\u5023\u98a8, Touhou Mohofu] is a 2D shooter Touhou Project fan game for PSP. This game was created collectively in a series of discussion threads (PSP\u3067\u6771\u65b9\u3084\u308a\u305f\u3044\u5974) on the 2ch website. Emesarke was the maintainer of the Google Code repository for the project, but the list of contributors was much more extensive, and is reported in full in the readme document.",
+  "author": "emesarke",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "r44",
+      "url": "https://archive.org/download/231-kene-r-40.7z/kene_r44_20150101.zip",
+      "published_at": "2015-01-01",
+      "size": 64235410,
+      "sha256": "f6bb4191c91b9f52ca2ad37561b8d711e34d80f2fe2a06e80afae5a33901c6e0",
+      "eboot_md5": "94b7f97c3fa2edafe731d638a8e12393"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/231-kene-r-40.7z/20221008233630.png"
+    ],
+    "icon": "icons/toho_imitation_style_[\u6771\u65b9\u6a21\u5023\u98a8].png"
+  }
+}

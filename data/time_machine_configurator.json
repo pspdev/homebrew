@@ -1,0 +1,26 @@
+{
+  "name": "Time Machine Configurator",
+  "id": "time_machine_configurator",
+  "summary": "Utility app for PSP.",
+  "author": "redsquirrel87",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "2.1",
+      "url": "https://archive.org/download/tmco-01690-00000/TMConfiguratorv2.1.zip",
+      "published_at": "2008-03-31",
+      "size": 42737,
+      "sha256": "26cd8ca4507fe08a63f9abebf49c24d86812e4a4b06d3c57f74ccb02c15dde39",
+      "eboot_md5": "c025f8e2f4478ea596642871e48b2454"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/tmco-01690-00000/EBOO00649_00000.png"
+    ],
+    "icon": "icons/time_machine_configurator.png"
+  }
+}

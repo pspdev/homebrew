@@ -1,0 +1,26 @@
+{
+  "name": "Jewel Thief",
+  "id": "jewel_thief",
+  "summary": "Dodging game for PSP.",
+  "author": "andyauff",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.25",
+      "url": "https://archive.org/download/thief.7z/thief.zip",
+      "published_at": "2008-01-29",
+      "size": 2201768,
+      "sha256": "b02b39cdbaa4bece29525e24e36c098995cb6f740390e3bd49277d46763055a5",
+      "eboot_md5": "7cefd6d4c988309f19bfe842a2ef8760"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/thief.7z/pic_0002.png"
+    ],
+    "icon": "icons/jewel_thief.png"
+  }
+}

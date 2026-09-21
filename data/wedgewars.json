@@ -1,0 +1,26 @@
+{
+  "name": "Wedgewars",
+  "id": "wedgewars",
+  "summary": "Homebrew game for PSP.",
+  "author": "Alex Carroll",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1",
+      "url": "https://archive.org/download/wedgewars-0.1.7z/Wedgewars_0.1.zip",
+      "published_at": "2005-08-11",
+      "size": 589172,
+      "sha256": "2926f86ebabb4d2905c6eed7835806734e50b99b1bb36e46111a0a546c2726e3",
+      "eboot_md5": "2afb9ea4daba0be4193b8e4f986f25d7"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/wedgewars-0.1.7z/WEDG01175_00000.jpg"
+    ],
+    "icon": "icons/wedgewars.png"
+  }
+}

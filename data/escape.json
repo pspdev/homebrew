@@ -1,0 +1,26 @@
+{
+  "name": "Escape",
+  "id": "escape",
+  "summary": "Dodging game for PSP.",
+  "author": "Kevin Drure",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Demo",
+      "url": "https://archive.org/download/escape.-7z_202103/ESCAPE.zip",
+      "published_at": "2010-03-21",
+      "size": 2361029,
+      "sha256": "2c517c05dcca46de3e881e96e377fd18b4481bd19a448f1e28b9684feef7ece5",
+      "eboot_md5": "588515268936b6ef4de5a59c3033871f"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/escape.-7z_202103/ESCA00433_00000.jpg"
+    ],
+    "icon": "icons/escape.png"
+  }
+}

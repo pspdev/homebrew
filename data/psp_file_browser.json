@@ -1,0 +1,26 @@
+{
+  "name": "PSP File Browser",
+  "id": "psp_file_browser",
+  "summary": "Homebrew application for PSP.",
+  "author": "LIGHT",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.00",
+      "url": "https://archive.org/download/pspfile-browser.-7z/PSPFileBrowser.zip",
+      "published_at": "2012-02-02",
+      "size": 796721,
+      "sha256": "dc8513d092216974265168cc1e25315e950a04638ac5cbf7c6444902e8955183",
+      "eboot_md5": "e6f043a55a9f647f4c3a37802d3676f0"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspfile-browser.-7z/PSPF01367_00000.jpg"
+    ],
+    "icon": "icons/psp_file_browser.png"
+  }
+}

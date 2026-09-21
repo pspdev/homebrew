@@ -1,0 +1,28 @@
+{
+  "name": "Dororo's Adventures",
+  "id": "dororo's_adventures",
+  "summary": "3D exploration game for PSP.",
+  "author": "b0rk",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "RC1",
+      "url": "https://archive.org/download/dororo.7z/dororo.zip",
+      "published_at": "2008-03-20",
+      "size": 756478,
+      "sha256": "ccaf8586d600b57af6c25d7a7af9fdb875daf944330e34e765b42a62d5b2d9e0",
+      "eboot_md5": "216e24c9f69394ec122cec575186a7db"
+    }
+  ],
+  "tags": [
+    "NEO Spring Coding Compo 2008"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/dororo.7z/DORO00661_00001.jpg"
+    ],
+    "icon": "icons/dororo's_adventures.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "fMSX PSP",
+  "id": "fmsx_psp",
+  "summary": "MSX emulator for PSP.",
+  "author": "Akop Karapetyan",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "3.5.41",
+      "url": "https://archive.org/download/fmsxpsp.7z/fmsxpsp-3.5.41.zip",
+      "published_at": "2010-03-17",
+      "size": 609414,
+      "sha256": "4acf3736ee03e177f0cc53ef63ac94711590380f17a691aa58331083fd29a037",
+      "eboot_md5": "b1cd0a53bdec0b6e39514229d62bc7d8"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/fmsxpsp.7z/Unbenannt.PNG"
+    ],
+    "icon": "icons/fmsx_psp.png"
+  }
+}

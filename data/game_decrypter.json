@@ -1,0 +1,26 @@
+{
+  "name": "Game Decrypter",
+  "id": "game_decrypter",
+  "summary": "UMD decrypter for PSP.",
+  "author": "Yoshihiro",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "4",
+      "url": "https://archive.org/download/game-01289-00000/GameZDecryptZ.zip",
+      "published_at": "2009-08-10",
+      "size": 53710,
+      "sha256": "3f5bff4836a767b7e369f39ef937d1ab59666544dd10cd8b985e4f1d2ef0df4e",
+      "eboot_md5": "adea825ac7be4f27bf41a7516b69bd68"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/game-01289-00000/GAME01289_00000.jpg"
+    ],
+    "icon": "icons/game_decrypter.png"
+  }
+}

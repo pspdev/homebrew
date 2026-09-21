@@ -1,0 +1,26 @@
+{
+  "name": "El clic rapido",
+  "id": "el_clic_rapido",
+  "summary": "Button-mashing game.",
+  "author": "Irving Prog",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "3.0",
+      "url": "https://archive.org/download/clic-rapido-v-3.7z/Clic%20Rapido%20v3.zip",
+      "published_at": "2011-03-01",
+      "size": 1334284,
+      "sha256": "99f504695a837ae44bf607fceb35c6f5e0061872d0d9d5da5e8de647f7799fef",
+      "eboot_md5": "b147ff9fb0a66cd9038364191fbfb6d5"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/clic-rapido-v-3.7z/pic_0001.png"
+    ],
+    "icon": "icons/el_clic_rapido.png"
+  }
+}

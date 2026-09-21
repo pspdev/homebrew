@@ -6,10 +6,6 @@
   "ai_used": false,
   "requires_additional_files": false,
   "category": "game",
-  "languages": [
-    "en",
-    "nl"
-  ],
   "releases": [
     {
       "tag": "2.0",
@@ -41,5 +37,9 @@
   "description": "Dive into the relaxing world of OceanPop and experience waves of match-3 gameplay with the three modes available!\n\nDon\u2018t get crushed by the tides before completing the 35 levels in regular mode, feel the rush of the currents in challenge mode or just go with the flow of the ocean breeze in relaxed mode!",
   "website": "https://wijsman.de/oceanpop/",
   "source": "https://github.com/sharkwouter/oceanpop",
-  "license": "MIT"
+  "license": "MIT",
+  "languages": [
+    "en",
+    "nl"
+  ]
 }

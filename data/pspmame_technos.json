@@ -1,0 +1,26 @@
+{
+  "name": "PSPMAME Technos",
+  "id": "pspmame_technos",
+  "summary": "MAME emulator for PSP, based on MAME 0.97. Claims support for 46 games. A compatibility list for an earlier version is available (in Japanese).",
+  "author": "TMK",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.97 r0.6",
+      "url": "https://archive.org/download/technos.7z/technos.zip",
+      "published_at": "2010-03-02",
+      "size": 1062311,
+      "sha256": "17e5667a8ce71120ebf50993c326ae48cf23d6c6d98a228f51ed2c11a70be126",
+      "eboot_md5": "fc531d523e4bfb1f4c9a2b7de712b21d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/technos.7z/TECH00756_00000.jpg"
+    ],
+    "icon": "icons/pspmame_technos.png"
+  }
+}

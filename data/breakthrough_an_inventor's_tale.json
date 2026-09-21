@@ -1,0 +1,28 @@
+{
+  "name": "Breakthrough: An Inventor's Tale",
+  "id": "breakthrough_an_inventor's_tale",
+  "summary": "Homebrew game for PSP.",
+  "author": "Francisco Marquez, Robert Greaux",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "Final",
+      "url": "https://archive.org/download/breakthrough.-7z/Breakthrough.zip",
+      "published_at": "2007-04-15",
+      "size": 28179751,
+      "sha256": "54226bc387bc334aba47b479fb06ca131a98c15a1ff1dd175a9ce041d6a21171",
+      "eboot_md5": "2755a49596a057cfb8f84be46bf674c5"
+    }
+  ],
+  "tags": [
+    "PxP Homebrew Competition (2007)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/breakthrough.-7z/__SC01853_00001.jpg"
+    ],
+    "icon": "icons/breakthrough_an_inventor's_tale.png"
+  }
+}

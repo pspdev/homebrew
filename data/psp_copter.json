@@ -1,0 +1,26 @@
+{
+  "name": "PSP Copter",
+  "id": "psp_copter",
+  "summary": "Homebrew game for PSP.",
+  "author": "Preyker",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.61",
+      "url": "https://archive.org/download/psp-copter-by-preyker.-7z/PSP%20Copter%20by%20Preyker.zip",
+      "published_at": "2009-09-09",
+      "size": 6026288,
+      "sha256": "a4cb7480eda7918ea619f028ff532838037fe0d364cc241dfd68e51aa0a7bc22",
+      "eboot_md5": "e37fbb3105164a371adad981ca576756"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-copter-by-preyker.-7z/PSP%2001917_00000.jpg"
+    ],
+    "icon": "icons/psp_copter.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "KaboomPSP",
+  "id": "kaboompsp",
+  "summary": "Catch the bomb before it reaches the bottom of the screen.",
+  "author": "Dark Killer",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/kaboom-psp.-7z/KaboomPSP.zip",
+      "published_at": "2005-08-15",
+      "size": 509452,
+      "sha256": "2ccc849d7a45e8d7058672caf8be7d3d629bb0b864c89de4483f1200ed599d41",
+      "eboot_md5": "a1663952fcbfa165274c31a065e3a501"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/kaboom-psp.-7z/KABO00844_00001.png"
+    ],
+    "icon": "icons/kaboompsp.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PSP WiFile Transfer",
+  "id": "psp_wifile_transfer",
+  "summary": "App to transfer files over Wi-Fi.",
+  "author": "Luis Pestana (*eyelash)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.0 Alpha",
+      "url": "https://archive.org/download/psp-wi-file-transfer-v-1.0-a.-7z/PSP_WiFile_Transfer_v1.0A.zip",
+      "published_at": "2007-03-02",
+      "size": 561537,
+      "sha256": "149e94b183f1c037b3a8815d893267117969b0af182fc8aa93569e6c76d00542",
+      "eboot_md5": "c09da9d0009f2ea0da97ca9ff95e6097"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psp-wi-file-transfer-v-1.0-a.-7z/20210720214414.png"
+    ],
+    "icon": "icons/psp_wifile_transfer.png"
+  }
+}

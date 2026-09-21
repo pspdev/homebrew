@@ -1,0 +1,26 @@
+{
+  "name": "PSPMAME Taito",
+  "id": "pspmame_taito",
+  "summary": "MAME emulator for PSP, based on MAME 0.97. Claims support for 175 games. A compatibility list for an earlier version is available (in Japanese).",
+  "author": "TMK",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "0.97 r0.6",
+      "url": "https://archive.org/download/taito.7z/taito.zip",
+      "published_at": "2010-03-02",
+      "size": 1799334,
+      "sha256": "61cd8db404bc40ab175c24e89dbc76a9dc643f686f542d293c95dcef6adc919c",
+      "eboot_md5": "311752e94fba26c16dd3c2bd0e81b20b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/taito.7z/TAIT00545_00000.jpg"
+    ],
+    "icon": "icons/pspmame_taito.png"
+  }
+}

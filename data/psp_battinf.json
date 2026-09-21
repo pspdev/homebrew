@@ -1,0 +1,28 @@
+{
+  "name": "PSP BattINF",
+  "id": "psp_battinf",
+  "summary": "Provides information on battery status; PSP homebrew.",
+  "author": "Frostegater",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.4",
+      "url": "https://archive.org/download/batt-inf.-7z/BattINF.zip",
+      "published_at": "2011-01-01",
+      "size": 882373,
+      "sha256": "4925588f0209e651320fecdfb041f7a02b103a74ba3c3ad87c70f82c26e9d510",
+      "eboot_md5": "11a4897b5e7979c8dced3b4364b8109f"
+    }
+  ],
+  "tags": [
+    "PSP Genesis Competition 2011"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/batt-inf.-7z/20215183507.png"
+    ],
+    "icon": "icons/psp_battinf.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Lua FileManager",
+  "id": "lua_filemanager",
+  "summary": "Homebrew app for PSP.",
+  "author": "mallchin",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.10-beta3",
+      "url": "https://archive.org/download/lua-file-manager.-7z/LuaFileManager.zip",
+      "published_at": "2006-03-15",
+      "size": 1673258,
+      "sha256": "bf1f5711a255ad97f6d8dec831f1bed9b31911847e3c4f7b68c08c74006b0fe5",
+      "eboot_md5": "9a3c5f7493233e38827c7cf6767036bd"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/lua-file-manager.-7z/STAN01065_00000.jpg"
+    ],
+    "icon": "icons/lua_filemanager.png"
+  }
+}

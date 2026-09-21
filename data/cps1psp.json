@@ -1,0 +1,26 @@
+{
+  "name": "CPS1PSP",
+  "id": "cps1psp",
+  "summary": "CPS1 emulator for PSP. Versions 2.3.1 and 2.2.5 were released at the same time. 2.3.1 is the development build, 2.2.5 the stable one.",
+  "author": "NJ",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "2.3.1",
+      "url": "https://archive.org/download/cps-1-psp-2.3.5.7z/cps1psp_2.3.1_3.xx_user.zip",
+      "published_at": "2007-10-28",
+      "size": 820339,
+      "sha256": "b9621137a7521ee21e707ce35e1845a771e5aea8d561641a08c68380dbe6989b",
+      "eboot_md5": "3a602130e05710d7ec7d7110ab9a5f19"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/cps-1-psp-2.3.5.7z/CPS102025_00001.png"
+    ],
+    "icon": "icons/cps1psp.png"
+  }
+}

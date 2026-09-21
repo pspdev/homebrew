@@ -1,0 +1,26 @@
+{
+  "name": "PSP IRC",
+  "id": "psp_irc",
+  "summary": "IRC client for PSP.",
+  "author": "Ludovic Jacomme (Zx-81), Dave Leaver (Danzel)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "1.1.6",
+      "url": "https://archive.org/download/pspirc.7z/pspirc.zip",
+      "published_at": "2008-11-11",
+      "size": 1885421,
+      "sha256": "873c115e08c8a41f8e21ec97c44aa4a195eec20159c002349c32cdf0acf46006",
+      "eboot_md5": "f130b471cb594dfa5c0895a3dcb128b8"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspirc.7z/20210720011502.png"
+    ],
+    "icon": "icons/psp_irc.png"
+  }
+}

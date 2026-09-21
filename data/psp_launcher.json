@@ -1,0 +1,26 @@
+{
+  "name": "PSP Launcher",
+  "id": "psp_launcher",
+  "summary": "Homebrew app for PSP.",
+  "author": "Shazz",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "Beta",
+      "url": "https://archive.org/download/psplauncher-beta.-7z/PSPLauncher_beta.zip",
+      "published_at": "2005-07-17",
+      "size": 1028977,
+      "sha256": "33f033b91662f3f76b84b60ff6c0a698416c5823a7e440f96b1b0629b3a3841e",
+      "eboot_md5": "203c946183043be3557952ac96ca4c92"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psplauncher-beta.-7z/LAUN01275_00000.png"
+    ],
+    "icon": "icons/psp_launcher.png"
+  }
+}

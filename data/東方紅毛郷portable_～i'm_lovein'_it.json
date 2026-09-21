@@ -1,0 +1,26 @@
+{
+  "name": "\u6771\u65b9\u7d05\u6bdb\u90f7Portable \uff5eI'm lovein' it",
+  "id": "\u6771\u65b9\u7d05\u6bdb\u90f7portable_\uff5ei'm_lovein'_it",
+  "summary": "Touhou Project fan game for PSP.",
+  "author": "\u30a2\u30b9\u30c6\u30eb",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.00",
+      "url": "https://archive.org/download/thd-01.7z/THD01.zip",
+      "published_at": "2011-11-19",
+      "size": 26797363,
+      "sha256": "6ee9037340c2f3e9b8bae8329511787927dd8c39ce581e718dd6add7ca1fcd87",
+      "eboot_md5": "8f33b7f1264333fffeb8ca651c7304d6"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/thd-01.7z/THD000321_00000.jpg"
+    ],
+    "icon": "icons/\u6771\u65b9\u7d05\u6bdb\u90f7portable_\uff5ei'm_lovein'_it.png"
+  }
+}

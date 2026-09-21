@@ -1,0 +1,26 @@
+{
+  "name": "PSP Minesweeper",
+  "id": "psp_minesweeper",
+  "summary": "PSP version of the game.",
+  "author": "JEK",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.2",
+      "url": "https://archive.org/download/minesweeper.7z/minesweeper_v12.zip",
+      "published_at": "2005-09-08",
+      "size": 409791,
+      "sha256": "e5ddc1f4d6e78238a41e2e5164b52b7e3974264d48b51b1cf073a1d022fc04e5",
+      "eboot_md5": "05d2b1c9f578439a310ad2142fd9f66b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/minesweeper.7z/MINE01500_00000.png"
+    ],
+    "icon": "icons/psp_minesweeper.png"
+  }
+}

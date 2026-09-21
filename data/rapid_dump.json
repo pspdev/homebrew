@@ -1,0 +1,26 @@
+{
+  "name": "Rapid Dump",
+  "id": "rapid_dump",
+  "summary": "Homebrew app for PSP.",
+  "author": "zouzzz",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.2",
+      "url": "https://archive.org/download/rapid-dumpv-0.2.7z/RapidDumpv0.2.zip",
+      "published_at": "2006-10-31",
+      "size": 1524110,
+      "sha256": "3553e63a155d7475d5e9bff19f37ab3bdc1b5f01a76314e70d043ccab806a404",
+      "eboot_md5": "3fd312faeefeac784840008a2edb30ad"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/rapid-dumpv-0.2.7z/RAPI01164_00000.png"
+    ],
+    "icon": "icons/rapid_dump.png"
+  }
+}

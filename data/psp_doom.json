@@ -1,0 +1,26 @@
+{
+  "name": "PSP Doom",
+  "id": "psp_doom",
+  "summary": "PSP port of Doom. Shareware version included.",
+  "author": "kgsws",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "2.01",
+      "url": "https://archive.org/download/doom.7z_202106/doom.zip",
+      "published_at": "2007-12-10",
+      "size": 2035714,
+      "sha256": "b4403517c17055d0d579021abcc7fb40c60e5367252e698f053f2f6fcaa40397",
+      "eboot_md5": "c0f0ce351ad0a6f45c9b0b937fce347d"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/doom.7z_202106/DOOM00431_00000.jpg"
+    ],
+    "icon": "icons/psp_doom.png"
+  }
+}

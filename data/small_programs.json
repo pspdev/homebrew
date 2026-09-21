@@ -1,0 +1,26 @@
+{
+  "name": "Small Programs",
+  "id": "small_programs",
+  "summary": "Collection of apps and games for PSP.",
+  "author": "siroimakeinu99",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.02",
+      "url": "https://archive.org/download/small-programs-001-050713.7z/Old%20Versions/%5B%E6%97%A7%E3%83%AD%E3%83%80%E4%BF%9D%E7%AE%A1%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%5DFreecell%E3%81%A8%E3%81%8B%E3%80%80V0.02%20SmallPrograms001_050713.zip",
+      "published_at": "2005-07-22",
+      "size": 533589,
+      "sha256": "9a1b3bb681d0f069fe816d2d8e68cbcef0506f1c4f425a82047578ba6a408885",
+      "eboot_md5": "d9d28d3d5a6dcce91b31c35dfb6f2040"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/small-programs-001-050713.7z/%5B%C2%B5%EF%BF%BD-0577_00001.jpg"
+    ],
+    "icon": "icons/small_programs.png"
+  }
+}

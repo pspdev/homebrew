@@ -1,0 +1,26 @@
+{
+  "name": "PSP Timer",
+  "id": "psp_timer",
+  "summary": "Kitchen timer app for PSP.",
+  "author": "Raion",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "3.00",
+      "url": "https://archive.org/download/psptimer.-7z/PSPTimer.zip",
+      "published_at": "2006-04-16",
+      "size": 634135,
+      "sha256": "ca87228ab2991fbe4cf8012a5db91a2385daf1d139a7d47a55b4f834208ed3e7",
+      "eboot_md5": "b6240caf4e148cf086e6f9f6618d7bed"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psptimer.-7z/PSPT00756_00000.jpg"
+    ],
+    "icon": "icons/psp_timer.png"
+  }
+}

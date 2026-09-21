@@ -1,0 +1,28 @@
+{
+  "name": "PicoozIR",
+  "id": "picoozir",
+  "summary": "IR remote control for a toy helicopter.",
+  "author": "Pacopad",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "4",
+      "url": "https://archive.org/download/picoozirv4.7z/picoozirv4.zip",
+      "published_at": "2008-04-06",
+      "size": 3974466,
+      "sha256": "bdc8b6d58985b6f524bccf9e83647c989b4e7cae5e6f1ae4882531388db2906b",
+      "eboot_md5": "8cc33f70792804fd6647045824aa897d"
+    }
+  ],
+  "tags": [
+    "IrDA"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/picoozirv4.7z/PICO01049_00000.png"
+    ],
+    "icon": "icons/picoozir.png"
+  }
+}

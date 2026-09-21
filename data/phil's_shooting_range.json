@@ -1,0 +1,26 @@
+{
+  "name": "Phil's Shooting Range",
+  "id": "phil's_shooting_range",
+  "summary": "Homebrew game for PSP.",
+  "author": "myschoo",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.3",
+      "url": "https://archive.org/download/psr.-7z/PSR.zip",
+      "published_at": "2006-01-01",
+      "size": 1730074,
+      "sha256": "81dd39e3fec11a87b315d3ca9ffd826ed405a9d6ec13c96bca8349065efe966f",
+      "eboot_md5": "09533a9ca111cfd405a091f822bf118a"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/psr.-7z/PSRH00245_00000.jpg"
+    ],
+    "icon": "icons/phil's_shooting_range.png"
+  }
+}

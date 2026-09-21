@@ -1,0 +1,26 @@
+{
+  "name": "Chase the Penguin",
+  "id": "chase_the_penguin",
+  "summary": "Homebrew game for PSP.",
+  "author": "TacticalPenguin",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0",
+      "url": "https://archive.org/download/chase-the-penguin.-7z/Chase%20the%20Penguin.zip",
+      "published_at": "2007-09-24",
+      "size": 670029,
+      "sha256": "e85d856bc17cf2329d4a18499f6acc809d2cfe3496efb990e0f4f70fd49f21b0",
+      "eboot_md5": "05d2b1c9f578439a310ad2142fd9f66b"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/chase-the-penguin.-7z/LPM300335_00000.jpg"
+    ],
+    "icon": "icons/chase_the_penguin.png"
+  }
+}

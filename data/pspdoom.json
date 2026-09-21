@@ -1,0 +1,26 @@
+{
+  "name": "PSPDoom",
+  "id": "pspdoom",
+  "summary": "PSP port of ADoomPPC. The shareware version of Doom is included.",
+  "author": "Chilly Willy",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.4",
+      "url": "https://archive.org/download/pspdoomv1.3.7z/pspdoomv1.4.zip",
+      "published_at": "2007-11-14",
+      "size": 6789083,
+      "sha256": "7fd9f0dcc5cc29bdf2bce918d33f4057fd43e79be80c5f540629b742ff930bd5",
+      "eboot_md5": "cda775a9edb092e634e0b303605f7017"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/pspdoomv1.3.7z/PSPD01035_00000.png"
+    ],
+    "icon": "icons/pspdoom.png"
+  }
+}

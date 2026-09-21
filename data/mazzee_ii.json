@@ -1,0 +1,26 @@
+{
+  "name": "Mazzee II",
+  "id": "mazzee_ii",
+  "summary": "Homebrew game for PSP.",
+  "author": "Leo M. Cabrera",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.0 Beta 4",
+      "url": "https://archive.org/download/mazzee.-7z/Mazzee.zip",
+      "published_at": "2007-12-30",
+      "size": 523726,
+      "sha256": "266094649cc9cdc9f357ff7b00fc96405a66e4872ffd6e466a19161d2bc71a0f",
+      "eboot_md5": "63a46438facff1d860ee73d765dd2b41"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/mazzee.-7z/MAZZ00620_00000.jpg"
+    ],
+    "icon": "icons/mazzee_ii.png"
+  }
+}

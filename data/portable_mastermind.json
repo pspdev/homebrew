@@ -1,0 +1,26 @@
+{
+  "name": "Portable MasterMind",
+  "id": "portable_mastermind",
+  "summary": "Puzzle game for PSP.",
+  "author": "KennethDM",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "1.1",
+      "url": "https://archive.org/download/portable_mastermindv11.7z/portable_mastermindv11.zip",
+      "published_at": "2006-06-01",
+      "size": 1392986,
+      "sha256": "9cda58bb3024e9629847055ac484a69501e2aebe6282f9ec2169149db234336b",
+      "eboot_md5": "9df5d12727253e3570f9d1bdb19009bd"
+    }
+  ],
+  "tags": [],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/portable_mastermindv11.7z/PORT02244_00000.png"
+    ],
+    "icon": "icons/portable_mastermind.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Battlegrounds III",
+  "id": "battlegrounds_iii",
+  "summary": "3D tank battles; homebrew game for PSP.",
+  "author": "Alex Wickes (Xfacter)",
+  "ai_used": false,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.5.0",
+      "url": "https://archive.org/download/battlegrounds-3.7z/bg3-v0.5.0.zip",
+      "published_at": "2017-04-17",
+      "size": 2709630,
+      "sha256": "2a6e0c1f354fcaf2ae392ce5f0a2a5a984a30de305c1ed69f9d850baeda8fdc7",
+      "eboot_md5": "f412d6013bb3ace4d597a3e6e98d13f6"
+    }
+  ],
+  "tags": [
+    "Homebrew Idol 2 (2009)"
+  ],
+  "media": {
+    "screenshots": [
+      "https://archive.org/download/battlegrounds-3.7z/BG3-00656_00005.png"
+    ],
+    "icon": "icons/battlegrounds_iii.png"
+  }
+}

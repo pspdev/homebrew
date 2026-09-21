@@ -1,6 +1,6 @@
 {
   "name": "Wagic The Homebrew?!",
-  "id": "wagic_the_homebrew?!",
+  "id": "wagic_the_homebrew",
   "summary": "Card game for PSP. The last release from the original developer was version 0.18.6, from 2012. While later PSP builds exist, they are not fully supported, and may fail to launch at all.\u00a0 For details, see github.com/WagicProject/wagic/issues/1066 .",
   "author": "Wololo",
   "ai_used": false,

@@ -244,7 +244,10 @@ def copy_json_files() -> None:
         if file_name == "catalog.json":
             raise Exception(f"No homebrew can have catalog as id, please rename {file_path} to something else")
         if os.path.isfile(file_path) and file_path.endswith(".json"):
-            shutil.copy2(file_path, DIST_DIR)
+            with open(file_path, "r") as original:
+                original_content = json.loads(original.read())
+                with open(os.path.join(DIST_DIR, file_name), "w") as new:
+                    new.write(json.dumps(original_content))
 
 
 def copy_resources() -> None:

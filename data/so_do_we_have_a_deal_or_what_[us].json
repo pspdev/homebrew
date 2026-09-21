@@ -1,6 +1,6 @@
 {
   "name": "So Do We Have a Deal or What? [US]",
-  "id": "so_do_we_have_a_deal_or_what?_[us]",
+  "id": "so_do_we_have_a_deal_or_what_[us]",
   "summary": "Homebrew game for PSP.",
   "author": "Quinnsoft (darkshadow88)",
   "ai_used": false,
@@ -21,6 +21,6 @@
     "screenshots": [
       "https://archive.org/download/deal.-7z/LPM300335_00000.jpg"
     ],
-    "icon": "icons/so_do_we_have_a_deal_or_what?_[us].png"
+    "icon": "icons/so_do_we_have_a_deal_or_what_[us].png"
   }
 }

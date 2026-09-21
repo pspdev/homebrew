@@ -1,6 +1,6 @@
 {
   "name": "How Fast Are You?",
-  "id": "how_fast_are_you?",
+  "id": "how_fast_are_you",
   "summary": "Button-pressing game.",
   "author": "N0ePDA_PSP",
   "ai_used": false,
@@ -21,6 +21,6 @@
     "screenshots": [
       "https://archive.org/download/how-fast-are-you.-7z/HOW 01457_00000.jpg"
     ],
-    "icon": "icons/how_fast_are_you?.png"
+    "icon": "icons/how_fast_are_you.png"
   }
 }

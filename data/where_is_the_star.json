@@ -1,6 +1,6 @@
 {
   "name": "Where is the star?",
-  "id": "where_is_the_star?",
+  "id": "where_is_the_star",
   "summary": "Homebrew game for PSP.",
   "author": "moikop",
   "ai_used": false,
@@ -21,6 +21,6 @@
     "screenshots": [
       "https://archive.org/download/wits.-7z/pic_0001.png"
     ],
-    "icon": "icons/where_is_the_star?.png"
+    "icon": "icons/where_is_the_star.png"
   }
 }

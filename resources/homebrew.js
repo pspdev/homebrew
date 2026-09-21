@@ -41,6 +41,7 @@ function createHomebrewTiles() {
 
     let link = document.createElement("a");
     link.href = filtered_catalog[i].id + ".html";
+    link.target = "_blank";
     link.appendChild(homebrew);
     homebrew_list.appendChild(link);
   }

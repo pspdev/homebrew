@@ -2,7 +2,6 @@
   "name": "MasterBoy",
   "id": "masterboy",
   "summary": "Game Boy, Sega Master System and Game Gear Emulator.",
-  "description": "Game Boy, Sega Master System and Game Gear Emulator for the PSP. Note: MasterBoy 2.10 by GenesisVids is a rebadged copy of version 2.02. It offers no improvements (or even changes) compared to this version. The same applies to EmuMaster 3.0, created by the same person.",
   "author": "Florian Br\u00f6nnimann (Brunni)",
   "ai_used": false,
   "requires_additional_files": false,
@@ -25,5 +24,6 @@
       "https://archive.org/download/masterboy.-7z/MAST00950_00000.jpg"
     ],
     "icon": "icons/masterboy.png"
-  }
+  },
+  "description": "Game Boy, Sega Master System and Game Gear Emulator for the PSP. Note: MasterBoy 2.10 by GenesisVids is a rebadged copy of version 2.02. It offers no improvements (or even changes) compared to this version. The same applies to EmuMaster 3.0, created by the same person."
 }

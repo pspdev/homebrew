@@ -2,7 +2,6 @@
   "name": "PKGi PSP",
   "id": "pkgi_psp",
   "summary": "This homebrew app allows to download and install .pkg files directly on your PSP.",
-  "description": "PKGi PSP is a PlayStation Portable port of pkgi-ps3.\nThis homebrew app allows to download and install `.pkg` files directly on your PSP.\n\nFeatures:\n* easy to use: list available downloads, including searching, filtering, and sorting.\n* standalone: no PC required, everything happens directly on the PSP.\n* automatic downloads: just choose an item, and it will be downloaded by the app to your Memory Stick (`ms0:/PKG/`).\n* resumes interrupted downloads: you can stop a download at any time, switch applications, and come back to resume the download later.\n* localization support: Finnish, French, German, Indonesian, Italian, Polish, Portuguese, Spanish, Turkish",
   "author": "Dami\u00e1n Parrino (bucanero)",
   "ai_used": false,
   "requires_additional_files": false,
@@ -12,6 +11,9 @@
       "tag": "1.1.0",
       "url": "https://github.com/bucanero/pkgi-psp/releases/download/v1.1.0/pkgi-psp.zip",
       "published_at": "2024-03-03",
+      "size": 5423491,
+      "sha256": "b32d0512364f57295221f82ef25790af2dbe5f78f5268f8666cd310d9d13975d",
+      "eboot_md5": "6de659ff9fbde48a382e33452f507c85",
       "changelog": "Added:\n- Show battery level\n- .Zip file support\n  - Download and exact .zip links\nLocal .PKG installation\n  - Install .pkg files from the PSP's memory stick\n  - Scan and list pakcages from ms0:/PKG\n- Add PSP-Go storage option\n  - Edit config.txt to change storage location (add line storage ms0)\n\nFixed:\nFix progress bar ETA when resuming downloads\n\nMisc:\nAdd OFW-Compatible build (@krazynez)"
     },
     {
@@ -32,7 +34,8 @@
     ],
     "icon": "icons/pkgi_psp.png"
   },
-  "license": "GPLv3",
+  "description": "PKGi PSP is a PlayStation Portable port of pkgi-ps3.\nThis homebrew app allows to download and install `.pkg` files directly on your PSP.\n\nFeatures:\n* easy to use: list available downloads, including searching, filtering, and sorting.\n* standalone: no PC required, everything happens directly on the PSP.\n* automatic downloads: just choose an item, and it will be downloaded by the app to your Memory Stick (`ms0:/PKG/`).\n* resumes interrupted downloads: you can stop a download at any time, switch applications, and come back to resume the download later.\n* localization support: Finnish, French, German, Indonesian, Italian, Polish, Portuguese, Spanish, Turkish",
+  "website": "https://bucanero.github.io/pkgi-psp/",
   "source": "https://github.com/bucanero/pkgi-psp",
-  "website": "https://bucanero.github.io/pkgi-psp/"
+  "license": "GPLv3"
 }

@@ -2,7 +2,6 @@
   "name": "Nazi Zombies: Portable",
   "id": "nazi_zombies_portable",
   "summary": "A zombie survival shooter.",
-  "description": "Nazi Zombies: Portable Beta is a zombie survival shooter for the PlayStation Portable and any Windows machine. You start out at Round 1, where few zombies will come. After you kill the full wave of zombies, it will switch off to Round 2 where more zombies will come. The longer you survive, the harder it gets. You get points for rebuilding barricades, damaging zombies, knifing zombies, etc. The points can then be used to open doors, buy perks, buy weapons off the walls, and use the Mystery Box. The Mystery Box is a box where you pay 950 points in exchange for a random weapon, it ranges from a pistol to a killing machine. If your playing multiplayer, you use teamwork and tactics to survive the onslaught. Stick together to survive.",
   "author": "Jukki, Blubswillrule, Ju[s]tice",
   "ai_used": false,
   "requires_additional_files": false,
@@ -26,5 +25,6 @@
       "https://archive.org/download/2011-05-15-nzppsp/NAZI02642_00000.jpg"
     ],
     "icon": "icons/nazi_zombies_portable.png"
-  }
+  },
+  "description": "Nazi Zombies: Portable Beta is a zombie survival shooter for the PlayStation Portable and any Windows machine. You start out at Round 1, where few zombies will come. After you kill the full wave of zombies, it will switch off to Round 2 where more zombies will come. The longer you survive, the harder it gets. You get points for rebuilding barricades, damaging zombies, knifing zombies, etc. The points can then be used to open doors, buy perks, buy weapons off the walls, and use the Mystery Box. The Mystery Box is a box where you pay 950 points in exchange for a random weapon, it ranges from a pistol to a killing machine. If your playing multiplayer, you use teamwork and tactics to survive the onslaught. Stick together to survive."
 }

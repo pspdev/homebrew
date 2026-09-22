@@ -2,7 +2,6 @@
   "name": "DaedalusX64",
   "id": "daedalusx64",
   "summary": "Nintendo 64 emulator for PSP",
-  "description": "Nintendo 64 emulator for PSP. Credits: kreationz, salvy6735, Corn, Chilly Willy: Original DaedalusX64 code Wally: Optimizations, improvements and ports z2442: Compilation improvements and updating, optimizations mrneo240: Optimizations, compilation help TheMrIron2: Optimizations, wiki maintenance",
   "author": "kreationz, salvy6735, Corn, Chilly Willy, Wally, z2442",
   "ai_used": false,
   "requires_additional_files": false,
@@ -23,5 +22,6 @@
       "https://archive.org/download/daedalus-x-64.7z/pic_0000.jpg"
     ],
     "icon": "icons/daedalusx64.png"
-  }
+  },
+  "description": "Nintendo 64 emulator for PSP. Credits: kreationz, salvy6735, Corn, Chilly Willy: Original DaedalusX64 code Wally: Optimizations, improvements and ports z2442: Compilation improvements and updating, optimizations mrneo240: Optimizations, compilation help TheMrIron2: Optimizations, wiki maintenance"
 }

@@ -2,7 +2,6 @@
   "name": "Simon Says",
   "id": "simon_says",
   "summary": "Button-pressing game.",
-  "decsription": "A simple memory game based on the Phoenix Game Engine v0.02.",
   "author": "sharkwouter",
   "ai_used": false,
   "requires_additional_files": false,

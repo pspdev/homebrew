@@ -2,7 +2,6 @@
   "name": "PCE for PSP",
   "id": "pce_for_psp",
   "summary": "TurboGrafx-16 (also known as PC Engine) emulator.",
-  "description": "TurboGrafx-16 (also known as PC Engine) emulator for the PlayStation Portable. \"Ripfire's Turbo Grafx 16\" is a misattributed copy of version 0.83UO1 of this emulator. The only change is the addition of custom Eboot icons and sounds. The executable (DATA.PSP) is identical.",
   "author": "osakana, \u6c41\u30c0\u30fc\u30af (SeerouxDark)",
   "ai_used": false,
   "requires_additional_files": false,
@@ -23,5 +22,6 @@
       "https://archive.org/download/pcep-083-d-6.7z/PCEP00664_00001.png"
     ],
     "icon": "icons/pce_for_psp.png"
-  }
+  },
+  "description": "TurboGrafx-16 (also known as PC Engine) emulator for the PlayStation Portable. \"Ripfire's Turbo Grafx 16\" is a misattributed copy of version 0.83UO1 of this emulator. The only change is the addition of custom Eboot icons and sounds. The executable (DATA.PSP) is identical."
 }

@@ -2,7 +2,8 @@
   "name": "Simon Says",
   "id": "simon_says",
   "summary": "Button-pressing game.",
-  "author": "Wouter Wijsman (sharkwouter)",
+  "decsription": "A simple memory game based on the Phoenix Game Engine v0.02.",
+  "author": "sharkwouter",
   "ai_used": false,
   "requires_additional_files": false,
   "category": "game",
@@ -17,12 +18,18 @@
     }
   ],
   "tags": [
-    "NEO Retro Coding Compo 2010"
+    "NEO Retro Coding Compo 2010",
+    "memory"
   ],
   "media": {
     "screenshots": [
       "https://archive.org/download/simonsaysv11.7z/SIMO01214_00000.jpg"
     ],
     "icon": "icons/simon_says.png"
-  }
+  },
+  "source": "https://github.com/sharkwouter/simonsays-psp",
+  "license": "MIT",
+  "languages": [
+    "en"
+  ]
 }

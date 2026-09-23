@@ -1,0 +1,31 @@
+{
+  "name": "PSPDX",
+  "id": "pspdx",
+  "summary": "Install and update homebrew on a PlayStation Portable",
+  "author": "chriopter",
+  "ai_used": true,
+  "requires_additional_files": false,
+  "category": "application",
+  "releases": [
+    {
+      "tag": "0.8.5",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v0.8.5/pspdx.zip",
+      "published_at": "2026-09-20",
+      "size": 1749868,
+      "sha256": "1a4ccbb0b298da9f3d6f2aa3693741a3919287fc357c774ca6e1db070ee73d5e",
+      "eboot_md5": "55a5a38c4a084503bf532c9c45781897"
+    }
+  ],
+  "tags": [
+    "download-manager"
+  ],
+  "media": {
+    "screenshots": [
+      "https://github.com/chriopter/pspdx-app/raw/master/assets/pspdx-app.webp"
+    ],
+    "icon": "icons/pspdx.png"
+  },
+  "website": "https://chriopter.github.io/pspdx-catalog/",
+  "source": "https://github.com/chriopter/pspdx-app",
+  "license": "GPLv2.0"
+}

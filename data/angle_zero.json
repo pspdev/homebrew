@@ -1,0 +1,29 @@
+{
+  "name": "Angle Zero",
+  "id": "angle_zero",
+  "summary": "A night-time downhill drift game for the Sony PSP, written in Rust.",
+  "author": "Alberto (ItsNoHax)",
+  "ai_used": true,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.3.0",
+      "url": "https://github.com/ItsNoHax/AngleZero/releases/download/v0.3.0/AngleZero.0.3.0.zip",
+      "published_at": "2026-08-21",
+      "size": 10752941,
+      "sha256": "35fdb89d581a37201c04b1d5c4550d347698db65e768ab43242612eafa7f1cdf",
+      "eboot_md5": "339f177b4a04096ceb7e449404e92294"
+    }
+  ],
+  "tags": [
+    "racing"
+  ],
+  "media": {
+    "screenshots": [
+      "https://github.com/ItsNoHax/AngleZero/raw/main/docs/screenshot.png"
+    ],
+    "icon": "icons/angle_zero.png"
+  },
+  "source": "https://github.com/ItsNoHax/AngleZero"
+}

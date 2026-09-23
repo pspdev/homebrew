@@ -1,0 +1,28 @@
+{
+  "name": "TempGBA4PSP-mod",
+  "id": "tempgba4psp-mod",
+  "summary": " A modernized Game Boy Advance emulator.",
+  "author": "andymcca",
+  "ai_used": false,
+  "requires_additional_files": true,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "20260921",
+      "url": "https://github.com/andymcca/TempGBA4PSP-mod/releases/download/20260921/TempGBA4PSP-Mod_20260921.zip",
+      "published_at": "2026-09-21",
+      "size": 5621612,
+      "sha256": "b896c83435cce2cd6481bc1e459df27df41cc27626a2b9a560a3fcd5ee6a5472",
+      "eboot_md5": "266229baecee2d4530fd961797236d21"
+    }
+  ],
+  "tags": [
+    "gba"
+  ],
+  "media": {
+    "screenshots": [],
+    "icon": "icons/tempgba4psp-mod.png"
+  },
+  "description": "TempGBA4PSP-mod is a maintained PSP port of TempGBA (itself based on phoe-nix\u2019s TempGBA lineage and the classic gpSP dynarec core). This tree focuses on real-hardware PSP usability: better menus, stronger game compatibility, dynarec/video accuracy fixes pulled from upstream libretro/gpSP work, and performance options tuned for Allegrex.\n\nIt remains a homebrew GBA emulator \u2014 you need a legal BIOS dump (gba_bios.bin) and your own ROMs.",
+  "source": "https://github.com/andymcca/TempGBA4PSP-mod"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Tilefinch",
+  "id": "tilefinch",
+  "summary": "An experimental modern web browser.",
+  "author": " Steve Janovitz (stjanovitz)",
+  "ai_used": true,
+  "requires_additional_files": false,
+  "category": "game",
+  "releases": [
+    {
+      "tag": "0.1.26",
+      "url": "https://github.com/stjanovitz/tilefinch/releases/download/v0.1.26/tilefinch-v0.1.26-psp.zip",
+      "published_at": "2026-09-22",
+      "size": 4252752,
+      "sha256": "b14c558974ed27d9f4bea913afeba8fd31dcce5eadeb544d9ca25f8c730bb781",
+      "eboot_md5": "6626bc67cfc7772f6a864e17141563bf"
+    }
+  ],
+  "tags": [
+    "web-browser"
+  ],
+  "media": {
+    "screenshots": [
+      "https://github.com/stjanovitz/tilefinch/blob/main/docs/big-buck-bunny-player.png?raw=true",
+      "https://github.com/stjanovitz/tilefinch/blob/main/docs/wikipedia-on-psp.png?raw=true"
+    ],
+    "icon": "icons/tilefinch.png"
+  },
+  "source": "https://github.com/stjanovitz/tilefinch",
+  "license": "MIT"
+}

@@ -1,0 +1,171 @@
+<head>
+  <title>PSP Homebrew Database Entry Creation Helper</title>
+  <style>
+    #result {
+      border-style: solid;
+    }
+  </style>
+</head>
+<body>
+  <h1>PSP Homebrew Database Entry Creation Helper</h1>
+  <table>
+    <tr>
+      <td>Name*:</td>
+      <td><input id="name" type="text"></td>
+    </tr>
+    <tr>
+      <td>Summary*:</td>
+      <td><input id="summary" type="text" maxlength="128"></td>
+    </tr>
+    <tr>
+      <td>Author*:</td>
+      <td><input id="author" type="text" maxlength="128"></td>
+    </tr>
+    <tr>
+      <td>Version name*:</td>
+      <td><input id="download_tag" type="text" maxlength="128"></td>
+    </tr>
+    <tr>
+      <td>Version release date*:</td>
+      <td><input id="published_at" type="date"></td>
+    </tr>
+    <tr>
+      <td>Download link*:</td>
+      <td><input id="download_url" type="url" maxlength="128"></td>
+    </tr>
+    <tr>
+      <td>Screenshots (comma separated list):</td>
+      <td><input id="screenshots" type="text"></td>
+    </tr>
+    <tr>
+      <td>AI Used:</td>
+      <td><input id="ai_used" type="checkbox"></td>
+    </tr>
+    <tr>
+      <td>Requires additional files:</td>
+      <td><input id="requires_additional_files" type="checkbox"></td>
+    </tr>
+    <tr>
+      <td>
+        Category:
+      </td>
+      <td>
+        <select id="category">
+          <option value="game">Game</option>
+          <option value="emulator">Emulator</option>
+          <option value="application">Application</option>
+        </select>
+      </td>
+    </tr>
+    <tr>
+      <td>Tags (comma separated list):</td>
+      <td><input id="tags" type="text"></td>
+    </tr>
+    <tr>
+      <td>Supported languages (comma separated list of <a href="https://en.wikipedia.org/wiki/ISO_639-1">language codes</a>):</td>
+      <td><input id="languages" type="text"></td>
+    </tr>
+    <tr>
+      <td>Description:</td>
+      <td><textarea id="description" cols="64" rows="10"></textarea></td>
+    </tr>
+    <tr>
+      <td>Website:</td>
+      <td><input id="website" type="url" maxlength="128"></td>
+    </tr>
+    <tr>
+      <td>License:</td>
+      <td><input id="license" type="text" maxlength="128"></td>
+    </tr>
+    <tr>
+      <td>Source link:</td>
+      <td><input id="source" type="text" maxlength="128"></td>
+    </tr>
+  </table>
+  <script>
+    function generate() {
+      let name = document.getElementById("name").value;
+      let id = name.replaceAll(":", "").replaceAll("?", "").replaceAll("!", "").replaceAll(" ", "_").toLowerCase();
+      let description = document.getElementById("description").value;
+      let website = document.getElementById("website").value;
+      let license = document.getElementById("license").value;
+      let source = document.getElementById("source").value;
+      let languages = document.getElementById("languages").value.split(",");
+      let download_tag = document.getElementById("download_tag").value;
+      let download_url = document.getElementById("download_url").value;
+      let published_at = document.getElementById("published_at").value;
+      let summary = document.getElementById("summary").value;
+      let author = document.getElementById("author").value;
+      let content = {
+        "name": name,
+        "id": id,
+        "summary": summary,
+        "author": author,
+        "ai_used": document.getElementById("ai_used").checked,
+        "requires_additional_files": document.getElementById("requires_additional_files").checked,
+        "category": document.getElementById("category").value,
+        "releases": [
+          {
+            "tag": download_tag,
+            "url": download_url,
+            "published_at": published_at
+          }
+        ],
+        "tags": document.getElementById("tags").value.split(","),
+        "media": {
+          "screenshots": document.getElementById("screenshots").value.split(",")
+        }
+      };
+      if (description.length) {
+        content["description"] = description;
+      }
+      if (website.length) {
+        content["website"] = website;
+      }
+      if (license.length) {
+        content["license"] = license;
+      }
+      if (source.length) {
+        content["source"] = source;
+      }
+      if (languages.length) {
+        content["languages"] = languages;
+      }
+
+      let explanation = document.getElementById("explanation");
+      if (!name) {
+        explanation.innerHTML = "Name not set!";
+        return;
+      }
+      if (!summary) {
+        explanation.innerHTML = "Summary not set!";
+        return;
+      }
+      if (!author) {
+        explanation.innerHTML = "Author not set!";
+        return;
+      }
+      if (!download_tag) {
+        explanation.innerHTML = "Version name not set!";
+        return;
+      }
+      if (!download_url) {
+        explanation.innerHTML = "Download link not set!";
+        return;
+      }
+      if (!published_at) {
+        explanation.innerHTML = "Version release date not set!";
+        return;
+      }
+
+      explanation.innerHTML = "Copy the content below and create the file " + id + ".json <a href=\"https://github.com/pspdev/homebrew/new/main/data/\" target=\"_blank\">here</a>.";
+
+      let result = document.getElementById("result");
+      result.innerText = JSON.stringify(content, null, 2);
+      result.hidden = false;
+    }
+  </script>
+  <input type="button" value="Generate JSON" onclick="generate();"><input type="button" value="Reset" onClick="window.location.href=window.location.href;"><br>
+  <div id="explanation"></div>
+  <div id="result" hidden></div>
+</body>

@@ -160,7 +160,7 @@
         return;
       }
 
-      explanation.innerHTML = "Copy the content below and create the file " + id + ".json <a href=\"https://github.com/pspdev/homebrew/new/main/data/\" target=\"_blank\">here</a>, then run ./add-resources-and-info.py on the newly created branch and commit the changes to finish the entry. Then a pull request can be created to <a href=\"{{ github_link }}\">the main GitHub repo</a>";
+      explanation.innerHTML = "Copy the content below and create the file " + id + ".json <a href=\"{{ github_link }}/new/main/data/\" target=\"_blank\">here</a>, then run ./add-resources-and-info.py on the newly created branch and commit the changes to finish the entry. Then a pull request can be created to <a href=\"{{ github_link }}\">the main GitHub repo</a>";
 
       let result = document.getElementById("result");
       result.innerText = JSON.stringify(content, null, 2);

@@ -237,6 +237,14 @@ def create_pages(homebrew_list: list[Homebrew]) -> None:
                 )
             )
 
+    add_homebrew_file_name = "add-homebrew.html"
+    add_homebrew_template = env.get_template(add_homebrew_file_name)
+    with open(os.path.join(DIST_DIR, add_homebrew_file_name), "w") as fd:
+        fd.write(
+            add_homebrew_template.render(
+                github_link=github_link,
+            )
+        )
 
 def copy_json_files() -> None:
     for file_name in os.listdir(DATA_DIR):

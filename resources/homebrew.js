@@ -9,7 +9,6 @@ function createHomebrewTiles() {
   let starting_i = (currentPage - 1) * pageSize;
   for(let i = starting_i; i < filtered_catalog.length && i < starting_i + pageSize; i++) {
     let homebrew = document.createElement("div");
-    homebrew.className = "homebrew";
 
     let name = document.createElement("div");
     name.className = "name";
@@ -42,6 +41,7 @@ function createHomebrewTiles() {
     let link = document.createElement("a");
     link.href = filtered_catalog[i].id + ".html";
     link.target = "_blank";
+    link.className = "homebrew";
     link.appendChild(homebrew);
     homebrew_list.appendChild(link);
   }

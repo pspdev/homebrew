@@ -1,12 +1,11 @@
 <head>
   <title>PSP Homebrew Database Entry Creation Helper</title>
-  <style>
-    #result {
-      border-style: solid;
-    }
-  </style>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <nav>
+    <a id="title" href="">PSP <span>Homebrew</span> Database</a>
+  </nav>
   <h1>PSP Homebrew Database Entry Creation Helper</h1>
   <table>
     <tr>
@@ -168,4 +167,5 @@
   <input type="button" value="Generate JSON" onclick="generate();"><input type="button" value="Reset" onClick="window.location.href=window.location.href;"><br>
   <div id="explanation"></div>
   <div id="result" hidden></div>
+  <div id="github_link">Source on <a href="{{ github_link }}/blob/main/resources/add-homebrew.html">GitHub</a></div>
 </body>

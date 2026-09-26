@@ -157,3 +157,7 @@ nav {
 #github_link {
   text-align: center;
 }
+
+#result {
+  border-style: solid;
+}

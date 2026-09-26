@@ -6,7 +6,10 @@
   <nav>
     <a id="title" href="">PSP <span>Homebrew</span> Database</a>
   </nav>
-  <h1>PSP Homebrew Database Entry Creation Helper</h1>
+  <h1>Add New Homebrew</h1>
+  <p>
+    This page should help adding new homebrew to the PSP Homebrew Database by generating the json entry for it from the form below. This does not create a pull request for you, but instructions will be given below on the steps to take before submitting one.
+  </p>
   <table>
     <tr>
       <td>Name*:</td>
@@ -73,7 +76,7 @@
       <td><input id="website" type="url" maxlength="128"></td>
     </tr>
     <tr>
-      <td>License:</td>
+      <td>License (Use the <a href="https://spdx.org/licenses/">SPDX identifier</a> if possible):</td>
       <td><input id="license" type="text" maxlength="128"></td>
     </tr>
     <tr>
@@ -157,7 +160,7 @@
         return;
       }
 
-      explanation.innerHTML = "Copy the content below and create the file " + id + ".json <a href=\"https://github.com/pspdev/homebrew/new/main/data/\" target=\"_blank\">here</a>, then run ./add-resources-and-info.py on the newly created branch and commit the changes to finish the entry.";
+      explanation.innerHTML = "Copy the content below and create the file " + id + ".json <a href=\"https://github.com/pspdev/homebrew/new/main/data/\" target=\"_blank\">here</a>, then run ./add-resources-and-info.py on the newly created branch and commit the changes to finish the entry. Then a pull request can be created to <a href="{{ github_link }}">the main GitHub repo</a>";
 
       let result = document.getElementById("result");
       result.innerText = JSON.stringify(content, null, 2);

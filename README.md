@@ -7,8 +7,8 @@ This repo contains the source for a Playstation Portable homebrew database, whic
 To build the website you need Python 3 to be installed. To set up your environment for building you can execute the following commands:
 
 ```
-git clone https://github.com/sharkwouter/psp-homebrew-database.git
-cd psp-homebrew-database
+git clone https://github.com/pspdev/homebrew.git
+cd homebrew
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt

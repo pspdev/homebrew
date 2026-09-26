@@ -148,7 +148,12 @@ function applyFilters() {
     }
     filtered_catalog.push(catalog[i]);
   }
+  if (filtered_catalog.length == 0) {
+    document.getElementById("tag_select").value = "";
+    applyFilters();
+  }
   currentPage = 1;
+  populateTags();
   createHomebrewTiles();
   createPaginationLinks();
 }
@@ -173,11 +178,16 @@ function populateCategories() {
 }
 
 function populateTags() {
+  let category = document.getElementById("category_select").value;
     let tags = []
     for (let i = 0; i < catalog.length; i++) {
+      if (category.length > 0 && catalog[i].category != category) {
+        continue;
+      }
       for (let j = 0; j < catalog[i].tags.length; j++) {
-        if (!tags.includes(catalog[i].tags[j])) {
-          tags.push(catalog[i].tags[j])
+        let tag = catalog[i].tags[j];
+        if (tag.length > 0 && tag != " " && !tags.includes(tag)) {
+          tags.push(tag)
         }
       }
     }
@@ -185,11 +195,27 @@ function populateTags() {
     tags.sort();
 
     let tag_select = document.getElementById("tag_select");
+    let current_tag = tag_select.value;
+    tag_select.innerHTML = "";
+    let default_option = document.createElement("option");
+    default_option.value = "";
+    default_option.innerHTML = "--"
+    tag_select.appendChild(default_option);
+    let tag_found = false;
     for (let i = 0; i < tags.length; i++) {
       let option = document.createElement("option");
       option.value = tags[i];
       option.innerHTML = tags[i].charAt(0).toUpperCase() + tags[i].slice(1);
       tag_select.appendChild(option);
+
+      if (tags[i] == current_tag) {
+        tag_found = true;
+      }
+    }
+    if (tag_found) {
+      tag_select.value = current_tag;
+    } else {
+      tag_select.value = "";
     }
 }
 

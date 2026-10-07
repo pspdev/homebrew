@@ -8,6 +8,15 @@
   "category": "application",
   "releases": [
     {
+      "tag": "1.1.4",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v1.1.4/pspdx.zip",
+      "published_at": "2026-10-06",
+      "size": 1854579,
+      "sha256": "48f0f8133d0def2be3c81b10ff35e2d4ba5a194e407e2451d7735cd792483fe7",
+      "eboot_md5": "565f74d075600239cc69a4d5aa72ee4e",
+      "changelog": "Fixed launching apps and restarting after updates on Memory Stick and PSP Go System Storage."
+    },
+    {
       "tag": "0.8.5",
       "url": "https://github.com/chriopter/pspdx-app/releases/download/v0.8.5/pspdx.zip",
       "published_at": "2026-09-20",

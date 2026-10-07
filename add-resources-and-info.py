@@ -101,7 +101,7 @@ def main():
 
             logging.info(f"Writing {homebrew_json_path}")
             with open(homebrew_json_path, "w") as fd:
-                fd.write(json.dumps(homebrew.to_dict(), indent=2))
+                fd.write(json.dumps(homebrew.to_dict(include_ci=True), indent=2))
         except Exception:
             logging.error("Could not read %s", homebrew_json_path, exc_info=True)
     logging.info("Done, make sure to add and commit changes to the data and resources directory to git")

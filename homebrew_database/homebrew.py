@@ -59,6 +59,8 @@ class Homebrew:
     tags: list[str] = field(default_factory=list)
     languages: list[str] = field(default_factory=list)
     icon: str = None
+    # CI controls must survive add-resources-and-info.py's JSON round trip.
+    scan_releases: bool | None = None
 
     def __gt__(self, other: 'Homebrew') -> bool:
         self_last_release = self.get_last_release()
@@ -74,7 +76,7 @@ class Homebrew:
             return None
         return sorted(self.releases, reverse=True)[0]
 
-    def to_dict(self) -> dict:
+    def to_dict(self, *, include_ci: bool = False) -> dict:
         return_dict = {
             "name": self.name,
             "id": self.id,
@@ -102,6 +104,8 @@ class Homebrew:
             return_dict["media"]["icon"] = self.icon
         if len(self.languages) > 0:
             return_dict["languages"] = self.languages
+        if include_ci and self.scan_releases is not None:
+            return_dict["scan_releases"] = self.scan_releases
         
         self.releases.sort(reverse=True)
         for release in self.releases:
@@ -146,6 +150,7 @@ def get_homebrew_from_json_data(id: str, data: dict) -> Homebrew:
           tags=data.get("tags", list()),
           icon=data["media"].get("icon", None),
           languages=data.get("languages", list()),
+          scan_releases=data.get("scan_releases", None),
         )
     except (KeyError, ValueError) as e:
         raise HomebrewProcessingException(f"Could not process json data for {id}") from e

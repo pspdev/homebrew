@@ -94,13 +94,13 @@ After creating the file, run the `add-resources-and-info.py` script once. This w
 ## Release updates
 
 - **Opt-in:** `"scan_releases": true` in [`data/`](data/); `source` names the GitHub repo.
-- **Hourly:** add stable releases, checksums and the latest icon.
+- **Daily:** add stable releases, checksums and the latest icon.
 - **Metadata:** unchanged; drafts and prereleases are skipped.
 - **ZIP:** one ZIP, or exactly one with `psp` in its name.
   Missing or ambiguous ZIPs are skipped.
 
 ```text
-hourly scan -> changes? -> build check -> commit + push -> website build -> deploy
+daily scan -> changes? -> build check -> commit + push -> website build -> deploy
                    no -> done
 ```
 
@@ -121,7 +121,7 @@ python scan-releases.py            # update
 python -m unittest discover -s tests -v
 ```
 
-[`scan-releases.py`](scan-releases.py) · [hourly workflow](.github/workflows/scan-releases.yml)
+[`scan-releases.py`](scan-releases.py) · [daily workflow](.github/workflows/scan-releases.yml)
 
 Requires push access to `main`. `GITHUB_TOKEN` raises the API rate limit.
 Known ZIPs are not downloaded again; differing GitHub digests are reported.

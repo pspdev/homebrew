@@ -2,7 +2,7 @@ name: Scan releases
 
 on:
   schedule:
-    - cron: '37 * * * *'
+    - cron: '37 3 * * *'
   workflow_dispatch:
   pull_request:
     paths:

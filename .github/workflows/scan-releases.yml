@@ -1,0 +1,82 @@
+name: Scan releases
+
+on:
+  schedule:
+    - cron: '37 3 * * *'
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - 'scan-releases.py'
+      - 'tests/**'
+      - 'homebrew_database/**'
+      - '.github/workflows/scan-releases.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: release-scanner-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - run: python -m unittest discover -s tests -v
+
+  scan:
+    needs: tests
+    if: github.repository == 'pspdev/homebrew' && github.ref_name == 'main' && github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    permissions:
+      contents: write
+      actions: write
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Scan approved entries
+        id: scan
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python scan-releases.py
+      - name: Check for changes
+        id: changes
+        run: |
+          git add -- data resources/icons
+          if ! git diff --cached --quiet; then
+            echo 'changed=true' >> "$GITHUB_OUTPUT"
+          fi
+      - name: Validate with the existing website build
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          python -m pip install -r requirements.txt
+          python build.py
+      - name: Commit and push validated updates
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Added releases from approved repositories'
+          # A concurrent change to main rejects this push. Never force or
+          # rebase generated data over a curator's edits; the next run retries.
+          git push origin HEAD:main
+      - name: Publish updated database
+        if: steps.changes.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run publish.yml --ref main
+      - name: Report scan failures
+        if: always() && steps.scan.outcome == 'failure'
+        run: |
+          echo 'Some entries could not be scanned; see the scan log. Their existing data was kept.'
+          exit 1

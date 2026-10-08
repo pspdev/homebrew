@@ -91,6 +91,43 @@ Here is a description for each field in a release:
 
 After creating the file, run the `add-resources-and-info.py` script once. This will add the icon and information like the md5 checksum of the `EBOOT.PBP` and the sha256 checksum and sie of the archive for each release. If this wasn't done, the build will fail.
 
+## Release updates
+
+- **Opt-in:** `"scan_releases": true` in [`data/`](data/); `source` names the GitHub repo.
+- **Daily:** add stable releases, checksums and the latest icon.
+- **Metadata:** unchanged; drafts and prereleases are skipped.
+- **ZIP:** one ZIP, or exactly one with `psp` in its name.
+  Missing or ambiguous ZIPs are skipped.
+
+```text
+daily scan -> changes? -> build check -> commit + push -> website build -> deploy
+                   no -> done
+```
+
+<details>
+<summary><b>Scanner</b> · checks, workflow, failures</summary>
+
+- **Checks:** download size, SHA-256 when GitHub supplies it, ZIP paths and CRCs,
+  one EBOOT with a valid PBP header. Records ZIP SHA-256 and EBOOT MD5.
+- **History:** keeps existing releases; `v1.0` and `1.0` count as one.
+- **Skipped:** missing or ambiguous ZIPs and invalid packages; reason in the log.
+- **Errors:** network or download verification fails → entry unchanged; run fails.
+- **Build or push fails:** no update to `main`; no force-push.
+- **Publish fails:** rerun **CI** on `main`.
+
+```sh
+python scan-releases.py --dry-run  # check
+python scan-releases.py            # update
+python -m unittest discover -s tests -v
+```
+
+[`scan-releases.py`](scan-releases.py) · [daily workflow](.github/workflows/scan-releases.yml)
+
+Requires push access to `main`. `GITHUB_TOKEN` raises the API rate limit.
+Known ZIPs are not downloaded again; differing GitHub digests are reported.
+
+</details>
+
 ## Using the homebrew database data in applications
 
 The PSP Homebrew Database supports a couple of formats for applications like homebrew stores to use. In every single format, the homebrew list is returned by last updated with the newest at the top. Below they will be listed with a description of how to use each.

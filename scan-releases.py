@@ -328,7 +328,7 @@ def main():
     )
     args = parser.parse_args()
     logging.basicConfig(level=logging.INFO, format="%(message)s")
-    changed, errors = scan(ROOT, dry_run=args.dry_run)
+    changed, errors = scan(root=ROOT, dry_run=args.dry_run)
     LOGGER.info(
         "%d entries %s, %d errors",
         changed,

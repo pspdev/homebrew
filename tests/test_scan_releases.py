@@ -93,7 +93,7 @@ def network(items, content=None):
 class ScannerTests(unittest.TestCase):
     def test_invalid_historical_package_does_not_block_new_releases(self):
         invalid = b"old invalid package"
-        older = release("v0.9", date="2026-08-01T12:00:00Z", content=invalid)
+        older = release(tag="v0.9", date="2026-08-01T12:00:00Z", content=invalid)
         good = release()
 
         def fetcher(url):
@@ -102,7 +102,7 @@ class ScannerTests(unittest.TestCase):
             return invalid if "/v0.9/" in url else archive()
 
         with self.assertLogs(scanner.LOGGER, level="WARNING"):
-            updated, _ = scanner.prepare(entry(), fetcher)
+            updated, _ = scanner.prepare(data=entry(), fetcher=fetcher)
         self.assertEqual([r["tag"] for r in updated["releases"]], ["v2.0", "1.0"])
 
     def test_newest_icon_uses_existing_filename_and_unicode_ids(self):
@@ -119,38 +119,60 @@ class ScannerTests(unittest.TestCase):
             icon.parent.mkdir(parents=True)
             icon.write_bytes(b"previous icon")
             newest = release(content=content)
-            self.assertEqual(scanner.scan(root, network([newest], content)), (1, []))
+            self.assertEqual(
+                scanner.scan(
+                    root=root,
+                    fetcher=network(items=[newest], content=content),
+                ),
+                (1, []),
+            )
             updated = json.loads(path.read_text())
             self.assertEqual(updated["media"]["icon"], "icons/app_日本語.png")
             self.assertEqual(icon.read_bytes(), png)
             self.assertEqual(list(icon.parent.iterdir()), [icon])
             self.assertEqual(path.read_text(), json.dumps(updated, indent=2))
-            older = release("v0.9", date="2026-08-01T12:00:00Z", content=content)
+            older = release(tag="v0.9", date="2026-08-01T12:00:00Z", content=content)
             newest_bytes = path.read_bytes()
-            self.assertEqual(scanner.scan(root, network([newest], content)), (0, []))
+            self.assertEqual(
+                scanner.scan(
+                    root=root,
+                    fetcher=network(items=[newest], content=content),
+                ),
+                (0, []),
+            )
             self.assertEqual(path.read_bytes(), newest_bytes)
             self.assertEqual(
-                scanner.scan(root, network([newest, older], content)), (1, [])
+                scanner.scan(
+                    root=root,
+                    fetcher=network(items=[newest, older], content=content),
+                ),
+                (1, []),
             )
             self.assertEqual(icon.read_bytes(), png)
 
     def test_backfill_does_not_replace_existing_icon(self):
         png = (ROOT / "resources" / "icons" / "pspdx.png").read_bytes()
         content = archive(icon=png)
-        older = release("v0.9", date="2026-08-01T12:00:00Z", content=content)
-        updated, icon = scanner.prepare(entry(), network([older], content))
+        older = release(tag="v0.9", date="2026-08-01T12:00:00Z", content=content)
+        updated, icon = scanner.prepare(
+            data=entry(),
+            fetcher=network(items=[older], content=content),
+        )
         self.assertIsNone(icon)
         self.assertEqual(updated["media"], entry()["media"])
 
     def test_public_metadata_omits_ci_settings(self):
-        model = get_homebrew_from_json_data("app", entry())
+        model = get_homebrew_from_json_data(id="app", data=entry())
         self.assertNotIn("scan_releases", model.to_dict())
         self.assertIs(model.to_dict(include_ci=True)["scan_releases"], True)
 
     def test_ambiguous_release_does_not_block_a_usable_release(self):
-        ambiguous = release("v3.0")
+        ambiguous = release(tag="v3.0")
         ambiguous["assets"].append(copy.deepcopy(ambiguous["assets"][0]))
-        updated, _ = scanner.prepare(entry(), network([ambiguous, release()]))
+        updated, _ = scanner.prepare(
+            data=entry(),
+            fetcher=network(items=[ambiguous, release()]),
+        )
         self.assertEqual([r["tag"] for r in updated["releases"]], ["v2.0", "1.0"])
 
     def test_invalid_package_is_skipped_without_changing_the_entry(self):
@@ -162,7 +184,8 @@ class ScannerTests(unittest.TestCase):
             before = path.read_bytes()
             corrupt = b"not a zip"
             changed, errors = scanner.scan(
-                root, network([release(content=corrupt)], corrupt)
+                root=root,
+                fetcher=network(items=[release(content=corrupt)], content=corrupt),
             )
             self.assertEqual((changed, errors), (0, []))
             self.assertEqual(path.read_bytes(), before)
@@ -178,7 +201,7 @@ class ScannerTests(unittest.TestCase):
                 ),
                 self.assertRaises(OSError),
             ):
-                scanner.atomic_write(path, b"updated")
+                scanner.atomic_write(path=path, content=b"updated")
             self.assertEqual(path.read_bytes(), b"original")
             self.assertEqual(list(root.iterdir()), [path])
 
@@ -189,12 +212,18 @@ class ScannerTests(unittest.TestCase):
             data = entry()
             data["scan_releases"] = "true"
             (root / "data" / "app.json").write_text(json.dumps(data))
-            changed, errors = scanner.scan(root, lambda url: self.fail(url))
+            changed, errors = scanner.scan(
+                root=root,
+                fetcher=lambda url: self.fail(url),
+            )
             self.assertEqual((changed, len(errors)), (0, 1))
 
     def test_new_releases_preserve_curated_fields_and_history(self):
         original = entry()
-        updated, icon = scanner.prepare(original, network([release()]))
+        updated, icon = scanner.prepare(
+            data=original,
+            fetcher=network(items=[release()]),
+        )
         self.assertEqual(original, entry())
         for key in original.keys() - {"releases"}:
             self.assertEqual(updated[key], original[key])
@@ -206,48 +235,55 @@ class ScannerTests(unittest.TestCase):
         self.assertIsNone(icon)
 
     def test_known_tag_with_leading_v_is_not_downloaded_or_duplicated(self):
-        known = release("v1.0")
+        known = release(tag="v1.0")
         known["assets"][0]["digest"] = "sha256:" + "a" * 64
 
         def get(url):
             self.assertIn("api.github.com", url)
             return json.dumps([known]).encode()
 
-        updated, _ = scanner.prepare(entry(), get)
+        updated, _ = scanner.prepare(data=entry(), fetcher=get)
         self.assertEqual(updated, entry())
 
     def test_known_asset_replacement_is_reported_without_blocking_updates(self):
         with self.assertLogs(scanner.LOGGER, level="WARNING") as logs:
-            updated, _ = scanner.prepare(entry(), network([release("v1.0"), release()]))
+            updated, _ = scanner.prepare(
+                data=entry(),
+                fetcher=network(items=[release(tag="v1.0"), release()]),
+            )
         self.assertIn("known release asset changed", logs.output[0])
         self.assertEqual([r["tag"] for r in updated["releases"]], ["v2.0", "1.0"])
         self.assertEqual(updated["releases"][1], entry()["releases"][0])
 
     def test_drafts_and_prereleases_are_ignored(self):
-        draft, preview = release(), release("v3.0")
+        draft, preview = release(), release(tag="v3.0")
         draft["draft"], preview["prerelease"] = True, True
         self.assertEqual(
-            scanner.prepare(entry(), network([draft, preview]))[0], entry()
+            scanner.prepare(
+                data=entry(),
+                fetcher=network(items=[draft, preview]),
+            )[0],
+            entry(),
         )
 
     def test_pagination_reads_history_and_sorts_by_publication(self):
-        first = [release(f"v{i}") for i in range(100)]
-        last = release("v100", date="2026-10-02T12:00:00Z")
+        first = [release(tag=f"v{i}") for i in range(100)]
+        last = release(tag="v100", date="2026-10-02T12:00:00Z")
 
         def get(url):
             return json.dumps(first if url.endswith("page=1") else [last]).encode()
 
-        fetched = scanner.fetch_releases("test/app", get)
+        fetched = scanner.fetch_releases(repo="test/app", fetcher=get)
         self.assertEqual(len(fetched), 101)
         self.assertEqual(fetched[0]["tag_name"], "v100")
 
     def test_same_day_backfill_stays_behind_the_known_newest_release(self):
         data = entry()
         data["releases"][0]["published_at"] = "2026-10-01"
-        newest = release("v1.0", date="2026-10-01T18:00:00Z")
+        newest = release(tag="v1.0", date="2026-10-01T18:00:00Z")
         newest["assets"][0]["digest"] = "sha256:" + "a" * 64
-        older = release("v0.9", date="2026-10-01T08:00:00Z")
-        updated, _ = scanner.prepare(data, network([older, newest]))
+        older = release(tag="v0.9", date="2026-10-01T08:00:00Z")
+        updated, _ = scanner.prepare(data=data, fetcher=network(items=[older, newest]))
         self.assertEqual([r["tag"] for r in updated["releases"]], ["1.0", "v0.9"])
 
     def test_truncated_download_is_isolated_to_its_entry(self):
@@ -265,18 +301,18 @@ class ScannerTests(unittest.TestCase):
             def get(url):
                 if "/test/bad/" in url:
                     raise http.client.IncompleteRead(b"partial", 100)
-                return network([release()])(url)
+                return network(items=[release()])(url)
 
-            changed, errors = scanner.scan(root, get)
+            changed, errors = scanner.scan(root=root, fetcher=get)
             self.assertEqual((changed, len(errors)), (1, 1))
             self.assertEqual(path.read_bytes(), before)
 
     def test_zip_selection_requires_a_unique_match(self):
         r = release()
         r["assets"] += [copy.deepcopy(r["assets"][0])]
-        self.assertIsNone(scanner.select_asset(r))
+        self.assertIsNone(scanner.select_asset(release=r))
         r["assets"][1]["name"] = "linux.zip"
-        self.assertEqual(scanner.select_asset(r)["name"], "psp.zip")
+        self.assertEqual(scanner.select_asset(release=r)["name"], "psp.zip")
 
     def test_wrong_size_digest_and_download_host_are_rejected(self):
         for field, value in [
@@ -288,7 +324,7 @@ class ScannerTests(unittest.TestCase):
                 r = release()
                 r["assets"][0][field] = value
                 with self.assertRaises(scanner.ScanError):
-                    scanner.prepare(entry(), network([r]))
+                    scanner.prepare(data=entry(), fetcher=network(items=[r]))
 
     def test_unsafe_ambiguous_and_invalid_packages_are_rejected(self):
         for entries in [
@@ -298,16 +334,16 @@ class ScannerTests(unittest.TestCase):
             {"EBOOT.PBP": b"x", "eboot.pbp": b"x"},
         ]:
             with self.subTest(entries=entries), self.assertRaises(scanner.ScanError):
-                scanner.inspect_package(archive(entries))
+                scanner.inspect_package(archive=archive(entries=entries))
 
     def test_corrupt_non_eboot_resource_is_rejected(self):
         eboot = b"\x00PBP" + b"\x00\x00\x01\x00" + (40).to_bytes(4, "little") * 8
         content = archive(
-            {"EBOOT.PBP": eboot, "resource.dat": b"unique resource bytes"}
+            entries={"EBOOT.PBP": eboot, "resource.dat": b"unique resource bytes"}
         )
         damaged = content.replace(b"unique resource bytes", b"broken resource bytes", 1)
         with self.assertRaisesRegex(scanner.ScanError, "CRC"):
-            scanner.inspect_package(damaged)
+            scanner.inspect_package(archive=damaged)
 
     def test_release_without_zip_does_not_block_other_releases(self):
         with tempfile.TemporaryDirectory() as directory:
@@ -315,9 +351,12 @@ class ScannerTests(unittest.TestCase):
             (root / "data").mkdir()
             path = root / "data" / "app.json"
             path.write_text(json.dumps(entry()))
-            older = release("v1.5", date="2026-09-15T12:00:00Z")
+            older = release(tag="v1.5", date="2026-09-15T12:00:00Z")
             older["assets"] = []
-            changed, errors = scanner.scan(root, network([release(), older]))
+            changed, errors = scanner.scan(
+                root=root,
+                fetcher=network(items=[release(), older]),
+            )
             self.assertEqual((changed, errors), (1, []))
             self.assertEqual(
                 [r["tag"] for r in json.loads(path.read_text())["releases"]],
@@ -351,7 +390,7 @@ class ScannerTests(unittest.TestCase):
                     data["scan_releases"] = flag
                 (root / "data" / "app.json").write_text(json.dumps(data))
                 self.assertEqual(
-                    scanner.scan(root, lambda url: self.fail(url)), (0, [])
+                    scanner.scan(root=root, fetcher=lambda url: self.fail(url)), (0, [])
                 )
 
     def test_failed_entry_is_unchanged_while_other_entry_updates(self):
@@ -364,7 +403,10 @@ class ScannerTests(unittest.TestCase):
             bad.write_text(json.dumps(broken))
             before = bad.read_bytes()
             good.write_text(json.dumps(entry()))
-            changed, errors = scanner.scan(root, network([release()]))
+            changed, errors = scanner.scan(
+                root=root,
+                fetcher=network(items=[release()]),
+            )
             self.assertEqual(changed, 1)
             self.assertEqual(len(errors), 1)
             self.assertEqual(bad.read_bytes(), before)
@@ -377,18 +419,33 @@ class ScannerTests(unittest.TestCase):
             path = root / "data" / "app.json"
             path.write_text(json.dumps(entry()))
             before = path.read_bytes()
-            self.assertEqual(scanner.scan(root, network([release()]), True), (1, []))
+            self.assertEqual(
+                scanner.scan(
+                    root=root,
+                    fetcher=network(items=[release()]),
+                    dry_run=True,
+                ),
+                (1, []),
+            )
             self.assertEqual(path.read_bytes(), before)
-            self.assertEqual(scanner.scan(root, network([release()])), (1, []))
+            self.assertEqual(
+                scanner.scan(root=root, fetcher=network(items=[release()])),
+                (1, []),
+            )
             after = path.read_bytes()
-            self.assertEqual(scanner.scan(root, network([release()])), (0, []))
+            self.assertEqual(
+                scanner.scan(root=root, fetcher=network(items=[release()])),
+                (0, []),
+            )
             self.assertEqual(path.read_bytes(), after)
 
     def test_ci_controls_survive_existing_enrichment_script_round_trip(self):
         for flag in [True, False]:
             data = entry()
             data["scan_releases"] = flag
-            updated = get_homebrew_from_json_data("app", data).to_dict(include_ci=True)
+            updated = get_homebrew_from_json_data(id="app", data=data).to_dict(
+                include_ci=True,
+            )
             self.assertIs(updated["scan_releases"], flag)
 
 

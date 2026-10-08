@@ -179,7 +179,7 @@ def release_record(repo, release, asset, fetcher):
     sha = hashlib.sha256(archive).hexdigest()
     if asset.get("digest") and asset["digest"] != "sha256:" + sha:
         raise ScanError("asset SHA-256 does not match GitHub")
-    eboot_md5, icon = inspect_package(archive)
+    eboot_md5, icon = inspect_package(archive=archive)
     published = datetime.datetime.fromisoformat(
         release["published_at"].replace("Z", "+00:00")
     )
@@ -218,30 +218,32 @@ def check_known_asset(repo, release, existing):
 
 
 def prepare(data, fetcher):
-    repo = repository(data.get("source"))
+    repo = repository(source=data.get("source"))
     existing = data["releases"]
     if not isinstance(existing, list):
         raise ScanError("releases must be a list")
-    known = {tag_key(r["tag"]): r for r in existing}
+    known = {tag_key(tag=r["tag"]): r for r in existing}
     # Optional: read the repo's .pspdx here for release selection or metadata updates.
-    remote = fetch_releases(repo, fetcher)
+    remote = fetch_releases(repo=repo, fetcher=fetcher)
     added, icon = [], None
     latest_date = max((r["published_at"] for r in existing), default="")
     newest_seen = False
     for release in remote:
-        key = tag_key(release["tag_name"])
+        key = tag_key(tag=release["tag_name"])
         if key in known:
             newest_seen = True
-            check_known_asset(repo, release, known[key])
+            check_known_asset(repo=repo, release=release, existing=known[key])
             continue
-        asset = select_asset(release)
+        asset = select_asset(release=release)
         if asset is None:
             LOGGER.warning(
                 "%s %s: no unique ZIP asset, skipped", repo, release["tag_name"]
             )
             continue
         try:
-            record, new_icon = release_record(repo, release, asset, fetcher)
+            record, new_icon = release_record(
+                repo=repo, release=release, asset=asset, fetcher=fetcher
+            )
         except PackageError as error:
             LOGGER.warning("%s %s: %s, skipped", repo, release["tag_name"], error)
             continue
@@ -254,12 +256,12 @@ def prepare(data, fetcher):
     if added:
         # Dates in this database have no time of day. Use GitHub's full
         # timestamp order to keep same-day backfills behind newer releases.
-        order = {tag_key(r["tag_name"]): index for index, r in enumerate(remote)}
+        order = {tag_key(tag=r["tag_name"]): index for index, r in enumerate(remote)}
         updated["releases"] = sorted(
             added + existing,
             key=lambda r: (
                 r["published_at"],
-                -order.get(tag_key(r["tag"]), len(remote)),
+                -order.get(tag_key(tag=r["tag"]), len(remote)),
             ),
             reverse=True,
         )
@@ -289,7 +291,7 @@ def scan(root, fetcher=fetch, dry_run=False):
                 raise ScanError("scan_releases must be a boolean")
             if not flag:
                 continue
-            updated, icon = prepare(data, fetcher)
+            updated, icon = prepare(data=data, fetcher=fetcher)
             if updated == data:
                 continue
             icon_path = None
@@ -300,8 +302,8 @@ def scan(root, fetcher=fetch, dry_run=False):
             content = json.dumps(updated, indent=2).encode("utf-8")
             if not dry_run:
                 if icon_path:
-                    atomic_write(icon_path, icon)
-                atomic_write(path, content)
+                    atomic_write(path=icon_path, content=icon)
+                atomic_write(path=path, content=content)
             changed += 1
             LOGGER.info(
                 "%s: %d releases added",

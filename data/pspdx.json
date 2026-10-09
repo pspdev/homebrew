@@ -8,12 +8,183 @@
   "category": "application",
   "releases": [
     {
+      "tag": "v1.1.5",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v1.1.5/pspdx.zip",
+      "published_at": "2026-10-07",
+      "size": 1860399,
+      "sha256": "8b695e53f940a2b2f667f6a77fecf3c6a4f0ab05e1948f157b75b7fa3b65636b",
+      "eboot_md5": "f200197691d63134123e92949c7b4242",
+      "changelog": "### \u2728 New\n\n- **Errors stay on screen.** A failure waits for X, with a small line under it to show us in a photo.\n- **Set up USBNet** under the gear: connect over the USB cable at any time, not only at the first start.\n- **One file.** The PSPDX folder holds just EBOOT.PBP; the font and the USB plugin are inside it.\n\n### \ud83d\udee0 Fixed\n\n- PSPDX shows under its source again.\n- No more updates offered for an app that was just installed.\n- Updates are found even when the PSP's date is wrong.\n- Several plugins from INBOX: each one is asked about.\n\n### \u2705 Tested\n\n100 runs on a real PSP-1000 (6.60 + ARK), all passed:\n- 25\u00d7 first start over the USB cable until online\n- 25\u00d7 USBNet install, on, off, delete\n- 25\u00d7 install and delete an app from GitHub\n- 15\u00d7 Run an installed app\n- 10\u00d7 start with the built-in font\n\nThe font also in PPSSPP without firmware fonts.\n\nExtract `pspdx.zip` to your PSP storage, or update through PSPDX.\n\n\n\n"
+    },
+    {
+      "tag": "v1.1.4",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v1.1.4/pspdx.zip",
+      "published_at": "2026-10-06",
+      "size": 1854579,
+      "sha256": "48f0f8133d0def2be3c81b10ff35e2d4ba5a194e407e2451d7735cd792483fe7",
+      "eboot_md5": "565f74d075600239cc69a4d5aa72ee4e",
+      "changelog": "### \ud83d\udee0 Fixed\n\n- **Start apps from PSPDX.** \"Run\" and the restart after an update did nothing in 1.1.0 to 1.1.3. Both work again, from the Memory Stick and from the PSP Go's System Storage.\n\nTested on PSP Go (6.60 + ARK).\n\nExtract `pspdx.zip` to your PSP storage, or update through PSPDX.\n"
+    },
+    {
+      "tag": "v1.1.3",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v1.1.3/pspdx.zip",
+      "published_at": "2026-10-06",
+      "size": 1854391,
+      "sha256": "01bbf498207279ac45fb3aab95ed1508affbec05c2ee7c1507d718584f5d497e",
+      "eboot_md5": "9b88283b6c361b779f3f27d0583852a8",
+      "changelog": "![PSPDX over the USB cable](https://raw.githubusercontent.com/chriopter/pspkit-usbnet/master/assets/pspdx-usbnet-promo.webp)\n\n### \u2728 New\n\n- **Online over the USB cable.** No Wi-Fi needed: choose \"USB cable\" at the first start and PSPDX sets up [USBNet](https://github.com/chriopter/pspkit-usbnet) for you.\n- **PSPDX finds the gateway.** It looks for the gateway on your PC and tells you where to get it if it is not running.\n- **Plugins.** Install, turn on and off, update and delete plugins right from the store.\n- **Faster downloads.** Up to twice as fast on a PSP Go.\n\n### \ud83d\udee0 Fixed\n\n- **Run works again.** In 1.1.0 to 1.1.2 starting an app from PSPDX, and the restart after an update, did nothing.\n\nTested on PSP-1000 and PSP Go (6.60 + ARK).\n\nExtract `pspdx.zip` to your PSP storage, or update through PSPDX. [\u25b6 The video in full quality](https://github.com/chriopter/pspdx-app/releases/download/v1.1.3/pspdx-usbnet-promo.mp4)"
+    },
+    {
+      "tag": "v1.0.4",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v1.0.4/pspdx.zip",
+      "published_at": "2026-10-04",
+      "size": 1817481,
+      "sha256": "208d2d697be301447ac6d391ae2eecd862b53b0ce004f9758ffd93172cbcf546",
+      "eboot_md5": "5dfa41c4035b282ef1d8f78ecf872815",
+      "changelog": "Fixes the \"PSPDX failed / font: nothing loadable\" startup error in PPSSPP when flash0 font access fails.\n\n- Ships a free replacement font beside EBOOT.PBP and loads it when firmware fonts are unavailable.\n- Keeps firmware fonts as the first choice on real PSP hardware.\n- Includes the font in the release package and development launchers, with source and license information.\n\nValidation: PSP build, 156 client tests with address/undefined-behavior sanitizers, schema checks, and a successful PPSSPP 1.20.4 launch on a fresh Memory Stick without a debug font override.\n\nExtract pspdx.zip into your PSP or PPSSPP Memory Stick directory, preserving the full package."
+    },
+    {
+      "tag": "v1.0.3",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v1.0.3/pspdx.zip",
+      "published_at": "2026-10-01",
+      "size": 1794717,
+      "sha256": "55553ba78255efebdf803a403a965f9b3a8448be5404c9f3b38274f4ea75a40a",
+      "eboot_md5": "9e6212a91ec9d4fa6a137267209c81c8",
+      "changelog": "### \u2728 New\n\n- **Emulators have their own category.** About 180 emulators are now one press away under Categories.\n- **New categories show up on their own.** Whatever category a source adds in future gets its own row.\n\nTested on PSP-1000 (6.61 + ARK). WPA2 needs ARK-5.\n\nExtract `pspdx.zip` to your PSP storage, or update through PSPDX."
+    },
+    {
+      "tag": "v1.0.2",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v1.0.2/pspdx.zip",
+      "published_at": "2026-10-01",
+      "size": 1794051,
+      "sha256": "3074dc28ccb535145a300fb341d4804ddc3616e1c4ed50654900a0d305ba2911",
+      "eboot_md5": "962dde24501590a2b80bd4f6be7463f8",
+      "changelog": "### \u2728 New\n\n- **Release date.** An app's page now shows when its release came out, next to the version.\n\nTested on PSP-1000 (6.61 + ARK). WPA2 needs ARK-5.\n\nExtract `pspdx.zip` to your PSP storage, or update through PSPDX."
+    },
+    {
+      "tag": "v1.0.1",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v1.0.1/pspdx.zip",
+      "published_at": "2026-10-01",
+      "size": 1794106,
+      "sha256": "c5337b86024e45f639e8066fbe79edcf2d113b39eddb064fcf3f20bfabb45bb4",
+      "eboot_md5": "2b30e7ebfcc461a250c92f49a4f15949",
+      "changelog": "### \u2728 New\n\n- **Search.** The first row under Homebrews finds apps by name, author, tag or description.\n- **Sort any list.** Press **SELECT** to switch between newest first and by name. Your choice is kept.\n- **UI mode up front.** The 60 / 30 FPS switch is now the first row under the wrench, no longer hidden in Options.\n\n### \ud83d\udc1b Fixed\n\n- The glow behind the update sign is no longer cut off at the edge of the screen or the list.\n\nTested on PSP-1000 (6.61 + ARK). WPA2 needs ARK-5.\n\nExtract `pspdx.zip` to your PSP storage, or update through PSPDX."
+    },
+    {
+      "tag": "v1.0.0",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v1.0.0/pspdx.zip",
+      "published_at": "2026-10-01",
+      "size": 1791995,
+      "sha256": "572a9cf79b86ae77228068a605d3a80196be696dcf196dd696feeb8055ffae9a",
+      "eboot_md5": "9a7f56a7c12dbc1d23e579534ed2e492",
+      "changelog": "**PSPDX 1.0 is here: find, install and update homebrew right on your PSP. No PC, no cable.**\n\n![A tour of PSPDX, real footage from a PSP-1004](https://github.com/chriopter/pspdx-app/releases/download/v1.0.0/pspdx-tour.webp)\n\n[\u25b6 Watch in full quality](https://github.com/chriopter/pspdx-app/releases/download/v1.0.0/pspdx-tour.mp4) \u00b7 real footage from a PSP-1004\n\n### \u2b50 What PSPDX does\n\n- **About 1,750 apps in one list.** The whole pspdev catalog plus community sources, newest first. Add your own sources too.\n- **Browse your way.** By category, by tag in a tag cloud, or by source, with app icons as a preview.\n- **See before you install.** Screenshots and short films of the apps, right on the card.\n- **Install with one button.** PSPDX downloads, checks and unpacks the app to your Memory Stick.\n- **Background downloads.** Keep browsing while apps download and install.\n- **Basket.** Collect several apps and get them all at once.\n- **Updates in one press.** PSPDX shows what is new, for your apps and for itself. Saves and settings stay.\n- **Safe.** Every download is verified, and an install cut off by a power loss is rolled back. Tested automatically on real hardware: hours of scripted browsing, downloads, installs and updates on a PSP-1000.\n- **Works offline.** The catalog and pictures are kept, so browsing works without Wi-Fi.\n\n### \ud83d\udc1b Fixed since 0.9.2\n\n- Labels fit the PSP's own font; contest tags no longer fill the tag cloud.\n- The chosen display mode survives switching the PSP off.\n- Download notes in the basket no longer overlap.\n\nTested on PSP-1000 (6.61 + ARK). WPA2 needs ARK-5.\n\nExtract `pspdx.zip` to your PSP storage, or update through PSPDX.\n"
+    },
+    {
+      "tag": "v0.9.2",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v0.9.2/pspdx.zip",
+      "published_at": "2026-09-30",
+      "size": 1791318,
+      "sha256": "167b59e13a4ee380b603ec5ca7c265672bda3ca1bfbb7701fab4d9f546cfae9d",
+      "eboot_md5": "a334d45d173876efec2e705555cadc96",
+      "changelog": "### \u2728 New\n\n- Browse the store by category, by tag or by source.\n- Tags open as a cloud, most used first.\n- Each group shows a few app icons as a preview.\n\n### \ud83d\udc1b Fixed\n\n- App films play on the PSP-1000 and in the XMB; one bad film no longer stops all others.\n- Icons of installed apps show at once; large icons show instead of staying blank.\n- Quick button presses are no longer lost, and a button held while starting is ignored.\n- Dates are right even after the PSP was without power.\n- All Options rows are reachable; empty categories can be left again.\n- Small apps show their size in KB.\n\nTested on PSP-1000 (6.61 + ARK). Host tests passed.\n\nExtract `pspdx.zip` to your PSP storage, or update through PSPDX."
+    },
+    {
+      "tag": "v0.9.1",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v0.9.1/pspdx.zip",
+      "published_at": "2026-09-29",
+      "size": 1789083,
+      "sha256": "60ee78809d0417f32d06febb60eec621dd6a9903da096782528bbe42127e7566",
+      "eboot_md5": "dc593a77f0d233db6ff30d00ab48e0e3",
+      "changelog": "### \ud83d\udc1b Fixed\n\n- App icons keep showing while downloads run.\n\n### \ud83c\udfa5 Demo\n\n![A tour of PSPDX](https://github.com/chriopter/pspdx-app/releases/download/v0.9.1/pspdx-tour.webp)\n\n[\u25b6 Full quality](https://github.com/chriopter/pspdx-app/releases/download/v0.9.1/pspdx-tour.mp4)\n\nHost tests passed. Tested in PPSSPP.\n\nExtract `pspdx.zip` to your PSP storage, or update through PSPDX."
+    },
+    {
+      "tag": "v0.9.0",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v0.9.0/pspdx.zip",
+      "published_at": "2026-09-28",
+      "size": 1788245,
+      "sha256": "24382b744ef93d2875de578a184b9589210817a3013b343b66e95c7d14ac9c49",
+      "eboot_md5": "9600a6001a748a83ee219bc18074b075",
+      "changelog": "### \u2728 New\n\n- The whole pspdev catalog, about 1,750 apps, newest first.\n- More apps install: when a ZIP holds several versions, PSPDX picks the app and shows what goes where before installing.\n- While PSPDX sits idle, it loads all app icons in the background. Can be switched off under Quirks.\n\n### \u26a1 Faster\n\n- The catalog loads about 10\u00d7 faster.\n- Hold up or down to fly through long lists.\n- Icons and pictures appear much sooner, starting with the app under the cursor.\n\n### \ud83d\udc1b Fixed\n\n- Some downloads from archive.org failed; they now take another route.\n- Icons of apps with non-English names were missing.\n- Failed installs now say why.\n\n### \ud83c\udfa5 Demo\n\n![A tour of PSPDX](https://github.com/chriopter/pspdx-app/releases/download/v0.9.0/pspdx-tour.webp)\n\n[\u25b6 With sound](https://github.com/chriopter/pspdx-app/releases/download/v0.9.0/pspdx-tour.mp4)\n\nTested on PSP-1000 (6.61 + ARK). Host tests passed.\n\nExtract `pspdx.zip` to your PSP storage, or update through PSPDX.\n"
+    },
+    {
       "tag": "0.8.5",
       "url": "https://github.com/chriopter/pspdx-app/releases/download/v0.8.5/pspdx.zip",
       "published_at": "2026-09-20",
       "size": 1749868,
       "sha256": "1a4ccbb0b298da9f3d6f2aa3693741a3919287fc357c774ca6e1db070ee73d5e",
       "eboot_md5": "55a5a38c4a084503bf532c9c45781897"
+    },
+    {
+      "tag": "v0.8.4",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v0.8.4/pspdx.zip",
+      "published_at": "2026-09-20",
+      "size": 1749668,
+      "sha256": "59cd3a3bbf8a036b7369b195913005f145be6cca708875f3c94767960b21aed5",
+      "eboot_md5": "cdcb523650abbe4a78e3d761c2675298",
+      "changelog": "### \u2728 New\n\n- Live download speed in the cart, app details and focused progress screen, updated every 0.5 seconds.\n\n### \ud83d\udd04 Updated\n\n- Baked UI at 30 FPS is the default again. Saved preferences are preserved.\n- Individual and cart downloads start in quiet focus mode. \u25cb returns to the cart while downloads continue.\n- Background browsing temporarily uses the lighter 60 FPS UI until the queue finishes.\n- Button hints restored on app detail pages.\n\n### \ud83d\udc1b Fixed\n\n- Selecting \u201cDownloads in progress\u201d reopens focus mode and follows the queue.\n\n### \ud83d\udcca Download speeds\n\nPrevious PSP Go measurements: the same 1,672,559-byte ZIP, three transfers per mode. Includes TLS/redirects, internal-storage writes and SHA-256 verification.\n\n| Mode | Throughput | Time per download |\n| --- | ---: | ---: |\n| Baked UI / 30 FPS, background | 1.40 Mbit/s | 9.55 s |\n| Merciful UI / 60 FPS, background | 1.95 Mbit/s | 6.86 s |\n| No UI drawing | 2.74 Mbit/s | 4.89 s |\n\nThe UI modes use different effects, so this does not isolate the FPS limit. No UI drawing is a benchmark baseline, not the focused progress screen. Focus-mode throughput in 0.8.4 has not been remeasured. Rates use decimal Mbit/s and vary with WLAN and server conditions.\n\nPSP build, 145 host tests and queue/settings checks passed. Started in PPSSPP.\n\nExtract `pspdx.zip` to your PSP storage.\n"
+    },
+    {
+      "tag": "v0.8.3",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v0.8.3/pspdx.zip",
+      "published_at": "2026-09-20",
+      "size": 1749062,
+      "sha256": "3a15de6b7969380342771d0c3c6e437ced365bf0d9a5fe147f8d4303a4dc92a5",
+      "eboot_md5": "fd09b91d0410e77e46e8e3f6e5eedfb2",
+      "changelog": "### \u2728 New\n\n- Background downloads with a shared cart queue and per-app progress.\n- L/R switches tabs and restores the previous app page and scroll position.\n- Native PSP Wi-Fi dialog and PSP Go install destinations.\n\n### \ud83d\udd04 Updated\n\n- 60 FPS UI by default; Baked UI switches temporarily during downloads.\n- Cleaner app details and direct installation without an extra confirmation.\n- pspkit-https 0.2.3 and reduced rendering cost.\n\n### \ud83d\udc1b Fixed\n\n- WLAN timeouts, storage handling and MPEG teardown.\n\n### \ud83c\udfa5 Demo\n\n![Two apps added to the cart and downloaded in the background](https://github.com/chriopter/pspdx-app/releases/download/v0.8.3/background-downloads.webp)\n\n10-second demo \u00b7 sped up and edited.\n\nTested on PSP Go and PPSSPP. Host tests and CI passed.\n\nExtract `pspdx.zip` to your PSP storage.\n"
+    },
+    {
+      "tag": "v0.8.1",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v0.8.1/pspdx.zip",
+      "published_at": "2026-09-17",
+      "size": 1712387,
+      "sha256": "f5e58de93241b2f3fc1b09dcfcf20de03a4d1f2ed441d3180ea76f34fd8f4f42",
+      "eboot_md5": "673ec60f78a4bf95921224f089c0f830",
+      "changelog": "### \u2728 New\n\n- Optional 60 FPS mode (Merciful UI), saved in settings. Baked UI at 30 FPS remains the default.\n- Game, Demo and App categories, plus dedicated app detail pages.\n\n### \ud83d\udd04 Updated\n\n- Consistent font and icon sizes; pixel-aligned app images and videos.\n- Direct install under Manage sources; development settings under Quirks.\n- Separate audio decoding with buffered playback.\n\n### \ud83d\udc1b Fixed\n\n- Slow performance after closing the system keyboard.\n- Incorrect category navigation and audio interruptions during scrolling.\n- Malformed PSMF/MP4 handling and reuse of failed decoders.\n\nTested on PSP Go (6.60 + ARK-5) and PPSSPP.\n"
+    },
+    {
+      "tag": "v0.8.0",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v0.8.0/pspdx.zip",
+      "published_at": "2026-09-15",
+      "size": 1690766,
+      "sha256": "d29805cdb08cdfb40c7ab4ba4a9a74302f4581760ffc9fe475b68d21a0df43d5",
+      "eboot_md5": "27265d40bea54040c2c51e48e557d8c7",
+      "changelog": "Includes changes from 0.5, 0.6 and 0.7.\n\n### \u2728 New\n\n- Install and update apps without a `.pspdx`, using catalog entries or GitHub releases.\n- UTF-8 text and full, scrollable descriptions.\n- Exact release pinning and SHA-256 verification for non-GitHub apps.\n\n### \ud83d\udd04 Updated\n\n- Updates preserve saves and settings; only files included in the ZIP are replaced.\n- Catalogs without `schema` are accepted as v1. Installed apps keep their existing folders.\n- Free-space checks before download and extraction; large images are scaled down.\n- pspkit-https 0.2.2 with a 120-second fetch timeout.\n- Moved to `chriopter/pspdx-app`; the old app entry is cleaned up on first start.\n\n### \ud83d\udc1b Fixed\n\n- Crashes with long descriptions, missing non-ASCII text and invalid metadata handling.\n- Folder conflicts, stalled recovery and deletion of PSPDX's own folder.\n- Duplicate entries, inconsistent update checks, INBOX handling and misleading network errors.\n"
+    },
+    {
+      "tag": "v0.4",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v0.4/pspdx.zip",
+      "published_at": "2026-09-15",
+      "size": 1676344,
+      "sha256": "ebcf31c1688bed0a92bd1ccbd6ec0b51542ba35d1af41cb7094359158df20bca",
+      "eboot_md5": "6e6f9b647e84759e9bc121226cd7df29",
+      "changelog": "### \u2728 New\n\n- Support for the v1 `.pspdx` and catalog formats, including tags, app types and release lists.\n- Preset catalogs added once; removed presets stay removed.\n- External app listings and substitute manifests (replaced in 0.8.0).\n\n### \ud83d\udd04 Updated\n\n- Update detection uses the installed ZIP's SHA-256, with date comparison for older records.\n- Gzip catalog transfers and smaller manifest allocations.\n- HTTPS moved to pspkit-https with Mozilla's root certificates.\n- Unknown metadata fields are ignored; longer names and descriptions are supported.\n- Revised water animation and published JSON schemas.\n\n### \ud83d\udc1b Fixed\n\n- Path buffer overflow and unterminated host strings.\n- Folder claims by non-installable apps, missing error logs and schema validation mismatches.\n- App-name truncation and unstable short-wave animation.\n\nPSPDX 0.3 cannot read the new catalog. To upgrade, extract `pspdx.zip` to the Memory Stick manually.\n"
+    },
+    {
+      "tag": "v0.3",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v0.3/pspdx.zip",
+      "published_at": "2026-09-15",
+      "size": 1458104,
+      "sha256": "8f5624cef7dca6c3907c4516060af982ccad0d58828aee0c88281bd70de55dee",
+      "eboot_md5": "2baddcacf358f192fc69010f5fdd5ca3",
+      "changelog": "### \u2728 New\n\n- Ambient music and button sounds.\n- Manage Data for sources, installed apps, INBOX and system files, with cached media previews.\n- Quick catalog checks, full repository checks and catalog age indicators.\n- Self-updates without a catalog and a restart prompt after updating.\n- Confirmation before connecting with an expired or unknown-issuer certificate.\n\n### \ud83d\udd04 Updated\n\n- App actions, scrolling long names, Reset and Clear Cache options.\n- wolfSSL 5.9.2, TLS connection reuse and text-list fallback for catalog URLs.\n\n### \ud83d\udc1b Fixed\n\n- Removal of apps with long paths, interrupted-install recovery and stale temporary files.\n- Conflicting install records, invalid catalogs and case-sensitive self-update paths.\n- Certificate date checks, TLS seed renewal and missing settings rows.\n\n### \ud83c\udfa5 Demo\n\n<img src=\"https://github.com/chriopter/pspdx-app/releases/download/v0.3/pspdx-0.3.webp\" width=\"472\" alt=\"App options, Manage Data and Reset in PSPDX 0.3\">\n"
+    },
+    {
+      "tag": "v0.2",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v0.2/pspdx.zip",
+      "published_at": "2026-09-15",
+      "size": 1373477,
+      "sha256": "72b50dffea4dce95cb83371f4bd57a632d0257a1164e2085a24780385578a987",
+      "eboot_md5": "354e6e4297439d9d2dcd1cdbadfe0776",
+      "changelog": "### \u2728 New\n\n- App metadata stored in each repository's `.pspdx` and retained after installation.\n- Updates without a catalog, additional catalog/repository sources and INBOX installs.\n- Automatic recovery of interrupted installations.\n\n### \ud83d\udd04 Updated\n\n- XMB-style controls and settings for sources, direct installs, updates and reset.\n- Native-size videos, idle background images and media loaded from installed EBOOTs.\n\n### \ud83d\udc1b Fixed\n\n- Black boxes behind text and icons.\n- Failed installations blocking subsequent installs.\n- Image resizing when video starts and audio interruptions during scrolling.\n- Development builds incorrectly offering an older release as an update.\n"
+    },
+    {
+      "tag": "v0.1",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v0.1/pspdx.zip",
+      "published_at": "2026-09-15",
+      "size": 962407,
+      "sha256": "d06b0dfb410326a0185afe355f1b9e50ce3fad1bbc63161f7a986cb21ad1f128",
+      "eboot_md5": "6f00f045d0ea92bf9ebe2faa0870233b",
+      "changelog": "### \u2728 New\n\n- Browse, install and update PSP homebrew from a catalog.\n- TLS 1.3 downloads with certificate verification and SHA-256 package checks.\n- App update checks and PSPDX self-updates.\n- Category tabs, updates view and cart.\n- Animated backgrounds, music, app icons and video previews.\n- Connection status and offline retry.\n\n### \ud83d\udc1b Fixed\n\n- Media request race condition.\n- Socket connections waiting for the full timeout.\n- Abrupt transitions in the water animation.\n"
     }
   ],
   "tags": [

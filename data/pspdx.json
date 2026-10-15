@@ -198,6 +198,6 @@
   },
   "website": "https://chriopter.github.io/pspdx-catalog/",
   "source": "https://github.com/chriopter/pspdx-app",
-  "scan_releases": true,
-  "license": "GPLv2.0"
+  "license": "GPLv2.0",
+  "scan_releases": true
 }

@@ -1,0 +1,40 @@
+{
+  "name": "NJEMU",
+  "id": "njemu",
+  "summary": "CPS1, CPS2, NEOGEO and NEOGEO CDEmulators",
+  "author": "fjtrujy",
+  "ai_used": true,
+  "requires_additional_files": true,
+  "category": "emulator",
+  "releases": [
+    {
+      "tag": "3.0.3",
+      "url": "https://github.com/fjtrujy/NJEMU",
+      "published_at": "2026-10-15"
+    }
+  ],
+  "tags": [
+    "neogeo",
+    " cps1",
+    " cps2",
+    " ncdz",
+    " emulators"
+  ],
+  "media": {
+    "screenshots": [
+      "https://github.com/fjtrujy/NJEMU/blob/master/data/artwork/mvs/startup_280_158.png?raw=true",
+      "https://github.com/fjtrujy/NJEMU/blob/master/data/artwork/ncdz/startup_280_158.png?raw=true",
+      "https://github.com/fjtrujy/NJEMU/blob/master/data/artwork/cps2/startup_280_158.png?raw=true",
+      "https://github.com/fjtrujy/NJEMU/blob/master/data/artwork/cps1/startup_280_158.png?raw=true"
+    ]
+  },
+  "description": "NJEMU is an open-source emulator for classic Capcom and SNK arcade hardware. It started as a PSP project and now shares one C codebase across PSP, PlayStation 2, PlayStation Vita, and Desktop.\n\nThe project emulates:\n\nCapcom CPS1\nCapcom CPS2\nNeo Geo MVS/AES\nNeo Geo CD (NCDZ)\nNJEMU focuses on keeping the original low-memory console targets practical while sharing emulator policy, GUI code, rendering semantics, metadata, configuration, and tooling across platforms.",
+  "website": "https://github.com/fjtrujy/NJEMU",
+  "license": "GPL-3.0-only",
+  "source": "https://github.com/fjtrujy/NJEMU",
+  "languages": [
+    "es",
+    " en",
+    " ch"
+  ]
+}

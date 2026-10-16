@@ -8,6 +8,15 @@
   "category": "application",
   "releases": [
     {
+      "tag": "v1.2.0",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v1.2.0/pspdx.zip",
+      "published_at": "2026-10-15",
+      "size": 1862116,
+      "sha256": "52750b2c13360749b8a96b9886168ad84819f5d6db32ec29ee1a1746d25f3851",
+      "eboot_md5": "74789132f596ffda065586df8a304950",
+      "changelog": "USB networking, a clearer setup screen.\n\n- Bundles USBNet 1.0, including PSP Street network-menu support.\n- Moves the USBNet preview below the explanation on the right, giving the menu label more room.\n- Keeps the familiar USB setup and connection flow.\n\nDownload pspdx.zip, extract it onto your Memory Stick and launch PSPDX.\n\n"
+    },
+    {
       "tag": "v1.1.5",
       "url": "https://github.com/chriopter/pspdx-app/releases/download/v1.1.5/pspdx.zip",
       "published_at": "2026-10-07",

@@ -8,6 +8,15 @@
   "category": "application",
   "releases": [
     {
+      "tag": "v1.2.1",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v1.2.1/pspdx.zip",
+      "published_at": "2026-10-19",
+      "size": 1864305,
+      "sha256": "8e5627a27296aa36448f0b03dc654cd0ebd892b5d3436f627c95d55606fd6683",
+      "eboot_md5": "79ee5bd16b5df1dd3923dcccfcb1edf6",
+      "changelog": "Fixed Archive.org downloads with pspkit-https 0.2.6.\n\n- Restored Archive TLS and decoded chunked metadata responses.\n- Recovered moved ZIPs and failed storage mirrors, preserving size and SHA-256 checks.\n- Restricted fallback hosts to genuine Archive.org subdomains.\n- Added a repeatable download audit with ten parallel PPSSPP instances.\n\nVerified all 1,764 current catalog payloads by size, SHA-256 and ZIP CRC.\n44 initial source errors were investigated and verified replacement URLs tested.\nSeven upstream catalog corrections are prepared separately; they are not bundled here.\n15 ZIPs with multiple equally shallow EBOOTs remain ambiguous for the installer.\n\nValidation: 186 client host tests, 13 certificate cases, request sanitizers,\n53 successful emulator installations and a separately linked library release ZIP.\n\n"
+    },
+    {
       "tag": "v1.2.0",
       "url": "https://github.com/chriopter/pspdx-app/releases/download/v1.2.0/pspdx.zip",
       "published_at": "2026-10-15",

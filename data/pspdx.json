@@ -8,6 +8,15 @@
   "category": "application",
   "releases": [
     {
+      "tag": "v1.2.2",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v1.2.2/pspdx.zip",
+      "published_at": "2026-10-20",
+      "size": 1863912,
+      "sha256": "56a81ea1c61e671d5bfa17d4acffaf1d9b1e726143a01a46c1f7a7768ff167c9",
+      "eboot_md5": "86f49ca7f2f6f7fd3feed839d1e014df",
+      "changelog": "Network diagnostics now survive periodic performance telemetry. Saved logs include network initialization checkpoints and Sony connection dialog status changes to diagnose USBNet connection failures.\n\n"
+    },
+    {
       "tag": "v1.2.1",
       "url": "https://github.com/chriopter/pspdx-app/releases/download/v1.2.1/pspdx.zip",
       "published_at": "2026-10-19",

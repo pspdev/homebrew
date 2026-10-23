@@ -8,6 +8,15 @@
   "category": "application",
   "releases": [
     {
+      "tag": "v1.2.3",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v1.2.3/pspdx.zip",
+      "published_at": "2026-10-22",
+      "size": 1864954,
+      "sha256": "a73477e95699d40705ce9efb53f5a43a1a440dc965871056a8afbfe3c7aee20a",
+      "eboot_md5": "f42297af49f8d763ba46ab96e8f223f5",
+      "changelog": "PSPDX 1.2.3\n\n- Updated pspkit-https to 0.2.7 with Mozilla's October 20, 2026 trust store: 118 roots, removing three emSign roots.\n- Refreshes PSPDX-managed USBNet installations while preserving disabled plugins and custom files. Replacing a running plugin requires a full PSP restart.\n- Reports when Sony's network dialog cannot load, with module, firmware and connection diagnostics in the log. Normal cancellation remains quiet.\n\nIf network settings do not open in either PSPDX or XMB, the firmware may be missing Sony's network dialog module. A clean official firmware 6.61 installation followed by ARK-5 fixed the affected PSP Street; back up your data and follow the installation guide for your model.\n\n"
+    },
+    {
       "tag": "v1.2.2",
       "url": "https://github.com/chriopter/pspdx-app/releases/download/v1.2.2/pspdx.zip",
       "published_at": "2026-10-20",

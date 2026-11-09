@@ -8,6 +8,96 @@
   "category": "application",
   "releases": [
     {
+      "tag": "v2.3.0",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v2.3.0/pspdx.zip",
+      "published_at": "2026-11-08",
+      "size": 1960467,
+      "sha256": "246dd7ffcae2b90550da3376d15b072e39044170c12c70f9be636cbe5424e7fa",
+      "eboot_md5": "3959c3f3fe4f7f63b6ddd6a0ca8f274b",
+      "changelog": "PSPDX 2.3 \ud83d\udcaa Downloads that don't give up:\n\n- \ud83d\udd01 **Resume**: a download that breaks off picks up where it stopped, even after a restart\n- \ud83c\udf0a **No more waves**: the Memory Stick writes while the next bytes arrive\n- \u23f1\ufe0f **Time left**: a steady speed and the minutes still to go\n- \ud83d\udcbe **Free space**: how much room is left on your Memory Stick while you download\n- \u25b3 **Launcher menu**: Start, Favorite or Delete a game right from the launcher\n\nDownload `pspdx.zip`, extract it onto your Memory Stick, or update inside PSPDX.\n\n"
+    },
+    {
+      "tag": "v2.2.0",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v2.2.0/pspdx.zip",
+      "published_at": "2026-11-08",
+      "size": 1956861,
+      "sha256": "2b278badd97a8c8df82ed18447dde988d2667c390cec7de49aaadd44abbe54bc",
+      "eboot_md5": "ff813c0bdf79ee583cb29be44cfd95d0",
+      "changelog": "PSPDX 2.2 \ud83c\udfe0 A launcher that feels like home:\n\n- \ud83c\udfe0 **Launcher**: all your games in one list, each kind starting with its sign; X or START starts right away\n- \u2b50 **Favorites**: press \u25a1 and a game moves to the very front\n- \ud83e\udded **New tabs**: Store, Launcher and UMDs in the middle; basket, updates and settings on the right\n- \ud83d\udcf6 **No Wi-Fi popup at start**: what you fetched last shows at once; Connect when you want new stuff\n- \ud83d\udd04 **Auto Connect**: pick a network once, PSPDX connects in the background on every start\n- \ud83c\udf10 **Network menu**: go online or offline, Auto Connect, Sources, USBNet and Tailscale in one place\n- \ud83e\uddf9 **Tidier settings**: Launcher first, Autocache, Developer Mode; Renew TLS Seed now under Restore Defaults\n\nDownload `pspdx.zip`, extract it onto your Memory Stick, or update inside PSPDX.\n\n"
+    },
+    {
+      "tag": "v2.1.0",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v2.1.0/pspdx.zip",
+      "published_at": "2026-11-08",
+      "size": 1952261,
+      "sha256": "fc64cf2770b78eea05ba6665adc995dfc43a0ecf2a20af130afdb002f7e25dad",
+      "eboot_md5": "2cc55f9c22729062d8e61208eb097249",
+      "changelog": "PSPDX 2.1 \ud83c\udfae Your PSP's games, one tap away:\n\n- \ud83d\udcda **Library**: every game on your stick in the middle \u2014 PSP ISOs, PSN, PS1 and homebrew, with video previews; X starts it\n- \ud83d\ude80 **Launcher**: turn it on under Options and your PSP boots straight into PSPDX (ARK); XMB takes you back to the home menu\n- \u26a1 **Instant start**: no connection at start; the store and updates connect when you open them\n- \ud83d\udcbf **UMDs** from catalogs now live under Categories\n- \ud83c\udf10 **Tailscale**: shows Error when the device is gone, reloads catalogs after setup\n- \ud83c\udfce\ufe0f **Faster**: the UMD grid at 60 FPS again\n\nDownload `pspdx.zip`, extract it onto your Memory Stick, or update inside PSPDX.\n\n"
+    },
+    {
+      "tag": "v2.0.0",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v2.0.0/pspdx.zip",
+      "published_at": "2026-11-08",
+      "size": 1954484,
+      "sha256": "4e5aa6c5170d5ae60c98da29b9c58c2c64462dc4b2f92187f677709e6d1768f1",
+      "eboot_md5": "6edcc430b3a811b71eca0bdc634e5b76",
+      "changelog": "PSPDX 2.0 \ud83c\udf89 Everything since 1.0:\n\n- \ud83c\udf10 **Tailscale**: set up with `tunnel.txt`, on per source, Test and Remove\n- \ud83d\udcbf **UMDs**: grid with video previews and flags, install and start ISOs, [pspdx-shelf](https://github.com/chriopter/pspdx-shelf)\n- \ud83c\udfe0 **Your own catalogs**: over http://, with a password, Edit/Password/Tailscale/Test/Delete\n- \u2728 **Looks**: full 480x272 backdrop, new music, SELECT sorting, sharp icons\n- \ud83d\udd0c **Connections**: USBNet, remembered certificates, Archive.org, IP addresses on real hardware\n- \ud83d\ude80 **Under the hood**: a third of the memory per app, errors stay on screen, tested on a real PSP\n\nDownload `pspdx.zip`, extract it onto your Memory Stick, or update inside PSPDX.\n"
+    },
+    {
+      "tag": "v1.6.0",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v1.6.0/pspdx.zip",
+      "published_at": "2026-11-08",
+      "size": 1877169,
+      "sha256": "5f959607aaba8d26e72e218c466139e463db81aecda01ea3a306b3f7c3fd7b37",
+      "eboot_md5": "922447abd7356ca81072df77e53a2fbd",
+      "changelog": "PSPDX 1.6.0\n\n- Many more apps fit in memory: every catalog entry takes a third of the room it did, so a large disc library next to the big homebrew lists loads whole.\n- Large catalogs are read one app at a time, without holding the whole list in memory at once while they load.\n\nDownload pspdx.zip, extract it onto your Memory Stick and launch PSPDX.\n\n"
+    },
+    {
+      "tag": "v1.5.0",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v1.5.0/pspdx.zip",
+      "published_at": "2026-11-08",
+      "size": 1876165,
+      "sha256": "de2ce8a4712701fee8f2eece2174f612fa5027eeeaa3276613f031e8a381baef",
+      "eboot_md5": "e1974512fdee851071099257e7e7bb12",
+      "changelog": "PSPDX 1.5.0\n\n- Catalogs behind a password: PSPDX asks for it when you add the source and remembers it. Under Sources, X on a source edits its address, sets its password or deletes it, so a typo no longer means deleting and typing it again.\n- The app page shows the game's picture behind everything at full 480x272, now also in the 60 FPS mode.\n- SELECT sorts by newest, by name or installed first; the hint fades once you scroll down.\n- The UMD grid loads all icons it shows and no longer peeks at the row below.\n- Updated pspkit-https to 0.2.10.\n\nDownload pspdx.zip, extract it onto your Memory Stick and launch PSPDX.\n\n"
+    },
+    {
+      "tag": "v1.4.0",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v1.4.0/pspdx.zip",
+      "published_at": "2026-11-07",
+      "size": 1872572,
+      "sha256": "e655dcd713b4f1f4a671ecb65d962dc1b87578555a4d003ebee3cea1a99fdb25",
+      "eboot_md5": "80fc74e73c20b899fc82bf18d8c8bb35",
+      "changelog": "PSPDX 1.4.0\n\n- Catalogs you host yourself can be plain http://, with no certificate: type the address with http:// and it stays that way. Their downloads are checked against the catalog's SHA-256.\n- A source that does not answer when you add it is saved anyway and tried again at every refresh, so you never type it twice. A self-signed https source then asks \"connect anyway?\" once.\n- Updated pspkit-https to 0.2.9.\n\nDownload pspdx.zip, extract it onto your Memory Stick and launch PSPDX.\n\n"
+    },
+    {
+      "tag": "v1.3.2",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v1.3.2/pspdx.zip",
+      "published_at": "2026-11-07",
+      "size": 1872525,
+      "sha256": "a9067e6e7361345c72d1e3089ffba3531a58d1f3838caa083ec9aa949c3519c9",
+      "eboot_md5": "0eed1c1e01b90a9eb437b0995e862923",
+      "changelog": "PSPDX 1.3.2\n\n- Start an installed ISO right from PSPDX: Run on its options, or X on its page, asks first and starts it through the custom firmware's ISO driver, as its game menu does.\n\nDownload pspdx.zip, extract it onto your Memory Stick and launch PSPDX.\n\n"
+    },
+    {
+      "tag": "v1.3.1",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v1.3.1/pspdx.zip",
+      "published_at": "2026-11-07",
+      "size": 1871963,
+      "sha256": "003350f5724764a2efeacf44ea0a36f7d14fad13dbbb0cda52f496a9a9b68438",
+      "eboot_md5": "5db66275deec739d66e1698f92c8d1e0",
+      "changelog": "PSPDX 1.3.1\n\n- Fixed deleting an installed ISO: it no longer says that the install location is unknown.\n- The app's data page names an ISO's file.\n\nDownload pspdx.zip, extract it onto your Memory Stick and launch PSPDX.\n\n"
+    },
+    {
+      "tag": "v1.3.0",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v1.3.0/pspdx.zip",
+      "published_at": "2026-11-07",
+      "size": 1872411,
+      "sha256": "debe5cc1ee2598e35588f47adaeddc518b0c30e7a29b00d6c195dc529d14e71f",
+      "eboot_md5": "08dd64a32e5a40c4ee742c960518330b",
+      "changelog": "PSPDX 1.3.0\n\n- UMDs: catalogs can list disc images. The UMD tab shows them as a grid of icons, one per game, with its regional versions as flags on the game's page.\n- Installs an ISO straight to ISO/ on the Memory Stick or the PSP Go's storage, checked against the catalog's SHA-256; start it from the PSP's game menu. Delete removes it again.\n- A certificate you accepted with \"connect anyway\" is remembered for that host, so you are asked once, not at every start. Updated pspkit-https to 0.2.8.\n- Long summaries from catalogs without a description are shown in full on the app's page.\n\nDownload pspdx.zip, extract it onto your Memory Stick and launch PSPDX.\n\n"
+    },
+    {
       "tag": "v1.2.3",
       "url": "https://github.com/chriopter/pspdx-app/releases/download/v1.2.3/pspdx.zip",
       "published_at": "2026-10-22",

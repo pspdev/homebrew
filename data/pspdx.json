@@ -8,6 +8,15 @@
   "category": "application",
   "releases": [
     {
+      "tag": "v2.4.0",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v2.4.0/pspdx.zip",
+      "published_at": "2026-11-09",
+      "size": 1964837,
+      "sha256": "74105a50f2476fed711ef73f2dedeea7cd04867644ed683cd542fafd9fc904c8",
+      "eboot_md5": "48a9327c325c454166329616476ea298",
+      "changelog": "PSPDX 2.4 \ud83d\uddc2\ufe0f Find your games faster:\n\n- \ud83d\udd00 **Icons or list**: SELECT switches the store, the UMDs and the launcher between a grid of icons and a list\n- \ud83c\udfad **UMD genres**: browse your discs by genre (Sports, RPG, Racing\u2026), with a pspdx-shelf that knows them\n- \ud83d\udd0d **Search everywhere**: the list view of the UMDs and the launcher starts with Search\n- \ud83d\udcda **Launcher list**: Favorites, PSP Games, PS1 Games and Homebrew as rows you open\n\nDownload `pspdx.zip`, extract it onto your Memory Stick, or update inside PSPDX.\n\n"
+    },
+    {
       "tag": "v2.3.0",
       "url": "https://github.com/chriopter/pspdx-app/releases/download/v2.3.0/pspdx.zip",
       "published_at": "2026-11-08",

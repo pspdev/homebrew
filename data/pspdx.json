@@ -8,6 +8,15 @@
   "category": "application",
   "releases": [
     {
+      "tag": "v2.5.0",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v2.5.0/pspdx.zip",
+      "published_at": "2026-11-12",
+      "size": 1967484,
+      "sha256": "daf0790342f2e1a2f838723bf9b5eb667141c313673892a4727870c3b861f7c0",
+      "eboot_md5": "dfc1ca9dcbd2644fb89a72eaffcb4fa7",
+      "changelog": "PSPDX 2.5 \ud83d\udcf6 Never lose the connection without knowing:\n\n- \ud83c\udf10 **Reconnect first**: when Wi-Fi drops (standby, out of range), the store and the UMDs start with a Reconnect tile, in the list and in the icons alike\n- \ud83d\udca4 **After standby**: PSPDX notices at once that the radio went down, instead of fetches that quietly fail\n- \ud83d\udd04 **Auto Connect rejoins**: with Auto Connect on, the connection comes back by itself in the background, no dialog; the globe breathes while it joins\n- \u23f8\ufe0f **Downloads wait**: a download that broke off holds on until the connection is back, then goes on where it stopped\n- \u2728 **Auto Connect offered**: after your first connection through the system's dialog, PSPDX asks once whether to connect by itself from now on\n\nDownload `pspdx.zip`, extract it onto your Memory Stick, or update inside PSPDX.\n\n"
+    },
+    {
       "tag": "v2.4.0",
       "url": "https://github.com/chriopter/pspdx-app/releases/download/v2.4.0/pspdx.zip",
       "published_at": "2026-11-09",

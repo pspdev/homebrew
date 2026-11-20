@@ -8,6 +8,15 @@
   "category": "application",
   "releases": [
     {
+      "tag": "v2.5.1",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v2.5.1/pspdx.zip",
+      "published_at": "2026-11-20",
+      "size": 1967528,
+      "sha256": "65ec1152ac5835fb859347eb7ea6101a02ff736cab43537f4d5d058abba217e4",
+      "eboot_md5": "a2a2130b017eb8626a50a0659de0e88e",
+      "changelog": "PSPDX 2.5.1\n\n- \ud83c\udf9e\ufe0f Smoother scrolling\n- \ud83d\uddbc\ufe0f The selected entry's pictures load first\n- \ud83d\udcf6 Wi-Fi reconnects more reliably\n\nDownload `pspdx.zip`, extract it onto your Memory Stick, or update inside PSPDX.\n"
+    },
+    {
       "tag": "v2.5.0",
       "url": "https://github.com/chriopter/pspdx-app/releases/download/v2.5.0/pspdx.zip",
       "published_at": "2026-11-12",

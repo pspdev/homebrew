@@ -8,6 +8,15 @@
   "category": "application",
   "releases": [
     {
+      "tag": "v2.5.2",
+      "url": "https://github.com/chriopter/pspdx-app/releases/download/v2.5.2/pspdx.zip",
+      "published_at": "2026-11-20",
+      "size": 1968748,
+      "sha256": "d8a02f9d3c8914179b8533897b8e17a73b1946ff29a15266f138658a236eefcf",
+      "eboot_md5": "4d14cd4f367895f64654fb95343f3d7a",
+      "changelog": "PSPDX 2.5.2\n\n- \ud83d\udcbe Gentler on the Memory Stick\n- \ud83c\udf9e\ufe0f Smoother while pictures and films are saved\n- \ud83c\udf19 The PSP no longer falls asleep while PSPDX is open\n\nDownload `pspdx.zip`, extract it onto your Memory Stick, or update inside PSPDX.\n\n"
+    },
+    {
       "tag": "v2.5.1",
       "url": "https://github.com/chriopter/pspdx-app/releases/download/v2.5.1/pspdx.zip",
       "published_at": "2026-11-20",
